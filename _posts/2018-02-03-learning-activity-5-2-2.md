@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-03 15:38:00
 ---
-The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction</em> by Yusuf Cerit.
-
+<p>The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction</em> by Yusuf Cerit.</p>
 <ol>
 <li><em>What sampling strategy was used and was it justified?</em><br />
 <strong>Rating: 1/3<br />
@@ -25,15 +24,10 @@ The article I chose to focus on for this unit is<em> The Effects of Servant Lea
 <strong>Rating: 1/3<br />
 </strong>Cerit (2009) does describe in detail the process of collecting the data so we are left to assume that ethical procedures were used. Since the participants were all adult professionals, we can assume that all of them are capable to ensuring that they were treated ethically and professionally.</li>
 </ol>
-
-<strong>References</strong>
-
-Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.
-
-<strong><a href="https://create.twu.ca/ldrs591-sp18/unit-5-learning-activities/">Original assignment post found here</a>. </strong>
-
+<p><strong>References</strong></p>
+<p>Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.</p>
+<p><strong><a href="https://create.twu.ca/ldrs591-sp18/unit-5-learning-activities/">Original assignment post found here</a>. </strong></p>
 <div id="themify_builder_content-429" data-postid="429" class="themify_builder_content themify_builder_content-429 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

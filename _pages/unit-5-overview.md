@@ -2,14 +2,13 @@
 ID: 1336
 post_title: Unit 5 Overview
 author: Colin Madland
-post_excerpt: ''
+post_excerpt: ""
 layout: page
-permalink: |
+permalink: >
   https://create.twu.ca/ldrs591-sp18/unit-5-overview/
 published: true
-post_date: 2017-11-24T14:49:51.000Z
+post_date: 2017-11-24 14:49:51
 ---
-
 ### Understanding the Methods and Results of Quantitative Research Reports
 
 ### Overview
@@ -26,15 +25,14 @@ In unit 5 we will examine the next major section of a research report: the metho
 
 ### Resources
 
-Plano-Clark, V., & Creswell, J. \(2015\). _Understanding research: A consumer’s guide_ \(2nd ed.\). Boston, MA: Pearson.
+Plano-Clark, V., & Creswell, J. (2015). _Understanding research: A consumer’s guide_ (2nd ed.). Boston, MA: Pearson.
 
 ##### E-Resources: The articles below can be found through the [TWU library](https://www.twu.ca/library).
 
-Cerit, Y. \(2009\).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. _Educational Management Administration and Leadership, 37_\(5\), 600-623.
+Cerit, Y. (2009).  The effects of servant leadership behaviours of school principals on teachers' job satisfaction. _Educational Management Administration and Leadership, 37_(5), 600-623.
 
-Irving, J. A., & Berndt, J. \(2017\). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. _Administrative Sciences, 7_\(10\), 1-20.
+Irving, J. A., & Berndt, J. (2017). Leader purposefulness within servant leadership: Examining the effects of servant leadership, leader follower-focus, leader goal-orientation, and leader purposefulness in a large U.S. healthcare organization. _Administrative Sciences, 7_(10), 1-20.
 
-Jenkins, M., & Stewart, A. C. \(2010\). The importance of a servant leader orientation. _Health Care Management Review, 35_\(1\), 46-54.
+Jenkins, M., & Stewart, A. C. (2010). The importance of a servant leader orientation. _Health Care Management Review, 35_(1), 46-54.
 
-Van Winkle, B., Allen, S., DeVore, D., & Winston, B. \(2014\). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. _Journal of Leadership Education, 13_\(3\), 70-82.
-
+Van Winkle, B., Allen, S., DeVore, D., & Winston, B. (2014). The relationship between the servant leadership behaviors of immediate supervisors and follower's perceptions of being empowered in the context of small business. _Journal of Leadership Education, 13_(3), 70-82.

@@ -9,10 +9,8 @@ permalink: >
 published: true
 post_date: 2018-01-10 23:52:36
 ---
-I chose Donata Christiane Nilsen&#8217;s (2012) article, &#8220;Building &amp; Enhancing Interorganizational Relationship for Disaster Preparedness and Response Capacity: a Study of Community-based Organizations Serving Vulnerable Populations; a Focus on the Homeless.&#8221; The article can be found here: https://escholarship.org/uc/item/5tp4f30n
-
-The following is my assessment of Nilsen&#8217;s (2012) article:
-
+<p>I chose Donata Christiane Nilsen&#8217;s (2012) article, &#8220;Building &amp; Enhancing Interorganizational Relationship for Disaster Preparedness and Response Capacity: a Study of Community-based Organizations Serving Vulnerable Populations; a Focus on the Homeless.&#8221; The article can be found here: https://escholarship.org/uc/item/5tp4f30n</p>
+<p>The following is my assessment of Nilsen&#8217;s (2012) article:</p>
 <ol>
 <li>Authority &#8211; At the time of its writing, the author, Donata Christiane Nilsen, was a Doctor of Public Health candidate in the Graduate Division of the University of California, Berkeley. This study was completed as a dissertation in requirements for her degree and was overseen by a committee of professors from the university. Although her university provides Nilsen a level of authority, a quick Google search reveals little of her credentials, past writing experience, and expertise.</li>
 <li>Currency &#8211; The article was published in 2012, which meets the rule of utilizing current sources that date back no longer than 10 years.</li>
@@ -21,9 +19,6 @@ The following is my assessment of Nilsen&#8217;s (2012) article:
 <li>Publication Type/Process: Though Berkeley University is a reputable university, the article was published by a university press and not a large publisher. Despite that, the source is peer-reviewed.</li>
 <li>Bias and Special Interests: As Nilsen is seeking a Doctoral in Public Health, there may be biases towards the selection of organizations selected to participate in the study and the concluding benefits of interorganizationial relationships with CBOs.</li>
 </ol>
-
-&nbsp;
-
-References
-
-Nilsen, D. C. (2012). Building &amp; Enhancing Interorganizational Relationships for Disaster Preparedness and Response Capacity: a Study of Community-based Organizations Serving Vulnerable Populations: a Focus on the Homeless.
+<p>&nbsp;</p>
+<p>References</p>
+<p>Nilsen, D. C. (2012). Building &amp; Enhancing Interorganizational Relationships for Disaster Preparedness and Response Capacity: a Study of Community-based Organizations Serving Vulnerable Populations: a Focus on the Homeless.</p>

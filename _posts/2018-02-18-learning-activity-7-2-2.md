@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-18 16:59:44
 ---
-The article I chose to focus on for this activity was Melchar and Bosco&#8217;s article <em>Achieving high organization performance through servant leadership</em>.
-
+<p>The article I chose to focus on for this activity was Melchar and Bosco&#8217;s article <em>Achieving high organization performance through servant leadership</em>.</p>
 <ol>
 <li>What was the purpose of the study?<br />
 <strong>Rating: 3/3<br />
@@ -28,15 +27,10 @@ The article I chose to focus on for this activity was Melchar and Bosco&#8217;s 
 <strong>Rating: 3/3</strong><br />
 Yes, the qualitative research portion of the study was important to understand the qualities that were needed to fulfill the requirement of the qualitative research portion (Melchar &amp; Bosco, 2010). The authors needed to address this criteria before moving forward with their empirical data collection and analysis (Melchar &amp; Bosco, 2010).</li>
 </ol>
-
-<strong>References</strong>
-
-Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry, 9</em>(1), 774-88.
-
-<a href="https://create.twu.ca/ldrs591-sp18/unit-7-learning-activities/"><strong>Original post found here. </strong></a>
-
+<p><strong>References</strong></p>
+<p>Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry, 9</em>(1), 774-88.</p>
+<p><a href="https://create.twu.ca/ldrs591-sp18/unit-7-learning-activities/"><strong>Original post found here. </strong></a></p>
 <div id="themify_builder_content-468" data-postid="468" class="themify_builder_content themify_builder_content-468 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

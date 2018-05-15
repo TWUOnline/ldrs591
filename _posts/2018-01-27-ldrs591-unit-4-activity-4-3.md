@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-27 21:29:34
 ---
-Below is an evaluation of Parris and Peachey&#8217;s (2013) study using Plano-Clark and Creswell&#8217;s seven quality literature review criteria with a rating scale of 0-3.
-
+<p>Below is an evaluation of Parris and Peachey&#8217;s (2013) study using Plano-Clark and Creswell&#8217;s seven quality literature review criteria with a rating scale of 0-3.</p>
 <ol>
 <li><strong>The review includes the relevant literature </strong>(3/3) &#8211; Parris &amp; Peachey (2013) includes an extensive reference list that supports their study. The review itself seeks relevant literature to include in its compilation of literature pertaining to research on servant leadership, and I believe the text seeks clear and applicable literature to clarify terms and add to its study.</li>
 <li><strong>The review examines sources that are recent and of high quality </strong>(3/3) &#8211; The majority of literature used is recent &#8211; within the recent 10 years of the article &#8211; but utilizes older literature as well due to the nature of the study that analyzes all possible research in English completed on servant leadership; I believe this is an appropriate use of older texts. As the study only accepted studies &#8220;published in a peer-reviewed journal&#8221; (Parris &amp; Peachey, 2013, p. 381), the literature used are from credible sources.</li>
@@ -20,9 +19,6 @@ Below is an evaluation of Parris and Peachey&#8217;s (2013) study using Plano-Cl
 <li><strong>The study has a strong foundation in the literature </strong>(3/3) &#8211; Because the study&#8217;s problem addresses precedent literature on servant leadership, the study puts great emphasis on the importance of organizing, critiquing, and building knowledge based on these past discussions of servant leadership. The study clearly states the importance of empirical and peer-reviewed literature in its research and for future research on this topic.</li>
 <li><strong>The use of the literature fits the study&#8217;s overall research approach </strong>(3/3) &#8211; Parris &amp; Peachey (2012) rely on previous literature to support their methods. For example, they use a qualitative &#8220;appraisal tool designed by Letts et al. (2007)&#8221; (p. 381) and quantitative &#8220;appraisal tool designed by the Institute of Public Health Sciences&#8221; (p. 381) which were chosen &#8220;to create a three-point scale to reflect the quality of studies&#8221; (p. 143). As exemplified, the literature chosen fits the needs of the study and provides a framework to identify the quality of of the texts it includes in its analysis of empirical studies on servant leadership.</li>
 </ol>
-
-References
-
-Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.
-
-Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
+<p>References</p>
+<p>Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.</p>
+<p>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</p>

@@ -10,19 +10,11 @@ published: true
 post_date: 2018-01-20 18:12:26
 ---
 <h1><strong>Learning activity 3.5- Unit 3</strong></h1>
-
-&nbsp;
-
-&nbsp;
-
-<strong><em>Direct quote less than 40 words</em></strong>:
-
-According to Dirk Van Dierendonck (2011), “Being a servant allows a person to lead; being a leader implies a person to serve” (p.1231).
-
-<em><strong>Direct quote more than 40 words:</strong></em>
-
-Initially, following the sententious/holistic approach, each transcript was read as a whole so that core/essential meaning of respondents’ experiences could be captured. In the second step, researchers followed selective/highlighting approach, through which they identified the sub-themes/categories that contributed to the core theme. (Jit <span style="font-size: 1rem">et al., 2016, p.599). </span>
-
-<b><i>A sentence that refers to an idea (paraphrased):</i></b>
-
-The study used the method of narrative inquiry to discover the deep values of servant leaders and their perspectives to their subordinates in the context of a conflict situation. (Jit et al., 2016, p.597)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><em>Direct quote less than 40 words</em></strong>:</p>
+<p>According to Dirk Van Dierendonck (2011), “Being a servant allows a person to lead; being a leader implies a person to serve” (p.1231).</p>
+<p><em><strong>Direct quote more than 40 words:</strong></em></p>
+<p>Initially, following the sententious/holistic approach, each transcript was read as a whole so that core/essential meaning of respondents’ experiences could be captured. In the second step, researchers followed selective/highlighting approach, through which they identified the sub-themes/categories that contributed to the core theme. (Jit <span style="font-size: 1rem">et al., 2016, p.599). </span></p>
+<p><b><i>A sentence that refers to an idea (paraphrased):</i></b></p>
+<p>The study used the method of narrative inquiry to discover the deep values of servant leaders and their perspectives to their subordinates in the context of a conflict situation. (Jit et al., 2016, p.597)</p>

@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-03 18:37:20
 ---
-l will evaluate E. Russell, Maxfield, and J. Russell&#8217;s (2017) study based on Plano-Clark &amp; Creswell&#8217;s (2015) seven criteria for evaluating the research design of a qualitative research report (p.  301).
-
+<p>l will evaluate E. Russell, Maxfield, and J. Russell&#8217;s (2017) study based on Plano-Clark &amp; Creswell&#8217;s (2015) seven criteria for evaluating the research design of a qualitative research report (p.  301).</p>
 <ol>
 <li><strong>A research design guides the conduct of the qualitative study (3/3) &#8211;  </strong>Russell et al. (2017) use the qualitative grounded theory &#8220;to discover how senior level leaders perceive personal benefits derived from serving the needs of their followers&#8221; (p. 75); this study researched the action of perceiving personal benefits through online questionnaires that questioned 14 senior level leaders. As the grounded theory approach seeks to explain &#8220;a process, action, or interaction [&#8230;.] built from the experiences and perspectives of participants,&#8221; Russell et al. (2017) seems knowledgeable about the design and use accurate terms to describe the grounded theory process.</li>
 <li><strong>The choice of the research design is appropriate  and justified (3/3) &#8211; </strong>Russell et al. (2017) justify their choice of using the qualitative grounded theory by stating: &#8220;The design allows for an analysis of data using a constant <a href="http://polisci.berkeley.edu/sites/default/files/people/u3827/APSA-TheComparativeMethod.pdf">comparative method</a>&#8221; (p. 84). Beyond this reasoning, the nature of the study that considers the experience of its participants&#8217; interpretation of their personal benefits derived from serving followers requires personal assessments of leaders &#8220;who have experienced the process&#8221; (Plano-Clark &amp; Creswell, 2015, p. 298) that the grounded theory offers.</li>
@@ -20,17 +19,14 @@ l will evaluate E. Russell, Maxfield, and J. Russell&#8217;s (2017) study based 
 <li><strong>The study used a rigorous research design (3/3) &#8211; </strong>The study&#8217;s process and analysis fit together logically and coherently. The article begins with a clear framework of the characteristics of servant leadership, and explore its research question thoroughly.</li>
 <li><strong>The use of the qualitative research design addressed the study&#8217;s purpose (3/3) &#8211; </strong>The research design fits the study&#8217;s intent and answers the study&#8217;s intent of understanding how senior leadership perceives personal benefits of serving their followers; &#8220;leaders realize personal benefits from serving the needs of followers&#8221; (Russel et al., 2015, p. 92).</li>
 </ol>
-
-References
-
-Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
-
+<p>References</p>
+<p>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</p>
 <div id="body" class="clearfix">
 <div id="layout" class="pagewidth clearfix">
 <div id="content" class="clearfix">
 <div id="page-1342" class="type-page">
 <div class="page-content entry-content">
-Russell, E. J., Maxfield, R. J., &amp; Russell, J. L. (2017). Discovering the self-interest of servant leadership: A grounded theory. <em>Servant Leadership: Theory and Practice, 4</em>(1), 75-97. Retrieved from <a href="http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf">http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf</a>
+<p>Russell, E. J., Maxfield, R. J., &amp; Russell, J. L. (2017). Discovering the self-interest of servant leadership: A grounded theory. <em>Servant Leadership: Theory and Practice, 4</em>(1), 75-97. Retrieved from <a href="http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf">http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf</a></p>
 </div>
 </div>
 </div>

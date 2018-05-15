@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-08 20:51:20
 ---
-&nbsp;
-
+<p>&nbsp;</p>
 <ul>
 <li style="font-weight: 400"><span style="font-weight: 400">What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.</span>
 <ul>

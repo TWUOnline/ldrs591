@@ -1,9 +1,8 @@
 ---
 ID: 2336
 post_title: Hello world!
-author: olipar7
-post_excerpt: |
-  Welcome to TWU Digital Learning Commons. This is your first post. Edit or delete it, then start blogging!
+author: Oliver Parsons
+post_excerpt: ""
 layout: post
 permalink: >
   https://create.twu.ca/oplearning/2017/12/31/hello-world/

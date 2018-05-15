@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-10 12:23:18
 ---
-For this activity, I chose to focus on Carter and Baghurst’s (2014) article <em>The Influence of Servant Leadership on Restaurant Employee Engagement</em>.
-
+<p>For this activity, I chose to focus on Carter and Baghurst’s (2014) article <em>The Influence of Servant Leadership on Restaurant Employee Engagement</em>.</p>
 <ol>
 <li><em>What sampling strategy is used and is it appropriate and justified?</em><br />
 <strong>Rating: 3/3<br />
@@ -25,15 +24,10 @@ Yes, the researcher discussed in detail how they aimed to collect the data as ac
 <strong>Rating: 3/3</strong><br />
 Yes, the authors assured participants that their responses would be kept confidential and a facilitator who was not connected to the restaurant was used for all interviews (Carter &amp; Baghurst, 2014, p. 455). Restaurant management gave permission for the data to be collected and participants were paid for their time during the interviews as part of their work day (Carter &amp; Baghurst, 2014, p. 455).</li>
 </ol>
-
-<strong>References</strong>
-
-Carter, D., &amp; Baghurst, T. (2014). The Influence of Servant Leadership on Restaurant Employee Engagement. <i>Journal Of Business Ethics</i>, <i>124</i>(3), 453-464. doi:10.1007/s10551-013-1882-0
-
-<a href="https://create.twu.ca/ldrs591-sp18/unit-6-learning-activities/">Original assignment post found here.</a>
-
+<p><strong>References</strong></p>
+<p>Carter, D., &amp; Baghurst, T. (2014). The Influence of Servant Leadership on Restaurant Employee Engagement. <i>Journal Of Business Ethics</i>, <i>124</i>(3), 453-464. doi:10.1007/s10551-013-1882-0</p>
+<p><a href="https://create.twu.ca/ldrs591-sp18/unit-6-learning-activities/">Original assignment post found here.</a></p>
 <div id="themify_builder_content-450" data-postid="450" class="themify_builder_content themify_builder_content-450 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

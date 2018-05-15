@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-12 23:21:54
 ---
-The E-Book I chose is <em>Strategies for Improving Homeless People&#8217;s Access to Mainstream Benefits and Services</em> by Martha Burt, Jenneth Carpenter, Samuel Hall, Kathryn Henderson, Debra Rog, John Hornik, Ann Denton, and Garrett Moran.<em> </em>The E-book link is here: <a href="http://purl.access.gpo.gov/GPO/LPS124562">http://purl.access.gpo.gov/GPO/LPS124562</a>
-
+<p>The E-Book I chose is <em>Strategies for Improving Homeless People&#8217;s Access to Mainstream Benefits and Services</em> by Martha Burt, Jenneth Carpenter, Samuel Hall, Kathryn Henderson, Debra Rog, John Hornik, Ann Denton, and Garrett Moran.<em> </em>The E-book link is here: <a href="http://purl.access.gpo.gov/GPO/LPS124562">http://purl.access.gpo.gov/GPO/LPS124562</a></p>
 <ol>
 <li>Authority: The authors of this study come from different research entities:
 <ol>
@@ -24,9 +23,7 @@ The E-Book I chose is <em>Strategies for Improving Homeless People&#8217;s Acces
 <li><span style="font-size: 1rem">Publication type/process: Because this book was written for the U.S. Department of Housing and Urban Development, they are naturally also the publishers. The benefit of having three different research entities collaborate is that peer-review is, excluding biases, inherent prior to publishing. According to Google Scholar, it has been cited by <a href="https://scholar.google.ca/scholar?cites=57266566212043047&amp;as_sdt=2005&amp;sciodt=0,5&amp;hl=en">sixteen other research bodies related to homelessness and social services.</a></span></li>
 <li><span style="font-size: 1rem">Biases: The authors do not reveal obvious biases in the research; the institutions they represent predominantly claim to be non-partisan. However, due to the nature of research funding, I speculate the examples chosen in the book may lean towards larger &#8220;success stories.&#8221; In order for these think-tanks to win future contracts, especially with a source of funding as big as the U.S. government, there is likely pressure to find data that can grab headlines and is immediately actionable &#8211; lest the government bring their funding to someone else who can help garner more attention.</span></li>
 </ol>
-
-References:
-
+<p>References:</p>
 <div class="row bibliography-item-info">
 <div>
 <div class="row bibliography-item-info">
@@ -37,7 +34,5 @@ References:
 <div id="copy-target-604051418" class="bibliography-item-copy-text content col-md-12">Advocates for Human Potential. (n.d.). Retrieved January 11, 2018, from http://www.ahpnet.com/About</div>
 <div></div>
 </div>
-
-Who We Are. (2017, November 01). Retrieved January 11, 2018, from https://www.urban.org/aboutus/who-we-are
-
-&nbsp;
+<p>Who We Are. (2017, November 01). Retrieved January 11, 2018, from https://www.urban.org/aboutus/who-we-are</p>
+<p>&nbsp;</p>
