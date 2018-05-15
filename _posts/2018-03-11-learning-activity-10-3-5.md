@@ -12,9 +12,7 @@ post_date: 2018-03-11 22:21:45
 <ul>
 <li style="font-weight: 400"></li>
 </ul>
-
-<a href="https://create.twu.ca/ldrs591-sp18/#Unit_10"><span style="font-weight: 400">https://create.twu.ca/ldrs591-sp18/#Unit_10</span></a>
-
+<p><a href="https://create.twu.ca/ldrs591-sp18/#Unit_10"><span style="font-weight: 400">https://create.twu.ca/ldrs591-sp18/#Unit_10</span></a></p>
 <ul>
 <li style="font-weight: 400"><span style="font-weight: 400">How can I know that I can trust what I am reading?</span>
 <ul>
@@ -42,7 +40,5 @@ post_date: 2018-03-11 22:21:45
 </ul>
 </li>
 </ul>
-
-<span style="font-weight: 400">References</span>
-
-<span style="font-weight: 400">Plano-Clark, V., &amp; Creswell, J. (2015). </span><i><span style="font-weight: 400">Understanding research: A consumer’s guide</span></i><span style="font-weight: 400"> (2nd ed.). Boston, MA: Pearson.</span>
+<p><span style="font-weight: 400">References</span></p>
+<p><span style="font-weight: 400">Plano-Clark, V., &amp; Creswell, J. (2015). </span><i><span style="font-weight: 400">Understanding research: A consumer’s guide</span></i><span style="font-weight: 400"> (2nd ed.). Boston, MA: Pearson.</span></p>

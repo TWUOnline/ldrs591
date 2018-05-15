@@ -1,7 +1,7 @@
 ---
 ID: 2525
 post_title: Learning Activity 1.2
-author: olipar7
+author: Oliver Parsons
 post_excerpt: 'Many factors influence my decision-making process as a leader. I often think of how a decision will impact people and what people will then think of me as a leader. This is something I am learning to balance, as I... <a href="https://create.twu.ca/oplearning/2018/01/06/learning-activity-1-2/"> Continue Reading &rarr;</a>'
 layout: post
 permalink: >

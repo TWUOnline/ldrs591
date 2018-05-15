@@ -1,7 +1,7 @@
 ---
 ID: 2513
 post_title: Learning Activity 1.1
-author: olipar7
+author: Oliver Parsons
 post_excerpt: 'Most of the research I have done was part of my undergrad in biblical studies. A number of assignments required me to comprehend and compare different perspectives related to a biblical text. Likewise, part of understanding the Bible is understanding... <a href="https://create.twu.ca/oplearning/2018/01/06/learning-activity-1-1/"> Continue Reading &rarr;</a>'
 layout: post
 permalink: >

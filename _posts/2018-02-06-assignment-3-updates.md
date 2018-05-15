@@ -9,10 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-06 14:27:50
 ---
-Hi Everyone,
-
-I just wanted to remind you that Assignment #3 (Literature Review Search) is coming up and due on Feb 12th.  I answered quite a few questions from my face to face class in Langley about this assignment, so I wanted to give you some suggestions before you start the assignment.  So here we go:
-
+<p>Hi Everyone,</p>
+<p>I just wanted to remind you that Assignment #3 (Literature Review Search) is coming up and due on Feb 12th.  I answered quite a few questions from my face to face class in Langley about this assignment, so I wanted to give you some suggestions before you start the assignment.  So here we go:</p>
 <ol>
 <li>On average, it will take you 8-9 hours to complete the assignment.</li>
 <li>Use the research question that you created for assignment #1 to guide your search for assignment #3.</li>
@@ -29,13 +27,9 @@ I just wanted to remind you that Assignment #3 (Literature Review Search) is com
 </ol>
 </li>
 </ol>
-
-If you have any other questions, do not hesitate to contact me.
-
-Dr. Strong
-
+<p>If you have any other questions, do not hesitate to contact me.</p>
+<p>Dr. Strong</p>
 <div id="themify_builder_content-105" data-postid="105" class="themify_builder_content themify_builder_content-105 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

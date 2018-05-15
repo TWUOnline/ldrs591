@@ -13,6 +13,5 @@ permalink: >
 published: true
 post_date: 2018-02-22 21:57:36
 ---
-<iframe width="676" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F403900260&%23038;show_artwork=true&%23038;maxwidth=676&%23038;maxheight=1000&%23038;dnt=1"></iframe>
-
-Link to assignment: https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/
+<p><iframe width="676" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F403900260&%23038;show_artwork=true&%23038;maxwidth=676&%23038;maxheight=1000&%23038;dnt=1"></iframe></p>
+<p>Link to assignment: https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/</p>

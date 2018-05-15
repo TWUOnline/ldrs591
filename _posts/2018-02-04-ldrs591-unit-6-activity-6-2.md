@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-04 22:24:49
 ---
-Plano-Clark &amp; Creswell&#8217;s (2015) evaluation of participants and data collection in a qualitative research report is implemented on E. Russell, Maxfield, &amp; J. Russell&#8217;s (2017) study below:
-
+<p>Plano-Clark &amp; Creswell&#8217;s (2015) evaluation of participants and data collection in a qualitative research report is implemented on E. Russell, Maxfield, &amp; J. Russell&#8217;s (2017) study below:</p>
 <ol>
 <li><strong>The sampling strategy is appropriate and justified (2/3) &#8211; </strong>Russell et al. (2017) select a variety of leaders from &#8220;organizations headquartered in the Western United States&#8221; (p.  84) which provide perspectives from numerous for-profit sectors such as education, legal services, and finance. This proposes a well selected variety of participants. While the sampling strategy that used questionnaires was purposeful, interviews could have better served the purpose of the study; the researchers also acknowledge this by recommending the use of interviews for future studies.</li>
 <li><strong>The sample size is appropriate and justified (1/3) &#8211; </strong>Plano-Clark &amp; Creswell (2015) state a grounded theory study should include 20 to 30 individuals (p. 336), but Russell et al. (2017) only use 14 senior level leaders for their study. Russell et al. (2017) acknowledge this is a limitation, but state,&#8221;Researchers relied on data saturation to determine the study&#8217;s sample size&#8221; (p. 85).</li>
@@ -20,17 +19,14 @@ Plano-Clark &amp; Creswell&#8217;s (2015) evaluation of participants and data co
 <li><strong>The selected participants are information rich (3/3) &#8211; </strong>As Table 2 (Russell et al., 2017, p. 85) indicate, the sampling was well rounded in age and gender from a variety of sectors in senior level leadership. The participants are a clear fit for the study.</li>
 <li><strong>The database provides extensive and credible information about the central phenomenon (2/3) &#8211; </strong>Russell et al. (2017) provide great examples of their data that include open-ended questions and answers that relate to the central research question collected via different questionnaires. It is unknown of how long the overall process took and I believe further details of the information gathered could have been provided.</li>
 </ol>
-
-References
-
-Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
-
+<p>References</p>
+<p>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</p>
 <div id="body" class="clearfix">
 <div id="layout" class="pagewidth clearfix">
 <div id="content" class="clearfix">
 <div id="page-1342" class="type-page">
 <div class="page-content entry-content">
-Russell, E. J., Maxfield, R. J., &amp; Russell, J. L. (2017). Discovering the self-interest of servant leadership: A grounded theory. <em>Servant Leadership: Theory and Practice, 4</em>(1), 75-97. Retrieved from <a href="http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf">http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf</a>
+<p>Russell, E. J., Maxfield, R. J., &amp; Russell, J. L. (2017). Discovering the self-interest of servant leadership: A grounded theory. <em>Servant Leadership: Theory and Practice, 4</em>(1), 75-97. Retrieved from <a href="http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf">http://www.sltpjournal.org/uploads/2/6/3/9/26394582/06russell_vol_4_issue_1.pdf</a></p>
 </div>
 </div>
 </div>

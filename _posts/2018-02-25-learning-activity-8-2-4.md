@@ -12,8 +12,6 @@ permalink: >
 published: true
 post_date: 2018-02-25 21:34:37
 ---
-Hopefully this works.
-
-<iframe width="525" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F405285846&%23038;show_artwork=true&%23038;maxwidth=525&%23038;maxheight=788&%23038;dnt=1"></iframe>
-
-Looks like it might just work!
+<p>Hopefully this works.</p>
+<p><iframe width="525" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F405285846&%23038;show_artwork=true&%23038;maxwidth=525&%23038;maxheight=788&%23038;dnt=1"></iframe></p>
+<p>Looks like it might just work!</p>

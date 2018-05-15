@@ -2,8 +2,7 @@
 ID: 2443
 post_title: Hello world!
 author: Wafa Siyam
-post_excerpt: |
-  Welcome to TWU Digital Learning Commons. This is your first post. Edit or delete it, then start blogging!
+post_excerpt: ""
 layout: post
 permalink: >
   https://create.twu.ca/twuwafasiyam/hello-world/

@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-28 21:04:14
 ---
-For this learning activity, I decided to change articles and focus on Parris and Peachy&#8217;s (2013) article <em>A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. </em>I decided to focus on a different article than the one I chose for learning activities 4.2 and 4.3 because Sendjaya and Sarro&#8217;s article was not a empirical study on this topic.
-
+<p>For this learning activity, I decided to change articles and focus on Parris and Peachy&#8217;s (2013) article <em>A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. </em>I decided to focus on a different article than the one I chose for learning activities 4.2 and 4.3 because Sendjaya and Sarro&#8217;s article was not a empirical study on this topic.</p>
 <ol>
 <li><em>Is the study’s purpose clearly specified?<br />
 </em><strong>Rating: 2/3<br />
@@ -34,17 +33,11 @@ For this learning activity, I decided to change articles and focus on Parris and
 <strong>Rating: 3/3<br />
 </strong>Yes, the authors use systematic literature review to collect empirical data for a topic that currently has a lack of empirical research (Parris &amp; Peachy, 2013). Parris and Peachy (2013) discuss previous knowledge on the topic and identify open and open-ended questions for research.</em></li>
 </ol>
-
-<strong>References</strong>
-
-Parris, D.L. &amp; Peachy, J.W. (2013). A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. <i>Journal Of Business Ethics</i>, (3), 377. doi:10.1007/s10551-012-1322-6
-
-Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.
-
-<strong>Original assignment post found <a href="https://create.twu.ca/ldrs591-sp18/unit-4-learning-activities/">here</a>. </strong>
-
+<p><strong>References</strong></p>
+<p>Parris, D.L. &amp; Peachy, J.W. (2013). A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. <i>Journal Of Business Ethics</i>, (3), 377. doi:10.1007/s10551-012-1322-6</p>
+<p>Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.</p>
+<p><strong>Original assignment post found <a href="https://create.twu.ca/ldrs591-sp18/unit-4-learning-activities/">here</a>. </strong></p>
 <div id="themify_builder_content-415" data-postid="415" class="themify_builder_content themify_builder_content-415 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

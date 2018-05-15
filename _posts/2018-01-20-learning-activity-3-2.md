@@ -10,10 +10,8 @@ permalink: >
 published: true
 post_date: 2018-01-20 11:36:12
 ---
-Here is a PDF of my summary of my article after reformatting and editing: <a href="http://create.twu.ca/ruthleong/files/2018/01/Learning-Activity-3.2.pdf">Learning Activity 3.2</a>
-
+<p>Here is a PDF of my summary of my article after reformatting and editing: <a href="http://create.twu.ca/ruthleong/files/2018/01/Learning-Activity-3.2.pdf">Learning Activity 3.2</a></p>
 <div id="themify_builder_content-373" data-postid="373" class="themify_builder_content themify_builder_content-373 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

@@ -10,4 +10,4 @@ permalink: >
 published: true
 post_date: 2018-01-20 18:23:56
 ---
-Please find my activity 3.4 assignment by clicking here: <a href="http://create.twu.ca/soleona/files/2018/01/LDRS-591-Unit-3-Activity-3.4.pdf">LDRS 591, Unit 3, Activity 3.4</a>
+<p>Please find my activity 3.4 assignment by clicking here: <a href="http://create.twu.ca/soleona/files/2018/01/LDRS-591-Unit-3-Activity-3.4.pdf">LDRS 591, Unit 3, Activity 3.4</a></p>

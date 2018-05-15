@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-01-27 23:23:27
 ---
-Parris and Peachey&#8217;s (2013) study is a qualitative research report as it focuses on &#8220;a single phenomenon that is central to their inquiry&#8221; (Plano-Clark &amp; Creswell, 2015, p. 178): The definitions and empirical investigations precedent studies created of servant leadership. Here is an evaluation of Parris &amp; Peachey&#8217;s (2013) research purpose based on Plano-Clark &amp; Creswell&#8217;s (2015) seven point criteria:
-
+<p>Parris and Peachey&#8217;s (2013) study is a qualitative research report as it focuses on &#8220;a single phenomenon that is central to their inquiry&#8221; (Plano-Clark &amp; Creswell, 2015, p. 178): The definitions and empirical investigations precedent studies created of servant leadership. Here is an evaluation of Parris &amp; Peachey&#8217;s (2013) research purpose based on Plano-Clark &amp; Creswell&#8217;s (2015) seven point criteria:</p>
 <ol>
 <li><strong>The study&#8217;s purpose is clearly specified </strong>(3/3) &#8211; Parris &amp; Peachey (2013) clearly state &#8220;the purpose of this study was to systematically examine and organize the current body of research literature that either quantitatively or qualitatively explored servant leadership theory&#8221; (p. 378). There is clear phrasing and purpose for their study.</li>
 <li><strong>The focus of the study is appropriate </strong>(3/3) &#8211; The purpose statement above reveals &#8220;a single central phenomenon&#8221; (Plano-Clark &amp; Creswell, 2015, p. 185) that impacts the general discussion of servant leadership as a &#8220;tenable theory&#8221; (Parris &amp; Peachey, 2013, p. 378) despite the limited empirical research currently available.</li>
@@ -19,9 +18,7 @@ Parris and Peachey&#8217;s (2013) study is a qualitative research report as it f
 <li><strong>The purpose is narrowed through appropriate research questions and/or hypotheses </strong>(3/3) &#8211; The purpose of the study is a product of the question: &#8220;If [servant leadership] is a way [of] life &#8211; a philosophy, how can it be empirically tested&#8221; (Parris &amp; Peachey, 2013, p. 378), and uses this initial question to develop its research questions that consider how servant leadership is defined, what contexts servant leadership is empirically investigated, how servant leadership is examined, and what were the results of the examination (p. 378). Parris &amp; Peachey (2013) also indicate an openness to learning from the literature they consider in their study.</li>
 <li><strong>The purpose follows logically from the statement of the problem and literature review </strong>(2/3) &#8211; Parris &amp; Peachey (2013) provide a good framework of their reasoning for conducting the study and use of chosen literature. Their research is evidently built on existing knowledge and addresses a gap in knowledge, but does not aim to close this gap. The study seeks to organize and analyze current literature, but the results emphasize the gap in empirical research about servant leadership instead of closing the gap.</li>
 <li><strong>The purpose is consistent with the study&#8217;s overall approach </strong>(3/3) &#8211; The purpose is consistent in its broad, conceptual framework, and allows findings to emerge with neutral language. The researchers&#8217; also include their &#8220;perceptions and experiences&#8221; (Plano-Clark &amp; Creswells, 2015, p. 185). In Parris &amp; Peachey&#8217;s (2013) of their findings in reference to their research questions. Parris &amp; Peachey (2013) discuss how &#8220;servant leadership is a tenable theory&#8221; (p. 386) affected by cross-cultural factors, and explore lack of consensus in defining servant leadership through their personal experience with their findings.
-<span style="font-size: 1rem">References</span></li>
+<p><span style="font-size: 1rem">References</span></li>
 </ol>
-
-Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.
-
-Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
+<p>Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.</p>
+<p>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</p>

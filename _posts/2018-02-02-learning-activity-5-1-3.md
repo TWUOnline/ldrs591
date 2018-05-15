@@ -9,8 +9,7 @@ permalink: >
 published: true
 post_date: 2018-02-02 20:27:07
 ---
-The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers&#8217; Job Satisfaction</em> by Yusuf Cerit.
-
+<p>The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers&#8217; Job Satisfaction</em> by Yusuf Cerit.</p>
 <ol>
 <li><em>What quantitative research design is used and is it justified?</em><br />
 <strong>Rating: 2/3</strong><br />
@@ -25,15 +24,10 @@ Yes, Yusuf (2009) use a a 5 point scale questionnaire to collect quantitative da
 <strong>Rating: 3/3<br />
 </strong>Yes, Yusuf (2009) was able to find direct correlation between principal behaviours and teacher satisfaction in their positions (p. 613). The results answer the study&#8217;s research question clearly.</li>
 </ol>
-
-<strong>References</strong>
-
-Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers&#8217; Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.
-
-<strong><a href="https://create.twu.ca/ldrs591-sp18/unit-5-learning-activities/">Original assignment post found here</a>. </strong>
-
+<p><strong>References</strong></p>
+<p>Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers&#8217; Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.</p>
+<p><strong><a href="https://create.twu.ca/ldrs591-sp18/unit-5-learning-activities/">Original assignment post found here</a>. </strong></p>
 <div id="themify_builder_content-425" data-postid="425" class="themify_builder_content themify_builder_content-425 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->
