@@ -1,5 +1,5 @@
 ---
-ID: 3405
+ID: 3406
 post_title: Learning Activity 6.2
 author: Ruth Leong
 post_excerpt: 'For this activity, I chose to focus on Carter and Baghurst&rsquo;s (2014) article&nbsp;The Influence of Servant Leadership on Restaurant Employee Engagement. What sampling strategy is used and is it appropriate and justified? Rating: 3/3 Purposeful sampling was used for this study (Carter &amp; Baghurst, 2014). The researchers specifically choose employees from a restaurant where servant [&hellip;]'
