@@ -11,6 +11,12 @@ post_date: 2017-11-24 14:49:50
 ---
 <h2>Unit 1 Assessment</h2>
 <h3>Unit 1 Blog</h3>
+<strong>Expectations for</strong> <strong>Blog posts</strong>
+
+As you work through the material in this course, you will be asked to create blog posts.  Some of the blog posts do not require a discussion or a response, however, some of the blog posts do require you to close with one question that invites further comments and discussion from your colleagues.  Please do your best to complete the blog posts that require a response by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.
+
+<strong>Replying to Colleagues’ Posts</strong>
+<p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum one discussion question during unit 1, 4, 5, 6, 9, and 10. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
 In unit 1, you are asked to write the following blog post:
 
 <strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
