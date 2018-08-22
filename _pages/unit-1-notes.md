@@ -99,3 +99,13 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 &nbsp;
 <h4>Assignment Submission</h4>
 Submit Assignment 1 via the following link <strong><span style="color: #ff0000;">[Kelly insert link]</span></strong>.
+
+&nbsp;
+<h3>Checking Your Learning</h3>
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+<ol>
+ 	<li>Can you evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research?</li>
+ 	<li>Can you appraise the contributions of scholarly inquiry as foundational for evidence-based leadership?</li>
+ 	<li>Can you distinguish between various domains of scholarship (i.e., discovery, integration, application, and teaching)?</li>
+</ol>
+Feel free to review topics more in depth or continue on to the next unit.
