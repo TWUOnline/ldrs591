@@ -46,23 +46,14 @@ The framework of Creation, Fall and Redemption is important because it allows us
 It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around us (i.e., our worldview) influences how we approach all of life, including how we approach research and how we use research to inform our decision-making process.
 
 &nbsp;
-<h3>Learning Activity 1.2 - Blog Post</h3>
-<ul>
- 	<li>Create a new post (250-500 words) where you answer the following questions:
+<h3>Learning Activity 1.2 - Reflection</h3>
+In your reflective learning journal, answer the following questions:
 <ul>
  	<li>What factors do you think shape your decision-making process as a leader?</li>
  	<li>Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
- 	<li>Close with one question that invites further comment and discussion.</li>
 </ul>
-</li>
-</ul>
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>LDRS591</li>
- 	<li>Unit 1</li>
- 	<li>Learning Activity 1.2</li>
-</ul>
+Note that your journal is not graded, but these questions make up Part 2 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.
+
 &nbsp;
 <h3>Leadership and Scholarly Inquiry</h3>
 On what basis are sound decisions made? What evidence do leaders rely upon for best outcomes? The need to evaluate evidence for best practices in leadership decision-making is widely acknowledged. Patton (2001) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” (p. 329).
@@ -92,7 +83,7 @@ Boyer’s typology originally identified as the Scholarship of Teaching has been
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research (scholarship of discovery). Put another way, you will be learning about various research methods (e.g., quantitative research, qualitative research, and mixed methods) so that you can gain proficiency in becoming a critical consumer of research.
 
 &nbsp;
-<h3>Learning Activity 1.3 - Blog Post</h3>
+<h3>Learning Activity 1.3 - Read and Reflect</h3>
 <ul>
  	<li>Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a>.
 <ul>
@@ -103,16 +94,17 @@ This course will provide the background necessary to critique empirical research
 </li>
  	<li>Create a new post (250-500 words) and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership? What is considered as "evidence"? In your own words, why is evidence-based decision-making important? Close with one question that invites further comment and discussion.</li>
 </ul>
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
 <ul>
- 	<li>LDRS591</li>
- 	<li>Unit 1</li>
- 	<li>Learning Activity 1.3</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.</li>
 </ul>
-<h3>Learning Activity 1.4</h3>
-Complete Assignment 1, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a> and submit it via the link at the bottom of the assignment page.
-<h5>References</h5>
+Go to Unit 1 Assessment for more details on your blog, as well as on <strong>Assignment 1</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
+
+&nbsp;
+
+<span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
+
+&nbsp;
+<h3>References</h3>
 Boyer, E. (1997). <em>Scholarship reconsidered: Priorities for the professoriate.</em> San Francisco, CA: Jossey-Bass.
 
 Bosher, R. (2009). Why is the scholarship of teaching and learning such a hard sell? <em>Higher Education Research and Development, 28</em>(1), 1-15.
