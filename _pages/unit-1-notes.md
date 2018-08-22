@@ -47,7 +47,7 @@ In unit 1, you are asked to write the following blog post:
 </ul>
 &nbsp;
 
-If you are uncertain about how to set-up your blog, go to the following link [Kelly to insert link].
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000;"><strong> [Kelly to insert link]</strong></span>.
 
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 1</strong>. This helps to organized the class blogs and interactions.
 <h3></h3>
