@@ -79,7 +79,7 @@ The written portion of your assignment should be 500 words or less.
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Assignment 1</strong>.
 <h5>Sample Map</h5>
 <img class="aligncenter size-full wp-image-2021" src="http://create.twu.ca/ldrs591/files/2017/11/Research-Interest-Concept-Map.png" alt="" width="561" height="571" />
-<h5>Evaluation</h5>
+<h3>Evaluation</h3>
 <ul>
  	<li>Personal and/or professional interests are described. <strong>(4 points)</strong></li>
  	<li>Interests are clearly labelled on a diagram using electronic software. <strong>(6 points)</strong></li>
