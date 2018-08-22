@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
+<h2>Unit 1 Learning Activities</h2>
 <h3>What is inquiry?</h3>
 Inquiry is “the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" (Penner, 2017).
 
