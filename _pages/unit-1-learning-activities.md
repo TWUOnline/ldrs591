@@ -15,25 +15,21 @@ Inquiry is “the process of developing skills to arrive at understandings of a 
 By now you are well aware of the applied nature of the MA in Leadership program. This feature may be an important part of what attracted you to the program! Why then study research methods? Why worry about scholarly inquiry? This course in scholarly inquiry will help you to develop systematic thinking skills applicable in all realms of leadership and everyday life. As Plano-Clark &amp; Creswell (2015) note, research adds to your professional knowledge, informs your position in policy debates, and contributes to the improvement in your practice (pp. 4-5). Moreover, our leadership practice is ideally evidence-based; that is, based on evidence derived from systematic scholarly inquiry.
 
 &nbsp;
-<h3>Learning Activity 1.1 - Blog Post</h3>
+<h3>Learning Activity 1.1 - Read and Reflect</h3>
+<strong><span style="color: #ff0000;">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
+
+According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).
+ 	<li>Start a <em>Reflective Learning Journal</em> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journalling, see here <strong><span style="color: #ff0000;">[Kelly to insert link]</span></strong>.
 <ul>
- 	<li>Create a new post (250-500 words), and explain what your experience is with "research".</li>
+ 	<li>In your reflective learning journal, explain what your experience is with "research".</li>
  	<li>Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
 </ul>
 </li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
 </ul>
-If you are uncertain about how to set-up your blog, use the link at the bottom of this page to access How To information.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>LDRS591</li>
- 	<li>Unit 1</li>
- 	<li>Learning Activity 1.1</li>
-</ul>
+&nbsp;
 <h3>Three Foundational Questions</h3>
 A professor of mine often observed that a fundamental attribute of being human is to ask questions. Humanity is especially interested in three fundamental questions: What is real? What is true? What is good? The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality. The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing. The philosophical category of axiology is concerned with what is good and how we can determine the nature of goodness. Much of history is a chronicle of the different ways people have answered these three fundamental questions. How we answer these questions reveals our perspective, or our worldview.
 
