@@ -97,7 +97,21 @@ This course will provide the background necessary to critique empirical research
 <ul>
  	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.</li>
 </ul>
-Go to Unit 1 Assessment for more details on your blog, as well as on <strong>Assignment 1</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
+&nbsp;
+<h3>Unit 1 Summary</h3>
+Congratulations on finishing the first unit!  As you complete your assignments for this unit, you may encounter some very interesting and insightful questions from your colleagues. One particular question that often appears in students blogs is, "How do you reconcile or resolve conflict with a colleague/client/company that has a different worldview than your own?"  I wanted to briefly address this question in this summary.
+
+First, let me begin by saying that this a deeply complex question, but I do think there are some general ideas that we can use to address this question.
+<ol>
+ 	<li><strong>Understand your own worldview perspective:</strong> I think it is really important to begin with an understanding of your own worldview.  Zigatelli (2003) has stated that "we too often attempt to influence someone's thinking based on the assumption that he/she is persuaded by the same things that persuade us" (p.4).  In order to understand your own worldview you need to become aware of it. In order to become aware of it, you have to reflect deeply on a few key questions. Here is one article that I came across by James Sire (2014) that I would recommend you read if you are interested in digging into the worldview questions a little deeper  <a href="https://www.christianity.com/theology/other-religions-beliefs/8-questions-every-worldview-must-answer.html">https://www.christianity.com/theology/other-religions-beliefs/8-questions-every-worldview-must-answer.html</a> Dr. Sire even has a book if you are really, really, really interested in deep diving into worldview, it is called The Universe Next Door and can be found here <a href="https://www.ivpress.com/the-universe-next-door">https://www.ivpress.com/the-universe-next-door</a>.</li>
+ 	<li><strong>Seek first to understand, then be understood:</strong> Once you have a good understanding of your own worldview perspective, then it is important to practice the principal of "seek first to understand, and then be understood" (Covey, 2004).  Here is a short summary of this principal from Steven Covey's website <a href="https://www.stephencovey.com/7habits/7habits-habit5.php">https://www.stephencovey.com/7habits/7habits-habit5.php </a>The general idea is that if you understand the perspective of your colleague/client/company you will be in a better position to build trust with your colleague/client/company and share from your own perspective.</li>
+ 	<li><strong>Practice servant leadership:</strong> Once you seek to understand others it is also impotant to consider the practices of a servant leader.  According to Greenleaf (1977) servant leaders actively understand and behave in such as way that places the good of the follower over their own self-interest.  Spears (1995) has distinguished 10 key characteristics of a servant leader and they are: listening, empathy, healing, awareness, persuasion, conceptualization, foresight, commitment to growth of people, stewardship and building community.  Given the importance of these characteristics, Jit, Sharma, &amp; Kawarta (2016) conducted a study examining the conflict management strategies utilized by servant leaders.  What the authors found was that servant leaders resolve conflict by primarily diagnosing the conflict situation through "actively listening, discussing and understanding the situation" (p. 600).  In the case of conflicts between colleagues, the servant leader may play a role by "facilitating an amicable solution by guiding and counselling the parties in conflict" (p. 602), but they must remain "impartial and objective" (p. 603). In the case of conflicts between a supervisor and an employee, the servant leader again used the strategy of "active listening, discussing and understanding" but this time with added "self-restraint, patience, tolerance and composure" (p. 604).   For a more cogent discussion of how the themes from this study connect to servant leadership please read the full article found here <a href="http://www.emeraldinsight.com/doi/full/10.1108/IJCMA-12-2015-0086">http://www.emeraldinsight.com/doi/full/10.1108/IJCMA-12-2015-0086</a></li>
+</ol>
+To summarize, it is important to understand your own worldview perspective and the perspective of others before you enter into a reconciliation process.  This understanding will help prepare you for the similarities and differences that both parties may bring to the table.  After you have a good handle on both perspectives, then it is important to act in such a way that you are putting the good of the other person ahead of your own self by actively listening to them, discussing different points of view and coming to an understanding of the situation.  This is not an easy task to accomplish, but it is one that I believe servant leaders are called to be a part of.
+
+&nbsp;
+<h3>Assessment</h3>
+Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 1</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
 
 &nbsp;
 
@@ -109,9 +123,15 @@ Boyer, E. (1997). <em>Scholarship reconsidered: Priorities for the professoriate
 
 Bosher, R. (2009). Why is the scholarship of teaching and learning such a hard sell? <em>Higher Education Research and Development, 28</em>(1), 1-15.
 
+Covey, S. (2004). <em>The seven habits of highly effective people: Powerful lessons in personal change</em>. New York, NY: Free Press.
+
 Geisler, N., &amp; Watkins, W. D. (2003). <em>Worlds apart: A handbook on world views</em> (2nd ed.). Eugene, OR: Wipf and Stock.
 
 Gill, J., &amp; Johnson, P. (2002). <em>Research methods for managers</em> (3rd ed.). Thousand Oaks, CA: Sage.
+
+Greenleaf, R. K. (1977). <em>Servant leadership: A journey into the nature of legitimate power and greatness</em>. New York, NY: Paulist Press.
+
+Jit, R., Sharma, C. S., &amp; Kawatra, M. (2016). Servant leadership and conflict resolution: a qualitative study. <em>International Journal of Conflict Management, 27</em>(4), 591-612.
 
 Jacobsen, D., &amp; Jacobsen, R. (2004). <em>Scholarship and christian faith: Enlarging the conversation</em>. Oxford, UK: Oxford University Press.
 
@@ -122,3 +142,9 @@ Patton, M. (2001). <em>Qualitative research and evaluation methods.</em> Thousan
 Penner, D. (2017). <em>INQUIRY 1SS3: Inquiry in the social sciences [Syllabus].</em> Hamilton, ON: McMaster University. Retrieved from <a href="https://socialsciences.mcmaster.ca/courses/inquiry-in-the-social-sciences/david-penner-c08-winter-2017">https://socialsciences.mcmaster.ca/courses/inquiry-in-the-social-sciences/david-penner-c08-winter-2017</a>
 
 Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
+
+Sire, J. (2014, February 14). Eight questions every worldview must answer. Retrieved from https://www.christianity.com/theology/other-religions-beliefs/8-questions-every-worldview-must-answer.html
+
+Spears, L. C. (1995). <em>Reflections on leadership: How Robert K. Greenleaf's theory of servant leadership influenced today's top management thinkers.</em> New York, NY: John Wiley.
+
+Zigarelli, M. (2003). Worldview at work: Understanding how your co-workers think, what persuades them, and what does not. Retrieved from http://www.christianity9to5.org/worldview-at-work/
