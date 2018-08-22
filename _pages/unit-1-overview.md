@@ -25,7 +25,7 @@ When you have completed this unit you should be able to:
  	<li>Distinguish between various domains of scholarship (i.e., discovery, integration, application, and teaching).</li>
 </ol>
 &nbsp;
-<h2>Activity Checklist</h2>
+<h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 1.1: Answer questions in your reflective learning journal...</p>
 <p style="padding-left: 30px;">Activity 1.2: Read Chapter 1 of...</p>
@@ -46,6 +46,10 @@ Here are the resources you will need to complete the unit:
 </ul>
 </li>
 </ul>
-<a style="background-color: black; color: white; text-decoration: none; padding: 4px 6px; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto, 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: bold; line-height: 1.2;" title="Download free do whatever you want high-resolution photos from Helloquence" href="https://unsplash.com/@helloquence?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer"><span style="padding: 2px 3px;">Header Photo Credit: Helloquence</span></a>
+&nbsp;
 
-Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
+Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
+
+&nbsp;
+
+<a style="background-color: black; color: white; text-decoration: none; padding: 4px 6px; font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto, 'Segoe UI', Arial, sans-serif; font-size: 12px; font-weight: bold; line-height: 1.2;" title="Download free do whatever you want high-resolution photos from Helloquence" href="https://unsplash.com/@helloquence?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer"><span style="padding: 2px 3px;">Header Photo Credit: Helloquence</span></a>
