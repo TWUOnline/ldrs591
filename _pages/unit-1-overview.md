@@ -9,16 +9,17 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h3>Unit 1 Overview</h3>
+<h3>Unit 1: <span style="color: #ff0000;">[Heather, which is the unit title?]</span></h3>
+<h3>Overview</h3>
 Unit 1 will provide you with a general introduction to inquiry, familiarizing you with foundational concepts related to scholarly inquiry. In particular, this unit will focus on the philosophical foundations of research, the connection between leadership and scholarly inquiry, and what evidence-based leadership looks like. By the end of the unit, you will understand the importance of Boyer's Model of Scholarship and begin to evaluate the decision-making processes that you utilize in your professional life.
 <h3>Topics</h3>
 Unit 1 is divided into 3 topics:
-<p style="padding-left: 30px;">Topic 1:</p>
+<p style="padding-left: 30px;">Topic 1: <span style="color: #ff0000;"><strong>[insert titles]</strong></span></p>
 <p style="padding-left: 30px;">Topic 2:</p>
 <p style="padding-left: 30px;">Topic 3:</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
-When you have completed this unit you should be able to:
+When you have completed this unit you should be able to:<span style="color: #ff0000;"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research.</li>
  	<li>Appraise the contributions of scholarly inquiry as foundational for evidence-based leadership.</li>
@@ -27,7 +28,7 @@ When you have completed this unit you should be able to:
 &nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px;">Activity 1.1: Answer questions in your reflective learning journal...</p>
+<p style="padding-left: 30px;">Activity 1.1: Answer questions in your reflective learning journal...<strong><span style="color: #ff0000;">[Kelly to insert activity info later]</span></strong></p>
 <p style="padding-left: 30px;">Activity 1.2: Read Chapter 1 of...</p>
 <p style="padding-left: 30px;">Activity 1.3: ...</p>
 <p style="padding-left: 30px;">Activity 1.4: ...</p>
