@@ -14,6 +14,8 @@ post_date: 2017-11-24 14:49:50
 Welcome to Week 2! This week you will be exploring the topic "Accessing and Evaluating Scholarly Literature".  This unit will help you gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests.  In this unit you will also gain first-hand experience in locating and organizing and evaluating relevant scholarly literature.
 
 The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access scholarly literature.  There are also three blog posts this week and those are focused on evaluating sources.
+
+<strong><span style="color: #ff0000;">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow]</span></strong>
 <h3>The Research Process</h3>
 Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 <ol>
@@ -133,21 +135,62 @@ When doing a review of literature, it may be difficult to determine how much lit
  	<li>Consider what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
 &nbsp;
+<h3>Narrowing your Research Topic</h3>
+As you've worked your way through some of the learning activities this week, you may have realized that your topic is too broad or too specific and you are not getting the results you are looking for.  In this last section, I want to help you figure out how you can narrow down your research topic into something that will be manageable to write about.
+
+I want to begin by telling you a little about my own research journey and then I will give you some practical tips to help you on your way.  In my undergraduate degree I studied two majors: psychology (the study of the mind) and kinesiology (the study of the body and movement).  In the final year of my undergrad I took the most fascinating course called the Psychology of Health and Well-being.  I was very interested in the topics that we studied in this course because it was the perfect pairing of my two chosen majors - the mind and the body.  One particular topic captured my attention and I was unable to let go of my interest in it.  The topic was female athletes and eating disorders.  This topic interested me for many reasons, but I was particularly interested in the impact that disordered eating (both physically and psychologically) had on the performance of females athletes.  At the end of my four year degree, I decided my education needed to continue into graduate work so that I could continue exploring my interest in this topic.
+
+As I entered my Master's my focus was still on the topic of understanding eating disorders, but the population that I was interested in - female athletes with eating disorders - was a difficult and challenging group to study.  So I needed to make some adaptations to the research that I wanted to pursue in order to make my thesis project more manageable.  I will save you all the details of the 2-year journey of learning what works and what doesn't when you are studying a clinical population, but what I ended up with was a very different thesis project then what I had originally intended.
+
+The topic I ended up studying was the differences between women with eating disorders, at-risk for eating disorders, and those not at-risk on a very specific psychological construct which is called self-presentation motivation.  Self-presentation motivation reflects the process that we go through in an attempt to monitor and control the impression we make on others (Schlenker &amp; Leary, 1982).  For example, when we go for a job interview we usually wear nice clothes, get a hair cut, rehearse interview questions because we want to make a good impression on a potential employer.  Now self-presentation motivation in itself is not a single construct that can be empirically measured.  In my study this concept was measured using several different questionnaires and they were a) fear of negative evaluation (when a person is fearful of receiving disapproval and criticism from others; Leary, 1983), b) public self-consciousness (the awareness or sensitivity a person experiences from the opinions of others; Fenigstein, Scheier, &amp; Buss, 1975), c) social physique anxiety (the anxiety experienced when your body is being evaluated by others; Hart, Rejeski, &amp; Leary, 1989), and d) self-presentational efficacy (the probability of conveying a desired impression on others; Leary &amp; Atherton, 1986).  If you are interested in reading more about this study you can find the published article here <a href="http://www.sciencedirect.com/science/article/pii/S1471015306000122">http://www.sciencedirect.com/science/article/pii/S1471015306000122</a>
+<p style="padding-left: 30px;">This is what my research topic started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
+<p style="padding-left: 30px;">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
+Sometimes the topic we start out with is not the one we end up studying.  This was certainly true in my case.
+
+In light of the challenges that you may face as you try to narrow down your research topic into a manageable research question and even further into search terms, I have found a really helpful tool to help you identify your research question.   This tool was originally published in Booth, Colomb, &amp; Williams (2008) and was adapted by <em>The Step-by-Step Guide &amp; Research Rescue: Finding and Narrowing Your Topic</em> (2017). Retrieved from <a href="http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396">http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396</a>
+
+If you can fill out this table, you most likely have a narrow enough topic with enough direction to perform some great research.
+<p style="padding-left: 30px;"><strong>1)  I am researching </strong>______________________________________ (<strong>topic</strong>)</p>
+<p style="padding-left: 30px;"><strong>2)  because I want to find out </strong>______________________________(<strong>issue/question</strong>)</p>
+<p style="padding-left: 30px;"><strong>3)  in order to </strong>________________________________ (<strong>application </strong>- So What? - Project/Audience/Purpose driven)</p>
+Here is my research example using the three step process:
+<p style="padding-left: 30px;">I am researching <b>self-presentation motivation and eating disorders in women</b> (topic)
+because I want to find out <strong>if there is a difference in self-presentation motives among women with an eating disorder, at-risk for an eating disorder, and not at-risk for an eating disorder</strong> (issue/question)
+in order to <strong>enhance our understanding of the eating disordered population as well as provide insight into the self-presentational motives across known groups.  </strong>(application - <em>audience</em>).</p>
+If you need further help with your research question do not hesitate to contact me.  I am here to help!
+<h3>Additional sources for finding scholarly literature:</h3>
+I also wanted to mention two other sources of information that you can use to gather information on your research topic.  The first suggestion is viewing the TED talk videos.  These videos are a great resource to help you become familiar with a researcher and their work on a specific topic.  You can search almost any topic on the TED website, the videos are usually under 20 minutes, and are very good.  You can find TED site here: <a href="https://www.ted.com/">https://www.ted.com</a>
+
+The second resource is using the reference lists at the back of a book or of a journal article on your topic.  These are both great places to find additional sources of information on your topic and also help you become familiar with who is publishing information in your area of interest.
+
+&nbsp;
 <h3>Unit 2 Summary</h3>
 <strong><span style="color: #ff0000;">[Heather, did you want to add 2-3 sentences?  Either to emphasize key points, talk about connections to the course/life, big ideas, or prepare students for the next unit.]</span></strong>
 
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 1</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
-
-&nbsp;
+Go to Unit 2 Assessment for more details on your <strong>Blog </strong>submission<strong>.</strong>
 
 <span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
+Booth, W. C., Colomb, G. G. &amp; Williams, J. M. (2008). <em>The Craft of Research</em>(3rd ed.) Chicago: The University of Chicago Press, p. 51-65
+
 Creswell, J. (2003). <em>Research design: Qualitative, quantitative, and mixed methods approaches </em>(2nd ed.). Thousand Oaks, CA: Sage.
 
 Driscoll, D. L. &amp; Brizee, A. (2017). <em>Evaluating print versus internet sources. </em>Retrieved from <a href="https://owl.english.purdue.edu/owl/resource/553/04/">https://owl.english.purdue.edu/owl/resource/553/04/</a>
 
+Fenigstein, A., Scheier, M. F., &amp; Buss, A. H. (1975). Public and private self-consciousness: Assessment and theory. <em>Journal of Consulting and Clinical Psychology, 43</em>(4), 522-527.
+
+Hart, E. A., Leary, M. R., &amp; Rejeski, W. J. (1989). The measurement of social physique anxiety. <em>Journal of Sport and Exercise Psychology, 11</em>, 94-104.
+
+Leary, M. R. (1983). A brief version of the Fear of Negative Evaluation Scale. <em>Personality and Social Psychology Bulletin, 9</em>, 371-376.
+
+Leary, M. R., &amp; Atherton, S. C. (1986). Self-efficacy, social anxiety, and inhibition in interpersonal encounters. <i>Journal of Social and Clinical Psychology</i>, <i>4</i>(3), 256-267.
+
 Pannucci, C. J. &amp; Wilkins, E. G., (2010). Identifying and avoiding bias in research. <em>Plastic and Reconstructive Surgery, 126</em>(2), 619-625.
 
 Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
+
+Schlenker, B. R., &amp; Leary, M. R. (1982). Social anxiety and self-presentation: A conceptualization model. <em>Psychological Bulletin, 92</em>(3), 641-669.
+
+<em>The Step-by-Step Guide &amp; Research Rescue: Finding and Narrowing Your Topic</em> (2017). Retrieved from <a href="http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396">http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396</a>
