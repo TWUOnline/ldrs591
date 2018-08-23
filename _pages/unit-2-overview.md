@@ -34,7 +34,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 2.3: ...</p>
 <p style="padding-left: 30px">Activity 2.4: ...</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
-<p style="padding-left: 30px"><strong>Assignment 2:</strong> Complete  ...</p>
+<p style="padding-left: 30px"><strong>Assignment 1:</strong> Complete  ...</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
