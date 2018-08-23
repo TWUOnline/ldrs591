@@ -95,9 +95,9 @@ This course will provide the background necessary to critique empirical research
 </li>
  	<li>In this learning activity, you will create a new blog post (250-500 words) where you discuss the following questions:
 <ul>
- 	<li>How did the authors of the articles conceptualize evidence-based leadership?</li>
+ 	<li>How did the authors of the articles conceptualize evidence-based decisions?</li>
  	<li>What is considered as "evidence"?</li>
- 	<li>In your own words, why is evidence-based decision-making important?</li>
+ 	<li>In your own words, why is evidence-based decision-making important in leadership?</li>
  	<li>Close with one question that invites further comment and discussion.</li>
 </ul>
 </li>
