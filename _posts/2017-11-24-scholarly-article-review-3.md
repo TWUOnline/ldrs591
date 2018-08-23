@@ -12,9 +12,9 @@ post_date: 2017-11-24 12:49:50
 <h3>Scholarly Article Review</h3>
 In this assignment, you will write a critique of a journal article using the guideline provided below.
 
-This assignment should be written in APA formatting style. Please use your APA manual for details about structure and content, clear and concise writing, the mechanics of style, and crediting sources.
+This assignment should be written in APA formatting style. Please use your APA manual for details about structure and content, clear and concise writing, crediting sources, and references.
 
-This assignment may be a maximum of 3-4 pages in length. Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
+This assignment may be a maximum of 5-6 pages in length (including the title page and reference page). Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 <h5><strong>STEP 1</strong></h5>
 Select a published, peer-reviewed journal article of your choice from your literature search.
 <h5><strong>STEP 2</strong></h5>
