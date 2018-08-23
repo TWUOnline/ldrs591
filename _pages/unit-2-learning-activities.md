@@ -16,7 +16,7 @@ Welcome to Week 2! This week you will be exploring the topic "Accessing and Eval
 
 The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access and evaluate scholarly literature.
 
-<strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow - yes I have adjusted the flow.  This looks so much better now!]</span></strong>
+<strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow - Yes I have adjusted the flow.  This looks so much better now!]</span></strong>
 <h3>The Research Process</h3>
 Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 <ol>
@@ -129,7 +129,7 @@ If you are having difficulty finding research articles and books on your topic t
 <h3>Learning Activity 2.5: Upgrading Your Research Skills</h3>
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
- 	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find what worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
+ 	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
  	<li>Note that you will be asked some questions related to your research skills as part of your second assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
 <h3>Evaluating Scholarly Sources</h3>
@@ -150,7 +150,8 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
  	<li>In your reflective learning journal, consider answering the following questions:
 <ul>
- 	<li>What sources of information you will use the most to conduct research on your topic?</li>
+ 	<li>Briefly describe how you found your online sources and whether or not you think they will be helpful resources for your topic.</li>
+ 	<li>What sources of information will you use the most to conduct research on your topic?</li>
  	<li>How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
 </li>
@@ -164,6 +165,8 @@ The second resource is using the reference lists at the back of a book or of a j
 &nbsp;
 <h3>Unit 2 Summary</h3>
 <strong><span style="color: #ff0000">[Heather, did you want to add 2-3 sentences?  Either to emphasize key points, talk about connections to the course/life, big ideas, or prepare students for the next unit.]</span></strong>
+
+In this unit you have learned about the research process and what is involved in asking good research questions.  You have learned how to identify different scholarly sources, how to access those sources through the TWU library, and how to keep track of your literature search strategies and results.  In addition, you have learned how to critically evaluate scholarly sources.  The activities in this unit are directly related to your second, third and final assignments in this course.  Coming up next week in Unit 3 you will be discovering how to develop your professional scholarly voice, particularly through your scholarly writing.
 
 &nbsp;
 <h3>Assessment</h3>
