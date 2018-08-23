@@ -24,7 +24,7 @@ According to Plano-Clark and Creswell (2015), "research is a process of steps us
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
  	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journaling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
 <ul>
- 	<li>In your reflective learning journal, explain what your experience is with "research".</li>
+ 	<li>In your reflective learning journal, explain how you would define research and describe what your experience is with "research".</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
@@ -52,7 +52,7 @@ It is beyond the purpose of this course to go deeper into this topic other than 
 In your reflective learning journal, answer the following questions:
 <ul>
  	<li>What factors do you think shape your decision-making process as a leader?</li>
- 	<li>Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
+ 	<li>Do you agree or disagree with the proposition made above that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
 </ul>
 Note that your journal is not graded, but these questions make up Part 2 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.
 
@@ -87,7 +87,7 @@ This course will provide the background necessary to critique empirical research
 &nbsp;
 <h3>Learning Activity 1.4 - Read and Reflect</h3>
 <ul>
- 	<li>Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a>.
+ 	<li>Read the following articles that speak to the importance of evidence-based practices. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a> or through the hyperlink provided.
 <ul>
  	<li>Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? <em>Delta Kappa Gamma Bulletin, 73</em>(4), 5-8.</li>
  	<li>Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b></li>
