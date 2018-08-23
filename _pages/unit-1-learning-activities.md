@@ -22,19 +22,20 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Start a <em>Reflective Learning Journal</em> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journalling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
+ 	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journaling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
 <ul>
  	<li>In your reflective learning journal, explain what your experience is with "research".</li>
- 	<li>Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
 </ul>
-&nbsp;
+<h3></h3>
 <h3>Three Foundational Questions</h3>
 A professor of mine often observed that a fundamental attribute of being human is to ask questions. Humanity is especially interested in three fundamental questions: What is real? What is true? What is good? The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality. The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing. The philosophical category of axiology is concerned with what is good and how we can determine the nature of goodness. Much of history is a chronicle of the different ways people have answered these three fundamental questions. How we answer these questions reveals our perspective, or our worldview.
 
-A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" (Geisler &amp; Watkins, 2003). It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live. It is important to be aware of your worldview before you enter into the research journey because it will inform the types of questions that you ask as well as the processes that you use to find the answers to your questions. As an example, let me explain a Christian worldview and explore how this worldview can be applied to the research journey.
+A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" (Geisler &amp; Watkins, 2003). It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  Here is a short video by the Impact 360 Institute (2014) that explains <a href="https://www.youtube.com/watch?v=VXnSE0uvwzM&amp;sns=em">"What's your worldview?"</a>
+
+It is important to be aware of your worldview before you enter into the research journey because it will inform the types of questions that you ask as well as the processes that you use to find the answers to your questions. As an example, let me explain a Christian worldview and explore how this worldview can be applied to the research journey.
 
 A Christian worldview asserts that God has created the world and everything in it, and that truth is arrived at through a study of God's specific revelation (the Bible) and general revelation (creation). Christians believe not only in studying and understanding truth, but they also believe in a personal God that has revealed Himself through this created world.
 
@@ -65,9 +66,9 @@ Take a moment to think about a recent decision you made as a leader. On what did
 
 Systematic inquiry (as represented by research) is one tool that leaders can use to inform best practices and their decision making process. Systematic inquiry is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry. Consider the following passage from Luke, a physician trained in empirical methods of his day:
 <blockquote>Many have undertaken to draw up an account of the things that have been fulfilled among us, just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught. (Luke 1:1-4, NIV)</blockquote>
-How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community.
-
-The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
+How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community. The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
+<h3>Learning Activity 1.3 - Forum Post</h3>
+In the Unit 1 Discussion Forum, describe  at least one example of a decision you have made as a leader and explain how you made that decision.  Make sure to include the type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).  Your post should be between 250-300 words.  You are also required to read and reply to other learners in the discussion forum. Your replies should offer new substantiated ideas or thoughtful questions.
 <h3>Boyer's Model of Scholarship</h3>
 Scholarship once was defined narrowly in terms of empirical or scientific research. More recently the academic community has moved toward a broader conceptualization of scholarship more in keeping with knowledge acquisition and application through a variety of avenues. Boyer’s Scholarship of <strong>Discovery</strong> is the type of scholarship associated with traditional scholarly research. According to Leedy &amp; Ormrod (2010), “research is a systematic process of collecting, analyzing and interpreting information (data) in order to increase our understanding of a phenomenon about which we are interested or concerned” (p. 2). Boyer’s Scholarship of Discovery is often referred to as primary research. Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand in detail one isolated part of reality. Through this process it is hoped that this understanding can be generalized to some degree to a broader part of reality.
 
@@ -84,16 +85,22 @@ Boyer’s typology originally identified as the Scholarship of Teaching has been
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research (scholarship of discovery). Put another way, you will be learning about various research methods (e.g., quantitative research, qualitative research, and mixed methods) so that you can gain proficiency in becoming a critical consumer of research.
 
 &nbsp;
-<h3>Learning Activity 1.3 - Read and Reflect</h3>
+<h3>Learning Activity 1.4 - Read and Reflect</h3>
 <ul>
  	<li>Read the following articles that speak to the importance of evidence-based leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a>.
 <ul>
- 	<li>Patton, M. (2001). Evaluation, knowledge management, best practices and high quality lessons learned. <em>American Journal of Evaluation, 22</em>(3), 329-336.</li>
  	<li>Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? <em>Delta Kappa Gamma Bulletin, 73</em>(4), 5-8.</li>
- 	<li>Walshe, K. &amp; Rundall, T.G. (2001). Evidence-based management: From theory to practice in health care. <em>The Millbank Quarterly, 79</em>(3), 429-457.</li>
+ 	<li>Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b></li>
 </ul>
 </li>
- 	<li>Create a new post (250-500 words) and discuss the following questions: How did the authors of the articles conceptualize evidence-based leadership? What is considered as "evidence"? In your own words, why is evidence-based decision-making important? Close with one question that invites further comment and discussion.</li>
+ 	<li>In this learning activity, you will create a new blog post (250-500 words) where you discuss the following questions:
+<ul>
+ 	<li>How did the authors of the articles conceptualize evidence-based leadership?</li>
+ 	<li>What is considered as "evidence"?</li>
+ 	<li>In your own words, why is evidence-based decision-making important?</li>
+ 	<li>Close with one question that invites further comment and discussion.</li>
+</ul>
+</li>
 </ul>
 <ul>
  	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.</li>
