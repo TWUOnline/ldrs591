@@ -14,20 +14,19 @@ post_date: 2017-11-24 14:49:50
 In unit 2, we will begin by developing a road map for understanding the research process in general. Then we will spend time focusing on the research questions that drive the research process. You will begin articulating the research interests that you have come across in your professional life. Next, we will focus on gaining familiarity with various genres of scholarly literature, getting a sense of how these genres contribute to your own scholarly endeavours. Through first-hand experience you will begin locating, organizing and evaluating relevant scholarly literature. Two of the major assignments in this course hinge on your ability to conduct a review of precedent literature. Although these assignments are not due until the later in this course, our work in Unit 2 is the foundation for those assignments.
 <h3>Topics</h3>
 Unit 2 is divided into 3 topics:
-<p style="padding-left: 30px">Topic 1: <span style="color: #ff0000"><strong>[insert titles]</strong></span></p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
+<p style="padding-left: 30px">Topic 1: How to ask a good research question.</p>
+<p style="padding-left: 30px">Topic 2: Identify different genres of literature where you can find reports of research studies.</p>
+<p style="padding-left: 30px">Topic 3: Search strategies for locating different genres of scholarly literature.</p>
+<p style="padding-left: 30px">Topic 4: Become familiar with the TWU library and available resources.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Identify a research interest and develop a good research question.</li>
- 	<li>Identify genres of scholarly writing.</li>
  	<li>Appraise the utility of various genres of scholarly writing.</li>
- 	<li>Become familiar with the TWU library and available resources.</li>
- 	<li>Become proficient in using electronic search engines.</li>
+ 	<li>Employ different search strategies to locate different genres of scholarly literature.</li>
+ 	<li>Evaluate the credibility and reliability of sources of scholarly literature.</li>
 </ol>
-&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px">Activity 2.1: Answer questions in your reflective learning journal...<strong><span style="color: #ff0000">[Kelly to insert activity info later]</span></strong></p>
