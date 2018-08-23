@@ -17,12 +17,12 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 
 &nbsp;
 <h3>Learning Activity 1.1 - Read and Reflect</h3>
-<strong><span style="color: #ff0000;">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
+<strong><span style="color: #ff0000">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
 
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Start a <em>Reflective Learning Journal</em> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journalling, see here <strong><span style="color: #ff0000;">[Kelly to insert link]</span></strong>.
+ 	<li>Start a <em>Reflective Learning Journal</em> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journalling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
 <ul>
  	<li>In your reflective learning journal, explain what your experience is with "research".</li>
  	<li>Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
@@ -116,7 +116,7 @@ Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well 
 
 &nbsp;
 
-<span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
+<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
 
 &nbsp;
 <h3>References</h3>
