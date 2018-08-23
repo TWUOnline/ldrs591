@@ -12,9 +12,9 @@ post_date: 2017-11-24 14:49:50
 <h2>Unit 2 Learning Activities</h2>
 <span style="color: #ff0000"><strong>[Heather, I've added this welcome below.  We can either keep it here, integrate it with the Unit 2 Overview, or you might want to keep it as an Instructor's note that you post each week.  Please let me know your preference/]</strong></span>
 
-Welcome to Week 2! This week you will be exploring the topic "Accessing and Evaluating Scholarly Literature".  This unit will help you gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests.  In this unit you will also gain first-hand experience in locating and organizing and evaluating relevant scholarly literature.
+Welcome to Week 2! This week you will be exploring the topic "Accessing and Evaluating Scholarly Literature".  This unit will help you develop a research question, gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests.  In this unit you will also gain first-hand experience in locating and organizing and evaluating relevant scholarly literature.
 
-The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access scholarly literature.  There are also three blog posts this week and those are focused on evaluating sources.
+The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access and evaluate scholarly literature.
 
 <strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow]</span></strong>
 <h3>The Research Process</h3>
