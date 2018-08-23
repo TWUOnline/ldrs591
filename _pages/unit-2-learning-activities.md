@@ -10,13 +10,13 @@ published: true
 post_date: 2017-11-24 14:49:50
 ---
 <h2>Unit 2 Learning Activities</h2>
-<span style="color: #ff0000;"><strong>[Heather, I've added this welcome below.  We can either keep it here, integrate it with the Unit 2 Overview, or you might want to keep it as an Instructor's note that you post each week.  Please let me know your preference/]</strong></span>
+<span style="color: #ff0000"><strong>[Heather, I've added this welcome below.  We can either keep it here, integrate it with the Unit 2 Overview, or you might want to keep it as an Instructor's note that you post each week.  Please let me know your preference/]</strong></span>
 
 Welcome to Week 2! This week you will be exploring the topic "Accessing and Evaluating Scholarly Literature".  This unit will help you gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests.  In this unit you will also gain first-hand experience in locating and organizing and evaluating relevant scholarly literature.
 
 The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access scholarly literature.  There are also three blog posts this week and those are focused on evaluating sources.
 
-<strong><span style="color: #ff0000;">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow]</span></strong>
+<strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow]</span></strong>
 <h3>The Research Process</h3>
 Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 <ol>
@@ -35,7 +35,7 @@ Plano-Clark and Creswell (2015) define research as "a process of steps used to c
  	<li>Watch the following <a href="http://libguides.twu.ca/library_research/home">video tutorials</a> prepared by Dr. William Badke. Begin with clicking <a href="http://libguides.twu.ca/c.php?g=284762&amp;p=3191885">"How to develop research skills"</a> and watch the first two video tutorials under the section "starting a research paper." The videos are labelled<a href="https://vimeo.com/160913559/eeb081c04e"> "Understanding the research process"</a> and <a href="https://vimeo.com/160925544/a3ea2bace3">"Pre-research strategies"</a>.</li>
  	<li>Read chapter 3 in the Badke (2017) text.</li>
 </ul>
-<strong><span style="color: #ff0000;">[Heather, are there any formative, non-graded questions or activities for this section?  1-2 questions for their learning journal?]</span></strong>
+<strong><span style="color: #ff0000">[Heather, are there any formative, non-graded questions or activities for this section?  1-2 questions for their learning journal?]</span></strong>
 
 &nbsp;
 <h3>Accessing Scholarly Literature</h3>
@@ -144,18 +144,18 @@ I want to begin by telling you a little about my own research journey and then I
 As I entered my Master's my focus was still on the topic of understanding eating disorders, but the population that I was interested in - female athletes with eating disorders - was a difficult and challenging group to study.  So I needed to make some adaptations to the research that I wanted to pursue in order to make my thesis project more manageable.  I will save you all the details of the 2-year journey of learning what works and what doesn't when you are studying a clinical population, but what I ended up with was a very different thesis project then what I had originally intended.
 
 The topic I ended up studying was the differences between women with eating disorders, at-risk for eating disorders, and those not at-risk on a very specific psychological construct which is called self-presentation motivation.  Self-presentation motivation reflects the process that we go through in an attempt to monitor and control the impression we make on others (Schlenker &amp; Leary, 1982).  For example, when we go for a job interview we usually wear nice clothes, get a hair cut, rehearse interview questions because we want to make a good impression on a potential employer.  Now self-presentation motivation in itself is not a single construct that can be empirically measured.  In my study this concept was measured using several different questionnaires and they were a) fear of negative evaluation (when a person is fearful of receiving disapproval and criticism from others; Leary, 1983), b) public self-consciousness (the awareness or sensitivity a person experiences from the opinions of others; Fenigstein, Scheier, &amp; Buss, 1975), c) social physique anxiety (the anxiety experienced when your body is being evaluated by others; Hart, Rejeski, &amp; Leary, 1989), and d) self-presentational efficacy (the probability of conveying a desired impression on others; Leary &amp; Atherton, 1986).  If you are interested in reading more about this study you can find the published article here <a href="http://www.sciencedirect.com/science/article/pii/S1471015306000122">http://www.sciencedirect.com/science/article/pii/S1471015306000122</a>
-<p style="padding-left: 30px;">This is what my research topic started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
-<p style="padding-left: 30px;">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
+<p style="padding-left: 30px">This is what my research topic started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
+<p style="padding-left: 30px">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
 Sometimes the topic we start out with is not the one we end up studying.  This was certainly true in my case.
 
 In light of the challenges that you may face as you try to narrow down your research topic into a manageable research question and even further into search terms, I have found a really helpful tool to help you identify your research question.   This tool was originally published in Booth, Colomb, &amp; Williams (2008) and was adapted by <em>The Step-by-Step Guide &amp; Research Rescue: Finding and Narrowing Your Topic</em> (2017). Retrieved from <a href="http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396">http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396</a>
 
 If you can fill out this table, you most likely have a narrow enough topic with enough direction to perform some great research.
-<p style="padding-left: 30px;"><strong>1)  I am researching </strong>______________________________________ (<strong>topic</strong>)</p>
-<p style="padding-left: 30px;"><strong>2)  because I want to find out </strong>______________________________(<strong>issue/question</strong>)</p>
-<p style="padding-left: 30px;"><strong>3)  in order to </strong>________________________________ (<strong>application </strong>- So What? - Project/Audience/Purpose driven)</p>
+<p style="padding-left: 30px"><strong>1)  I am researching </strong>______________________________________ (<strong>topic</strong>)</p>
+<p style="padding-left: 30px"><strong>2)  because I want to find out </strong>______________________________(<strong>issue/question</strong>)</p>
+<p style="padding-left: 30px"><strong>3)  in order to </strong>________________________________ (<strong>application </strong>- So What? - Project/Audience/Purpose driven)</p>
 Here is my research example using the three step process:
-<p style="padding-left: 30px;">I am researching <b>self-presentation motivation and eating disorders in women</b> (topic)
+<p style="padding-left: 30px">I am researching <b>self-presentation motivation and eating disorders in women</b> (topic)
 because I want to find out <strong>if there is a difference in self-presentation motives among women with an eating disorder, at-risk for an eating disorder, and not at-risk for an eating disorder</strong> (issue/question)
 in order to <strong>enhance our understanding of the eating disordered population as well as provide insight into the self-presentational motives across known groups.  </strong>(application - <em>audience</em>).</p>
 If you need further help with your research question do not hesitate to contact me.  I am here to help!
@@ -166,13 +166,13 @@ The second resource is using the reference lists at the back of a book or of a j
 
 &nbsp;
 <h3>Unit 2 Summary</h3>
-<strong><span style="color: #ff0000;">[Heather, did you want to add 2-3 sentences?  Either to emphasize key points, talk about connections to the course/life, big ideas, or prepare students for the next unit.]</span></strong>
+<strong><span style="color: #ff0000">[Heather, did you want to add 2-3 sentences?  Either to emphasize key points, talk about connections to the course/life, big ideas, or prepare students for the next unit.]</span></strong>
 
 &nbsp;
 <h3>Assessment</h3>
 Go to Unit 2 Assessment for more details on your <strong>Blog </strong>submission<strong>.</strong>
 
-<span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
+<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
 Booth, W. C., Colomb, G. G. &amp; Williams, J. M. (2008). <em>The Craft of Research</em>(3rd ed.) Chicago: The University of Chicago Press, p. 51-65
 
