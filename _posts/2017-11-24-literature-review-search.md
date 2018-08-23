@@ -64,4 +64,4 @@ Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requir
 
 <strong>Overall Score: /50</strong>
 
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47834"> Upload Literature Review Search in Moodle </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47834"> Upload Literature Review Search in Moodle</a><!--/themify_builder_static-->
