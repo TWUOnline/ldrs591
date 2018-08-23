@@ -16,7 +16,7 @@ Welcome to Week 2! This week you will be exploring the topic "Accessing and Eval
 
 The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access and evaluate scholarly literature.
 
-<strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow]</span></strong>
+<strong><span style="color: #ff0000">[I've added in your notes. Please check whether the flow is correct - as the content relates to the learning activities that follow - yes I have adjusted the flow.  This looks so much better now!]</span></strong>
 <h3>The Research Process</h3>
 Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 <ol>
@@ -30,7 +30,7 @@ Plano-Clark and Creswell (2015) define research as "a process of steps used to c
  	<li><strong>Disseminating and evaluating the research.</strong> Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research.</li>
 </ol>
 <h3>Significant Questions</h3>
-The most significant part of the research process is asking a good research question.  This is something that will be highly relevant to successful completion of most of your assignments in this course, particularly the very first assignment.  Your research question will be the guide that you use to complete assignments 1, 2, 3, and 5.
+The most significant part of the research process begins with asking a good research question.  This is something that will be highly relevant to successful completion of most of your assignments in this course, particularly the very first assignment.  Your research question will be the guide that you use to complete assignments 1, 2, 3, and 5.
 
 The research process often starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where?  Questions can be based on what you observe in the real world, or on intuition or a “gut feeling”.
 
