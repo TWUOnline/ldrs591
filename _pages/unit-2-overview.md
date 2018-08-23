@@ -13,11 +13,12 @@ post_date: 2017-11-24 14:49:50
 <h3>Overview</h3>
 In unit 2, we will begin by developing a road map for understanding the research process in general. Then we will spend time focusing on the research questions that drive the research process. You will begin articulating the research interests that you have come across in your professional life. Next, we will focus on gaining familiarity with various genres of scholarly literature, getting a sense of how these genres contribute to your own scholarly endeavours. Through first-hand experience you will begin locating, organizing and evaluating relevant scholarly literature. Two of the major assignments in this course hinge on your ability to conduct a review of precedent literature. Although these assignments are not due until the later in this course, our work in Unit 2 is the foundation for those assignments.
 <h3>Topics</h3>
-Unit 2 is divided into 3 topics:
-<p style="padding-left: 30px">Topic 1: How to ask a good research question.</p>
-<p style="padding-left: 30px">Topic 2: Identify different genres of literature where you can find reports of research studies.</p>
-<p style="padding-left: 30px">Topic 3: Search strategies for locating different genres of scholarly literature.</p>
-<p style="padding-left: 30px">Topic 4: Become familiar with the TWU library and available resources.</p>
+Unit 2 is divided into 5 topics:
+<p style="padding-left: 30px">Topic 1: The Research Process</p>
+<p style="padding-left: 30px">Topic 2: How to ask a good research question.</p>
+<p style="padding-left: 30px">Topic 3: Identify different genres of literature where you can find reports of research studies.</p>
+<p style="padding-left: 30px">Topic 4: Accessing and utilizing different genres of scholarly literature.</p>
+<p style="padding-left: 30px">Topic 5: Evaluating scholarly literature.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
@@ -35,6 +36,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 2.4: ...</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
 <p style="padding-left: 30px"><strong>Assignment 1:</strong> Complete  ...</p>
+<strong>Assignment 2:</strong> Complete  ...
+
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
