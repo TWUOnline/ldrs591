@@ -57,16 +57,17 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 <b><i>Interesting: </i></b>This is key! The question needs to be one that interests you and is likely to remain intriguing for the duration of the project. There are two traps to be avoided. Make sure that you have a real, grounded interest in your research question, and that you can explore this in an academic paper. It is your interest that will motivate you to keep working and to produce a good research paper.
 
 &nbsp;</blockquote>
-<h3>Learning Activity 2.1: Clarifying Your Research Interest</h3>
-<ul>
- 	<li>In this learning activity you will complete Assignment 1 and submit it via the assignment 1 drop box in the Learning Management System (LMS). Please refer to the Assignment 1 link for further instructions about clarifying your research interest.</li>
-</ul>
-<h3>Learning Activity 2.2: Video and Reading</h3>
+<h3>Learning Activity 2.1: Video and Reading</h3>
 <ul>
  	<li>Watch the following <a href="http://libguides.twu.ca/library_research/home">video tutorials</a> prepared by Dr. William Badke. Begin with clicking <a href="http://libguides.twu.ca/c.php?g=284762&amp;p=3191885">"How to develop research skills"</a> and watch the first two video tutorials under the section "starting a research paper." The videos are labelled<a href="https://vimeo.com/160913559/eeb081c04e"> "Understanding the research process"</a> and <a href="https://vimeo.com/160925544/a3ea2bace3">"Pre-research strategies"</a>.</li>
  	<li>Read chapter 3 in the Badke (2017) text.</li>
 </ul>
-<strong><span style="color: #ff0000">[Heather, are there any formative, non-graded questions or activities for this section?  1-2 questions for their learning journal?]</span></strong>
+&nbsp;
+<h3>Learning Activity 2.2: Clarifying Your Research Interest</h3>
+<ul>
+ 	<li>In this learning activity you will complete Assignment 1 and submit it via the assignment 1 drop box in the Learning Management System (LMS). Please refer to the Assignment 1 link for further instructions about clarifying your research interest.</li>
+</ul>
+<strong><span style="color: #ff0000">[Heather, are there any formative, non-graded questions or activities for this section?  Yes, Learning activity 2.1 leads them into LA 2 which is completing assignment 1]</span></strong>
 
 &nbsp;
 <h3>Accessing Scholarly Literature</h3>
@@ -87,7 +88,7 @@ Peer review is the process used by publishers and editors of academic/scholarly 
 Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources of literature you should access. They suggest that although you are probably used to searching for books on a particular topic, it is important to "focus on reading recent research studies published as journal articles to learn the most up-to-date information in your profession" (p. 11). As a general rule, articles published within the past 10 years should give you a good idea of what is current in your profession.
 
 &nbsp;
-<h3>Learning Activity 2.2: Read, Watch, and Search!</h3>
+<h3>Learning Activity 2.3: Read, Watch, and Search!</h3>
 <ul>
  	<li>Read chapters 4 and 6 in the Badke (2017) text.</li>
  	<li>Watch the tutorial "<a href="https://vimeo.com/161998287/7661f12293">Preparing a research question for a database search</a>".</li>
@@ -102,8 +103,17 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
  	<li>Once you have signed in, then you will be able to type your topic or question in the search window of "Academic Search Complete."</li>
 </ul>
 </li>
+ 	<li>In your reflective journal, briefly describe your experiences in the search for a journal article, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
+ 	<li>Note that you will be asked some questions related to your search as part of your second assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
-&nbsp;
+<h3>Learning Activity 2.4: Searching for Books</h3>
+<ul>
+ 	<li>Go to <a href="http://libguides.twu.ca/library_research/home">TWU library homepage </a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>".</li>
+ 	<li>Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch the video tutorial to get an idea of how to search for a topic found in an e-book.</li>
+ 	<li>Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the library catalogue to locate a good example of an <strong>e-book.</strong></li>
+ 	<li>In your reflective journal, briefly describe your experiences in the search for a journal article, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
+ 	<li>Note that you will be asked some questions related to your search as part of your second assignment.  See Unit 2 Assessment for more details.</li>
+</ul>
 <h3>Utilizing Scholarly Literature</h3>
 After you have determined what sources you will be accessing, you need to conduct a search, and then keep track of your literature search strategy and results. The simplest way to do this is to use an online reference manager that will help you collect, organize, cite and share your references according to the referencing style you will be using.  There are several free, online reference managers available such as <a href="https://www.refworks.com/refworks2/help/Welcome.htm">Refworks</a>, <a href="https://www.zotero.org/">Zotero</a>, and <a href="http://endnote.com/">EndNote</a>. TWU library has a research guide that describes <a href="http://libguides.twu.ca/EndNote/">how to use EndNote</a>. This library guide will help you sign up for an EndNote account and also help you figure out how to use EndNote to download and store your citations in folders and then input citations into Word documents and create reference lists.
 
@@ -116,16 +126,12 @@ As you collect relevant literature you can either enter it into a summary chart 
 The research process is not always linear. You may have a great research question or research topic in mind, but as you begin your initial database and library searches you may find yourself changing or refining your topic. Sometimes you will not find any information on the topic you have chosen because the topic is so new and no one has done any research on the topic yet. Sometimes you will not find any information on the topic you have chosen because you are not using the right search terms or keywords.
 
 If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature. Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic. This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
-
-&nbsp;
-<h3>Learning Activity 2.3: Searching for Books</h3>
+<h3>Learning Activity 2.5: Upgrading Your Research Skills</h3>
 <ul>
- 	<li>Go to <a href="http://libguides.twu.ca/library_research/home">http://libguides.twu.ca/library_research/home</a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>". Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch this video tutorial to get an idea of how to search for a topic found in an e-book.</li>
- 	<li>Keeping in mind the topic and specific question(s) you identified in Assignment 1, use the library catalogue to locate a good example of an <strong>e-book.</strong></li>
+ 	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
+ 	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find what worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
+ 	<li>Note that you will be asked some questions related to your research skills as part of your second assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
-Note that you will be asked some questions related to your search as part of your Blog assignment for this unit.  See Unit 2 Assessment for more details.
-
-&nbsp;
 <h3>Evaluating Scholarly Sources</h3>
 After you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources. Unfortunately, not all information that you will come across is going to be valid. Just because you find articles and books at the library does not mean that the information will be accurate or of high quality.
 
@@ -138,49 +144,18 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li><strong>Publication type/process:</strong> Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?</li>
  	<li><strong>Bias and special interests:</strong> According to Panucci and Williams (2010) bias can occur during all phases of research from design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias. Driscoll and Brizee (2017) suggest that when it comes to publishing research reports, "most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".</li>
 </ul>
-<h3>Synthesize and Critique Scholarly Literature.</h3>
-A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
-
-An effective summary of an article or book will:
-<ul>
- 	<li>Mention the problem being addressed.</li>
- 	<li>State the central purpose or focus of the study.</li>
- 	<li>Briefly state information about the sample, population or participants.</li>
- 	<li>Review key results/conclusions that relate to your problem or topic.</li>
-</ul>
-Once you have highlighted those key points, then you need to critically evaluate the article or book.
-
-An effective critique of an article or a book will:
-<ul>
- 	<li>Evaluate each section of the article/book – Introduction, Methods, Results, Discussion – highlighting the strengths and weaknesses of each section.</li>
-</ul>
-When you are critically evaluating research studies, you are not just listing and summarizing them. You need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed. More information on how to specifically evaluate each section of a journal article is coming up in units 4, 5, 6, 7, 8 and 9.
-<h3>How Much Information Is Enough?</h3>
-When doing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature (e.g., why we need to know more, or why the literature needs to be applied in a particular context). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
-
-&nbsp;
-<h3>Learning Activity 2.5 - Read, Watch, and Search</h3>
+<h3>Learning Activity 2.6 - Read, Watch, and Search</h3>
 <ul>
  	<li>Read chapter 7 in the Badke (2017) text.</li>
- 	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">http://libguides.twu.ca/library_research/home</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
- 	<li>Next, watch the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
- 	<li>Consider what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
+ 	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
+ 	<li>In your reflective learning journal, consider answering the following questions:
+<ul>
+ 	<li>What sources of information you will use the most to conduct research on your topic?</li>
+ 	<li>How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
-&nbsp;
-<h3>Narrowing your Research Topic</h3>
-As you've worked your way through some of the learning activities this week, you may have realized that your topic is too broad or too specific and you are not getting the results you are looking for.  In this last section, I want to help you figure out how you can narrow down your research topic into something that will be manageable to write about.
-
-In light of the challenges that you may face as you try to narrow down your research topic into a manageable research question and even further into search terms, I have found a really helpful tool to help you identify your research question.   This tool was originally published in Booth, Colomb, &amp; Williams (2008) and was adapted by <em>The Step-by-Step Guide &amp; Research Rescue: Finding and Narrowing Your Topic</em> (2017). Retrieved from <a href="http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396">http://guides.lib.byu.edu/c.php?g=216340&amp;p=1428396</a>
-
-If you can fill out this table, you most likely have a narrow enough topic with enough direction to perform some great research.
-<p style="padding-left: 30px"><strong>1)  I am researching </strong>______________________________________ (<strong>topic</strong>)</p>
-<p style="padding-left: 30px"><strong>2)  because I want to find out </strong>______________________________(<strong>issue/question</strong>)</p>
-<p style="padding-left: 30px"><strong>3)  in order to </strong>________________________________ (<strong>application </strong>- So What? - Project/Audience/Purpose driven)</p>
-Here is my research example using the three step process:
-<p style="padding-left: 30px">I am researching <b>self-presentation motivation and eating disorders in women</b> (topic)
-because I want to find out <strong>if there is a difference in self-presentation motives among women with an eating disorder, at-risk for an eating disorder, and not at-risk for an eating disorder</strong> (issue/question)
-in order to <strong>enhance our understanding of the eating disordered population as well as provide insight into the self-presentational motives across known groups.  </strong>(application - <em>audience</em>).</p>
-If you need further help with your research question do not hesitate to contact me.  I am here to help!
+</li>
+ 	<li>Note that you will be asked some questions related to your evaluation skills as part of your second assignment.  See Unit 2 Assessment for more details.</li>
+</ul>
 <h3>Additional sources for finding scholarly literature:</h3>
 I also wanted to mention two other sources of information that you can use to gather information on your research topic.  The first suggestion is viewing the TED talk videos.  These videos are a great resource to help you become familiar with a researcher and their work on a specific topic.  You can search almost any topic on the TED website, the videos are usually under 20 minutes, and are very good.  You can find TED site here: <a href="https://www.ted.com/">https://www.ted.com</a>
 
@@ -192,7 +167,7 @@ The second resource is using the reference lists at the back of a book or of a j
 
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 2 Assessment for more details on your <strong>Blog </strong>submission<strong>.</strong>
+Go to Unit 2 Assessment for more details on your Assignment 2 submission<strong>.</strong>
 
 <span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
