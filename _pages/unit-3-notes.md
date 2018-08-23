@@ -10,7 +10,6 @@ published: true
 post_date: 2017-11-24 14:49:51
 ---
 <h3>Developing your professional voice</h3>
-
 When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice (McDonald, 2011). A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication (Walden University Writing Center, 2017). Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources (McDonald, 2011).
 
 Developing your professional voice is important because some students will turn their papers into professional manuscripts that will be submitted to a journal or a book. Some students may be asked to present their work at a professional conference. McDonald suggests that "for most students, writing papers in graduate school is an exercise in presenting important information in an easy to understand and concise way" (p.125).
@@ -28,66 +27,50 @@ Aside from simplifying the work of your instructors by having everyone use the s
 3) Allow readers to focus more on your ideas by not distracting them with unfamiliar formatting.
 
 4) Establish your credibility in the field by demonstrating an awareness of your audience and their needs as fellow researchers.
-
 <h3>What is scholarly writing?</h3>
-
 According to Heady (2013), graduate-level (or scholarly) writing is "clear, correct and concise, but it adds the elements of originality and discipline specific expertise" (p. 2). Heady suggests that graduate-level writing explores a topic or a research question in an original way, demonstrates extensive research done on the topic, has a strong organizational structure, and is written for a professional audience. The scholarly writer writes in a way that is skillful, engaging and organized well so that the paper moves from point to point allowing the reader to follow in a logical progression. Heady also states that "a good paper has a clear and obvious structure: you can enter it through a clear, well-composed introduction, you move from section to section, and you exit where you know you have been and what you have seen" (p. 73).
-
 <h5>Structure and Organization</h5>
-
 Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references. Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions. Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" (pp. 74-75). Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" (pp. 74-75).
 
 An example of the three types of content (claims, evidence and transitions) included in a paragraph of scholarly writing is provided below from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy (2013, pp. 377-378):
-
-<blockquote>
-  Over the years, some leadership scholars have called attention to the implicit connection between ethics and leadership. A burgeoning new research area and leadership theory that has been linked to ethics, virtues and morality is servant leadership (Graham 1991; Lancot and Irving 2010; Parolini et al. 2009; Russell 2001; Whetstone, 2002). Despite servant leadership being coined by Robert K. Greenleaf over three decades ago in 1970, it remains understudied yet prominently practiced in boardrooms and organizations (Bass and Bass 2008; Spears 2005).
-</blockquote>
-
+<blockquote>Over the years, some leadership scholars have called attention to the implicit connection between ethics and leadership. A burgeoning new research area and leadership theory that has been linked to ethics, virtues and morality is servant leadership (Graham 1991; Lancot and Irving 2010; Parolini et al. 2009; Russell 2001; Whetstone, 2002). Despite servant leadership being coined by Robert K. Greenleaf over three decades ago in 1970, it remains understudied yet prominently practiced in boardrooms and organizations (Bass and Bass 2008; Spears 2005).</blockquote>
 From the example above, you can see that a claim is written in the first sentence. A claim with supporting evidence is provided in the second sentence (with references) and the transition begins in the third sentence with the word "despite". The third sentence also includes a claim and supporting evidence. This paragraph structure is typical of what you would find in scholarly writing. Scholarly writing involves putting your own thoughts and ideas (claims) in context by ensuring that you are citing the ideas of those who have influenced you (APA, 2010, p.169).
 
 Heady (2013) suggests five general rules you should always follow when you are organizing your paper (p. 80):
-
 <ol>
-<li>You must provide enough background information to give your reader a good working knowledge of your topic.</li>
-<li>Your background information must lead logically to your research question.</li>
-<li>All claims/ideas/facts must be backed up by evidence.</li>
-<li>All evidence must be related to a claim/idea/fact.</li>
-<li>If evidence does not back up a claim, you need to explain why and/or account for it.</li>
+ 	<li>You must provide enough background information to give your reader a good working knowledge of your topic.</li>
+ 	<li>Your background information must lead logically to your research question.</li>
+ 	<li>All claims/ideas/facts must be backed up by evidence.</li>
+ 	<li>All evidence must be related to a claim/idea/fact.</li>
+ 	<li>If evidence does not back up a claim, you need to explain why and/or account for it.</li>
 </ol>
-
 <h5>Critical thinking</h5>
-
 One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013).
 
 Scholarly writing, should reflect higher levels of learning. According to Bloom's (1956) taxonomy there are six levels of learning: knowledge, comprehension, application, analysis, synthesis and evaluation. When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation. What this means is that your writing (and your thinking) should be able to:
-
 <ul>
-<li>Break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.</li>
-<li>Re-arrange ideas into a new whole to demonstrate synthesis.</li>
-<li>Make judgments based on internal evidence or external criteria to demonstrate evaluation.</li>
+ 	<li>Break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.</li>
+ 	<li>Re-arrange ideas into a new whole to demonstrate synthesis.</li>
+ 	<li>Make judgments based on internal evidence or external criteria to demonstrate evaluation.</li>
 </ul>
-
 When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind. According to the Critical Appraisal Skills Program (2017) the three key questions to ask are: 1) Are the results of the study valid? 2) What are the results? and 3) Are the results useful? These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading. Here are 14 additional questions that will help you delve more deeply into the analytical process.
-
 <ol>
-<li>Does the abstract accurately summarize the article?</li>
-<li>Does the purpose statement in the abstract match the purpose statement in the introduction?</li>
-<li>Is all of the information in the introduction organized well?</li>
-<li>Does the information presented in the introduction allow you to grasp "the problem" under investigation and provide a "broad context" for the problem?</li>
-<li>Is there a review of precedent literature on the topic and does the introduction lead coherently to the purpose of the study?</li>
-<li>Do you think the methods are appropriate for studying the problem?</li>
-<li>Do you think the study could be duplicated from the information provided in the methods section?</li>
-<li>Is the sequence of the methods section clear?</li>
-<li>Review the results in light of the purpose of the study. Do the results reveal what the researcher intended?</li>
-<li>Does the discussion just repeat the results or does the author(s) interpret the meaning of the results?</li>
-<li>Is the author's interpretation supported (or backed up) by other research?</li>
-<li>Are there limitations identified?</li>
-<li>Are there suggestions for future research?</li>
-<li>What are the strengths and weaknesses of the article?</li>
+ 	<li>Does the abstract accurately summarize the article?</li>
+ 	<li>Does the purpose statement in the abstract match the purpose statement in the introduction?</li>
+ 	<li>Is all of the information in the introduction organized well?</li>
+ 	<li>Does the information presented in the introduction allow you to grasp "the problem" under investigation and provide a "broad context" for the problem?</li>
+ 	<li>Is there a review of precedent literature on the topic and does the introduction lead coherently to the purpose of the study?</li>
+ 	<li>Do you think the methods are appropriate for studying the problem?</li>
+ 	<li>Do you think the study could be duplicated from the information provided in the methods section?</li>
+ 	<li>Is the sequence of the methods section clear?</li>
+ 	<li>Review the results in light of the purpose of the study. Do the results reveal what the researcher intended?</li>
+ 	<li>Does the discussion just repeat the results or does the author(s) interpret the meaning of the results?</li>
+ 	<li>Is the author's interpretation supported (or backed up) by other research?</li>
+ 	<li>Are there limitations identified?</li>
+ 	<li>Are there suggestions for future research?</li>
+ 	<li>What are the strengths and weaknesses of the article?</li>
 </ol>
-
 <h3>How to write a scholarly paper</h3>
-
 The final assignment in this course is to write a formal literature review based on the research topic that you have chosen for assignment 1. This section will elaborate on what is expected in a formal scholarly paper (such as a literature review) and in unit 4 there will be more specific information about what a literature review is.
 
 To begin writing a scholarly paper you need to have a research topic in mind, you need to do a review of scholarly literature to obtain a good working knowledge of your topic, you need to critically evaluate the literature you have reviewed and then you need to have an organizational system for presenting what you know about the research topic.
@@ -121,6 +104,27 @@ The table below is adapted from Parris &amp; Peachy (2013, p. 385).
 <strong>Discussion:</strong> In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed. In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
 <strong>Reference List:</strong> The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
+<h3>Synthesize and Critique Scholarly Literature.</h3>
+A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
+
+An effective summary of an article or book will:
+<ul>
+ 	<li>Mention the problem being addressed.</li>
+ 	<li>State the central purpose or focus of the study.</li>
+ 	<li>Briefly state information about the sample, population or participants.</li>
+ 	<li>Review key results/conclusions that relate to your problem or topic.</li>
+</ul>
+Once you have highlighted those key points, then you need to critically evaluate the article or book.
+
+An effective critique of an article or a book will:
+<ul>
+ 	<li>Evaluate each section of the article/book – Introduction, Methods, Results, Discussion – highlighting the strengths and weaknesses of each section.</li>
+</ul>
+When you are critically evaluating research studies, you are not just listing and summarizing them. You need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed. More information on how to specifically evaluate each section of a journal article is coming up in units 4, 5, 6, 7, 8 and 9.
+<h3>How Much Information Is Enough?</h3>
+When doing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature (e.g., why we need to know more, or why the literature needs to be applied in a particular context). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
+
+&nbsp;
 
 <strong>References</strong>
 
