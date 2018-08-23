@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: post
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/literature-review-search/
+  https://create.twu.ca/ldrs591/literature-review-search/
 published: true
 post_date: 2017-11-24 14:49:50
 ---
@@ -63,7 +63,7 @@ Table 3. <em>Internet search results</em>
 
 <ul>
     <li><strong>Create a Reference list: </strong>List all references in APA (6th edition) format.</li>
-    <li><strong>Assignment formatting:</strong> APA formatting is required for this assignment. Please refer to the <a href="https://create.twu.ca/ldrs591-sp18/apa-formatting-requirements/">APA requirements</a> and APA rubric for more details.</li>
+    <li><strong>Assignment formatting:</strong> APA formatting is required for this assignment. Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA requirements</a> and APA rubric for more details.</li>
     <li><strong>Submit your assignment:</strong> Use the link at the bottom of the assignment page.</li>
 </ul>
 
@@ -95,8 +95,8 @@ Table 3. <em>Internet search results</em>
 
 <strong>APA format compliance (10 points)</strong>
 
-Please refer to the <a href="https://create.twu.ca/ldrs591-sp18/apa-formatting-requirements/">APA formatting requirements</a> and rubric for specific details.
+Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA formatting requirements</a> and rubric for specific details.
 
 <strong>Overall Score: /60</strong>
 
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47834" > Upload Literature Review Search in Moodle </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47834"> Upload Literature Review Search in Moodle </a><!--/themify_builder_static-->
