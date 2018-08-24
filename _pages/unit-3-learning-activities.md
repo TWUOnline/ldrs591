@@ -61,9 +61,9 @@ Writing a scholarly paper often follows a very distinct organizational structure
  	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number (see p. 229 in the APA manual under the heading "order of manuscript pages").</li>
 </ul>
 <h3>How to Write a Scholarly Paper</h3>
-To begin writing a scholarly paper you need to have a research topic in mind.  Then you need to do a review of scholarly literature to obtain a good working knowledge of your topic and then critically evaluate the literature.  Finally, you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
+To begin writing a scholarly paper you need to have a research topic in mind.  Then you need to do a review of scholarly literature to obtain a good working knowledge of your topic and then critically evaluate and synthesize the literature you have read.  Finally, you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
 
-When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded instead of concise, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will keep your reader stay involved and motivated to read what you have to say.
+When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will motivate your reader to pay attention to what you have to say.
 
 There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Using clear and concise writing helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
 <h3>Learning Activity 3.3 - Read, Watch and Practice!</h3>
@@ -78,7 +78,7 @@ Within each section of a scholarly paper, each paragraph utilizes a combination 
 
 An example of the three types of content (claims, evidence and transitions) included in a paragraph of scholarly writing is provided below from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy (2013, pp. 377-378):
 <blockquote>Over the years, some leadership scholars have called attention to the implicit connection between ethics and leadership. A burgeoning new research area and leadership theory that has been linked to ethics, virtues and morality is servant leadership (Graham 1991; Lancot and Irving 2010; Parolini et al. 2009; Russell 2001; Whetstone, 2002). Despite servant leadership being coined by Robert K. Greenleaf over three decades ago in 1970, it remains understudied yet prominently practiced in boardrooms and organizations (Bass and Bass 2008; Spears 2005).</blockquote>
-From the example above, you can see that a topic is introduced in the first sentence. A claim with supporting evidence is provided in the second sentence (with references) and the transition begins in the third sentence with the word "despite". The third sentence also includes a claim and supporting evidence. This paragraph structure is typical of what you would find in scholarly writing. Scholarly writing involves putting your own thoughts and ideas (claims) in context by ensuring that you are citing the ideas of those who have influenced you (APA, 2010, p.169).
+From the example above, you can see that a topic is introduced in the first sentence. A claim with supporting evidence is provided in the second sentence (with references) and the transition begins in the third sentence with the word "despite". The third sentence also includes a claim with supporting evidence (references). This paragraph structure is typical of what you would find in scholarly writing. Scholarly writing involves putting your own thoughts and ideas (claims) in context by ensuring that you are citing the ideas of those who have influenced you (APA, 2010, p.169).
 
 Heady (2013) suggests five general rules you should always follow when you are organizing your paper (p. 80):
 <ol>
@@ -88,11 +88,19 @@ Heady (2013) suggests five general rules you should always follow when you are o
  	<li>All evidence must be related to a claim/idea/fact.</li>
  	<li>If evidence does not back up a claim, you need to explain why and/or account for it.</li>
 </ol>
-<h5></h5>
 <h3>Learning Activity 3.4 - Read, Watch and Practice!</h3>
 <ul>
- 	<li>Read chapters 6 (pp. 180-192) and chapter 7 of the APA manual.</li>
- 	<li>Find six different scholarly sources (on any topic) and provide a complete APA reference for each source. The sources you should include in your reference list are as follows:
+ 	<li>In this learning activity you will read chapter 6 of the APA (2010) manual which discusses plagiarism and giving credit to sources in APA style.</li>
+ 	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=ImX4SlPCH3c">Crediting Sources</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the importance of properly citing sources in APA format.</li>
+ 	<li>Next, practice your skills by completing the following quiz <strong>[Hi Kelly - I need to figure out how to make a quiz for this LA]</strong></li>
+ 	<li>In your reflective learning journal, make note of the elements of citing sources that you struggle with and need to improve on for your next assignment.</li>
+</ul>
+<h3>Reference Lists</h3>
+The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
+<h3>Learning Activity 3.5 - Blog post</h3>
+<ul>
+ 	<li>In this learning activity you will watch the following video tutorial <a href="https://www.youtube.com/watch?v=fjNALjxisC4&amp;t=3s">"Reference Examples"</a> by Dr. Mark Hatala and consult the reference examples provided in chapter 7 of the APA manual.  In the video Dr. Hatala discusses the different elements required for, and examples of, references in APA style.</li>
+ 	<li>Next, practice your skills by creating a reference list in APA format for six different scholarly sources (on any topic). The sources you should include in your reference list are as follows:
 <ul>
  	<li>A journal article (7.01)</li>
  	<li>A book or book chapter (7.02)</li>
@@ -102,28 +110,8 @@ Heady (2013) suggests five general rules you should always follow when you are o
  	<li>An online newspaper article (7.01 #11)</li>
 </ul>
 </li>
+ 	<li>In your reflective learning journal, make note of the elements of the references that you struggle with and need to improve on for your next assignment.</li>
 </ul>
-<h3>Learning Activity 3.5 - Blog post</h3>
-<ul>
- 	<li>Read chapter 6 (pp. 169-179) of the APA manual.</li>
- 	<li>Using the article that you found for learning activity 3.1, write an example of each of the following:
-<ul>
- 	<li>A direct quote less than 40 words with proper in-text citation (6.03)</li>
- 	<li>A direct quote more than 40 words with proper in-text citation (6.03).</li>
- 	<li>A sentence that refers to an idea from the article (paraphrased), and provide a proper in-text citation (6.11-6.12)</li>
-</ul>
-</li>
-</ul>
-Create a new blog post, and post this information on your blog. This post should be between 100-150 words.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 3</li>
- 	<li>Learning Activity 3.5</li>
-</ul>
-<h3>Learning Activity 3.6</h3>
 <h3>Learning Activity 3.7</h3>
 <ul>
  	<li>Read chapter 9, "Learning how to read for research," in Badke (2017).</li>
