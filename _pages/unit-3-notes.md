@@ -11,15 +11,7 @@ post_date: 2017-11-24 14:49:51
 ---
 <h5>[Hi Kelly, I'm still working on moving this information into the appropriate learning activities or assignments.  So please do not delete this information yet!]</h5>
 <h5>Critical thinking</h5>
-One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013).
-
-Scholarly writing, should reflect higher levels of learning. According to Bloom's (1956) taxonomy there are six levels of learning: knowledge, comprehension, application, analysis, synthesis and evaluation. When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation. What this means is that your writing (and your thinking) should be able to:
-<ul>
- 	<li>Break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.</li>
- 	<li>Re-arrange ideas into a new whole to demonstrate synthesis.</li>
- 	<li>Make judgments based on internal evidence or external criteria to demonstrate evaluation.</li>
-</ul>
-When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind. According to the Critical Appraisal Skills Program (2017) the three key questions to ask are: 1) Are the results of the study valid? 2) What are the results? and 3) Are the results useful? These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading.
+&nbsp;
 
 &nbsp;
 
