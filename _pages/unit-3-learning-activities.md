@@ -37,8 +37,44 @@ Aside from simplifying the work of your instructors by having everyone use the s
 </ul>
 <h3>What is Scholarly Writing?</h3>
 According to Heady (2013), graduate-level (or scholarly) writing is "clear, correct and concise, but it adds the elements of originality and discipline specific expertise" (p. 2). Heady suggests that graduate-level writing explores a topic or a research question in an original way, demonstrates extensive research done on the topic, has a strong organizational structure, and is written for a professional audience. The scholarly writer writes in a way that is skillful, engaging and organized well so that the paper moves from point to point allowing the reader to follow in a logical progression. Heady also states that "a good paper has a clear and obvious structure: you can enter it through a clear, well-composed introduction, you move from section to section, and you exit where you know you have been and what you have seen" (p. 73).
-<h5>Structure and Organization</h5>
-Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references. Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions. Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" (pp. 74-75). Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" (pp. 74-75).
+<h3>Structure and Organization</h3>
+Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references. Let's take a closer look at what should be included in each of these sections of a scholarly paper.
+
+<strong>Title Page:</strong> This is the first page of your paper and it should include a title that summarizes the main topic you will be discussing. It should also include your name (the author), and the institution you are affiliated with (Trinity Western University). It is also helpful if you include the date that you are submitting the assignment.
+
+<strong>Abstract:</strong> This the second page of your paper. The purpose of the abstract is for the author to to convey the sentiment of the study in a concise yet informative manner. The abstract is used to determine if the reader is interested in the article and wants to retrieve the article for further information. In 250 words, the abstract explicitly states the overall problem and research question, a brief description of the method, a summary of the findings and important conclusions.
+
+<strong>Introduction:</strong> The purpose of an introduction is to inform the reader of the rationale for your research topic. It should provide a brief overview of the "problem" that you are addressing by providing a broad context, any relevant statistics and describing the importance of your topic. The introduction is also the place where you can define any important terms that may be unfamiliar to the reader and ends with establishing what the key purpose for the paper is. The purpose can be stated as your research question.
+
+<strong>Methods:</strong> The methods section outlines specifically what procedures the author chose to do. In a research report this section will include the sampling methods, sample size, measures, research design, and interventions used. The methods section of a research report looks very different than a methods section of a literature review. In a literature review, the methods section will emphasize how you chose the articles and how you evaluated the articles you reviewed. This will include describing any inclusion or exclusion criteria, the databases that were searched, what key search terms were used, how many records were obtained and how many articles were included in the review. You can refer to Plano-Clark and Creswell (2015) on page 20 or to the APA (2010) manual on page 29 for a more detailed explanation of the methods section.
+
+<strong>Results:</strong> The results section reports the findings of the data analysis of a research report or the critical analysis of a literature review. Please refer to Plano-Clark and Creswell (2015) and APA (2010) for extensive detail about the results of different empirical research reports.
+
+<strong>Discussion:</strong> In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed. In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
+
+<strong>Reference List:</strong> The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
+<h3>Learning Activity 3.2 - Read, Watch and Practice!</h3>
+<ul>
+ 	<li>In this learning activity you will read chapter 2 and pp. 228-230 (section 8.03) of the APA (2010) manual which discusses the structure and content of an APA style manuscript or paper.</li>
+ 	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=sGhNzgcjFXI&amp;t=379s">Manuscript Structure and Content</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains discusses the structure and content of an APA style paper.</li>
+ 	<li>Next, watch the following video by Purdue Owl on "<a href="https://www.youtube.com/watch?v=pdAfIqRt60c&amp;list=PL8F43A67F38DE3D5D">APA formatting the basics</a>". This video shows you how to set up your title page and other pages in APA style in a word document.</li>
+ 	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number (see p. 229 in the APA manual under the heading "order of manuscript pages").</li>
+</ul>
+<h3>How to Write a Scholarly Paper</h3>
+To begin writing a scholarly paper you need to have a research topic in mind.  Then you need to do a review of scholarly literature to obtain a good working knowledge of your topic and then critically evaluate the literature.  Finally, you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
+
+When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded instead of concise, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will keep your reader stay involved and motivated to read what you have to say.
+
+There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Using clear and concise writing helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
+<h3>Learning Activity 3.3 - Read, Watch and Practice!</h3>
+<ul>
+ 	<li>In this learning activity you will read chapter 3 and 4 of the APA (2010) manual which discusses writing clearly and concisely and the mechanics of APA style.</li>
+ 	<li>Next, watch the following video tutorials  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" and "<a href="https://www.youtube.com/watch?v=9SXTfLLzmt4">The Mechanics of Style</a>" by Dr. Mark Hatala.  In the videos Dr. Hatala discusses the importance of writing clearly and concisely and the APA guidelines to ensure clear, consistent presentation of ideas.</li>
+ 	<li>Next, practice your skills by completing the following quiz <strong>[Hi Kelly - I need to figure out how to make a quiz for this LA]</strong></li>
+ 	<li>In your reflective learning journal, make note of the elements of APA style writing that you struggle with and need to improve on for your next assignment.</li>
+</ul>
+<h3>Citing the Ideas of Others</h3>
+Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions. Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" (pp. 74-75). Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" (pp. 74-75).
 
 An example of the three types of content (claims, evidence and transitions) included in a paragraph of scholarly writing is provided below from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy (2013, pp. 377-378):
 <blockquote>Over the years, some leadership scholars have called attention to the implicit connection between ethics and leadership. A burgeoning new research area and leadership theory that has been linked to ethics, virtues and morality is servant leadership (Graham 1991; Lancot and Irving 2010; Parolini et al. 2009; Russell 2001; Whetstone, 2002). Despite servant leadership being coined by Robert K. Greenleaf over three decades ago in 1970, it remains understudied yet prominently practiced in boardrooms and organizations (Bass and Bass 2008; Spears 2005).</blockquote>
@@ -53,49 +89,7 @@ Heady (2013) suggests five general rules you should always follow when you are o
  	<li>If evidence does not back up a claim, you need to explain why and/or account for it.</li>
 </ol>
 <h5></h5>
-<h3>Learning Activity 3.2 - Read, Watch and Practice</h3>
-<ul>
- 	<li>In this learning activity you will read chapter 2 and pp. 228-230 (section 8.03) of the APA (2010) manual which discusses the structure and content of an APA style manuscript or paper.</li>
- 	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=sGhNzgcjFXI&amp;t=379s">Manuscript Structure and Content</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains discusses the structure and content of an APA style paper.</li>
- 	<li>Next, watch the following video by Purdue Owl on "<a href="https://www.youtube.com/watch?v=pdAfIqRt60c&amp;list=PL8F43A67F38DE3D5D">APA formatting the basics</a>". This video shows you how to set up your title page and other pages in APA style in a word document.</li>
- 	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number (see p. 229 in the APA manual under the heading "order of manuscript pages").</li>
-</ul>
-<h3>How to Write a Scholarly Paper</h3>
-The final assignment in this course is to write a formal literature review based on the research topic that you have chosen for assignment 1 and have continued to examine in assignment 2 and 3. This section will elaborate on what is expected in a formal scholarly paper (such as a literature review) and in unit 4 there will be more specific information about what a literature review is.
-
-To begin writing a scholarly paper you need to have a research topic in mind, you need to do a review of scholarly literature to obtain a good working knowledge of your topic, you need to critically evaluate the literature you have reviewed and then you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
-<ul>
- 	<li>Read chapter 3 (pp. 61-76) of the APA manual.</li>
-</ul>
-<h3>Learning Activity 3.3 - Blog post</h3>
-<ul>
- 	<li>Read pp. 77-86 of chapter 3 and pp. 87-114 in chapter 4 of the APA manual.</li>
- 	<li>Using the article summary that you just completed for learning activity 3, re-edit your summary so that you are following APA formatting rules from chapter 3 and 4 in the APA manual. I have identified the formatting rules that you need to follow for this activity and also the section of the APA manual that the formatting rule comes from in parentheses below. Here is what you should be aware of:
-<ul>
- 	<li>Active rather than passive voice (3.18)</li>
- 	<li>Agreement of subject and verb (3.19)</li>
- 	<li>Pronouns (3.20)</li>
- 	<li>Dangling modifiers (3.21)</li>
- 	<li>Parallel construction (3.23)</li>
- 	<li>Punctuation (4.01-4.11)</li>
- 	<li>Spelling (4.12)</li>
- 	<li>Capitalization (4.14-4.20)</li>
- 	<li>Italics (4.21)</li>
- 	<li>Abbreviations (4.22)</li>
- 	<li>Numbers (4.31 &amp; 4.32)</li>
-</ul>
-</li>
-</ul>
-Create a new blog post, and post this information on your blog. This post should be between 500-600 words.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 3</li>
- 	<li>Learning Activity 3.3</li>
-</ul>
-<h3>Learning Activity 3.4 - Blog post</h3>
+<h3>Learning Activity 3.4 - Read, Watch and Practice!</h3>
 <ul>
  	<li>Read chapters 6 (pp. 180-192) and chapter 7 of the APA manual.</li>
  	<li>Find six different scholarly sources (on any topic) and provide a complete APA reference for each source. The sources you should include in your reference list are as follows:
@@ -108,15 +102,6 @@ Make sure you add a link to this page in your post.
  	<li>An online newspaper article (7.01 #11)</li>
 </ul>
 </li>
-</ul>
-Create a new blog post, and post this information on your blog. This post should be between 150-200 words.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 3</li>
- 	<li>Learning Activity 3.4</li>
 </ul>
 <h3>Learning Activity 3.5 - Blog post</h3>
 <ul>
@@ -139,18 +124,6 @@ Make sure you add a link to this page in your post.
  	<li>Learning Activity 3.5</li>
 </ul>
 <h3>Learning Activity 3.6</h3>
-Create a title page in APA format in a word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number (see p. 229 in the APA manual under the heading "order of manuscript pages").
-
-Instructions for setting up the "Running head" in <strong>Microsoft Word:</strong>
-<ol>
- 	<li>On the View tab, select the Print Layout in the Document Views group.</li>
- 	<li>Double click the header area of the document.</li>
- 	<li>On the Header &amp; Footer Tools Design tab, select the check box for Different First Page in the Options group.</li>
- 	<li>In the First Page Header box at the top of page 1 of your document, type <em>Running head: and then your abbreviated title.</em></li>
- 	<li>Go to page 2 of your document and delete the phrase <em>Running head.</em></li>
- 	<li>On page 1 of your document, <em>Running head</em> will remain in your first page header, and only your abbreviated title will appear on subsequent pages.</li>
-</ol>
-Submit the document via the Learning Activity 3.6 assignment drop box at the bottom of this page.
 <h3>Learning Activity 3.7</h3>
 <ul>
  	<li>Read chapter 9, "Learning how to read for research," in Badke (2017).</li>
