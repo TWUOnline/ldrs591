@@ -1,6 +1,8 @@
 ---
 ID: 1288
-post_title: Scholarly Article Review (Assignment 3)
+post_title: >
+  Scholarly Article Critique (Assignment
+  3)
 author: Colin Madland
 post_excerpt: ""
 layout: post
@@ -9,10 +11,16 @@ permalink: >
 published: true
 post_date: 2017-11-24 12:49:50
 ---
-<h3>Scholarly Article Review</h3>
-In this assignment, you will write a critique of a journal article using the guideline provided below.
+<h3>Scholarly Article Critique</h3>
+One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013).
 
-This assignment should be written in APA formatting style. Please use your APA manual for details about structure and content, clear and concise writing, crediting sources, and references.
+Scholarly writing, should reflect higher levels of learning. According to Bloom's (1956) taxonomy there are six levels of learning: knowledge, comprehension, application, analysis, synthesis and evaluation. When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation. What this means is that your writing (and your thinking) should be able to:
+<ul>
+ 	<li>Break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.</li>
+ 	<li>Re-arrange ideas into a new whole to demonstrate synthesis.</li>
+ 	<li>Make judgments based on internal evidence or external criteria to demonstrate evaluation.</li>
+</ul>
+In this assignment, you will write a critique of a journal article using the guideline provided below.
 
 This assignment may be a <strong>maximum of 5-6 pages</strong> in length (including the title page and reference page). Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 <h5><strong>STEP 1</strong></h5>
@@ -47,7 +55,7 @@ Discuss the study with a critical eye for both its strengths and its weaknesses.
 <h5><strong>STEP 4</strong></h5>
 Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without including sufficient justification for your claims. Thus, concrete ideas about your rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 <h5><strong>STEP 5</strong></h5>
-APA formatting is required for this assignment. Please refer to the APA formatting requirments and APA rubric for further information.
+APA formatting is required for this assignment. Please refer to the APA formatting requirements and APA rubric for further information.
 <h5><strong>STEP 6</strong></h5>
 Submit a draft of your assignment for peer review to your assigned partner via email. Please submit the draft at least one week before the due date to allow for feedback and revisions. Your partner will review your assignment and provide you with feedback following the peer review protocol. Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make. Please submit this assignment using the link at the bottom of the assignment page.
 <h5>Evaluation:</h5>
