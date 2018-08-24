@@ -110,7 +110,7 @@ The reference list provides a precise list of all of the sources you cited withi
  	<li>An online newspaper article (7.01 #11)</li>
 </ul>
 </li>
- 	<li>In your reflective learning journal, make note of the elements of the references that you struggle with and need to improve on for your next assignment.</li>
+ 	<li>In your reflective learning journal, make note of the elements of the references that you struggled with and need to improve on for your next assignment.</li>
 </ul>
 <strong>References</strong>
 
@@ -127,9 +127,7 @@ McDonald, K. E. (2011). Teaching the 6th edition of APA style of writing in coun
 Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leadership theory in organizational contexts. <em>Journal of Business Ethics, 113</em>(3), 377-395.
 
 Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Retrieved from <a href="http://academicguides.waldenu.edu/writingcenter/scholarlyvoice">http://academicguides.waldenu.edu/writingcenter/scholarlyvoice</a>
-<h3>Learning Activity 3.7 [I'm not sure what to do with this activity just yet.  So I am leaving it here right now]</h3>
-<ul>
- 	<li>Read chapter 9, "Learning how to read for research," in Badke (2017).</li>
- 	<li>Complete Assignment 2, <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/"><em>Scholarly Article Review</em></a>, and submit it via the button at the bottom of the assignment page. The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.</li>
-</ul>
+
+&nbsp;
+<h3>Additional Resources</h3>
 <!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
