@@ -11,7 +11,7 @@ post_date: 2017-11-24 14:49:50
 ---
 This week in Unit 3 you will be discovering how to develop your professional scholarly voice, specifically through your scholarly writing.  This means that you will be reading content that will help you understand that there are different writing styles that are used in the world of academia and how important it is to use APA style in the MA Lead program.
 
-Your learning activities this week are focused on applying the APA standards for general aspects of writing, mechanics of writing and citing sources.  You will also get to apply these skills in assignment 2 which is your scholarly article review, and then continue to practice them in assignment 3 and 5.
+Your learning activities this week are focused on applying the APA standards for general aspects of writing, mechanics of writing and citing sources.  You will also get to apply these skills in assignment 3 which is your scholarly article critique, and then continue to practice them in assignment 5.
 <h3>Developing Your Professional Voice</h3>
 When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice (McDonald, 2011). A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication (Walden University Writing Center, 2017). Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources (McDonald, 2011).
 
@@ -32,7 +32,7 @@ Aside from simplifying the work of your instructors by having everyone use the s
 <ul>
  	<li>In this learning activity you will begin by reading chapter 1 of the APA manual and also the Appendix of the Plano-Clark and Creswell (2015) text.</li>
  	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=EZEXIve3hu0">Writing in Psychology</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains the importance of learning APA style for writing in the behavioural and social sciences.</li>
- 	<li>In your reflective learning journal, discuss your experience writing with APA style and why you think scholarly writing is important for you as a leader.</li>
+ 	<li>Next, in your reflective learning journal, discuss your previous experience with APA style and why you think scholarly writing can be important for you as a leader in your context.</li>
  	<li>Note that these questions make up Part 1 of your <strong>XXX</strong> assignment for this unit.  See Unit 3 Assessment for more details.</li>
 </ul>
 <h3>What is Scholarly Writing?</h3>
@@ -52,7 +52,7 @@ Writing a scholarly paper often follows a very distinct organizational structure
 
 <strong>Discussion:</strong> In the discussion section, the authors describe their own interpretations of the results and link these interpretations back to the literature that was reviewed. In this section the author may discuss the strengths and limitations of the literature, draw conclusions, and make recommendations for future research on the topic.
 
-<strong>Reference List:</strong> The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
+<strong>Reference List:</strong> The reference list provides a precise list of all of the sources you cited within your paper.
 <h3>Learning Activity 3.2 - Read, Watch and Practice!</h3>
 <ul>
  	<li>In this learning activity you will read chapter 2 and pp. 228-230 (section 8.03) of the APA (2010) manual which discusses the structure and content of an APA style manuscript or paper.</li>
@@ -65,7 +65,7 @@ To begin writing a scholarly paper you need to have a research topic in mind.  
 
 When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will motivate your reader to pay attention to what you have to say.
 
-There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Using clear and concise writing helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
+There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Writing clearly and concisely helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
 <h3>Learning Activity 3.3 - Read, Watch and Practice!</h3>
 <ul>
  	<li>In this learning activity you will read chapter 3 and 4 of the APA (2010) manual which discusses writing clearly and concisely and the mechanics of APA style.</li>
