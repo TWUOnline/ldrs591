@@ -112,7 +112,22 @@ The reference list provides a precise list of all of the sources you cited withi
 </li>
  	<li>In your reflective learning journal, make note of the elements of the references that you struggle with and need to improve on for your next assignment.</li>
 </ul>
-<h3>Learning Activity 3.7</h3>
+<strong>References</strong>
+
+American Psychological Association (2010). <em>Publication manual of the American Psychological Association</em> (6th ed.). Washington, DC: American Psychological Association.
+
+Critical Appraisal Skills Program (2017). <em>Appraising the evidence</em>. Retrieved from <a href="http://www.casp-uk.net/appraising-the-evidence">http://www.casp-uk.net/appraising-the-evidence</a>
+
+Foundations of Critical Thinking (2015). <em>Our conception and definition of critical thinking</em>. Retrieved from <a href="http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411">http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411</a>
+
+Heady, E. (2013). <em>Introduction to graduate writing</em> (2nd ed.). Lynchburg, VA: Liberty University Graduate Writing Center.
+
+McDonald, K. E. (2011). Teaching the 6th edition of APA style of writing in counselor education. <em>Journal of Counselor Preparation and Supervision 3</em>(2), 124-145.
+
+Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leadership theory in organizational contexts. <em>Journal of Business Ethics, 113</em>(3), 377-395.
+
+Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Retrieved from <a href="http://academicguides.waldenu.edu/writingcenter/scholarlyvoice">http://academicguides.waldenu.edu/writingcenter/scholarlyvoice</a>
+<h3>Learning Activity 3.7 [I'm not sure what to do with this activity just yet.  So I am leaving it here right now]</h3>
 <ul>
  	<li>Read chapter 9, "Learning how to read for research," in Badke (2017).</li>
  	<li>Complete Assignment 2, <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/"><em>Scholarly Article Review</em></a>, and submit it via the button at the bottom of the assignment page. The article you chose for the Unit 3 Learning Activities can be the same article that you use for Assignment 2.</li>
