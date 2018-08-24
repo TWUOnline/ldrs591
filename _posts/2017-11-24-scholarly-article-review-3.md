@@ -14,21 +14,20 @@ In this assignment, you will write a critique of a journal article using the gui
 
 This assignment should be written in APA formatting style. Please use your APA manual for details about structure and content, clear and concise writing, crediting sources, and references.
 
-This assignment may be a maximum of 5-6 pages in length (including the title page and reference page). Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
+This assignment may be a <strong>maximum of 5-6 pages</strong> in length (including the title page and reference page). Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
 <h5><strong>STEP 1</strong></h5>
-Select a published, peer-reviewed journal article of your choice from your literature search.
+Select one published, peer-reviewed journal article of your choice from your literature search, then watch the following video on "<a href="https://www.youtube.com/watch?v=SKxm2HF_-k0">How to Read an Academic Paper</a>".
 <h5><strong>STEP 2</strong></h5>
 Summarize the article you selected by answering each of the following questions:
-<ol>
- 	<li>What are the key research questions being addressed?</li>
- 	<li>Are these questions based on, or related to, previous theory or research?</li>
- 	<li>What are (if any) the specific study hypotheses?</li>
- 	<li>Provide a brief overview of the participant sample, including age, sex, any distinguishing features of the sample, and how the participants were recruited.</li>
- 	<li>Describe briefly the procedures of the study, including what kind of design was used, what methods/measures were used, and in general “how” the subjects were “studied.”</li>
- 	<li>Summarize the important findings and explain how they support or don’t support the hypotheses.</li>
-</ol>
+<ul>
+ 	<li><strong>Introduction</strong> – Give a brief introduction to provide a context for the study. In your own words, state what the problem is, what is the purpose of the study, what the study is aiming to address. Were there any hypotheses? if so, what were they?</li>
+ 	<li><strong>Methods</strong> – In your own words, describe the procedures for the study. Who were the participants? How were the participants recruited or selected? What did they have the participants do? What was measured? Were there any experimental manipulations or interventions? If so, what was being compared? What type of study design was used?</li>
+ 	<li><strong>Results/Findings</strong> – In your own words describe what was found. Were the results significant?</li>
+ 	<li><strong>Conclusions</strong> – In your own words, summarize the important findings. What was the major outcome of the study?</li>
+ 	<li><strong>Reference</strong> – provided at the end in APA format.</li>
+</ul>
 <h5><strong>STEP 3</strong></h5>
-Discuss the study with a critical eye for both its strengths and its weaknesses. Consider the following questions in your discussion:
+Discuss the study with a critical eye for both its strengths and its weaknesses. <strong>Consider</strong> the following questions in your discussion:
 <ol>
  	<li>What are the strengths and weaknesses of this study? Include both what the authors tell you and your own thoughts.</li>
  	<li>Does the abstract accurately summarize the article?</li>
