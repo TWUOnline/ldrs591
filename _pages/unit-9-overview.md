@@ -43,15 +43,22 @@ Here is a checklist of learning activities you will benefit from in completing t
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
- 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
-<h5>E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a></h5>
-Barbuto, J. E., Gottfredson, R. K., &amp; Searle, T. P. (2014). An examination of emotional intelligence as an antecedent of servant leadership. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 315-323.
+ 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</li>
+</ul>
+E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a>
 
-Coetzer, M. F., Bussin, M., &amp; Geldenhuys, M. (2017). The functions of a servant leader. <em>Administrative Sciences, 7</em>(5),1-32. Retrieved from <a href="http://www.mdpi.com/2076-3387/7/1/5">http://www.mdpi.com/2076-3387/7/1/5</a>
+&nbsp;
+<ul>
+ 	<li>Barbuto, J. E., Gottfredson, R. K., &amp; Searle, T. P. (2014). An examination of emotional intelligence as an antecedent of servant leadership. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 315-323.
 
-Hanse, J. J., Harlin, U., Jarebrant, C., Ulin, K., &amp; Winkel, J. (2016). The impact of servant leadership dimensions on leader-member exchange among health care professionals. <em>Journal of Nursing Management, 24,</em> 228-234.
+&nbsp;</li>
+ 	<li>Coetzer, M. F., Bussin, M., &amp; Geldenhuys, M. (2017). The functions of a servant leader. <em>Administrative Sciences, 7</em>(5),1-32. Retrieved from <a href="http://www.mdpi.com/2076-3387/7/1/5">http://www.mdpi.com/2076-3387/7/1/5</a>
 
-Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry: Research, Education and Application, 9</em>(1), 74-88.</li>
+&nbsp;</li>
+ 	<li>Hanse, J. J., Harlin, U., Jarebrant, C., Ulin, K., &amp; Winkel, J. (2016). The impact of servant leadership dimensions on leader-member exchange among health care professionals. <em>Journal of Nursing Management, 24,</em> 228-234.
+
+&nbsp;</li>
+ 	<li>Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry: Research, Education and Application, 9</em>(1), 74-88.</li>
 </ul>
 &nbsp;
 
