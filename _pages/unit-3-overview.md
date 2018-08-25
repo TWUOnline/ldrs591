@@ -23,7 +23,7 @@ Unit 3 is divided into .. topics:
 <p style="padding-left: 30px;">Topic 3:</p>
 <p style="padding-left: 30px;">Topic 4:</p>
 <p style="padding-left: 30px;">Topic 5:</p>
-
+&nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000;"><strong> [check new outcomes]</strong></span>
 <ol>
@@ -31,6 +31,7 @@ When you have completed this unit you should be able to:<span style="color: #ff0
  	<li>Apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, the mechanics of style, citing sources and references.</li>
  	<li>Create an APA style paper.</li>
 </ol>
+&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 3.1: <span style="color: #ff0000;"><strong>[Kelly to insert activity info later]</strong></span></p>
@@ -40,7 +41,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates’ blogs.</p>
 <p style="padding-left: 30px;"><strong>Assignment :</strong> Complete  …</p>
 <p style="padding-left: 30px;"><strong>Assignment :</strong> Complete  …</p>
-
+&nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
