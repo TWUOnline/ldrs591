@@ -19,8 +19,7 @@ Unit 4 is divided into .. topics:
 <p style="padding-left: 30px;">Topic 3:</p>
 <p style="padding-left: 30px;">Topic 4:</p>
 <p style="padding-left: 30px;">Topic 5:</p>
-<p style="padding-left: 30px;"></p>
-
+&nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<strong> <span style="color: #ff0000;">[check new outcomes]</span></strong>
 <ol>
@@ -31,6 +30,7 @@ When you have completed this unit you should be able to:<strong> <span style="c
  	<li>Examine the elements that comprise quantitative research questions (research questions and hypotheses) and qualitative research questions (the central phenomenon).</li>
  	<li>Contrast the purposes of the literature review from the perspectives of a research investigator (scholarship of discovery) and research consumer (scholarship of application/integration/teaching).</li>
 </ol>
+&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 3.1:<span style="color: #ff0000;"> <strong>[Kelly to insert activity info later]</strong></span></p>
@@ -40,26 +40,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates’ blogs.</p>
 <p style="padding-left: 30px;"><strong>Assignment :</strong> Complete  …</p>
 <p style="padding-left: 30px;"><strong>Assignment :</strong> Complete  …</p>
-<p style="padding-left: 30px;"></p>
-
+&nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
- 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide (2nd ed.).</em> Boston, MA: Pearson.
-<h5></h5>
-</li>
+ 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide (2nd ed.).</em> Boston, MA: Pearson.</li>
  	<li>
 <h5>E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a></h5>
-&nbsp;</li>
- 	<li>Hunter, E. M., Neubert, M. J., Perry, S. J., Witt, L. A., Penny, L. M., &amp; Weinberger, E. (2013). Servant leaders inspire servant followers: Antecedents and outcomes for employees and the organization. <em>Leadership Quarterly, 24</em>(2), 316-331.
-
-&nbsp;</li>
- 	<li>Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.
-
-&nbsp;</li>
- 	<li>Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.
-
-&nbsp;</li>
+</li>
+ 	<li>Hunter, E. M., Neubert, M. J., Perry, S. J., Witt, L. A., Penny, L. M., &amp; Weinberger, E. (2013). Servant leaders inspire servant followers: Antecedents and outcomes for employees and the organization. <em>Leadership Quarterly, 24</em>(2), 316-331.</li>
+ 	<li>Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.</li>
+ 	<li>Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.</li>
  	<li>Sturm, B. E. (2009). Principles of servant leadership in community health nursing. Management issues and behaviors discovered in ethnographic research. <em>Home Health Care Management and Practice, 21</em>(2), 82-89.</li>
 </ul>
 &nbsp;
