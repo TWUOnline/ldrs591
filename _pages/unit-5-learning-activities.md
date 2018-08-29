@@ -99,7 +99,7 @@ The methods section of a quantitative research report typically presents a brief
 Inferential statistics are applied to data in an effort to answer comparison and relationship sorts of questions. A useful chart showing some common inferential statistics are found in Tables 8.2 and 8.3 on pages 266 and 267 of Plano-Clark and Creswell.
 
 As a consumer of qualitative research reports, you will want to know that the statistics employed are appropriate, and to be cautious about accepting research findings if you detect any inconsistencies.
-<h3>Learning Activity 5.4 - Read and Evaluate</h3>
+<h3>Learning Activity 5.4 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 8, "Data Analysis and Results," in Plano-Clark and Creswell (2015).</li>
  	<li>Using the criteria on pp. 278 and 279 in Plano-Clark &amp; Creswell (2015), evaluate the data analysis and results in the servant leadership article you chose. The figure on page 280 provides a template for recording your rating and rationale for your evaluation.</li>
@@ -116,7 +116,7 @@ As a consumer of qualitative research reports, you will want to know that the st
  	<li>Note that these questions make up Part 4 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
 <h3><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></h3>
-<h3>Learning Activity 5.5 - Blog post [Need to reword these instructions]</h3>
+<h3>Learning Activity 5.5 - Blog post [Kelly - I need to reword these instructions]</h3>
 In this learning activity you will prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality quantitative research report is/are . . .
@@ -136,7 +136,16 @@ I wanted to provide you with a few extra resources to help you understand Quanti
 Here is a link to a really helpful website that has been created by Dr. Andy Field.  Dr. Field goes into much more detail about everything you need to know about statistics than the course textbook.  Here is the website: <a href="https://www.discoveringstatistics.com/">https://www.discoveringstatistics.com/</a>  If there is something that you don't understand when you are reading through the results section of a quantitative research study, search Dr. Field's website.  This is a great tutorial to start with
 
 https://www.discoveringstatistics.com/statistics-hell-p/postverta-foundational-statistics/de-mystifying-statistics/
-<h5>References:</h5>
+<h3>Unit 5 Summary</h3>
+This week in Unit 5 we have explored quantitative research methods. Here is a short summary of the unique features of quantitative research methods from Leedy and Ormrod, (2010, p.96):
+<ol>
+ 	<li>Quantitative research has <b>three distinct purposes</b>: to explain and predict, to confirm and validate, and to test theory.</li>
+ 	<li>Quantitative<strong> designs</strong> tend to be focused on a problem that has known variables that can be controlled or at least accounted for.  The investigation is conducted following established guidelines utilizing largely predetermined methods while the researcher seeks to maintain a detached view.</li>
+ 	<li>Quantitative research collects <strong>numeric data</strong> from as large a sample as possible so to enhance claims of being representative, using standardized data collection instruments.</li>
+ 	<li>Quantitative data is <strong>analysed primarily through deductive reasoning, employing statistical analyses </strong>applied to numerical data, with stress on objectivity<strong>. </strong></li>
+ 	<li>Quantitative research <strong>findings are reported in a formal, scientific style with full display of numbers and statistics</strong>.</li>
+</ol>
+<h5>References</h5>
 Bogdan, R., &amp; Biklen, S. (2007). <em>Qualitative research for education: An introduction to theories and method</em> (5th ed.). Boston, MA: Pearson.
 
 Corbin, J., &amp; Strauss, A. (2008). <em>Basics of qualitative research</em> (3rd ed.). Los Angeles, CA: Sage.
