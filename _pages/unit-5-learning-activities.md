@@ -19,9 +19,11 @@ In this unit we will be looking at the methods and results sections of <em>quant
 These differing designs lead to marked differences in what data are collected, how data are collected, and how data are analyzed. Quantitative research seeks to collect numeric data from as large a sample as possible so to enhance claims to being representative, using standardized data collection instruments. Qualitative research gathers textual or image-based data from typically small, informative samples using loosely structured or nonstandardized interviews or observations (Leedy &amp; Ormrod, 2010, p. 96).
 
 The differing designs of quantitative and qualitative research also lead to marked differences in how data are analyzed. Quantitative data is approached primarily through deductive reasoning, employing statistical analyses applied to numerical data, with stress on objectivity. Qualitative data is approached primarily through inductive reasoning with the goal being to uncover themes and categories, with acknowledgement of potential researcher bias and subjectivity. Typically, quantitative research findings are reported in a formal, scientific style with full display of numbers and statistics, while qualitative research findings are typically reported in a narrative form (Leedy &amp; Ormrod, 2010, p. 96). In the following sections, we will explore this somewhat for quantitative research.
-<h3>Learning Activity 5.1</h3>
+<h3>Learning Activity 5.1 - Read and Reflect</h3>
 <ul>
- 	<li></li>
+ 	<li>Review pp. 57-69 in chapter 2 in the Plano-Clark and Creswell (2015) text.</li>
+ 	<li>In your reflective learning journal, discuss the differences between qualitative and quantitative research reports.</li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
 <h3>Quantitative Research Designs</h3>
 Quantitative research designs typically rely on the researcher beginning with a theoretical (or conceptual) framework that will determine what concepts the researcher chooses to investigate, the research questions, and the framing of research findings (Corbin &amp; Strauss, 2008, p. 39). These frameworks lead to a structured, predetermined, formal, and specifically detailed plan of operation (Bogdan &amp; Biklen, 2007, p. 45).
@@ -33,29 +35,24 @@ By way of caution, Gill and Johnson (2002) observe that management and leadershi
 In true experimental and quasi-experimental designs, the researcher intentionally introduces an intervention, and then seeks to measure the response to that intervention. The main difference between experimental and quasi-experimental designs lies in the way sampling is done. In non-experimental quantitative research designs, the researcher seeks to understand the behavior or attributes of the study sample without any researcher intervention. The terms descriptive and correlational are often applied to these types of quantitative research designs.
 
 As a consumer of research reports, you can usually find an indication of what research methodology is employed in the abstract of a research study. This is important information for you to identify, as you will quickly develop a sense of what to expect as you continue to read. This sense is important as you critique the research report, and make value judgments as to its worth.
-<h3>A note about survey research</h3>
+<h5>A Note About Survey Research</h5>
 At this point we want to focus on survey research for a few moments because of its wide use in leadership and management settings. While the survey is a method of data collection that may be used in qualitative research (Gall, Gall &amp; Borg, 2007, p. 227), it is extensively employed in quantitative research (Plano-Clark &amp; Creswell, 2015, p. 207). Be aware of ambiguities in how the term survey is used (see "Here’s a Tip!" on page 207). Often the term is used as a general label to denote the use of questionnaires or interviews in research. Because of the differences in intentions for generalizability between quantitative and qualitative research, this ambiguity is not helpful. Plano-Clark and Creswell see survey research as a form of quantitative research, sitting near the end of that continuum (2015, p. 197).
 
 Survey research is a popular research method used to generalize from a sample to a population in order that inferences can be made about some characteristic, attitude, or behavior of the larger population (Creswell, 2003). Survey research may be conducted through use of either questionnaires or interviews. These methods allow the researcher to collect data about observable phenomena as well as phenomena that would be difficult to otherwise assess (i.e., opinions, values, feelings, etc.). Questionnaires present the same questions in some form of print to all study participants uniformly, and responses are received in like manner. In interviews, the researcher presents the same questions orally to study participants, usually one at a time, but increasingly in groups, and the responses are received orally. The main difference in the two approaches lies in the fact that with questionnaires the research participant is largely in control of the response situation, whereas in the interview the researcher is largely in control. Each approach has relative advantages and disadvantages, but share in common the desire to collect data in standardized ways. For this reason, closed ended questions are typically used, and in questionnaires, often with forced responses (i.e., select a number on a Likert scale).
 
 As a consumer of survey research reports, be vigilant for potential issues of validity and reliability. Validity is a term that forces us to question the likelihood of whether the instrument or study measure actually measures what the researcher says it does. Reliability issues concern the consistency or repeatability of the instrument. Be aware that survey research is commonly criticized on these grounds, a fact underscored in Plano-Clark and Creswell’s suggestion to remedy possible concerns for internal validity by choosing a quantitative research design other than survey (Plano-Clark &amp; Creswell, 2015, p. 247).
-<h3></h3>
-<h3>Learning Activity 5.2 -</h3>
+<h3>Learning Activity 5.2 - Read and Evaluate</h3>
 <ul>
  	<li>Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell (2015).</li>
- 	<li>Select <strong>one</strong> of the servant leadership articles listed under the unit 5 resources to focus on to answer the questions in this learning activity.</li>
- 	<li>Using the evaluation criteria on p. 211 in Plano-Clark &amp; Creswell (2015), consider the following questions to evaluate the research design in a quantitative research report in the servant leadership article you chose. The figure on page 212 provides a template for recording your rating and rationale for the following questions:</li>
-</ul>
-<ul>
- 	<li>What quantitative research design is used and is it justified?</li>
+ 	<li>Select <strong>one</strong> of the servant leadership articles listed under the unit 5 resources and read the abstract and the methods and results section of this article.</li>
+ 	<li>Next, using the evaluation criteria on p. 211 in Plano-Clark &amp; Creswell (2015), evaluate the research design in the servant leadership article you chose. The figure on page 212 provides a template for recording your rating and rationale for your evaluation of the article.</li>
+ 	<li>In your reflective learning journal, discuss what quantitative research design is used and is it justified?</li>
  	<li>Are good quantitative procedures used to select and assign participants?</li>
  	<li>Are good quantitative data collection procedures used?</li>
  	<li>Does the quantitative research design address the study's purpose?</li>
 </ul>
 Make sure that you include your article reference, quality rating (0-3), and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
-
-Make sure you add a link to this page in your post.
-<h3>Quantitative Data Collection</h3>
+<h3> Quantitative Data Collection</h3>
 When researchers are collecting data for a quantitative research study, they need to address two important questions: who is the data being collected from, and how are they collecting it?  In answering the first question, the terms <i>population</i> and <i>sample</i> are salient.  Population is the large category that encompasses all of the individuals who possess or exhibit certain characteristics of interest.  Quantitative data is usually collected from large samples, selected ideally through random selection.
 
 Sample refers to the individuals from the population that you actually gather data from.  The goal in sampling is to find a representative sample that accurately represents that population.  In quantitative research, a primary interest of researchers is in <i>generalizability</i>: which is to what degree can the results of our research study be generalized back to the population?  This generalization is called external validity and requires an inferential leap from the sample back to the population.
