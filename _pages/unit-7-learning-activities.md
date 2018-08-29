@@ -27,20 +27,20 @@ https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 </li>
 </ul>
 <h3>Mixed-Methods Research Designs</h3>
-As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
+A wide variety of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data.  As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy &amp; Ormrod, 2013, p. 97). As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
 <ul>
  	<li>What is the purpose of needing qualitative and quantitative data?</li>
  	<li>What is the sequence of qualitative and quantitative data collection?</li>
  	<li>What is the priority of the qualitative and quantitative data?</li>
  	<li>How do the two data sets inform each other?</li>
 </ul>
-For example in a <strong>c</strong><b>onvergent parallel design, </b>only one data collection phase is used, during which quantitative and qualitative data collection and analysis are conducted separately yet concurrently. <b>When to use it?</b> To develop a more complete understanding of a topic or phenomenon.
+For example in a <strong>c</strong><b>onvergent parallel design, </b>only one data collection phase is used, during which quantitative and qualitative data collection and analysis are conducted separately yet concurrently. This design is used to develop a more complete understanding of a topic or phenomenon.
 
-In an <strong>e</strong><b>mbedded (concurrent nested) design, </b>only one data collection phase is used, during which a predominant method (quantitative or qualitative) nests or embeds the other less priority method (qualitative or quantitative, respectively). <b>When to use it?</b> To gain broader and in-depth perspectives on a topic.
+In an <strong>e</strong><b>mbedded (concurrent nested) design, </b>only one data collection phase is used, during which a predominant method (quantitative or qualitative) nests or embeds the other less priority method (qualitative or quantitative, respectively). This design is used o gain broader and in-depth perspectives on a topic.
 
-The <strong>s</strong><b>equential explanatory design </b>involves the collection and analysis of quantitative data followed by the collection and analysis of qualitative data. <b>When to use it?</b> To help explain, interpret or contextualize quantitative findings.
+The <strong>s</strong><b>equential explanatory design </b>involves the collection and analysis of quantitative data followed by the collection and analysis of qualitative data. This design is used to help explain, interpret or contextualize quantitative findings.
 
-The <strong>sequential exploratory design </strong>involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. <b>When to use it?</b> To explore a phenomenon and to expand on qualitative findings.
+The <strong>sequential exploratory design </strong>involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. This designed is used to explore a phenomenon and to expand on qualitative findings.
 <h3>Learning Activity 7.2 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>In this learning activity, you will select <strong>one</strong> of the servant leadership articles listed under the unit 7 resources.  Read the article and answer the following questions.</li>
@@ -90,8 +90,6 @@ Make sure you add a link to this page in your post.
  	<li>Learning Activity 7.3</li>
 </ul>
 <h3>Unit 7 Summary</h3>
-A wide vareity of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data.  As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy &amp; Ormrod, 2013, p. 97).
-
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
 <ul>
  	<li>Provides strengths that offset the weaknesses of both quantitative and qualitative research.</li>
