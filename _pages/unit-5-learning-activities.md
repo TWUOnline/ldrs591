@@ -9,6 +9,9 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
+In this unit we will explore the next major section of a research report:  The methods and results section.  We will see that the methods section indicates the <strong>overall plan</strong> for how the research was conducted, how the data was collected, and what the analysis of the data tells us.  These may be termed research design, method, and analysis and results, respectively.  In unit 5 we will be looking at the methods and results sections of <strong>quantitative research reports</strong>.
+
+Once again we start with the reminder that we are <i>reviewing</i> these materials in order to become an <em>informed consumer of research</em>, rather than research experts.  Before we get into the specifics of the methods and results of quantitative research reports, it would be helpful to take a step back and remind ourselves of some of the features of the broader research landscape.
 <h3>Introduction to Quantitative and Qualitative Research Design</h3>
 By now you should be familiar with the terms quantitative research and qualitative research. Plano-Clark and Creswell (2015) assert that these research approaches are suited to different kinds of research questions: a quantitative research approach is indicated when the research problem requires <em><strong>explanation</strong></em>, while a qualitative research approach is indicated when the research problem requires <em><strong>exploration</strong></em> (p. 85). Expanding on that somewhat, Leedy and Ormrod assert that quantitative research has three purposes: to explain and predict, to confirm and validate, and to test theory. In contrast, qualitative research has three distinct purposes: to describe and explain, to explore and interpret, and to build theory (Leedy &amp; Ormrod, 2010, p. 96). These differing research purposes find expression in differing research processes, the kinds of data gathered, the approaches to data analysis, and finally in the ways findings are communicated.
 
@@ -113,7 +116,7 @@ As a consumer of qualitative research reports, you will want to know that the st
  	<li>Note that these questions make up Part 4 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
 <h3><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></h3>
-<h3>Learning Activity 5.5 - Blog post</h3>
+<h3>Learning Activity 5.5 - Blog post [Need to reword these instructions]</h3>
 In this learning activity you will prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality quantitative research report is/are . . .
@@ -127,6 +130,12 @@ Make sure you add a link to this page in your post.
  	<li>Unit 5</li>
  	<li>Learning Activity 5.5</li>
 </ul>
+<h5>Additional Resources</h5>
+I wanted to provide you with a few extra resources to help you understand Quantitative Analysis and Results.
+
+Here is a link to a really helpful website that has been created by Dr. Andy Field.  Dr. Field goes into much more detail about everything you need to know about statistics than the course textbook.  Here is the website: <a href="https://www.discoveringstatistics.com/">https://www.discoveringstatistics.com/</a>  If there is something that you don't understand when you are reading through the results section of a quantitative research study, search Dr. Field's website.  This is a great tutorial to start with
+
+https://www.discoveringstatistics.com/statistics-hell-p/postverta-foundational-statistics/de-mystifying-statistics/
 <h5>References:</h5>
 Bogdan, R., &amp; Biklen, S. (2007). <em>Qualitative research for education: An introduction to theories and method</em> (5th ed.). Boston, MA: Pearson.
 
