@@ -16,22 +16,18 @@ In unit 5 we will examine the next major section of a research report: the metho
 &nbsp;
 <h3>Topics</h3>
 Unit 3 is divided into .. topics:
-<p style="padding-left: 30px">Topic 1:</p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
-<p style="padding-left: 30px">Topic 4:</p>
-<p style="padding-left: 30px">Topic 5:</p>
+<p style="padding-left: 30px">Topic 1: Quantitative and Qualitative Research Reports</p>
+<p style="padding-left: 30px">Topic 2: Quantitative Research Designs</p>
+<p style="padding-left: 30px">Topic 3: Quantitative Data Analysis and Results</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
- 	<li>Differentiate the characteristics of experimental and quasi-experimental studies.</li>
- 	<li>Distinguish between a sample and a population.</li>
- 	<li>Analyze the characteristics, uses, and limitations of different types of probability and non-probability sampling.</li>
- 	<li>Differentiate the uses of descriptive and inferential statistics.</li>
- 	<li>Critique the methods and results sections of a quantitative research report.</li>
+ 	<li>Describe the differences between a quantitative and qualitative research report</li>
+ 	<li>Identify the three common elements of the methods and results section of a quantitative research report.</li>
+ 	<li>Evaluate the research design, participants, data collection, analysis and results of a quantitative research report on servant leadership.</li>
+ 	<li>Reflect on the importance of understanding the methods and results section of a quantitative research report for the critical consumer of research.</li>
 </ol>
-&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px">Activity 3.1: <span style="color: #ff0000"><strong>[Kelly to insert activity info later]</strong></span></p>
