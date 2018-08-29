@@ -97,7 +97,7 @@ Heady (2013) suggests five general rules you should always follow when you are o
 </ul>
 <h3>Reference Lists</h3>
 The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
-<h3>Learning Activity 3.5 - Blog post</h3>
+<h3>Learning Activity 3.5 - Watch and Practice!</h3>
 <ul>
  	<li>In this learning activity you will watch the following video tutorial <a href="https://www.youtube.com/watch?v=fjNALjxisC4&amp;t=3s">"Reference Examples"</a> by Dr. Mark Hatala and consult the reference examples provided in chapter 7 of the APA manual.  In the video Dr. Hatala discusses the different elements required for, and examples of, references in APA style.</li>
  	<li>Next, practice your skills by creating a reference list in APA format for six different scholarly sources (on any topic). The sources you should include in your reference list are as follows:
