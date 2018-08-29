@@ -17,18 +17,16 @@ The MA Leadership program uses the APA Manual (6th edition) as the model for for
 
 &nbsp;
 <h3>Topics</h3>
-Unit 3 is divided into .. topics:
-<p style="padding-left: 30px">Topic 1:</p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
-<p style="padding-left: 30px">Topic 4:</p>
-<p style="padding-left: 30px">Topic 5:</p>
+Unit 3 is divided into 3 topics:
+<p style="padding-left: 30px">Topic 1: What is Scholarly Writing?</p>
+<p style="padding-left: 30px">Topic 2: How to Write a Scholarly Paper</p>
+<p style="padding-left: 30px">Topic 3: APA Formatting</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Describe the importance of APA style for graduate level scholarly writing.</li>
- 	<li>Apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, the mechanics of style, citing sources and references.</li>
+ 	<li>Apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, the mechanics of style, citing sources and formatting references.</li>
  	<li>Create an APA style paper.</li>
 </ol>
 &nbsp;
