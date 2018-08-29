@@ -13,24 +13,21 @@ post_date: 2017-11-24 14:49:50
 <h3>Overview</h3>
 In unit 4 we are going to find out about research reports. To start, we will focus on understanding the common elements found in the introduction of research reports. We will be engaging with the research problem, the review of precedent literature, and the research purpose. Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
 <h3>Topics</h3>
-Unit 4 is divided into .. topics:
-<p style="padding-left: 30px">Topic 1:</p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
-<p style="padding-left: 30px">Topic 4:</p>
-<p style="padding-left: 30px">Topic 5:</p>
+Unit 4 is divided into 4 topics:
+<p style="padding-left: 30px">Topic 1: What is Servant Leadership?</p>
+<p style="padding-left: 30px">Topic 2: What is a Research Problem?</p>
+<p style="padding-left: 30px">Topic 3: What is a Literature Review?</p>
+<p style="padding-left: 30px">Topic 4: What is the Research Purpose?</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<strong> <span style="color: #ff0000">[check new outcomes]</span></strong>
 <ol>
- 	<li>Distinguish the three common elements in the introductions of research reports.</li>
- 	<li>Differentiate between a research problem statement and the purpose of a study.</li>
- 	<li>Evaluate the elements of a problem statement, literature review and purpose.</li>
- 	<li>Appraise types of research problems for suitability to quantitative or qualitative studies.</li>
- 	<li>Examine the elements that comprise quantitative research questions (research questions and hypotheses) and qualitative research questions (the central phenomenon).</li>
- 	<li>Contrast the purposes of the literature review from the perspectives of a research investigator (scholarship of discovery) and research consumer (scholarship of application/integration/teaching).</li>
+ 	<li>Discuss the origin and development of servant leadership.</li>
+ 	<li>Identify the three common elements in the introductions of research reports.</li>
+ 	<li>Compare and contrast the common elements of a quantitative research question and a qualitative research question.</li>
+ 	<li>Evaluate the quality of the research problem, literature review, and purpose statement of a research report on servant leadership.</li>
+ 	<li>Reflect on the importance of understanding the introduction section of a research report for a critical consumer of research.</li>
 </ol>
-&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px">Activity 3.1:<span style="color: #ff0000"> <strong>[Kelly to insert activity info later]</strong></span></p>
