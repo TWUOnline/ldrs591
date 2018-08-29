@@ -19,12 +19,12 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 <h3>Learning Activity 1.1 - Read and Reflect</h3>
 <strong><span style="color: #ff0000">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
 
-According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4).
+According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
  	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journaling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
 <ul>
- 	<li>In your reflective learning journal, explain how you would define research and describe what your experience is with "research".</li>
+ 	<li>In your reflective learning journal, explain how you would define research, describe what your experience is with "research".</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
