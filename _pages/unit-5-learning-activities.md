@@ -64,13 +64,9 @@ In quantitative research, samples are drawn from the population through processe
 
 The second major consideration in qualitative data collection is how the data is collected.  In quantitative research, data collection instruments and tools are used most often to capture variables of interest.  This may include using inventories, questionnaires, indexes, scales and test scores (Bogdan &amp; Biklen, 2007, p. 46).  As a consumer of research, when judging the quality of tests used in research consider the criteria of fairness, generalizability, cognitive complexity, content quality, meaningfulness, content coverage and cost and efficiency (p. 217).
 
-A variable is anything that can vary, i.e. changed or be changed, such as eating behaviour or time taken to perform a task. There are three types of variables that are usually found in  experimental investigations: the dependent variable (or outcome), the independent variable (treatment/predictor) and counfounding variable .
+A variable is anything that can vary, i.e. changed or be changed, such as eating behaviour or time taken to perform a task. There are three types of variables that are usually found in  experimental investigations: the dependent variable (or outcome), the independent variable (treatment/predictor) and counfounding variable (extraneous factors that could affect the results) .
 
-In an experiment, the researcher is looking for the possible effect on the dependent variable that might be caused by changing the independent variable.
-
-&nbsp;
-
-A great deal of attention is typically directed to the control of extraneous variables (Bogdan &amp; Biklen, 2007, p. 45). These are all variables, which are not the independent variable, but could affect the results (e.g. dependent variable) of the experiment.
+In an experiment, the researcher is looking for the possible effect on the dependent variable that might be caused by changing the independent variable, while controlling for extraneous variables (Bogdan &amp; Biklen, 2007, p. 45). These are all variables, which are not the independent variable, but could affect the results of the experiment.
 <h3>Learning Activity 5.3</h3>
 <ul>
  	<li>Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell (2015).</li>
