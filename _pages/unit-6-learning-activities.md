@@ -13,36 +13,18 @@ This week in Unit 6 you will be exploring a different approach to research: <em>
 
 Qualitative research has three distinct purposes:  <em><strong>to describe, to explore, and to build theory</strong></em>.   Quantitative research and qualitative research designs differ significantly in what data are collected, how data are collected, how data are analyzed and how findings are reported.
 
-As someone who was trained as a quantitative researcher, I would sometimes hear people in my discipline discredit the qualitative approach to research. However, as qualitative research has become more mainstream over the last 20 years, now I would say the most widely held opinion is that there is no best method. “It all depends on what you are studying and what you want to find out” (Bogdan &amp; Biklen, 2007, p. 43). I can certainly appreciate understanding a problem or a phenomenon from both a quantitative and qualitative perspective.  For example, in order to understand the complexity and “messiness” of real-life organizations, it is important for leaders to not just rely only on statistics, but to also examine what employees. consumers, and leaders have to say from a qualitative perspective.
+As someone who was trained as a quantitative researcher, I would sometimes hear people in my discipline discredit the qualitative approach to research. However, as qualitative research has become more mainstream over the last 20 years, now I would say the most widely held opinion is that there is no best method. “It all depends on what you are studying and what you want to find out” (Bogdan &amp; Biklen, 2007, p. 43). I can certainly appreciate understanding a problem or a phenomenon from both a quantitative and qualitative perspective.  For example, in order to understand the complexity and “messiness” of real-life organizations, it is important for leaders to not just rely only on statistics, but to also examine what employees, consumers, and leaders have to say from a qualitative perspective.
 
 It is really important that you read through the textbook chapters on quantitative (chapters 6, 7, 8) and qualitative research (9, 10, 11) so that you can understand the distinct differences in the two approaches to research.
-
-<b>What Data are Collected:</b>
-
-<i>Quantitative research </i>seeks to collect numeric data from as large a sample as possible so to enhance claims of generalizability, using standardized data collection instruments (Leedy &amp; Ormrod, 2010, p. 96).
-
-<i>Qualitative research </i>gathers textual or image-based data from typically small, informative samples using loosely structured or unstructured interviews or observations (Leedy &amp; Ormrod, 2010, p. 96).
-
-<b>How Data is Analyzed:</b>
-
-<i>Quantitative data </i>is analysed through statistical analyses applied to numerical data, with stress on objectivity.  Ostensibly, researcher bias and subjectivity is eliminated, or at the very least minimized (Leedy &amp; Ormrod, 2010, p. 96).
-
-<i>Qualitative data </i>is analysed with the goal uncovering themes and categories, with acknowledgement of potential researcher bias and subjectivity (Leedy &amp; Ormrod, 2010, p. 96).
-
-<strong>How Findings are Reported:</strong>
-
-<em>Quantitative research findings</em> are reported in a formal, scientific style with full display of numbers and statistics (Leedy &amp; Ormrod, 2010, p. 96).
-
-<em>Qualitative research findings</em> are typically reported in a narrative form (Leedy &amp; Ormrod, 2010, p. 96).
 <h3>Qualitative Research Design</h3>
 Qualitative research has been “mainstreamed” in recent years, although in certain disciplines its use is not as widespread. In order to understand the complexity and “messiness” of real-life organizations, leadership investigation is turning increasingly to qualitative research.
 
 Qualitative research designs typically are less structured than in quantitative designs, and are far more flexible. In contrast to quantitative research design’s resting solidly on theoretical frameworks, in qualitative research design the use of theoretical frameworks is not nearly so clear. While some qualitative researchers do employ theoretical frameworks, at least to some degree, others, such as Corbin and Strauss “prefer not to begin our research with a predefined theoretical framework or set of concepts” (Corbin &amp; Strauss, 2008, p. 39). Consequently, qualitative research design has been characterized as an “evolving, flexible, general hunch as to how you might proceed” (Bogdan &amp; Biklen, 2007, p. 45). Theoretical frameworks are employed in qualitative research design to suggest alternate explanations, to help the researcher determine appropriate methodology, and to provide the basis for building and extending theory. The primary consideration for the qualitative researcher is that they remain “open” to new ideas and concepts that might not fit the concepts of the adopted theoretical framework (Corbin &amp; Strauss, 2008, p. 40). Part Four of your reading of the course text (Plano-Clark and Creswell, 2015) focuses on four qualitative methods: narrative, grounded theory, case study, and ethnographic research designs.
-<h3>Learning Activity 6.1 - Read and Evaluate</h3>
+<h3>Learning Activity 6.1 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Select <strong>one</strong> of the servant leadership articles listed under the unit 6 resources. Read the abstract and methods and results section to answer the questions in this learning activity.</li>
- 	<li>Next, using the criteria on pg. 301 in Plano-Clark &amp; Creswell (2015), evaluate the research design in the servant leadership article you chose.The figure on page 302 provides a template for recording your rating and rationale for your evaluation.</li>
+ 	<li>Next, using the criteria on pg. 301 in Plano-Clark &amp; Creswell (2015), evaluate the research design in the servant leadership article you chose. The figure on page 302 provides a template for recording your rating and rationale for your evaluation.</li>
  	<li>In your reflective learning journal, discuss the following questions:
 <ul>
  	<li>What research design was used to guide the study? Was it justified?</li>
@@ -58,7 +40,7 @@ Qualitative research data collection is typically based on one or more of the fo
 A dominant word encountered in qualitative research is triangulation. Triangulation is a term borrowed from navigation and surveying, and conveys the notion that multiple sources of information will help establish a fact (Bogdan &amp; Biklen, 2007, p. 115). Multiple sources of data are seen to lead to a fuller, more complete, and more defensible understanding of the phenomena observed. Consequently, multiple methods of data collection are frequently employed within the same qualitative research study. These commonly consist of the researcher’s field notes, interviews, researcher observations, and analysis of various documents.
 
 In qualitative research, data is usually collected until saturation is achieved. Saturation is a term employed that simply means that no new information relevant to the development of categories, properties, dimensions and variances is forthcoming from continued data gathering (Corbin &amp; Strauss, 2008, p. 143). In effect, findings begin to replicate, and not add anything substantially new (Gall, Gall &amp; Borg, 2007, p. 278). Qualitative researchers often make statements about collecting data until saturation is reached in an effort to demonstrate that sufficient data was collected to support the conclusions that will be reported.
-<h3>Learning Activity 6.2 - Read and Evaluate</h3>
+<h3>Learning Activity 6.2 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 10, "Participants and Data Collection," in Plano-Clark and Creswell (2015).</li>
  	<li>Using the criteria on pg. 349 in Plano-Clark &amp; Creswell (2015), evaluate the participants and data collection in the servant leadership article you chose. The figure on page 350 provides a template for recording your rating and rationale for your evaluation.</li>
@@ -78,7 +60,7 @@ Qualitative research data analysis typically employs analytic induction, is ongo
 Data analysis involves “working with the data, organizing them, breaking them into manageable units, coding them, synthesizing them, and searching for patterns” (Bogdan &amp; Biklen, 2007, p. 159). Analysis involves data interpretation where ideas about the findings are related to broader concerns and concepts. Levels of analysis can range from the superficial description to theoretical interpretation (Corbin &amp; Strauss, 2008, p. 80). The task is monumental. Software such as HyperRESEARCH© is of great assistance in helping the researcher assign codes to text data, which assists in the identification of concepts and themes. Qualitative research findings or results are usually presented in a narrative form. This can take many forms, and be organized in a variety of ways including the use of tables and figures when appropriate. Chapter 11 of the course text provides a concise discussion of this topic.
 
 Because qualitative research can involve the investigation of as few as one research participant (as in a case study), great caution is exercised in making sweeping generalizations. In fact, because the term generalizability itself is strongly associated with quantitative research with much larger samples, Gall, Gall and Borg suggest the term applicability is more appropriate to the different processes and types of evidence associated with qualitative research (2008, p. 477).
-<h3>Learning Activity 6.3 - Blog post</h3>
+<h3>Learning Activity 6.3 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 11, "Data Analysis and Findings," in Plano-Clark and Creswell (2015).</li>
  	<li>Using the criteria on pg. 377 in Plano-Clark &amp; Creswell (2015), evaluate the data analysis and findings in the servant leadership article you chose. The figure on page 378 provides a template for recording your rating and rationale for your evaluation.</li>
@@ -95,7 +77,8 @@ Because qualitative research can involve the investigation of as few as one rese
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
 <h3><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></h3>
-<h3>Learning Activity 6.4 - Blog post  [Kelly - I need to reword these instructions to include reflections from LA 1-3]</h3>
+<h3>Learning Activity 6.4 - Blog post</h3>
+<h3>[Kelly - I need to reword these instructions to include reflections from LA 1-3]</h3>
 Prepare a brief 250- to 500-word response to the following:
 
 As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality qualitative research report is/are . . .
