@@ -16,19 +16,17 @@ We want to shift our focus from the highly theoretical and rigidly structured fo
 &nbsp;
 <h3>Topics</h3>
 Unit 8 is divided into .. topics:
-<p style="padding-left: 30px">Topic 1:</p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
-<p style="padding-left: 30px">Topic 4:</p>
-<p style="padding-left: 30px">Topic 5:</p>
+<p style="padding-left: 30px">Topic 1: What is action research?</p>
+<p style="padding-left: 30px">Topic 2: Recognize two different research designs when reading action research reports.</p>
+<p style="padding-left: 30px">Topic 3: Plan an action research study in response to a problem in your own practice setting.</p>
+<p style="padding-left: 30px">Topic 4: Evaluate an action research study.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
- 	<li>Differentiate the characteristics of action research.</li>
- 	<li>Appraise the applicability of action research to leadership studies.</li>
- 	<li>Assess the implications of action research for leadership practice.</li>
+ 	<li>Identify the purpose of action research.</li>
  	<li>Design an action research project that might be utilized in your leadership practice.</li>
+ 	<li>Evaluate an action research project proposal.</li>
 </ol>
 &nbsp;
 <h3>Activity Checklist</h3>
@@ -44,9 +42,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
- 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.
-
-&nbsp;</li>
+ 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.&nbsp;</li>
  	<li>Spender, J. (2017, January 12). <em>What is action research?</em> [Video file]. Retrieved from <a href="http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/">http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/</a></li>
 </ul>
 &nbsp;
