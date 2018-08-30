@@ -5,51 +5,70 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/
+  https://create.twu.ca/ldrs591/unit-8-learning-activities/
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-### Learning Activity 8.1 - Blog post
+This week in Unit 8 you will get a chance to explore Action Research.  According to Mutimbi and Khaila (2011, p.27):
+<blockquote>A standard research methods course at university emphasizes scientific ways of conducting research. Students are taught scientific methods of collecting data, analyzing it and reporting. They collect data and analyse it in ways that enable them to describe situations as they exist, and they come up with long ‘wish lists’ in the form of recommendations for others to implement. They become experts in analyzing and developing models to describe situations – <em>but they cannot change the situations</em>. In other words, they are taught to describe problems, but not to solve them. These methods are not suitable for workers who are grappling with real life issues and are looking for ways of helping solve their problems. They need research approaches and methods that enable them to generate data that they can use to solve problems.</blockquote>
+So what is action research? "It is a disciplined process of inquiry conducted <i>by</i> and <i>for</i> those taking the action" (Sagor, 2000, para. 1). Its purpose is to solve local/practical problems through the application of systematic investigation.  The problem is local, the investigation is local, and there is little concern for generalizing results to other settings.
 
-* Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell (2015).
+Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals.  Action research differs from more formal research in some important ways that you will uncover in the readings this week.
+<h3>What is Action Research?</h3>
+Action research has been defined as “a form of applied research whose primary purpose is to increase the quality, impact, and justice” of professional practice (Gall, Gall &amp; Borg, 2007, p. 597). Its purpose is to solve local problems through the application of systematic investigation. The problem is local, the investigation is local, and there is little concern for generalizing results to other settings. Gay (1987) states “the primary goal of action research is the solution of a given problem, not contribution to science” (p. 8). Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals. Action research differs from more formal research in some important ways.
 
-* Read <a href="https://create.twu.ca/ldrs591-sp18/unit-8-notes/">Unit 8 Notes.</a>
-* Watch the following video by John Spencer (2017) that explains what action research is [http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/](http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/)
-* Think about some practical problems that you have faced in your professional life that you would like to change. In a new blog post list three problems that matter to you and that you think you can systematically address in your work situation. Please post your professional issues on your blog. For situations that require confidentiality, please change the names of any person or organization that you are referring to. The post should be between 250-500 words.
+Formal research is typically conducted by researchers with a great deal of experience and/or training in research, and who wish to produce new, generalizable knowledge. Action research is typically conducted by those with much less experience in and knowledge of research, with the intention of solving a current, local problem. Formal research typically employs random or representative sampling techniques, while action research will typically employ convenience sampling. Formal research designs typically exhibit rigorous controls, with a long time frame, while action research designs display more casual procedures, often employing emergent designs, and are focused on short-term time frames (Gall, Gall &amp; Borg 2007, p. 598). Action research can serve personal, professional, and political purposes.
 
-Make sure you add a link to this page in your post.
+At its heart, action research is cyclical in nature. Gill and Johnson (2002) assert that action research is a planned intervention by a researcher, or more often a consultant, into some natural social setting, such as an organization. The effects of that intervention are then monitored and evaluated with the aim of discerning whether or not that action has produced the expected consequences. In other words, the researcher acts upon his or her beliefs or theories in order to change the organization (Gill &amp; Johnson, 2002, p. 71). Going back to Boyer’s model of scholarship, what distinguishes action research as research or scholarly inquiry (i.e., as more than problem-solving) is the explicit commitment to contribute to existing knowledge, even if it is not widely generalizable.
 
-##### Categories for this post:
-
-* ldrs591
-* Unit 8
-* Learning Activity 8.1
-
-### Learning Activity 8.2 - Podcast
-
+The method of action research presented by Gill and Johnson (2002) draws on Lewin’s theory of studying things through changing them (i.e., change as the method or process of research). Stringer and Genat (2004) outline a research process that has action as final step, after eliciting stakeholder perspectives, analyzing data (identifying key features of stakeholder experience), and writing the research report (i.e., change as the outcome of research). Stringer and Genat also emphasize the participatory process of action research in which change is brought about through the participants in the research project, rather than being imposed on them from the outside. They explain that a major purpose of participatory approaches to inquiry is to bring people together in a dialogic and productive relationship, enabling the development of a sense of community through the sharing of perspectives, the negotiation of meaning, and the development of collaboratively produced activities, programs, and projects (Stringer &amp; Genat, 2004, p. 9).
+<h3>Learning Activity 8.1 - Read, Watch and Reflect</h3>
+<ul>
+ 	<li>Read chapter 13, "Action Research Designs," in Plano-Clark and Creswell (2015).</li>
+ 	<li>Watch the following video by John Spencer (2017) that explains what action research is <a href="http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/">http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/</a></li>
+ 	<li>Think about some practical problems that you have faced in your professional life that you would like to change. In a your reflective learning journal list three problems that matter to you and that you think you can systematically address in your work situation. After reflecting on these problems, select one that you would like to address for your action research project.</li>
+</ul>
+Glanz (1998) has suggested that an action research cycle consists of six steps, which may or may not be always addressed in order. The usual first step is to select a focus. This is typically followed by data collection, then the analysis and interpretation of the data. The analysis and interpretation of data typically would suggest action to be taken. Action is followed by a period of reflection on the results of the action, and on the basis of this reflection, the action is either continued or modified. The cycle then comes full circle to begin with a new focus (Glanz, 1998, p. 27).
+<h3>Learning Activity 8.2 - Podcast</h3>
 This learning activity asks you to create an idea for an action research project based on one of the practical problems you have identified from your professional life. You will present this project idea in a podcast for your colleagues. Audio I and Audio II in the Digital Literacy section of the orientation will explain how to set up your podcast. You can find the link to the orientation <a href="https://create.twu.ca/orientation/#Digital_Literacy">here.</a>
 
-If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video. This learning activity is intended to be informal, so do not spend too much time planning and researching your topic.
-
-##### Instructions: {#criteria-and-evaluation}
-
-* Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the 8 steps described by Plano-Clark and Creswell (2015) on pp. 440-442.
-* Record that idea in a podcast so that it can be presented to your colleagues for feedback.
-* Your introduction should include your key problem and explain the structure of your presentation.
-* Your project idea should relate to a practical leadership issue you are currently facing.
-* Your project idea should be clear and well organized.
-* Your project should fit within 3-5 minutes but no more than 6 minutes.
-* Provide a conclusion that gives a call to action.
-* Upload your podcast to [soundcloud.com](https://soundcloud.com), [tapewrite.com](https://tapewrite.com), or another suitable online service and embed it in a new post on your blog.
+If you know how to create video you are welcome to do that instead. It is your choice whether to create a podcast or video. This learning activity is intended to be informal, so do not spend too much time planning and researching your topic. Please note that if you are sharing confidential information from your place of employment that you should change the name of your employer or any people involved.
+<h5 id="criteria-and-evaluation">Instructions:</h5>
+<ul>
+ 	<li>Using one of the practical problems you identified from learning activity 8.1, create an idea for an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.</li>
+ 	<li>Record that idea in a podcast so that it can be presented to your colleagues for feedback.</li>
+ 	<li>Your introduction should include your key problem and explain the structure of your presentation.</li>
+ 	<li>Your project idea should relate to a practical leadership issue you are currently facing.</li>
+ 	<li>Your project idea should be clear and well organized.</li>
+ 	<li>Your project should fit within 3-5 minutes but no more than 6 minutes.</li>
+ 	<li>Provide a conclusion that gives a call to action.</li>
+ 	<li>Upload your podcast to <a href="https://soundcloud.com">soundcloud.com</a>, <a href="https://tapewrite.com">tapewrite.com</a>, or another suitable online service and embed it in a new post on your blog.</li>
+</ul>
+<strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
 
 Make sure you add a link to this page in your post.
+<h5>Categories for this post:</h5>
+<ul>
+ 	<li>ldrs591</li>
+ 	<li>Unit 8</li>
+ 	<li>Learning Activity 8.2</li>
+</ul>
+<h3>Unit 8 Summary</h3>
+<h5>References</h5>
+Gall, M., Gall, J., &amp; Borg, W. (2007). <em>Educational research: An introduction (8th ed.).</em> Boston, MA: Pearson.
 
-##### Categories for this post:
+Gay, L. (1987). <em>Educational research: Competencies for analysis and application.</em> Columbus, OH: Merrill.
 
-* ldrs591
-* Unit 8
-* Learning Activity 8.2
+Gill, J., &amp; Johnson, P. (2002). <em>Research methods for managers</em> (3rd ed.). Thousand Oaks, CA: Sage.
 
-&nbsp;
-<h3>Learning Activity 8.3</h3>
-In this learning activity you will be asked to complete Assignment 4, <a href="https://create.twu.ca/ldrs591-sp18/literature-review-outline/">Literature Review Outline</a>. For this assignment you will write an outline for your formal literature review paper. Please submit your assignment via the link at the bottom of the assignment page.
+Glanz, J. (1998). <em>Action research: An educational leaders guide to school improvement.</em> Norwood, MA: Christopher-Gordon.
+
+Leedy, P., &amp; Ormrod, J. (2010). <em>Practical research: Planning and design</em> (9th ed.). Upper Saddle River, NJ: Prentice-Hall.
+
+Mutimba, J. K., &amp; Khaila, S.. (2011). Action research: A practical step-by-step guide for agricultural extension professionals. <i>South African Journal of Agricultural Extension </i>, <i>39</i>(1), 26-34. Retrieved February 20, 2018, from http://www.scielo.org.za/scielo.php?script=sci_arttext&amp;pid=S0301-603X2011000100003&amp;lng=en&amp;tlng=en.
+
+Sagor, R. (2000). <em>What is action research?</em> In guiding school improvement with action research. Alexandria, VA: ACSD. Retrieved from http://www.ascd.org/publications/books/100047/chapters/What-Is-Action-Research%C2%A2.aspx
+
+Smith, M. K. (2007). <em>Action research.</em> Retrieved from <a href="http://infed.org/mobi/action-research/">http://infed.org/mobi/action-research/</a>
+
+Stringer, E., &amp; Genat, W. (2004). <em>Action research in health.</em> Upper Saddle River, NJ: Pearson Merrill Prentice-Hall.
