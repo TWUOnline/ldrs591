@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-24 14:49:51
 ---
 We are near the end of our investigation of research designs and the interpretation of research reports.  This week, in Unit 9, you will be reading about the common elements of a conclusion section of a research report in Chapter 14 of Plano-Clark and Creswell's (2015) text.  After you have read the chapter, then you will be working through the last few servant leadership articles to evaluate and interpret the conclusions section of a research report.
-<h3>Learning Activity 9.1</h3>
+<h3>Learning Activity 9.1 - Evaluate and Blog Post</h3>
 Before we get into the conclusion of research reports, first you will peer review one Action Research project (from Unit 8) by colleagues in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
 
 For your review make notes about the strengths of the project idea as well as areas to work on (clarify, more analysis, more personal application) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445. Here are questions you should address in your evaluation:
