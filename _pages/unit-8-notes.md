@@ -5,11 +5,11 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/unit-8-notes/
+  https://create.twu.ca/ldrs591/unit-8-notes/
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-### Action Research Design
+<h3>Action Research Design</h3>
 
 Action research has been defined as “a form of applied research whose primary purpose is to increase the quality, impact, and justice” of professional practice (Gall, Gall &amp; Borg, 2007, p. 597). Its purpose is to solve local problems through the application of systematic investigation. The problem is local, the investigation is local, and there is little concern for generalizing results to other settings. Gay (1987) states “the primary goal of action research is the solution of a given problem, not contribution to science” (p. 8). Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals. Action research differs from more formal research in some important ways.
 
@@ -21,18 +21,18 @@ The method of action research presented by Gill and Johnson (2002) draws on Lewi
 
 Glanz (1998) has suggested that an action research cycle consists of six steps, which may or may not be always addressed in order. The usual first step is to select a focus. This is typically followed by data collection, then the analysis and interpretation of the data. The analysis and interpretation of data typically would suggest action to be taken. Action is followed by a period of reflection on the results of the action, and on the basis of this reflection, the action is either continued or modified. The cycle then comes full circle to begin with a new focus (Glanz, 1998, p. 27).
 
-##### References
+<h5>References</h5>
 
-Gall, M., Gall, J., &amp; Borg, W. (2007). _Educational research: An introduction (8th ed.)._ Boston, MA: Pearson.
+Gall, M., Gall, J., &amp; Borg, W. (2007). <em>Educational research: An introduction (8th ed.).</em> Boston, MA: Pearson.
 
-Gay, L. (1987). _Educational research: Competencies for analysis and application._ Columbus, OH: Merrill.
+Gay, L. (1987). <em>Educational research: Competencies for analysis and application.</em> Columbus, OH: Merrill.
 
-Gill, J., &amp; Johnson, P. (2002). _Research methods for managers_ (3rd ed.). Thousand Oaks, CA: Sage.
+Gill, J., &amp; Johnson, P. (2002). <em>Research methods for managers</em> (3rd ed.). Thousand Oaks, CA: Sage.
 
-Glanz, J. (1998). _Action research: An educational leaders guide to school improvement._ Norwood, MA: Christopher-Gordon.
+Glanz, J. (1998). <em>Action research: An educational leaders guide to school improvement.</em> Norwood, MA: Christopher-Gordon.
 
-Leedy, P., &amp; Ormrod, J. (2010). _Practical research: Planning and design_ (9th ed.). Upper Saddle River, NJ: Prentice-Hall.
+Leedy, P., &amp; Ormrod, J. (2010). <em>Practical research: Planning and design</em> (9th ed.). Upper Saddle River, NJ: Prentice-Hall.
 
-Smith, M. K. (2007). _Action research._ Retrieved from [http://infed.org/mobi/action-research/](http://infed.org/mobi/action-research/)
+Smith, M. K. (2007). <em>Action research.</em> Retrieved from <a href="http://infed.org/mobi/action-research/">http://infed.org/mobi/action-research/</a>
 
-Stringer, E., &amp; Genat, W. (2004). _Action research in health._ Upper Saddle River, NJ: Pearson Merrill Prentice-Hall.
+Stringer, E., &amp; Genat, W. (2004). <em>Action research in health.</em> Upper Saddle River, NJ: Pearson Merrill Prentice-Hall.
