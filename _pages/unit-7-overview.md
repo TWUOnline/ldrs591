@@ -18,7 +18,7 @@ Plano-Clark and Creswell assert that the decision to engage in qualitative or qu
 Unit 7 is divided into .. topics:
 <p style="padding-left: 30px">Topic 1: Understand why researchers use mixed-methods research.</p>
 <p style="padding-left: 30px">Topic 2: Recognize four different mixed-methods research designs.</p>
-<p style="padding-left: 30px">Topic 3: Using a mixed-methods approach to understand leadership.</p>
+<p style="padding-left: 30px">Topic 3: Why a mixed-methods approach is used to understand leadership.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
@@ -47,10 +47,10 @@ Here are the resources you will need to complete the unit:
  	<li>
 <h5>E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a>.</h5>
 &nbsp;</li>
- 	<li>Beck, C. D. (2014). Antecedents of servant leadership: A mixed methods study. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 299-314.&nbsp;</li>
- 	<li>Black, G. L. (2013). Correlational analysis of servant leadership and school climate. <em>Journal of Catholic Education, 13</em>(4), 437-466. Retrieved from: <a href="https://eric.ed.gov/?id=EJ914879">https://eric.ed.gov/?id=EJ914879</a>&nbsp;</li>
- 	<li>Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry, 9</em>(1), 774-88.&nbsp;</li>
- 	<li>Sendjaya, S., Sarros, J.C., &amp; Santora, J.C. (2008). Defining and measuring servant leadership behaviour in organizations. <em>Journal of Management Studies, 45</em>(2), 402-424.&nbsp;</li>
+ 	<li>Beck, C. D. (2014). Antecedents of servant leadership: A mixed methods study. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 299-314.</li>
+ 	<li>Black, G. L. (2013). Correlational analysis of servant leadership and school climate. <em>Journal of Catholic Education, 13</em>(4), 437-466. Retrieved from: <a href="https://eric.ed.gov/?id=EJ914879">https://eric.ed.gov/?id=EJ914879</a></li>
+ 	<li>Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving high organization performance through servant leadership. <em>Journal of Business Inquiry, 9</em>(1), 774-88.</li>
+ 	<li>Sendjaya, S., Sarros, J.C., &amp; Santora, J.C. (2008). Defining and measuring servant leadership behaviour in organizations. <em>Journal of Management Studies, 45</em>(2), 402-424.</li>
  	<li>Stentz, J. E., Plano-Clark, V. L., &amp; Matkin, G. S. (2012). Applying mixed methods to leadership research: A review of current practices. <em>The Leadership Quarterly, 23</em>(6), 1173-1183.</li>
 </ul>
 &nbsp;
