@@ -9,26 +9,22 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
+Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  Here is what you have coming up this week. <strong>Learning Activities:</strong> For the learning activities this week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and writing a reflection on what your expectations are now for a high quality research report.
 <h3>Learning Activity 10.1 - Blog post</h3>
-
-In unit 1 you were asked to blog about a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
+In unit 1 you were asked to discuss a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
 
 In this unit, the question is a little different. I want to know, if after taking this class, would you make your decisions differently? What new insights have you learned and how would those insights inform your decision making process now?
 
 Please post your response to these questions on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
-
 <h5>Categories for this post:</h5>
-
 <ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.1</li>
+ 	<li>ldrs591</li>
+ 	<li>Unit 10</li>
+ 	<li>Learning Activity 10.1</li>
 </ul>
-
 <h3>Learning Activity 10.2 - Blog post</h3>
-
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
 
 My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context. In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
@@ -36,42 +32,32 @@ My hope is that this course will convince you of the importance of basing your l
 Please post your response to this question on your blog (250-500 words).
 
 Make sure you add a link to this page in your post.
-
 <h5>Categories for this post:</h5>
-
 <ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.2</li>
+ 	<li>ldrs591</li>
+ 	<li>Unit 10</li>
+ 	<li>Learning Activity 10.2</li>
 </ul>
-
 <h3>Learning Activity 10.3 - Blog post</h3>
-
 We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports and you have increased your ability to sense potential problems.
 
 In this learning activity you are asked to do the following:
-
 <ul>
-<li>Read the <a href="https://create.twu.ca/ldrs591/unit-10-notes/">unit 10 notes</a>.</li>
-<li>Watch the video <a href="https://www.ted.com/talks/ben_goldacre_battling_bad_science">Battling Bad Science</a>.</li>
-<li>Prepare a brief 250- to 300-word response on your blog to the following questions:</p></li>
-<li><p>How can I know that I can trust what I am reading?</p></li>
-<li>How do I know the research has been performed competently?</li>
-<li>How do I know the research is reported honestly?</li>
-<li>How do I know the findings presented are consistent with what other researchers would conclude?</li>
-<li>Close with one question that invites further comment and discussion.</li>
+ 	<li>Read the <a href="https://create.twu.ca/ldrs591/unit-10-notes/">unit 10 notes</a>.</li>
+ 	<li>Watch the video <a href="https://www.ted.com/talks/ben_goldacre_battling_bad_science">Battling Bad Science</a>.</li>
+ 	<li>Prepare a brief 250- to 300-word response on your blog to the following questions:</li>
+ 	<li>How can I know that I can trust what I am reading?</li>
+ 	<li>How do I know the research has been performed competently?</li>
+ 	<li>How do I know the research is reported honestly?</li>
+ 	<li>How do I know the findings presented are consistent with what other researchers would conclude?</li>
+ 	<li>Close with one question that invites further comment and discussion.</li>
 </ul>
-
-<p>Make sure you add a link to this page in your post.
-
+Make sure you add a link to this page in your post.
 <h5>Categories for this post:</h5>
-
 <ul>
-<li>ldrs591</li>
-<li>Unit 10</li>
-<li>Learning Activity 10.3</li>
+ 	<li>ldrs591</li>
+ 	<li>Unit 10</li>
+ 	<li>Learning Activity 10.3</li>
 </ul>
-
 <h3>Learning Activity 10.4</h3>
-
 We have now concluded our course on Scholarly Inquiry. In this learning activity you will be asked to complete Assignment 5, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a> assignment which is to write a formal literature review paper. Please submit your assignment for peer review first and then submit it via the link at the bottom of the assignment page.
