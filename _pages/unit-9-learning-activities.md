@@ -26,9 +26,15 @@ For your review make notes about the strengths of the project idea as well as ar
 Summarize your notes in a response to your colleagues projects in 250-350 words.
 
 Please post your review <strong><em>on your own blog</em></strong> and include a link to your colleague's post so that they can see your review. Remember that your response will be visible to all members of the class.
+<h5>Categories for this post:</h5>
+<ul>
+ 	<li>ldrs591</li>
+ 	<li>Unit 9</li>
+ 	<li>Learning Activity 9.1</li>
+</ul>
 <h3>The Conclusion Section of a Research Report</h3>
 The final section of a research report is the conclusion section and the back matter.  Leedy and Ormrod observe, “Any research report should end by bringing closure to the interpretation of the data” (2010, p. 296).  They assert that the conclusion is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished.  All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions.  Above all, a good conclusion makes explicit how the findings or results support the conclusions.  Also, Leedy and Ormrod (2010) suggest that the conclusion should identify the weaknesses and limitations of the study, suggest practical implications of the findings or results, and make recommendations for further research (p. 297).
-<h3>How are conclusions similar and different among the different research approaches?</h3>
+<h3>Comparing the Contents of Conclusion Sections of Different Research Approaches</h3>
 Plano-Clark and Creswell (2015) provide a helpful chart on page 472 that provides a comparison of the contents of the conclusion section for quantitative and qualitative research reports.  In common, the conclusion will report a summary of the major results or findings, a statement of comparison of the study results or findings with those of similar previous studies, a statement of the implications of the results or findings with suggestions for practice, a statement of the limitations of the study, and a concluding statement as to the overall significance of the study.  Significant differences are found in that quantitative studies explain the study results in terms of the predictions (hypotheses) discussed in the introductions, while qualitative studies "interpret their results in terms of their overall goal to explore a central phenomenon to describe its complexity and meaning" (p. 472).
 
 &nbsp;
