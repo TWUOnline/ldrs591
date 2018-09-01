@@ -1,6 +1,6 @@
 ---
 ID: 1290
-post_title: Literature Search (Assignment 2)
+post_title: Literature Search (Assignment 3)
 author: Colin Madland
 post_excerpt: ""
 layout: post
