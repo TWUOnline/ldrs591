@@ -2,7 +2,7 @@
 ID: 1288
 post_title: >
   Scholarly Article Critique (Assignment
-  3)
+  4)
 author: Colin Madland
 post_excerpt: ""
 layout: post
