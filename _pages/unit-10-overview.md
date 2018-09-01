@@ -45,9 +45,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 Here are the resources you will need to complete the unit:
 <ul>
  	<li>Goldcare, B. (2011, July). <em>Battling bad science.</em> [Video file]. Retrieved from <a href="https://www.ted.com/talks/ben_goldacre_battling_bad_science">https://www.ted.com/talks/ben_goldacre_battling_bad_science</a></li>
+ 	<li>Leadership Integration Project Manual</li>
 </ul>
-&nbsp;
-
 Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
 
 <span style="color: #ff0000"><strong>[Kelly to check all links later]</strong></span>
