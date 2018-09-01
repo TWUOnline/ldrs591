@@ -2,7 +2,7 @@
 ID: 1286
 post_title: >
   Clarifying your Research Interest
-  (Assignment 1)
+  (Assignment 2)
 author: Colin Madland
 post_excerpt: ""
 layout: post
@@ -36,9 +36,7 @@ There is no limit to the number (and nature) of research questions the researche
  	<li>What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.</li>
  	<li>Identify the research question you feel is <strong>the strongest one</strong> to pursue for a future research paper, and outline reasons for your selection.</li>
  	<li>In what broad fields do you anticipate searching for literature that might inform your research question (e.g., education, business, psychology, healthcare, leadership, religion)?</li>
- 	<li>Try using the following three statements to help get some clarity about what exactly you want to address in your question. If you can fill out these statements, then you most likely have a narrow enough topic with enough direction to perform some great research.
-
-<b>1)  I am researching </b>______________________________________ (<b>topic</b>)
+ 	<li>Try using the following three statements to help get some clarity about what exactly you want to address in your question. If you can fill out these statements, then you most likely have a narrow enough topic with enough direction to perform some great research.<b>1)  I am researching </b>______________________________________ (<b>topic</b>)
 
 <b>2)  because I want to find out </b>______________________________(<b>issue/question</b>)
 
