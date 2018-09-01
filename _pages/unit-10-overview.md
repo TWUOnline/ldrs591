@@ -17,12 +17,11 @@ Scholarly research reports can have profound impact on society. Thus far in this
 
 &nbsp;
 <h3>Topics</h3>
-Unit 10 is divided into .. topics:
-<p style="padding-left: 30px">Topic 1:</p>
-<p style="padding-left: 30px">Topic 2:</p>
-<p style="padding-left: 30px">Topic 3:</p>
-<p style="padding-left: 30px">Topic 4:</p>
-<p style="padding-left: 30px">Topic 5:</p>
+Unit 10 is divided into 4 topics:
+<p style="padding-left: 30px">Topic 1: Issues of Credibility</p>
+<p style="padding-left: 30px">Topic 2: Twelve Important Questions</p>
+<p style="padding-left: 30px">Topic 3: Leadership Decisions</p>
+<p style="padding-left: 30px">Topic 4: Leadership Integration Project (LIP)</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
