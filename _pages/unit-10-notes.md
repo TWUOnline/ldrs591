@@ -5,23 +5,25 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/unit-10-notes/
+  https://create.twu.ca/ldrs591/unit-10-notes/
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-### Issues of Credibility
+<h3>Issues of Credibility</h3>
 
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes:  Simply stated, the question is “how can I know I can trust what I am reading?”  At the heart of this issue are three interrelated concerns:  Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)?
 
 By now you are aware that the reason behind much of the tedious detail provided in research reports is aimed at addressing the question "is the research performed competently?"  Great efforts are expended in the publication process to further address research competence, honesty, and consistency.  As we will see, the final concern introduces an element that can be distressing.
 
-##### Competence and Honesty
+<h5>Competence and Honesty</h5>
 
 You will recall that earlier in the course it was suggested that you always check the “Peer-Reviewed or Scholarly” box when doing an online search of the literature.  Your first line of establishing trust in the quality of a research article is the review process followed in the formal presentation and publishing of research.
 
 Typically, the first opportunity a researcher has to disseminate their work is when their PhD dissertation is defended and subsequently published.  The process involved in the successful defense of a dissertation is lengthy and strenuous, to say the very least.  In effect, all three questions are addressed by the dissertation committee, which functions, at that stage, as a committee of peers.  Beyond that, another first opportunity is to present papers at conferences.  Such papers are typically presented beforehand to a jury of peers who critique the paper with the above three criteria in mind.  Journal publication extends the processes of peer review even beyond that of conferences.  Typically, articles submitted for publication are reviewed by peers who are experts in the field, often blind (the author does not know who the reviewers are or the reviewer does not know who the author is) or double-blind (neither the author nor reviewer are known to each other).  This process results in juried or refereed or peer-reviewed articles that are subsequently published.  The peer-reviewing process is intended to eliminate work which is flawed in fundamental ways.  However, this process is not infallible.  Consider this honest statement:
 
-> We must caution you, however, that it is not safe to believe that peer review operates with flawless precision as an absolute guarantor of quality in published research.  The effectiveness of the peer review system can be no better than the quality of function produced by each part, and, despite the best efforts of editors and reviewers, judgments fail and mistakes do occur.  Taken across journals, editors, and reviewers, there is enough residual variability to give all readers cause to be wary and to exercise one final step in quality control—by forming their own judgment about the adequacy of what they read. (Locke, et al., 2010, p. 35).
+<blockquote>
+  We must caution you, however, that it is not safe to believe that peer review operates with flawless precision as an absolute guarantor of quality in published research.  The effectiveness of the peer review system can be no better than the quality of function produced by each part, and, despite the best efforts of editors and reviewers, judgments fail and mistakes do occur.  Taken across journals, editors, and reviewers, there is enough residual variability to give all readers cause to be wary and to exercise one final step in quality control—by forming their own judgment about the adequacy of what they read. (Locke, et al., 2010, p. 35).
+</blockquote>
 
 Be aware that all journals are not equally selective.  Every discipline has front-line journals that have the highest standards of selectivity, and equally, every discipline has journals that are remarkable for their lack of selectivity.  You can get some insight into what you are dealing with if you check the requirements for document submission that are embedded somewhere in every journal.  Often, you can gain insight by looking at who the editors and reviewers are, and finally, the reputation of the journal is important.
 
@@ -39,23 +41,23 @@ Clearly, obvious conflicts of interest with the researcher contribute to the bre
 
 Finally, obvious errors either due to carelessness or poor researcher decisions contribute to the erosion of trust.  Poor scholarship is evident when such errors are sufficient to call into question whether the researcher has even a basic understanding of the field.
 
-##### Twelve Important Questions
+<h5>Twelve Important Questions</h5>
 
-Locke, et al. (2010) suggest some important questions to keep in mind when making decisions regarding the merit of research reports you read.  These will help to provide another framework that extends what we have developed thus far in our work with Plano-Clark and Creswell (2015).  These twelve questions are as follows:  
-1.    Has the paper been peer reviewed for a refereed journal?  
-2.    Is evidence of replication available to support the results?  
-3.    Is a conflict of interest evident for the person(s) doing, sponsoring or disseminating the study?  
-4.    Can the research question(s) be answered with the design and methods used in the study?  
-5.    Is evidence of technical problems apparent in design, methods, or analysis of the data?  
-6.    Are sample composition and size adequate to address the research question(s) asked and to support the conclusions reached?  
-7.    Are the conclusions offered supported by the findings?  
-8.    Is there any indication that the investigator was careless in conducting or reporting the study?  
-9.    Does the author make statements about the study that appear to be examples of a poor understanding of scholarship?  
-10.    Is the author conscientious in frankly drawing your attention to limitations imposed by the design or sample or by compromises made to circumvent problems?  
-11.    Did you find that the report was complete enough for you to form a judgment about each important aspect of the study?  
+Locke, et al. (2010) suggest some important questions to keep in mind when making decisions regarding the merit of research reports you read.  These will help to provide another framework that extends what we have developed thus far in our work with Plano-Clark and Creswell (2015).  These twelve questions are as follows:<br />
+1.    Has the paper been peer reviewed for a refereed journal?<br />
+2.    Is evidence of replication available to support the results?<br />
+3.    Is a conflict of interest evident for the person(s) doing, sponsoring or disseminating the study?<br />
+4.    Can the research question(s) be answered with the design and methods used in the study?<br />
+5.    Is evidence of technical problems apparent in design, methods, or analysis of the data?<br />
+6.    Are sample composition and size adequate to address the research question(s) asked and to support the conclusions reached?<br />
+7.    Are the conclusions offered supported by the findings?<br />
+8.    Is there any indication that the investigator was careless in conducting or reporting the study?<br />
+9.    Does the author make statements about the study that appear to be examples of a poor understanding of scholarship?<br />
+10.    Is the author conscientious in frankly drawing your attention to limitations imposed by the design or sample or by compromises made to circumvent problems?<br />
+11.    Did you find that the report was complete enough for you to form a judgment about each important aspect of the study?<br />
 12.    Do you understand all of the report, or, in all honesty, do you require assistance with some elements?  (p. 51)
 
-##### References
+<h5>References</h5>
 
-Locke, L., Silverman, S., & Spirduso, W. (2010). _Reading and understanding research_ (3rd ed.). Los Angeles, CA:  Sage.  
-Plano-Clark, V., & Creswell, J. (2015). _Understanding research: A consumers guide._ Boston, MA: Pearson.
+Locke, L., Silverman, S., &amp; Spirduso, W. (2010). <em>Reading and understanding research</em> (3rd ed.). Los Angeles, CA:  Sage.<br />
+Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumers guide.</em> Boston, MA: Pearson.
