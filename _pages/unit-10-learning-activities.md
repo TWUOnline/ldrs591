@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  This week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and writing a reflection on what your expectations are now for a high quality research report.  You will also be introduced to the MA Lead: Leadership Integration Project (LDRS 697/698).
+Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  This week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and reflecting on what your expectations are now for a high quality research report.  You will also be introduced to the MA Lead: Leadership Integration Project (LDRS 697/698).
 <h3>Issues of Credibility</h3>
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes: Simply stated, the question is “how can I know I can trust what I am reading?” At the heart of this issue are three interrelated concerns: Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)?
 
@@ -54,7 +54,7 @@ In unit 1 you were asked to discuss a recent decision you made as a leader. You 
 
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
 
-My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available in a given context.
+My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available.
 <h3>Learning Activity 10.2 - Reflect and Blog post</h3>
 In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
@@ -68,20 +68,16 @@ Make sure you add a link to this page in your post.
  	<li>Learning Activity 10.2</li>
 </ul>
 <h3>Leadership Integration Project</h3>
-All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are LDRS 697 and LDRS 698.  Theses courses are referred to as the Learning Integration Project or LIP.  The Leadership Integration Project consists of a total of four credit hours of work, the first 2 credit hours is for LDRS 697, followed by another 2 credit hours for LDRS 698.  These courses represent the final demonstration of a learner’s ability to integrate knowledge learned in the program curriculum and to practice the MA Leadership competencies.
+All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are LDRS 697 and LDRS 698.  Theses courses are referred to as the Learning Integration Project or LIP.  The Leadership Integration Project is the capstone individual product of the MA in Leadership program and consists of a total of four credit hours of work, the first 2 credit hours is for LDRS 697, followed by another 2 credit hours for LDRS 698.  These courses represent the final demonstration of a learner’s ability to integrate knowledge learned in the program curriculum and to practice the MA Leadership competencies.
 
-In LDRS 697/698 you will propose and implement a Leadership Integration Project that integrates knowledge and experiences gained in the MA Lead program. In this, you will assemble together diverse aspects of leadership into a focused whole using Boyer’s model of scholarship.
-
-LDRS/MAEL 697/698 is the capstone individual product of the MA in Leadership program. In LDRS/MAEL 697/698 through completing the activities you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills. LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.
+In LDRS 697/698 you will propose and implement a Leadership Integration Project that integrates knowledge and experiences gained in the MA Lead program. In LDRS 697/698 you will complete a series of activities (one pre-work assignment and 5 assignments) where you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills.  LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.  Ideally, your Leadership Integration Project is a report of the action research you have conducted to further your personal professional practice.
 <h3>Learning Activity 10.3 - Read, Watch and Ask Questions!</h3>
+For this learning activity, I would like you to become familiar with the rationale, expectations and process of the Leadership Integration Project.
 <ul>
- 	<li>Read the rationale for the Leadership Integration Project here:https://create.twu.ca/ldrs591/leadership-integration-project/&nbsp;</li>
- 	<li>I have narrated a slide presentation that provides you with an orientation to the LIP here:<a href="https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0">https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0</a></li>
- 	<li>Read the Leadership Integration Project Manual that I have posted on the Moodle site.</li>
-</ul>
-At the end of this week I will pair you with a faculty member who will supervise your Leadership Integration Project for the duration of LDRS 697/698.  The advising process involves a series of discussions between the student and the advisor on leadership development and value added to workplace issues.
-<ul>
- 	<li>For this learning activity, I would like you to prepare a list of questions that you have about the LIP (LDRS 697/698) and email those questions to Dr. Strong.</li>
+ 	<li>To begin, read the rationale for the Leadership Integration Project provided here: <a href="https://create.twu.ca/ldrs591/leadership-integration-project/">https://create.twu.ca/ldrs591/leadership-integration-project/</a></li>
+ 	<li>Next, I would like you to watch a narrated a slide presentation that I have created that provides you with an orientation to the LIP here: <a href="https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0">https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0</a></li>
+ 	<li>Then, please read the Leadership Integration Project Manual that I have posted on the Moodle site which will give you a clear overview of the expectations for the LIP.</li>
+ 	<li>Finally, I would like you to prepare a list of questions that you have about the LIP (LDRS 697/698) and email those questions to Dr. Strong.</li>
 </ul>
 <h3>Learning Activity 10.4</h3>
 We have now concluded our course on Scholarly Inquiry. In this learning activity you will be asked to complete Assignment 5, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a> assignment which is to write a formal literature review paper. Please submit your assignment to the instructor via the drop box on the Learning Management System.
