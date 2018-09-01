@@ -49,7 +49,7 @@ In this learning activity you are asked to do the following:
 </ul>
 </li>
 </ul>
-<h3>Leadership Decisions</h3>
+<h3>Leadership Decisions Revisited</h3>
 In unit 1 you were asked to discuss a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
 
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
@@ -75,9 +75,7 @@ In LDRS 697/698 you will propose and implement a Leadership Integration Project 
 LDRS/MAEL 697/698 is the capstone individual product of the MA in Leadership program. In LDRS/MAEL 697/698 through completing the activities you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills. LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.
 <h3>Learning Activity 10.3 - Read, Watch and Ask Questions!</h3>
 <ul>
- 	<li>Read the rationale for the Leadership Integration Project here:https://create.twu.ca/ldrs591/leadership-integration-project/
-
-&nbsp;</li>
+ 	<li>Read the rationale for the Leadership Integration Project here:https://create.twu.ca/ldrs591/leadership-integration-project/&nbsp;</li>
  	<li>I have narrated a slide presentation that provides you with an orientation to the LIP here:<a href="https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0">https://www.dropbox.com/s/lt3ralpyvut3c8r/LIPOrientation.mp4?dl=0</a></li>
  	<li>Read the Leadership Integration Project Manual that I have posted on the Moodle site.</li>
 </ul>
