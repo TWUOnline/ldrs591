@@ -67,7 +67,7 @@ Make sure you add a link to this page in your post.
  	<li>Unit 10</li>
  	<li>Learning Activity 10.2</li>
 </ul>
-<h3>Leadership Integration Project</h3>
+<h3>An Introduction to the Leadership Integration Project</h3>
 All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are LDRS 697 and LDRS 698.  Theses courses are referred to as the Learning Integration Project or LIP.  The Leadership Integration Project is the capstone individual product of the MA in Leadership program and consists of a total of four credit hours of work, the first 2 credit hours is for LDRS 697, followed by another 2 credit hours for LDRS 698.  These courses represent the final demonstration of a learner’s ability to integrate knowledge learned in the program curriculum and to practice the MA Leadership competencies.
 
 In LDRS 697/698 you will propose and implement a Leadership Integration Project that integrates knowledge and experiences gained in the MA Lead program. In LDRS 697/698 you will complete a series of activities (one pre-work assignment and 5 assignments) where you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills.  LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.  Ideally, your Leadership Integration Project is a report of the action research you have conducted to further your personal professional practice.
