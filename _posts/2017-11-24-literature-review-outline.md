@@ -62,4 +62,4 @@ Have you critically evaluated each of the articles you have reviewed based on th
  	<li>Why are your findings important?</li>
  	<li>What are the practical implications of your findings?</li>
 </ul>
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47835"> Upload Literature Review Outline in Moodle </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47835">Upload Literature Review Outline in Moodle</a><!--/themify_builder_static-->
