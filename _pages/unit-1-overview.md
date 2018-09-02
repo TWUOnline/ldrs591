@@ -22,9 +22,7 @@ Unit 1 is divided into 3 topics:
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Distinguish between informal research and scholarly inquiry.</li>
- 	<li>Discuss how your worldview can influence the decisions you make as a leader.</li>
- 	<li>Discover why evidence-based decision making is important for leadership.</li>
- 	<li>Evaluate a recent decision you made as a leader.</li>
+ 	<li>Critically reflect on why evidence-based decision making is important for leadership.</li>
 </ol>
 Activity Checklist
 
