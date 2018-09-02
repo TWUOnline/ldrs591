@@ -24,7 +24,9 @@ According to Plano-Clark and Creswell (2015), "research is a process of steps us
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
  	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journaling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
 <ul>
- 	<li>In your reflective learning journal, explain how you would define research, describe what your experience is with "research".</li>
+ 	<li>In your reflective learning journal, explain how you would define research.</li>
+ 	<li>Describe what your experience is with "research".  Have you taken an undergraduate statistics course?  Is this your first time learning about research?  Have you published your own scientific paper?</li>
+ 	<li>Discuss the differences between informal research (everyday problem solving) and scholarly inquiry (formal research).</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
@@ -87,7 +89,7 @@ This course will provide the background necessary to critique empirical research
 &nbsp;
 <h3>Learning Activity 1.4 - Read and Reflect</h3>
 <ul>
- 	<li>Read the following articles that speak to the importance of evidence-based practices. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a> or through the hyperlink provided.
+ 	<li>Read the following articles that speak to the importance of evidence-based practices in leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a> or through the hyperlink provided.
 <ul>
  	<li>Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? <em>Delta Kappa Gamma Bulletin, 73</em>(4), 5-8.</li>
  	<li>Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b></li>
@@ -107,19 +109,9 @@ This course will provide the background necessary to critique empirical research
 </ul>
 &nbsp;
 <h3>Unit 1 Summary</h3>
-Congratulations on finishing the first unit!  As you complete your assignments for this unit, you may encounter some very interesting and insightful questions from your colleagues. One particular question that often appears in students blogs is, "How do you reconcile or resolve conflict with a colleague/client/company that has a different worldview than your own?"  I wanted to briefly address this question in this summary.
-
-First, let me begin by saying that this a deeply complex question, but I do think there are some general ideas that we can use to address this question.
-<ol>
- 	<li><strong>Understand your own worldview perspective:</strong> I think it is really important to begin with an understanding of your own worldview.  Zigatelli (2003) has stated that "we too often attempt to influence someone's thinking based on the assumption that he/she is persuaded by the same things that persuade us" (p.4).  In order to understand your own worldview you need to become aware of it. In order to become aware of it, you have to reflect deeply on a few key questions. Here is one article that I came across by James Sire (2014) that I would recommend you read if you are interested in digging into the worldview questions a little deeper  <a href="https://www.christianity.com/theology/other-religions-beliefs/8-questions-every-worldview-must-answer.html">https://www.christianity.com/theology/other-religions-beliefs/8-questions-every-worldview-must-answer.html</a> Dr. Sire even has a book if you are really, really, really interested in deep diving into worldview, it is called The Universe Next Door and can be found here <a href="https://www.ivpress.com/the-universe-next-door">https://www.ivpress.com/the-universe-next-door</a>.</li>
- 	<li><strong>Seek first to understand, then be understood:</strong> Once you have a good understanding of your own worldview perspective, then it is important to practice the principal of "seek first to understand, and then be understood" (Covey, 2004).  Here is a short summary of this principal from Steven Covey's website <a href="https://www.stephencovey.com/7habits/7habits-habit5.php">https://www.stephencovey.com/7habits/7habits-habit5.php </a>The general idea is that if you understand the perspective of your colleague/client/company you will be in a better position to build trust with your colleague/client/company and share from your own perspective.</li>
- 	<li><strong>Practice servant leadership:</strong> Once you seek to understand others it is also impotant to consider the practices of a servant leader.  According to Greenleaf (1977) servant leaders actively understand and behave in such as way that places the good of the follower over their own self-interest.  Spears (1995) has distinguished 10 key characteristics of a servant leader and they are: listening, empathy, healing, awareness, persuasion, conceptualization, foresight, commitment to growth of people, stewardship and building community.  Given the importance of these characteristics, Jit, Sharma, &amp; Kawarta (2016) conducted a study examining the conflict management strategies utilized by servant leaders.  What the authors found was that servant leaders resolve conflict by primarily diagnosing the conflict situation through "actively listening, discussing and understanding the situation" (p. 600).  In the case of conflicts between colleagues, the servant leader may play a role by "facilitating an amicable solution by guiding and counselling the parties in conflict" (p. 602), but they must remain "impartial and objective" (p. 603). In the case of conflicts between a supervisor and an employee, the servant leader again used the strategy of "active listening, discussing and understanding" but this time with added "self-restraint, patience, tolerance and composure" (p. 604).   For a more cogent discussion of how the themes from this study connect to servant leadership please read the full article found here <a href="http://www.emeraldinsight.com/doi/full/10.1108/IJCMA-12-2015-0086">http://www.emeraldinsight.com/doi/full/10.1108/IJCMA-12-2015-0086</a></li>
-</ol>
-To summarize, it is important to understand your own worldview perspective and the perspective of others before you enter into a reconciliation process.  This understanding will help prepare you for the similarities and differences that both parties may bring to the table.  After you have a good handle on both perspectives, then it is important to act in such a way that you are putting the good of the other person ahead of your own self by actively listening to them, discussing different points of view and coming to an understanding of the situation.  This is not an easy task to accomplish, but it is one that I believe servant leaders are called to be a part of.
-
-&nbsp;
+Congratulations on finishing the first unit!  As you complete your assignments for this unit, you may encounter some very interesting and insightful questions from your colleagues.  In this unit you have learned about what scholarly inquiry is, how our own worldview can shape the questions that we ask, and the importance of evidence based decision making for leaders.
 <h3>Assessment</h3>
-Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 1</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
+Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 2</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
 
 &nbsp;
 
