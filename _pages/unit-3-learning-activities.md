@@ -9,9 +9,10 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
+<h2>Unit 3 Learning Activities</h2>
 This week in Unit 3 you will be discovering how to develop your professional scholarly voice, specifically through your scholarly writing.  This means that you will be reading content that will help you understand that there are different writing styles that are used in the world of academia and how important it is to use APA style in the MA Lead program.
 
-Your learning activities this week are focused on applying the APA standards for general aspects of writing, mechanics of writing and citing sources.  You will also get to apply these skills in assignment 3 which is your scholarly article critique, and then continue to practice them in assignment 5.
+Your learning activities this week are focused on applying the APA standards for general aspects of writing, mechanics of writing and citing sources.  You will also have a chance to apply these skills in assignment 3 which is the literature search and assignment 4 which is the scholarly article critique, and then continue to practice them in assignment 5 - the formal literature review.
 <h3>Developing Your Professional Voice</h3>
 When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice (McDonald, 2011). A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication (Walden University Writing Center, 2017). Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources (McDonald, 2011).
 
@@ -30,9 +31,14 @@ Aside from simplifying the work of your instructors by having everyone use the s
 </ol>
 <h3>Learning Activity 3.1 - Read, Watch and Reflect</h3>
 <ul>
- 	<li>In this learning activity you will begin by reading chapter 1 of the APA manual and also the Appendix of the Plano-Clark and Creswell (2015) text.</li>
+ 	<li>In this learning activity you will begin by reading chapter 1 of the APA manual and also the Appendix of the Plano-Clark and Creswell (2015) text.  These chapters will introduce you to scholarly writing and APA format.</li>
  	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=EZEXIve3hu0">Writing in Psychology</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains the importance of learning APA style for writing in the behavioural and social sciences.</li>
- 	<li>Next, in your reflective learning journal, discuss your previous experience with APA style and why you think scholarly writing can be important for you as a leader in your context.</li>
+ 	<li>Next, in your reflective learning journal, discuss the following questions:
+<ul>
+ 	<li>What is your previous experience with APA style?</li>
+ 	<li>Why scholarly writing can be important for you as a leader in your context?</li>
+</ul>
+</li>
  	<li>Note that these questions make up Part 1 of your <strong>XXX</strong> assignment for this unit.  See Unit 3 Assessment for more details.</li>
 </ul>
 <h3>What is Scholarly Writing?</h3>
