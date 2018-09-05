@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h2>Unit 1 Assessment</h2>
+<h2><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Unit 1 Assessment</h2>
 <h3>Unit 1 Blog</h3>
 <strong>Expectations for</strong> <strong>Blog posts</strong>
 
