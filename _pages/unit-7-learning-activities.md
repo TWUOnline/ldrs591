@@ -15,6 +15,8 @@ This week, in Unit 7, I have prepared an audio message to introduce you to mixed
 https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 
 <strong>Reminder: In week 8 you will need to create your own audio recording to share your action research idea with your colleagues.  Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.  Have fun!</strong>
+
+&nbsp;
 <h3>Learning Activity 7.1 - Read, Watch and Reflect</h3>
 <ul>
  	<li>Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell (2015).</li>
@@ -27,6 +29,7 @@ https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 </ul>
 </li>
 </ul>
+<h3></h3>
 <h3>Mixed-Methods Research Designs</h3>
 A wide variety of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data.  As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy &amp; Ormrod, 2013, p. 97). As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
 <ul>
@@ -42,6 +45,7 @@ In an <strong>e</strong><b>mbedded (concurrent nested) design, </b>only one data
 The <strong>s</strong><b>equential explanatory design </b>involves the collection and analysis of quantitative data followed by the collection and analysis of qualitative data. This design is used to help explain, interpret or contextualize quantitative findings.
 
 The <strong>sequential exploratory design </strong>involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. This designed is used to explore a phenomenon and to expand on qualitative findings.
+<h3></h3>
 <h3>Learning Activity 7.2 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>In this learning activity, you will select <strong>one</strong> of the servant leadership articles listed under the unit 7 resources.  Read the article and answer the following questions.</li>
@@ -56,6 +60,7 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </ul>
 </li>
 </ul>
+<h3></h3>
 <h3>Learning Activity 7.3 - Interview and Blog post</h3>
 <p id="yui_3_17_2_1_1535585504618_19">In pairs, you will be given the task of interviewing a partner about transformational servant leadership.  During your interview, you will ask both open-ended and closed questions. Here is a list of the open-ended questions:</p>
 
@@ -82,7 +87,7 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 <div>Do not talk too much.</div>
 <div>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</div>
 <div>Don’t be afraid of silence.</div>
-<div>Make sure you take good notes and upload them to the forum for</div>
+<div>Make sure you take good notes and upload them to<span style="color: #ff0000;"> the forum for</span></div>
 Make sure you add a link to this page in your post.
 <h5>Categories for this post:</h5>
 <ul>
@@ -90,6 +95,7 @@ Make sure you add a link to this page in your post.
  	<li>Unit 7</li>
  	<li>Learning Activity 7.3</li>
 </ul>
+<h3></h3>
 <h3>Unit 7 Summary</h3>
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
 <ul>
@@ -98,5 +104,6 @@ In general researchers conduct mixed methods studies when both quantitative and 
  	<li>Provides an approach for developing better, more context specific instruments.</li>
  	<li>Helps to explain findings or how causal processes work.</li>
 </ul>
-<h5>References</h5>
+<h5></h5>
+<h3>References</h3>
 Leedy, P. &amp; Ormrod, J.  (2013).  <i>Practical research: Planning and design </i>(10th ed.).  Boston, MA:  Pearson.
