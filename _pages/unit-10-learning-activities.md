@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
+<h3>Unit 10 Learning Activities</h3>
 Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  This week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and reflecting on what your expectations are now for a high quality research report.  You will also be introduced to the MA Lead: Leadership Integration Project (LDRS 697/698).
 <h3>Issues of Credibility</h3>
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes: Simply stated, the question is “how can I know I can trust what I am reading?” At the heart of this issue are three interrelated concerns: Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)?
