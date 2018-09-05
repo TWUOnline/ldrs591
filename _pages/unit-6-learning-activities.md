@@ -89,18 +89,8 @@ Prepare a brief 250- to 500-word response to the following:
 As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality qualitative research report is/are . . .
 
 Close with one question that invites further comment and discussion.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 6</li>
- 	<li>Learning Activity 6.4</li>
-</ul>
 <h3></h3>
-<h3>Learning Activity 6.5: Scholarly Article Critique (20%)</h3>
-Complete Assignment 3, <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/"><em>Scholarly Article Critique</em></a>, and submit it via the drop box on the learning management system.
-<h3></h3>
+&nbsp;
 <h3>Unit 6 Summary</h3>
 This week in Unit 6 we have explored qualitative research methods. Here is a short summary of the unique features of qualitative research methods:
 <ol>
@@ -142,7 +132,11 @@ According to Anderson (2010, pp.2-3), the limitations of qualitative research ca
  	<li>
 <div>Findings can be more difficult and time consuming to characterize in a visual way.</div></li>
 </ul>
-<h5></h5>
+&nbsp;
+<h3>Assessment</h3>
+Go to Unit 6 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 3</strong>, <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/"><em>Scholarly Article Critique</em></a>.
+
+&nbsp;
 <h3>References</h3>
 Anderson, C. (2010). Presenting and evaluating qualitative research. <em>American Journal of Pharmaceutical Education ,74</em> (8), 1-17.  Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987281/pdf/ajpe141.pdf
 
