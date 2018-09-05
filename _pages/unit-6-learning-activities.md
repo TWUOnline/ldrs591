@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
+<h3>Unit 6 Learning Activities</h3>
 This week in Unit 6 you will be exploring a different approach to research: <em><strong>qualitative research methods</strong></em>. Plano-Clark and Creswell (2015) define qualitative research as "a set of procedures for collecting, analyzing, and reporting text and image data to answer research questions by exploring participants’ views" (p. 286).
 
 Qualitative research has three distinct purposes:  <em><strong>to describe, to explore, and to build theory</strong></em>.   Quantitative research and qualitative research designs differ significantly in what data are collected, how data are collected, how data are analyzed and how findings are reported.
