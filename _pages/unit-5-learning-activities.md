@@ -31,7 +31,9 @@ The differing designs of quantitative and qualitative research also lead to mark
  	<li>In your reflective learning journal, discuss the differences between qualitative and quantitative research reports.</li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<h3></h3>
+<strong><span style="color: #ff0000;">[Heather, there are a lot of questions for students to answer in the blog.  Could we delete some, or double check the learning outcomes to see what is required to assess? Perhaps look at Unit 5 Assessment for the full list]</span></strong>
+
+&nbsp;
 <h3>Quantitative Research Designs</h3>
 Quantitative research designs typically rely on the researcher beginning with a theoretical (or conceptual) framework that will determine what concepts the researcher chooses to investigate, the research questions, and the framing of research findings (Corbin &amp; Strauss, 2008, p. 39). These frameworks lead to a structured, predetermined, formal, and specifically detailed plan of operation (Bogdan &amp; Biklen, 2007, p. 45).
 
@@ -66,7 +68,9 @@ As a consumer of survey research reports, be vigilant for potential issues of va
 <ul>
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum? - I would say a learning journal - unless you think students would benefit from a discussion]</strong></span>
+<span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?</strong></span>
+
+<span style="color: #ff0000;"><strong>Perhaps students should answer all of the activity questions in their reflective journal, and then choose a couple specfic ones for them to put in their blog.  As it is, there are a lot of questions.  I realize it's important for them to go through the exercise, but we should specify what is graded - and what you think students are likely to discuss in their peer responses.</strong></span><span style="color: #ff0000;"><strong>]</strong></span>
 <h3></h3>
 <h3>Quantitative Data Collection</h3>
 When researchers are collecting data for a quantitative research study, they need to address two important questions: who is the data being collected from, and how are they collecting it?  In answering the first question, the terms <i>population</i> and <i>sample</i> are salient.  Population is the large category that encompasses all of the individuals who possess or exhibit certain characteristics of interest.  Quantitative data is usually collected from large samples, selected ideally through random selection.
