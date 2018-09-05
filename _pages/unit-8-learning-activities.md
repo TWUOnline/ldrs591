@@ -51,17 +51,13 @@ If you know how to create video you are welcome to do that instead. It is your c
  	<li>Upload your podcast to <a href="https://soundcloud.com">soundcloud.com</a>, <a href="https://tapewrite.com">tapewrite.com</a>, or another suitable online service and embed it in a new post on your blog.</li>
 </ul>
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 8</li>
- 	<li>Learning Activity 8.2</li>
-</ul>
 <h3></h3>
 <h3>Unit 8 Summary</h3>
 <span style="color: #ff0000;"><strong>[to add]</strong></span>
+
+&nbsp;
+<h3>Assessment</h3>
+Go to Unit 8 Assessment for more details on your <strong>Blog</strong> to submit this week.
 
 &nbsp;
 <h3>References</h3>
