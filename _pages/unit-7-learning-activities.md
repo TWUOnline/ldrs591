@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
+<h3>Unit 7 Learning Activities</h3>
 This week, in Unit 7, I have prepared an audio message to introduce you to mixed methods research.  You can listen to my audio message here:
 
 https://soundcloud.com/user-303479512/welcome-to-unit-7-2
