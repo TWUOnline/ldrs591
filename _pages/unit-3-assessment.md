@@ -20,13 +20,27 @@ In unit 3, you are asked to write the following blog post:
 <ul>
  	<li>Create a post (100-250 words), and explain ...</li>
 </ul>
-<h4>Part 2</h4>
 <ul>
- 	<li>Answer the following questions: (250-400 words)
+ 	<li>
 <ul>
- 	<li>...</li>
+ 	<li>What is your previous experience with APA style?</li>
+ 	<li>Why scholarly writing can be important for you as a leader in your context?</li>
 </ul>
 </li>
+</ul>
+<h4>Part 2</h4>
+<ul>
+ 	<li>Create a reference list in APA format for six different scholarly sources (on any topic). The sources you should include in your reference list are as follows:
+<ul>
+ 	<li>A journal article (7.01)</li>
+ 	<li>A book or book chapter (7.02)</li>
+ 	<li>A government report (7.03)</li>
+ 	<li>A blog post (7.11 #76)</li>
+ 	<li>A doctoral dissertation or master's thesis (7.05)</li>
+ 	<li>An online newspaper article (7.01 #11)</li>
+</ul>
+</li>
+ 	<li></li>
 </ul>
 <h4>Part 3</h4>
 <ul>
