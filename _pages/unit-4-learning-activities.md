@@ -34,14 +34,14 @@ Several years later Larry Spears went on to write an essay that describes the te
 </ul>
 According to Sendjaya and Sarros (2002) "There has been a strong tendency among leadership scholars and journalists to treat leaders as isolated heroes controlling and commanding others from within their ivory tower. In the organizational context, the word 'leader' has been mostly ascribed to people who hold management positions and are capable of giving orders to other members of the organization (Senge, 1990)".  They suggest that servant leadership may offer a better alternative.
 <h3></h3>
-<h3>Learning Activity 4.1</h3>
+<h3>Learning Activity 4.1: Read and Reflect</h3>
 In this learning activity you will begin by reading the article by Sendjaya and Sarros (2002), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership. After reading the article, reflect on the following questions:
 <ul>
  	<li>Why is servant leadership an interesting or worthwhile topic/phenomenon to research?</li>
  	<li>Why would this article interest researchers in the leadership field?</li>
  	<li>What is already known about servant leadership?</li>
 </ul>
-<h3></h3>
+<strong><span style="color: #ff0000;">[Heather please confirm which questions are for the graded blog.  Many can be formative, ungraded notes for their learning journal. See Unit 4 Assessments for the full list of questions and then double check the learning outcomes for this unit.]</span></strong>
 <h3>What is a research problem?</h3>
 All good research begins with a good research problem. Plano-Clark and Creswell (2015) suggest that research problems “are the issues, controversies or concerns that demand study" (p. 80). They assert that these are often real problems that must be addressed. Gall, Gall and Borg (2007) suggest that in identifying the research problem, the researcher should consider personal interest, the potential benefits to the researcher’s professional growth, and potential contribution of the research study to research knowledge. They suggest that all three criteria should be considered, with emphasis on the first and third.
 
@@ -70,15 +70,9 @@ All of these contribute to answering the ultimate question for any research: “
  	<li>Does the passage clearly argue that the study is warranted?</li>
  	<li>Is the passage well written?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. (250-500 words)
 
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 4</li>
- 	<li>Learning Activity 4.2</li>
-</ul>
+This activity will make up Part B of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
 <h3>What is a literature review?</h3>
 The research problem establishes why a particular research study is worth doing. The review of the literature supports this by establishing what is already known about the problem and summarizes what scholarship has already established regarding the research problem. This has many facets that go beyond merely establishing the research purpose. As we will see, a literature review affects every aspect of a research study and its final report. For that reason, one of the most important preliminary steps in the process of scholarly inquiry is doing a thorough review of the precedent academic literature on a given topic. A precedent literature review is the process of locating, obtaining, reading and evaluating the research and theoretical literature in your area of interest. Bordens and Abbott (2005) outline several important reasons for a researcher to conduct a precedent literature review:
@@ -121,15 +115,9 @@ e) the objectivity of the writer in selecting, interpreting, organizing and summ
  	<li>Does the study have a strong foundation in the literature?</li>
  	<li>Does the literature fit the study's overall approach?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. (250-500 words).
 
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 4</li>
- 	<li>Learning Activity 4.3</li>
-</ul>
+This activity will make up Part C of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
 <h3>What is the research purpose?</h3>
 The research problem establishes why a particular research study is worth doing or why it matters, the review of precedent literature establishes what is already known about the problem, and the research purpose establishes what the research specifically intends to do. Typically, the research purpose is further refined into a limited number of research questions or predictions (hypotheses) that the researcher will address.
@@ -152,15 +140,9 @@ Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be 
  	<li>Does the purpose of the study follow logically from the statement of the problem and the literature review?</li>
  	<li>Is the purpose consistent with the study's overall approach?</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response. Please post your evaluation on your blog (250-500 words).
+Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.  (250-500 words).
 
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 4</li>
- 	<li>Learning Activity 4.4</li>
-</ul>
+This activity will make up Part B of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
 <h3>Learning Activity 4.5 - Blog post</h3>
 Prepare a brief 250- to 500-word response to the following:
@@ -168,9 +150,8 @@ Prepare a brief 250- to 500-word response to the following:
 As a consumer of research reports, the most important thing(s) for me in the introduction section of a high-quality research report is/are . . .
 
 Close with one question that invites further comment and discussion.
-<ul>
- 	<li></li>
-</ul>
+
+This activity will make up Part E of your graded blog this week.  See Unit 4 Assessment for more details.
 <h5></h5>
 <h3>References</h3>
 Bordens, K., &amp; Abbott, B. (2005). <em>Research design and methods: A process approach</em> (6th ed.). Boston, MA: McGraw-Hill.
