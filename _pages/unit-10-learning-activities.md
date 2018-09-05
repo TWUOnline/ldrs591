@@ -15,7 +15,7 @@ Congratulations! You have made it to the final week of LDRS 591: Scholarly Inqui
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes: Simply stated, the question is “how can I know I can trust what I am reading?” At the heart of this issue are three interrelated concerns: Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)?
 
 By now you are aware that the reason behind much of the tedious detail provided in research reports is aimed at addressing the question "is the research performed competently?" Great efforts are expended in the publication process to further address research competence, honesty, and consistency. As we will see, the final concern introduces an element that can be distressing.
-<h4>Competence and Honesty</h4>
+<h5>Competence and Honesty</h5>
 You will recall that earlier in the course it was suggested that you always check the “Peer-Reviewed or Scholarly” box when doing an online search of the literature. Your first line of establishing trust in the quality of a research article is the review process followed in the formal presentation and publishing of research.
 
 Typically, the first opportunity a researcher has to disseminate their work is when their PhD dissertation is defended and subsequently published. The process involved in the successful defense of a dissertation is lengthy and strenuous, to say the very least. In effect, all three questions are addressed by the dissertation committee, which functions, at that stage, as a committee of peers. Beyond that, another first opportunity is to present papers at conferences. Such papers are typically presented beforehand to a jury of peers who critique the paper with the above three criteria in mind. Journal publication extends the processes of peer review even beyond that of conferences. Typically, articles submitted for publication are reviewed by peers who are experts in the field, often blind (the author does not know who the reviewers are or the reviewer does not know who the author is) or double-blind (neither the author nor reviewer are known to each other). This process results in juried or refereed or peer-reviewed articles that are subsequently published. The peer-reviewing process is intended to eliminate work which is flawed in fundamental ways. However, this process is not infallible. Consider this honest statement:
@@ -64,14 +64,6 @@ My hope is that this course will convince you of the importance of basing your l
 In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
 Please post your response on your blog (250-500 words).
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 10</li>
- 	<li>Learning Activity 10.2</li>
-</ul>
 <h3></h3>
 <h3>An Introduction to the Leadership Integration Project</h3>
 All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are LDRS 697 and LDRS 698.  Theses courses are referred to as the Learning Integration Project or LIP.  The Leadership Integration Project is the capstone individual product of the MA in Leadership program and consists of a total of four credit hours of work, the first 2 credit hours is for LDRS 697, followed by another 2 credit hours for LDRS 698.  These courses represent the final demonstration of a learner’s ability to integrate knowledge learned in the program curriculum and to practice the MA Leadership competencies.
