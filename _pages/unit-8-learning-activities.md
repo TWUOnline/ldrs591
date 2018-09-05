@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
+<h3>Unit 8 Learning Activities</h3>
 This week in Unit 8 you will get a chance to explore a new approach to research.  Action research "is a disciplined process of inquiry conducted <i>by</i> and <i>for</i> those taking the action" (Sagor, 2000, para. 1). Its purpose is to solve local/practical problems through the application of systematic investigation.  The problem is local, the investigation is local, and there is little concern for generalizing results to other settings.
 
 Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals.  Action research differs from more formal research in some important ways that you will uncover in the readings this week.
