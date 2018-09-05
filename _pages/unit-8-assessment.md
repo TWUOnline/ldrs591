@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591/unit-8-notes/
+  https://create.twu.ca/ldrs591/unit-8-assessment/
 published: true
 post_date: 2017-11-24 14:49:51
 ---
