@@ -9,14 +9,14 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h2>Unit 1 Learning Activities</h2>
+<h3>Unit 1 Learning Activities</h3>
 <h3>What is inquiry?</h3>
 Inquiry is “the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" (Penner, 2017).
 
 By now you are well aware of the applied nature of the MA in Leadership program. This feature may be an important part of what attracted you to the program! Why then study research methods? Why worry about scholarly inquiry? This course in scholarly inquiry will help you to develop systematic thinking skills applicable in all realms of leadership and everyday life. As Plano-Clark &amp; Creswell (2015) note, research adds to your professional knowledge, informs your position in policy debates, and contributes to the improvement in your practice (pp. 4-5). Moreover, our leadership practice is ideally evidence-based; that is, based on evidence derived from systematic scholarly inquiry.
 
 &nbsp;
-<h3>Learning Activity 1.1 - Read and Reflect</h3>
+<h3>Learning Activity 1.1: Read and Reflect</h3>
 <strong><span style="color: #ff0000">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
 
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
@@ -50,7 +50,7 @@ The framework of Creation, Fall and Redemption is important because it allows us
 It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around us (i.e., our worldview) influences how we approach all of life, including how we approach research and how we use research to inform our decision-making process.
 
 &nbsp;
-<h3>Learning Activity 1.2 - Reflection</h3>
+<h3>Learning Activity 1.2: Reflection</h3>
 In your reflective learning journal, answer the following questions:
 <ul>
  	<li>What factors do you think shape your decision-making process as a leader?</li>
@@ -69,8 +69,12 @@ Take a moment to think about a recent decision you made as a leader. On what did
 Systematic inquiry (as represented by research) is one tool that leaders can use to inform best practices and their decision making process. Systematic inquiry is hardly new – in first century writings we see in the Bible evidence of systematic, logical, and empirical inquiry. Consider the following passage from Luke, a physician trained in empirical methods of his day:
 <blockquote>Many have undertaken to draw up an account of the things that have been fulfilled among us, just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught. (Luke 1:1-4, NIV)</blockquote>
 How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community. The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
-<h3>Learning Activity 1.3 - Forum Post</h3>
+
+&nbsp;
+<h3>Learning Activity 1.3: Forum Post</h3>
 In the Unit 1 Discussion Forum, describe  at least one example of a decision you have made as a leader and explain how you made that decision.  Make sure to include the type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).  Your post should be between 250-300 words.  You are also required to read and reply to other learners in the discussion forum. Your replies should offer new substantiated ideas or thoughtful questions.
+
+&nbsp;
 <h3>Boyer's Model of Scholarship</h3>
 Scholarship once was defined narrowly in terms of empirical or scientific research. More recently the academic community has moved toward a broader conceptualization of scholarship more in keeping with knowledge acquisition and application through a variety of avenues. Boyer’s Scholarship of <strong>Discovery</strong> is the type of scholarship associated with traditional scholarly research. According to Leedy &amp; Ormrod (2010), “research is a systematic process of collecting, analyzing and interpreting information (data) in order to increase our understanding of a phenomenon about which we are interested or concerned” (p. 2). Boyer’s Scholarship of Discovery is often referred to as primary research. Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand in detail one isolated part of reality. Through this process it is hoped that this understanding can be generalized to some degree to a broader part of reality.
 
@@ -87,7 +91,7 @@ Boyer’s typology originally identified as the Scholarship of Teaching has been
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research (scholarship of discovery). Put another way, you will be learning about various research methods (e.g., quantitative research, qualitative research, and mixed methods) so that you can gain proficiency in becoming a critical consumer of research.
 
 &nbsp;
-<h3>Learning Activity 1.4 - Read and Reflect</h3>
+<h3>Learning Activity 1.4: Read and Reflect</h3>
 <ul>
  	<li>Read the following articles that speak to the importance of evidence-based practices in leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a> or through the hyperlink provided.
 <ul>
@@ -110,6 +114,8 @@ This course will provide the background necessary to critique empirical research
 &nbsp;
 <h3>Unit 1 Summary</h3>
 Congratulations on finishing the first unit!  As you complete your assignments for this unit, you may encounter some very interesting and insightful questions from your colleagues.  In this unit you have learned about what scholarly inquiry is, how our own worldview can shape the questions that we ask, and the importance of evidence based decision making for leaders.
+
+&nbsp;
 <h3>Assessment</h3>
 Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 2</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
 
