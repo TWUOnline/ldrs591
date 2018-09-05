@@ -71,7 +71,7 @@ Systematic inquiry (as represented by research) is one tool that leaders can use
 How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community. The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
 
 &nbsp;
-<h3>Learning Activity 1.3: Forum Post</h3>
+<h3>Learning Activity 1.3: Reflection</h3>
 In the Unit 1 Discussion Forum, describe  at least one example of a decision you have made as a leader and explain how you made that decision.  Make sure to include the type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).  Your post should be between 250-300 words.  You are also required to read and reply to other learners in the discussion forum. Your replies should offer new substantiated ideas or thoughtful questions.
 
 &nbsp;
