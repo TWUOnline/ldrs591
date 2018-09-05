@@ -9,10 +9,12 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h2>Unit 2 Learning Activities</h2>
+<h3>Unit 2 Learning Activities</h3>
 Welcome to Week 2! This week you will be exploring the topic "Accessing and Evaluating Scholarly Literature".  This unit will help you develop a research question, gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests.  In this unit you will also gain first-hand experience in locating and organizing and evaluating relevant scholarly literature.
 
 The learning activities in this unit will walk you through some very practical readings and video tutorials on how to access and evaluate scholarly literature.
+
+&nbsp;
 <h3>The Research Process</h3>
 Plano-Clark and Creswell (2015) define research as "a process of steps used to collect and analyze information in order to increase our knowledge about a topic or issue" (p. 4). Plano-Clark and Creswell (2015) identify eight steps in the research process which provide us with a useful framework that describes what researchers do when they conduct their studies. These steps help us understand the information that is included in their reports. Listed below are each of the eight steps in the research process.
 <ol>
@@ -25,6 +27,7 @@ Plano-Clark and Creswell (2015) define research as "a process of steps used to c
  	<li><strong>Drawing conclusions</strong> means interpreting the results and explaining how the conclusions relate to the research questions/hypotheses, and/or similar studies. There is also a discussion of limitations of the study and often suggestions of implications for the intended audiences, for practice and for future research.</li>
  	<li><strong>Disseminating and evaluating the research.</strong> Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research.</li>
 </ol>
+&nbsp;
 <h3>Significant Questions</h3>
 The most important part of the research process is beginning with a good research question.  This is something that will be highly relevant to completing of most of your assignments in this course, particularly the second assignment.  Your research question will be then guide you as you complete assignments 3, 4 and 5.
 
@@ -35,8 +38,8 @@ Let me tell you a little about my own research journey and then I will give you 
 As I entered my Master's my focus was still on the topic of understanding eating disorders, but the population that I was interested in - female athletes with eating disorders - was a difficult and challenging group to study.  So I needed to make some adaptations to the research that I wanted to pursue in order to make my thesis project more manageable.  I will save you all the details of the 2-year journey of learning what works and what doesn't when you are studying a clinical population, but what I ended up with was a very different thesis project then what I had originally intended.
 
 The topic I ended up studying was examining the differences between women with eating disorders, at-risk for eating disorders, and those not at-risk on a very specific psychological construct which is called self-presentation motivation.  Self-presentation motivation reflects the process that we go through in an attempt to monitor and control the impression we make on others (Schlenker &amp; Leary, 1982).  For example, when we go for a job interview we usually wear nice clothes, get a hair cut, rehearse interview questions because we want to make a good impression on a potential employer.  Now self-presentation motivation in itself is not a single construct that can be empirically measured.  In my study this concept was measured using several different questionnaires and they were a) fear of negative evaluation (when a person is fearful of receiving disapproval and criticism from others; Leary, 1983), b) public self-consciousness (the awareness or sensitivity a person experiences from the opinions of others; Fenigstein, Scheier, &amp; Buss, 1975), c) social physique anxiety (the anxiety experienced when your body is being evaluated by others; Hart, Rejeski, &amp; Leary, 1989), and d) self-presentational efficacy (the probability of conveying a desired impression on others; Leary &amp; Atherton, 1986).  If you are interested in reading more about this study you can find the published article here <a href="http://www.sciencedirect.com/science/article/pii/S1471015306000122">http://www.sciencedirect.com/science/article/pii/S1471015306000122</a>
-<p style="padding-left: 30px">This is what my research question started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
-<p style="padding-left: 30px">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
+<p style="padding-left: 30px;">This is what my research question started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
+<p style="padding-left: 30px;">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
 Sometimes the research question we start out with is not the one we end up studying.  This was certainly true in my case.
 
 The question that you select is the cornerstone of your work in this course. The assignments you will be working on will revolve around finding an answer to the question you are posing.  It is important to select a question that is going to be interesting to work on for the length of this course and a question that is specific enough to allow you to find the answer.
@@ -71,6 +74,7 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
  	<li>Before you move into accessing scholarly literature, you need to begin with a good research question.  This learning activity is about clarifying your research interest and asking a good research question.</li>
  	<li>For this learning activity you will complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
 </ul>
+&nbsp;
 <h3>Accessing Scholarly Literature</h3>
 Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search (library books, online periodicals, internet search), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
 
@@ -107,6 +111,7 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
  	<li>In your reflective journal, briefly describe your experiences in the search for a journal article, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
  	<li>Note that you will be asked some questions related to your search as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Learning Activity 2.4: Searching for Books</h3>
 <ul>
  	<li>Go to <a href="http://libguides.twu.ca/library_research/home">TWU library homepage </a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>".</li>
@@ -115,6 +120,7 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
  	<li>In your reflective journal, briefly describe your experiences in the search for an e-book, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
  	<li>Note that you will be asked some questions related to your search as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Utilizing Scholarly Literature</h3>
 After you have determined what sources you will be accessing, you need to conduct a search, and then keep track of your literature search strategy and results. The simplest way to do this is to use an online reference manager that will help you collect, organize, cite and share your references according to the referencing style you will be using.  There are several free, online reference managers available such as <a href="https://www.refworks.com/refworks2/help/Welcome.htm">Refworks</a>, <a href="https://www.zotero.org/">Zotero</a>, and <a href="http://endnote.com/">EndNote</a>. TWU library has a research guide that describes <a href="http://libguides.twu.ca/EndNote/">how to use EndNote</a>. This library guide will help you sign up for an EndNote account and also help you figure out how to use EndNote to download and store your citations in folders and then input citations into Word documents and create reference lists.
 
@@ -127,12 +133,15 @@ As you collect relevant literature you can either enter it into a summary chart 
 The research process is not always linear. You may have a great research question or research topic in mind, but as you begin your initial database and library searches you may find yourself changing or refining your topic. Sometimes you will not find any information on the topic you have chosen because the topic is so new and no one has done any research on the topic yet. Sometimes you will not find any information on the topic you have chosen because you are not using the right search terms or keywords.
 
 If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature. Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic. This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
+
+&nbsp;
 <h3>Learning Activity 2.5: Upgrading Your Research Skills</h3>
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
  	<li>Note that you will be asked some questions related to your research skills as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Evaluating Scholarly Sources</h3>
 After you have found several articles and books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources. Unfortunately, not all information that you will come across is going to be credible and reliable. Just because you find articles and books at the library does not mean that the information will be accurate or of high quality.
 
@@ -145,6 +154,7 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li><strong>Publication type/process:</strong> Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?</li>
  	<li><strong>Bias and special interests:</strong> According to Panucci and Williams (2010) bias can occur during all phases of research from design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias. Driscoll and Brizee (2017) suggest that when it comes to publishing research reports, "most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".</li>
 </ul>
+&nbsp;
 <h3>Learning Activity 2.6 - Read, Watch, and Search</h3>
 <ul>
  	<li>In this learning activity, begin by reading chapter 7 in the Badke (2017) text which discusses searching information on the internet.</li>
@@ -158,6 +168,7 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
 </li>
  	<li>Note that you will be asked some questions related to your evaluation skills as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Additional sources for finding scholarly literature:</h3>
 I also wanted to mention two other sources of information that you can use to gather information on your research topic.  The first is viewing the TED talk videos.  These videos are a great resource to help you become familiar with a researcher and their work on a specific topic.  You can search almost any topic on the TED website, the videos are usually under 20 minutes, and are very good.  You can find TED site here: <a href="https://www.ted.com/">https://www.ted.com</a>
 
@@ -171,7 +182,7 @@ In this unit you have learned about the research process and what is involved in
 <h3>Assessment</h3>
 Go to Unit 2 Assessment for more details on your Assignment 2 submission<strong>.</strong>
 
-<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
+<span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
 Booth, W. C., Colomb, G. G. &amp; Williams, J. M. (2008). <em>The Craft of Research</em>(3rd ed.) Chicago: The University of Chicago Press, p. 51-65
 
