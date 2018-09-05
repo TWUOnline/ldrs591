@@ -78,9 +78,9 @@ For this learning activity, I would like you to become familiar with the rationa
  	<li>Then, please read the Leadership Integration Project Manual that I have posted on the Moodle site which will give you a clear overview of the expectations for the LIP.</li>
  	<li>Finally, I would like you to prepare a list of questions that you have about the LIP (LDRS 697/698) and email those questions to Dr. Strong.</li>
 </ul>
-<h3></h3>
-<h3>Learning Activity 10.4: Formal Literature Review (30%)</h3>
-We have now concluded our course on Scholarly Inquiry. In this learning activity you will be asked to complete Assignment 5, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a> assignment which is to write a formal literature review paper. Please submit your assignment to the instructor via the drop box on the Learning Management System.
+&nbsp;
+<h3>Assessment</h3>
+Go to Unit 10 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 5</strong>, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a>.
 <h3></h3>
 <h3>References</h3>
 Locke, L., Silverman, S., &amp; Spirduso, W. (2010). <em>Reading and understanding research</em> (3rd ed.). Los Angeles, CA: Sage.
