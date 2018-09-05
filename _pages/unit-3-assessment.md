@@ -1,11 +1,11 @@
 ---
 ID: 1369
-post_title: Unit 3 Assessments
+post_title: Unit 3 Assessment
 author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591/unit-3-notes/
+  https://create.twu.ca/ldrs591/unit-3-assessment/
 published: true
 post_date: 2017-11-24 14:49:51
 ---
