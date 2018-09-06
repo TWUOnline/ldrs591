@@ -40,14 +40,15 @@ Here are the resources you will need to complete the unit:
  	<li>Plano-Clark, V. &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide.</em> (2nd Ed.). Boston, MA: Pearson.</li>
  	<li>E-Resources: The articles below can be found through the <a href="https://www.twu.ca/library">TWU library</a>
 <ul>
- 	<li>Patton, M. (2001). Evaluation, knowledge management, best practices and high quality lessons learned. <em>American Journal of Evaluation, 22</em>(3), 329-336.</li>
+ 	<li style="list-style-type: none">
+<ul>
  	<li>Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? <em>Delta Kappa Gamma Bulletin, 73</em>(4), 5-8.</li>
- 	<li>Walshe, K. &amp; Rundall, T.G. (2001). Evidence-based management: From theory to practice in health care. <em>The Millbank Quarterly, 79</em>(3), 429-457.</li>
+ 	<li>Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b></li>
 </ul>
 </li>
 </ul>
-&nbsp;
-
+</li>
+</ul>
 Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
 
 &nbsp;
