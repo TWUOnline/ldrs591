@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h2><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>Unit 1 Assessment</h2>
+<h2><span style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>Unit 1 Assessment</h2>
 <h3>Unit 1 Blog</h3>
 <strong>Expectations for</strong> <strong>Blog posts</strong>
 
@@ -19,7 +19,7 @@ As you work through the material in this course, you will be asked to create blo
 <p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum one discussion question during unit 1, 4, 5, 6, 9, and 10. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
 In unit 1, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part 1</h4>
 <ul>
  	<li>Create a post (250-500 words), and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
@@ -47,7 +47,7 @@ In unit 1, you are asked to write the following blog post:
 </ul>
 &nbsp;
 
-If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000;"><strong> [Kelly to insert link]</strong></span>.
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
 
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 1</strong>. This helps to organized the class blogs and interactions.
 <h3></h3>
@@ -98,7 +98,7 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 
 &nbsp;
 <h4>Assignment Submission</h4>
-Submit Assignment 1 via the following link <strong><span style="color: #ff0000;">[Kelly insert link]</span></strong>.
+Submit Assignment 1 via the following link <strong><span style="color: #ff0000">[Kelly insert link]</span></strong>.
 
 &nbsp;
 <h3>Checking Your Learning</h3>
