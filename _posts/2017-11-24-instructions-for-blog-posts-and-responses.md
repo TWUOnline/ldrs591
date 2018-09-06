@@ -10,9 +10,15 @@ published: true
 post_date: 2017-11-24 14:49:50
 ---
 <h3>Instructions for blog posts and responses:</h3>
-As you work through the material in this course, you will be asked to respond to questions every week on your own blog. You should have already set up a blog during the Orientation course, and used your blog in 500.
+As you work through the material in this course, you will be asked to write about what you are learning on your own blog. You should have already set up a blog during the Orientation course, and used your blog in 500. You should consider your blog as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community.
 
-This on-going assignment accounts for 25% of the final grade of this course. Some of the blog posts do not require a discussion or a response, however, some of the blog posts do require you to close with one question that invites further comments and discussion from your colleagues.  Please do your best to complete the blog posts that require a response by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.  When you post, remember to tag each entry with the Unit and Learning Activity number so it can be easily searched.
+Unlike other assignments in this course, your blog will not always be written in a formal academic style, but you should (like always) give appropriate credit to other people who have informed or inspired your thoughts. This can be done with a simple mention and link as a way to say thank you, <a href="http://cogdogblog.com/2017/02/beautiful-benches-and-attribution/">like this</a>.
+
+The point of your blog is to provide opportunity for you to do the work of learning in a non-threatening environment. It is expected that you will be wrong about some things, or at the very least, that there will be discrepancies between what you now believe and what you used to believe, or what your colleagues believe. This is good. We want you to change your mind, and that is difficult work.
+
+As such, your blog won't be graded for 'accuracy' or 'being right', but instead for depth of thought and evidence that you are learning new ideas and incorporating them into your mental schema for later application. However, your blog will be a significant part of your final 'grade' (25%), so you shouldn't see it as optional.
+
+Some of the blog posts do not require a discussion or a response, however, some of the blog posts do require you to close with one question that invites further comments and discussion from your colleagues.  Please do your best to complete the blog posts that require a response by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.  When you post, remember to tag each entry with the Unit and Learning Activity number so it can be easily searched.
 
 All blog posts should be between 500-750 words.
 
@@ -58,10 +64,8 @@ The following criteria will be used to assign marks to your blog posts and colle
  	<li>Replies to other students are <strong>posted to your own blog</strong> and provide a link to the original post on another student's blog. Replies are posted on more than one day during the posting period.</li>
  	<li>Response posts to peers' original postings are respectful, show clear synthesis and evaluation of the content read, and provide depth, breath, or new insight to the topic. Reply posts stimulate thinking and advance the conversation.</li>
  	<li>As appropriate, references are included from scholarly peer-reviewed non-course text or readings to support what is said in both original and reply posts.</li>
- 	<li>All posts are clearly written and contain no APA/spelling/grammatical errors</li>
+ 	<li>All posts are clearly written and contain no spelling/grammatical errors</li>
 </ul>
 Marks accumulate at 2.5% per week 3= outstanding on all criteria above; 2= meeting expectations; 1= not meeting all expectations as outlined above but made an effort; 0 = did not make an effort to answer the question
-<h5>Reflection Brief Rubric:</h5>
-[table id=16 /]
 
 &nbsp;
