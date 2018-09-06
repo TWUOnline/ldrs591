@@ -116,34 +116,32 @@ Taken together, these three common elements in introductions to research reports
 
 Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be the most important step the entire research process" (p. 162). Identification of the research problem and review of precedent literature leads directly to specifying the purpose of the study. The purpose will then provide direction for selection of the research design, data collection, analysis of data in determining findings or results and finally in the interpretation and evaluation of the research.
 <h3></h3>
-<h3>Learning Activity 4.4 - Blog post</h3>
+<h3>Learning Activity 4.4 - Read, Evaluate and Reflect!</h3>
 <ul>
  	<li>In this learning activity, you will read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Using the servant leadership article you chose for activity 4.2, and the evaluation criteria on p.184 (for a quantitative study) and p.185 (for a qualitative study) in Plano-Clark &amp; Creswell (2015), complete the following questions to evaluate the purpose in the article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.</li>
-</ul>
+ 	<li>Using the servant leadership article you chose for activity 4.2, and the evaluation criteria on p.184 (for a quantitative study) and p.185 (for a qualitative study) in Plano-Clark &amp; Creswell (2015), complete the following questions in your learning journal to evaluate the purpose in the article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.
 <ul>
  	<li>Is the study's purpose clearly specified?</li>
- 	<li>Is the focus of the study appropriate?</li>
  	<li>Is the overall intent of the study appropriate?</li>
- 	<li>Are the participants and the sites appropriate?</li>
  	<li>Is the purpose of the study narrowed through appropriate research questions and/or hypotheses?</li>
  	<li>Does the purpose of the study follow logically from the statement of the problem and the literature review?</li>
- 	<li>Is the purpose consistent with the study's overall approach?</li>
+ 	<li>Compare and contrast the differences and common elements of an introduction section of a qualitative research report and a quantitative research report.</li>
+ 	<li>Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
 </ul>
-Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.  (250-500 words).
-
-This activity will make up Part B of your graded blog this week.  See Unit 4 Assessment for more details.
+</li>
+</ul>
+This activity will make up Part C of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
-<h3>Learning Activity 4.5 - Blog post</h3>
-Prepare a brief 250- to 500-word response to the following:
+<h3>Learning Activity 4.5 - Reflect</h3>
+In your reflective learning journal discuss the following:
 
-As a consumer of research reports, the most important thing(s) for me in the introduction section of a high-quality research report is/are . . .
+As a consumer of research reports, the most important thing(s) for me in the introduction section of a high-quality research report is/are..
 
 Close with one question that invites further comment and discussion.
 
-This activity will make up Part E of your graded blog this week.  See Unit 4 Assessment for more details.
+This activity will make up Part D of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3>Unit 4 Summary</h3>
-In this unit you have learned about the origin and development of servant leadership and the common elements found in the introduction of research reports. You have learned about the research problem, the review of precedent literature, and the research purpose. Although theses terms are similar, they are quite different and serve different functions in the introduction of a research report.
+In this unit you have learned about the origin and development of servant leadership and the common elements found in the introduction of research reports. You have learned about the research problem, the review of precedent literature, and the research purpose and the similarities and differences among qualitative and quantitative research reports. Although theses terms are similar, they are quite different and serve different functions in the introduction of a research report.
 <h3>References</h3>
 Bordens, K., &amp; Abbott, B. (2005). <em>Research design and methods: A process approach</em> (6th ed.). Boston, MA: McGraw-Hill.
 
