@@ -68,10 +68,6 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 </ul>
 </li>
 </ul>
-<ul>
- 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
-</ul>
-&nbsp;
 <h3>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2 - 10%)</h3>
 The rest of the activities in this unit will help you access and assess scholarly literature in order to answer a specific question for your assignments.  Before we discuss how to access scholarly literature, you need to begin with a good research question.  This learning activity is about clarifying your research interest and asking a good research question.
 <ul>
@@ -112,7 +108,7 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
 </ul>
 </li>
  	<li>In your reflective journal, briefly describe your experiences in the search for a journal article, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
- 	<li>Note that you will be asked some questions related to your search strategies as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions related to your search strategies as part of your blog post for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Learning Activity 2.4: Searching for Books</h3>
@@ -121,7 +117,7 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
  	<li>Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch the video tutorial to get an idea of how to search for a topic found in an e-book.</li>
  	<li>Keeping in mind the topic and specific question(s) you identified in Assignment 2, use the library catalog to locate a good example of an <strong>e-book.</strong></li>
  	<li>In your reflective journal, briefly describe your experiences in the search for an e-book, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
- 	<li>Note that you will be asked some questions related to your search strategies as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions related to your search strategies as part of your blog post for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Utilizing Scholarly Literature</h3>
@@ -142,7 +138,7 @@ If you are having difficulty finding research articles and books on your topic t
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
- 	<li>Note that you will be asked some questions related to your research skills as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions as part of your blog post for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Evaluating Scholarly Sources</h3>
@@ -183,7 +179,7 @@ How do you know whether the information presented to you in a journal article, b
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that these questions make up part of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Learning Activity 2.7: Read, Watch, and Search</h3>
@@ -197,7 +193,7 @@ In this learning activity, begin by reading chapter 7 in the Badke (2017) text w
  	<li>How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that these questions make up part of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
 <h3>Additional sources for finding scholarly literature:</h3>
 I also wanted to mention two other sources of information that you can use to gather information on your research topic.  The first is viewing the TED talk videos.  These videos are a great resource to help you become familiar with a researcher and their work on a specific topic.  You can search almost any topic on the TED website, the videos are usually under 20 minutes, and are very good.  You can find TED site here: <a href="https://www.ted.com/">https://www.ted.com</a>
