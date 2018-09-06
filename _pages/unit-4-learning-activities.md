@@ -133,10 +133,15 @@ Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be 
 This activity will make up Part C of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
 <h3>Learning Activity 4.5 - Reflect</h3>
-In your reflective learning journal discuss the following:
-
-As a consumer of research reports, the most important thing(s) for me in the introduction section of a high-quality research report is/are..
-
+In your reflective learning journal discuss the following questions:
+<ul>
+ 	<li>In your view, what were the most important points you need to consider in the introduction section of a high-quality research report?</li>
+ 	<li>What information did you already know?</li>
+ 	<li>What new knowledge, ideas, or perspectives have you gained?</li>
+ 	<li>What information was easy to remember or learn? Why?</li>
+ 	<li>What concepts did you find more difficult? Why?</li>
+ 	<li>How can you apply this knowledge to your work context or current experience?</li>
+</ul>
 Close with one question that invites further comment and discussion.
 
 This activity will make up Part D of your graded blog this week.  See Unit 4 Assessment for more details.
