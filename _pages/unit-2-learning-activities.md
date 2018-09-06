@@ -38,8 +38,8 @@ Let me tell you a little about my own research journey and then I will give you 
 As I entered my Master's my focus was still on the topic of understanding eating disorders, but the population that I was interested in - female athletes with eating disorders - was a difficult and challenging group to study.  So I needed to make some adaptations to the research that I wanted to pursue in order to make my thesis project more manageable.  I will save you all the details of the 2-year journey of learning what works and what doesn't when you are studying a clinical population, but what I ended up with was a very different thesis project then what I had originally intended.
 
 The topic I ended up studying was examining the differences between women with eating disorders, at-risk for eating disorders, and those not at-risk on a very specific psychological construct which is called self-presentation motivation.  Self-presentation motivation reflects the process that we go through in an attempt to monitor and control the impression we make on others (Schlenker &amp; Leary, 1982).  For example, when we go for a job interview we usually wear nice clothes, get a hair cut, rehearse interview questions because we want to make a good impression on a potential employer.  Now self-presentation motivation in itself is not a single construct that can be empirically measured.  In my study this concept was measured using several different questionnaires and they were a) fear of negative evaluation (when a person is fearful of receiving disapproval and criticism from others; Leary, 1983), b) public self-consciousness (the awareness or sensitivity a person experiences from the opinions of others; Fenigstein, Scheier, &amp; Buss, 1975), c) social physique anxiety (the anxiety experienced when your body is being evaluated by others; Hart, Rejeski, &amp; Leary, 1989), and d) self-presentational efficacy (the probability of conveying a desired impression on others; Leary &amp; Atherton, 1986).  If you are interested in reading more about this study you can find the published article here <a href="http://www.sciencedirect.com/science/article/pii/S1471015306000122">http://www.sciencedirect.com/science/article/pii/S1471015306000122</a>
-<p style="padding-left: 30px;">This is what my research question started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
-<p style="padding-left: 30px;">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
+<p style="padding-left: 30px">This is what my research question started as: <em><strong>How do eating disorders impact the performance of female athletes?</strong></em></p>
+<p style="padding-left: 30px">What my research question ended up as: <em><strong>What are the differences in self-presentation motivation across three groups which have known differences on measures of eating disordered behaviour?</strong></em></p>
 Sometimes the research question we start out with is not the one we end up studying.  This was certainly true in my case.
 
 The question that you select is the cornerstone of your work in this course. The assignments you will be working on will revolve around finding an answer to the question you are posing.  It is important to select a question that is going to be interesting to work on for the length of this course and a question that is specific enough to allow you to find the answer.
@@ -72,8 +72,8 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 <h3>Learning Activity 2.2: Take the Coconut Challenge!</h3>
 How do you know whether the information presented to you in a journal article, book, news report, etc. is true?  What is your process for evaluating the facts and assessing the credibility of the source?  In this activity, I want you to consider your process for evaluating sources and how that relates to your research, and also to your daily decision-making.
 <ol>
- 	<li>First, watch the following video: <span style="color: #ff0000;"><strong>[insert link]</strong></span>.  It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil.</li>
- 	<li>Next, read the following articles: <span style="color: #ff0000;"><strong>[insert link]</strong></span></li>
+ 	<li>First, watch the following video: <span style="color: #ff0000"><strong>[insert link]</strong></span>.  It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil.</li>
+ 	<li>Next, read the following articles: <span style="color: #ff0000"><strong>[insert link]</strong></span></li>
  	<li>Finally, reflect on the following questions in your reflective journal:
 <ul>
  	<li>Compare and contrast the findings of the video and article. Why are the 'facts' different?</li>
@@ -81,7 +81,7 @@ How do you know whether the information presented to you in a journal article, b
 </ul>
 </li>
 </ol>
-<strong><span style="color: #ff0000;">[Heather, above is a template and wording suggestions, but feel free to change]</span></strong>
+<strong><span style="color: #ff0000">[Heather, above is a template and wording suggestions, but feel free to change]</span></strong>
 
 &nbsp;
 <h3>Learning Activity 2.3: Clarifying Your Research Interest (Assignment 2 - 10%)</h3>
@@ -89,7 +89,7 @@ The rest of the activities in this unit will help you access and assess scholarl
 <ul>
  	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
 </ul>
-<strong><span style="color: #ff0000;">[Heather, I reworded a bit of the activity above to make it flow, but also so students know assignment will take some time]</span></strong>
+<strong><span style="color: #ff0000">[Heather, I reworded a bit of the activity above to make it flow, but also so students know assignment will take some time]</span></strong>
 
 &nbsp;
 <h3>Accessing Scholarly Literature</h3>
@@ -199,7 +199,7 @@ In this unit you have learned about the research process and what is involved in
 <h3>Assessment</h3>
 Go to Unit 2 Assessment for more details on your Assignment 2 submission<strong>.</strong>
 
-<span style="color: #ff0000;"><strong>[Kelly to check links to pages]</strong></span>
+<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
 Booth, W. C., Colomb, G. G. &amp; Williams, J. M. (2008). <em>The Craft of Research</em>(3rd ed.) Chicago: The University of Chicago Press, p. 51-65
 
