@@ -58,9 +58,9 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 <h4>Assignment Submission</h4>
 Submit Assignment 2 via the following link <strong><span style="color: #ff0000">[Kelly insert link]</span></strong>.
 <h3>Unit 2 Blog</h3>
-In unit 2, you are asked to write the following blog post (500 words total):
+Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count. ]</span></strong>
+In unit 2, you are asked to write the following blog post (500 words total):
 <h4>Part A</h4>
 First, create a new blog post, and briefly describe your experiences with searching for scholarly literature.  What did you find worked well, what did not?
 <h4>Part B</h4>
