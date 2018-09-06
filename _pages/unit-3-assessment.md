@@ -11,6 +11,8 @@ post_date: 2017-11-24 14:49:51
 ---
 <h2>Unit 3 Assessment</h2>
 <h3>Unit 3 Blog</h3>
+Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
+
 In unit 3, you are asked to write the following blog post (500 words total):
 <h4>Part 1</h4>
 <ul>
