@@ -36,14 +36,14 @@ Aside from simplifying the work of your instructors by having everyone use the s
  	<li>Next, in your reflective learning journal, discuss the following questions:
 <ul>
  	<li>What is your previous experience with APA style?</li>
- 	<li>Why scholarly writing can be important for you as a leader in your context?</li>
+ 	<li>Discuss how scholarly writing can be applied to leadership in your context.</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
 </ul>
 <h3>What is Scholarly Writing?</h3>
 According to Heady (2013), graduate-level (or scholarly) writing is "clear, correct and concise, but it adds the elements of originality and discipline specific expertise" (p. 2). Heady suggests that graduate-level writing explores a topic or a research question in an original way, demonstrates extensive research done on the topic, has a strong organizational structure, and is written for a professional audience. The scholarly writer writes in a way that is skillful, engaging and organized well so that the paper moves from point to point allowing the reader to follow in a logical progression. Heady also states that "a good paper has a clear and obvious structure: you can enter it through a clear, well-composed introduction, you move from section to section, and you exit where you know you have been and what you have seen" (p. 73).
-<h3>Structure and Organization</h3>
+<h5>Structure and Organization</h5>
 Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references. Let's take a closer look at what should be included in each of these sections of a scholarly paper.
 
 <strong>Title Page:</strong> This is the first page of your paper and it should include a title that summarizes the main topic you will be discussing. It should also include your name (the author), and the institution you are affiliated with (Trinity Western University). It is also helpful if you include the date that you are submitting the assignment.
@@ -99,19 +99,20 @@ When you begin writing, it is important to remember that you are communicating i
 There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Writing clearly and concisely helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
 <h3>Learning Activity 3.3 - Read, Watch and Reflect!</h3>
 <ul>
- 	<li>In this learning activity you will read chapter 3 and 4 of the APA (2010) manual which discusses writing clearly and concisely and the mechanics of APA style.</li>
- 	<li>Next, watch the following video tutorials  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" and "<a href="https://www.youtube.com/watch?v=9SXTfLLzmt4">The Mechanics of Style</a>" by Dr. Mark Hatala.  In the videos Dr. Hatala discusses the importance of writing clearly and concisely and the APA guidelines to ensure clear, consistent presentation of ideas.</li>
+ 	<li>In this learning activity you will read chapter 3 of the APA (2010) manual which discusses writing clearly and concisely.</li>
+ 	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the importance of writing clearly and concisely and the APA guidelines to ensure clear, consistent presentation of ideas.</li>
  	<li>In your reflective learning journal, make note of the elements of APA style writing that you struggle with and need to improve on for your next assignment.</li>
  	<li>Note, these elements will be evaluated in assignment 4 and 5.</li>
- 	<li>Here is a checklist of what I am looking for:
+ 	<li>Here is a checklist of what I am looking for with additional links to articles that explain what each element is:
 <ul>
- 	<li>Wordiness and Redundancy <a href="http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html">http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html</a></li>
- 	<li>Unit length <a href="http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html">http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html</a></li>
- 	<li>Pronouns</li>
- 	<li>Editorial we</li>
- 	<li>Linguistic devices</li>
- 	<li>Active voice <a href="http://blog.apastyle.org/apastyle/principles-of-good-writing/">http://blog.apastyle.org/apastyle/principles-of-good-writing/</a></li>
- 	<li>Bias free language <a href="http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html">http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html</a></li>
+ 	<li><strong>Wordiness and Redundancy:</strong> Use no more words than are necessary to convey your meaning (APA, 2010, p.67). For more information see:
+<a href="http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html">http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html</a></li>
+ 	<li><strong>Unit length:</strong> Writing in long sentences results in difficult, sometimes incomprehensible material.  Direct, declarative sentences with simple, common words are usually best (APA, 2010, p.68).  In addition, if a paragraph runs longer than one double spaced manuscript page, you may lose your readers (APA, 2010, p.68). For more information see: <a href="http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html">http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html</a></li>
+ 	<li><strong><strong>Pronouns: </strong></strong>Each pronoun should refer clearly to its antecedent and should agree with the antecedent in number (singular or plural) and gender (APA, 2010, p. 79).  For more information see: <a href="http://blog.apastyle.org/apastyle/2015/11/the-use-of-singular-they-in-apa-style.html">http://blog.apastyle.org/apastyle/2015/11/the-use-of-singular-they-in-apa-style.html</a></li>
+ 	<li><strong>Editorial we:</strong> Restrict your use of we to refer only to yourself and your coauthors (APA, 2010, p.69). For more information see: <a href="http://blog.apastyle.org/apastyle/2014/05/me-me-me.html">http://blog.apastyle.org/apastyle/2014/05/me-me-me.html</a></li>
+ 	<li><strong>Linguistic devices:</strong> Avoid heavy alliteration, rhyming, poetic expressions, and clichés. Use metaphors sparingly because they can be distracting (APA, 2010, p.70).</li>
+ 	<li><strong><strong>Active voice: </strong></strong>Use the active rather than the passive voice, and select tense or mood carefully (APA, 2010, p.77).  For more information see:  <a href="http://blog.apastyle.org/apastyle/principles-of-good-writing/">http://blog.apastyle.org/apastyle/principles-of-good-writing/</a></li>
+ 	<li><strong><strong>Bias free language: </strong></strong>Scientific writing must be free of implied or irrelevant evaluation of the group or groups being studied (APA, 2010, p.70). For more information see: <a href="http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html">http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html</a></li>
 </ul>
 </li>
 </ul>
@@ -134,26 +135,74 @@ Heady (2013) suggests five general rules you should always follow when you are o
 <ul>
  	<li>In this learning activity you will read chapter 6 of the APA (2010) manual which discusses plagiarism and giving credit to sources in APA style.</li>
  	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=ImX4SlPCH3c">Crediting Sources</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the importance of properly citing sources in APA format.</li>
- 	<li>Next, practice your skills by completing the following quiz <strong>[Hi Kelly - I need to figure out how to make a quiz for this LA]</strong></li>
- 	<li>In your reflective learning journal, make note of the elements of citing sources that you struggle with and need to improve on for your next assignment.</li>
+ 	<li>Next, practice your skills by using the Parris and Peachey (2013) article and write an example of each of the following:
+<ul>
+ 	<li>A direct quote less than 40 words with proper in-text citation (6.03)</li>
+ 	<li>A direct quote more than 40 words with proper in-text citation (6.03).</li>
+ 	<li>A sentence that refers to an idea from the article (paraphrased), and provide a proper in-text citation (6.11-6.12)</li>
+</ul>
+</li>
+ 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
+ 	<li>Here is a checklist of what I am looking for:
+<ul>
+ 	<li>Direct quotations include the author (or title if no author), the date, and specific part of the source (page #, paragraph # or section title).</li>
+ 	<li>All quotations &lt; 40 words are enclosed in quotation marks.  The in-text parentheses comes before the ending punctuation.</li>
+ 	<li>All quotations &gt; 40 words are shown as an indented block quote with no additional beginning paragraph indenting.  The in-text parentheses comes after the punctuation.</li>
+ 	<li>Paraphrasing is a restatement of the original source in my own words.</li>
+ 	<li>Paraphrased in text citations include the author (or title if no author) and the date. It is optional to include the specific page, paragraph, or section of a source that is paraphrased.</li>
+ 	<li>For any multi author sources, for any sources with &gt; 3 and &lt; 6 authors they are all written out the first time, but subsequent use, I can use the first author followed by et al.</li>
+ 	<li>If the information for the in text citation is included in the body of text I am writing and I have multiple authors, the word <strong>and</strong> is spelled out, Jones, Smith, and Black (2010)…..</li>
+ 	<li>If the information for the in text citation is all included in a parentheses an <strong>ampersand</strong> is used to separate the next to last and last authors, e.g. (Jones, Smith, &amp; Black, 2010).</li>
+ 	<li>For six or more authors, cite the surname of the first author and use, et al., the first time that source is used and any subsequent in text citations for that source.</li>
+ 	<li>When an author is repeated within a paragraph, with no other sources used in between, I can omit the date.  For a new paragraph, include all the elements of the in text citation per above.</li>
+</ul>
+</li>
 </ul>
 <h3>Reference Lists</h3>
 The reference list provides a precise list of all of the sources you cited within your paper. APA (6th edition) has many rules to follow for correct formatting of references (see chapters 6 and 7). In general, the APA manual states "when in doubt, provide more information rather than less. Because one purpose of listing references is to enable readers to retrieve and use the sources..." (p.193).
 <h3>Learning Activity 3.5 - Watch and Practice!</h3>
 <ul>
  	<li>In this learning activity you will watch the following video tutorial <a href="https://www.youtube.com/watch?v=fjNALjxisC4&amp;t=3s">"Reference Examples"</a> by Dr. Mark Hatala and consult the reference examples provided in chapter 7 of the APA manual.  In the video Dr. Hatala discusses the different elements required for, and examples of, references in APA style.</li>
- 	<li>Next, practice your skills by creating a reference list in APA format for six different scholarly sources (on any topic). The sources you should include in your reference list are as follows:
+ 	<li>Next, practice your skills by creating a reference list in APA format for the following sources on the topic of servant leadership. The sources you should include in your reference list are as follows:
 <ul>
  	<li>A journal article (7.01)</li>
  	<li>A book or book chapter (7.02)</li>
- 	<li>A government report (7.03)</li>
  	<li>A blog post (7.11 #76)</li>
  	<li>A doctoral dissertation or master's thesis (7.05)</li>
- 	<li>An online newspaper article (7.01 #11)</li>
+ 	<li>An online newspaper or news magazine article (7.01 #11)</li>
 </ul>
 </li>
- 	<li>In your reflective learning journal, make note of the elements of the references that you struggled with and need to improve on for your next assignment.</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
+ 	<li>Here is a check list of what I am looking for:
+<ul>
+ 	<li>References are listed in alphabetical order by the authors last name.</li>
+ 	<li>All lines are double spaced and for each entry the hanging indent is used.</li>
+ 	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Lewis, C. S.</li>
+ 	<li>If there are multiple authors, they are listed in the order they appear on the original source.</li>
+ 	<li>Authors in the references are separated by commas (even for 2 authors) and an ampersand is used before the last one.</li>
+ 	<li>Year of publication follows the authors of the article in parentheses.</li>
+ 	<li>Titles of books, journals, technical reports are given in italics, as are journal titles.</li>
+ 	<li>Titles of books, journal articles, web sites are in lower case except for the first word, first word after a colon and any proper nouns.</li>
+ 	<li>The title of a web page that is an article contained in a larger web site is not italicized.</li>
+ 	<li>Journal article titles and book article titles are not italicized.</li>
+ 	<li>Volume numbers are given in italics.</li>
+ 	<li>Issue numbers are enclosed in parenthesis and not formatted with italics.</li>
+ 	<li>Paging is given as a range (e.g. 45-56) without using p. or pp. except for newspapers or magazines without a volume and issue number.</li>
+ 	<li>Publication information (books) includes the state 2 letter code with the city and country written out for all international cities.</li>
+ 	<li>For electronic articles, a DOI is used at the end, if available.</li>
+ 	<li>For electronic articles, if there is no DOI, then use the publisher’s home web site.</li>
+ 	<li>For any citations ending with a URL all hyperlinking (blue, underline) is removed and there is no period at the end of the hyperlink.</li>
+ 	<li>APA Style uses two kinds of capitalization to format reference titles: title case and sentence case. APA’s title case refers to a capitalization style in which most words are capitalized, and sentence case refers to a capitalization style in which most words are lowercase.</li>
 </ul>
+</li>
+</ul>
+<h3>Unit 3 Summary</h3>
+In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing, mechanics of writing style and citing sources.
+<h3>Assessment</h3>
+Go to Unit 3 Assessment for more details on your Blog assignment<strong>.</strong>
+
+<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
+
 <strong>References</strong>
 
 American Psychological Association (2010). <em>Publication manual of the American Psychological Association</em> (6th ed.). Washington, DC: American Psychological Association.
@@ -171,10 +220,3 @@ Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leader
 Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Retrieved from <a href="http://academicguides.waldenu.edu/writingcenter/scholarlyvoice">http://academicguides.waldenu.edu/writingcenter/scholarlyvoice</a>
 
 &nbsp;
-<h3>Additional Resources</h3>
-<h3>Unit 3 Summary</h3>
-In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing, mechanics of writing style and citing sources.
-
-&nbsp;
-
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
