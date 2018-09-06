@@ -10,42 +10,7 @@ published: true
 post_date: 2017-11-24 14:49:50
 ---
 <h3>Unit 2 Assessment</h3>
-<h3>Unit 2 Blog</h3>
-In unit 1, you are asked to write the following blog post:
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count. ]</span></strong>
-<h4>Part A</h4>
-Create a new blog post, and write the author, date and title (including the hyperlink) of a journal article you found in your search in the Academic Search Complete database. Post this information on your blog. Next, briefly assess the source in the following categories.
-<ul>
- 	<li>Authority – Who is the author? What are the author’s credentials?</li>
- 	<li>Currency – Is the source up to date?</li>
- 	<li>Purpose – What are the intentions of the author? Who is the intended audience?</li>
- 	<li>Publication type/process – Who published the article? Was the article peer reviewed?</li>
- 	<li>Are there any obvious biases and/or special interests that the author acknowledges?</li>
-</ul>
-This post should be between 250-500 words.
-<h4>Part B</h4>
-<ul>
- 	<li>Post the author, date and title (including the hyperlink) of the e-book you found in Activity 2.3 on your blog. Next, briefly assess the source in the following categories.
-<ul>
- 	<li>Authority – Who is the author? What are the author’s credentials?</li>
- 	<li>Currency – Is the source up to date?</li>
- 	<li>Purpose – What are the intentions of the author? Who is the intended audience?</li>
- 	<li>Publication type/process – Who published the article? Was the article peer reviewed?</li>
- 	<li>Are there any obvious biases and/or special interests that the author acknowledges?</li>
-</ul>
-</li>
-</ul>
-<h4>Part C</h4>
-<ul>
- 	<li>Describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
-</ul>
-If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
-
-Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 2</strong>. This helps to organized the class blogs and interactions.
-
-&nbsp;
-<h3>Assignment 1: Clarifying your Research Interest</h3>
+<h3>Assignment 2: Clarifying your Research Interest</h3>
 The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient interests in your personal and professional life and practice.
 
 In this assignment, you develop a concept map depicting your interests (personal and/or professional) and use the concept map to generate research questions amenable to scholarly inquiry. A concept map is a general method used by individuals or groups to describe ideas in the form of a picture (Trochim, 2001). The picture can then be used to articulate or refine research areas relevant to scientists and stakeholders.
@@ -71,12 +36,15 @@ There is no limit to the number (and nature) of research questions the researche
  	<li>What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.</li>
  	<li>Identify the research question you feel is <strong>the strongest one</strong> to pursue for a future research paper, and outline reasons for your selection.</li>
  	<li>In what broad fields do you anticipate searching for literature that might inform your research question (e.g., education, business, psychology, healthcare, leadership, religion)?</li>
+ 	<li>Try using the following three statements to help get some clarity about what exactly you want to address in your question. If you can fill out these statements, then you most likely have a narrow enough topic with enough direction to perform some great research.</li>
+ 	<li><b>I am researching </b>______________________________________ (<b>topic</b>)</li>
+ 	<li><b>because I want to find out </b>______________________________(<b>issue/question</b>)</li>
+ 	<li><b>in order to </b>________________________________ (<b>application </b>- So What? - Project/Audience/Purpose driven)</li>
+ 	<li>The written portion of your assignment should be 350-500 words or less.</li>
 </ul>
 </li>
 </ul>
-The written portion of your assignment should be 500 words or less.
-
-Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Assignment 1</strong>.
+Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Assignment 2</strong>.
 <h5>Sample Map</h5>
 <img class="aligncenter size-full wp-image-2021" src="http://create.twu.ca/ldrs591/files/2017/11/Research-Interest-Concept-Map.png" alt="" width="561" height="571" />
 <h3>Evaluation</h3>
@@ -88,14 +56,35 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 </ul>
 <strong>Overall Score = /20</strong>
 <h4>Assignment Submission</h4>
-Submit Assignment 1 via the following link <strong><span style="color: #ff0000">[Kelly insert link]</span></strong>.
+Submit Assignment 2 via the following link <strong><span style="color: #ff0000">[Kelly insert link]</span></strong>.
+<h3>Unit 2 Blog</h3>
+In unit 2, you are asked to write the following blog post (500 words total):
 
-&nbsp;
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count. ]</span></strong>
+<h4>Part A</h4>
+First, create a new blog post, and briefly describe your experiences with searching for scholarly literature.  What did you find worked well, what did not?
+<h4>Part B</h4>
+Next, choose either <strong>one</strong> journal article, or e-book, or internet source that you found on your research topic to discuss how you assessed the source based on the following categories.
+<ul>
+ 	<li>Authority – Who is the author? What are the author’s credentials?</li>
+ 	<li>Currency – Is the source up to date?</li>
+ 	<li>Purpose – What are the intentions of the author? Who is the intended audience?</li>
+ 	<li>Publication type/process – Who published the article? Was the article peer reviewed?</li>
+ 	<li>Are there any obvious biases and/or special interests that the author acknowledges?</li>
+ 	<li>Make sure you include the author(s), date, title, source (including the hyperlink).</li>
+</ul>
+<h4>Part C</h4>
+Finally, discuss what sources of information you will use the most to conduct research on your topic. How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?
+
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
+
+Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 2</strong>. This helps to organized the class blogs and interactions.
+<h3></h3>
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
- 	<li>Can you ...?<strong><span style="color: #ff0000">[Kelly to check new learning outcomes in unit overview and reword here]</span></strong></li>
- 	<li>Can you ...?</li>
- 	<li>Can you ...?</li>
+ 	<li>Can you identify a research interest and develop a good research question?</li>
+ 	<li>Can you employ different search strategies to locate different sources of scholarly literature?</li>
+ 	<li>Can you evaluate the credibility and reliability of sources of scholarly literature?</li>
 </ol>
 Feel free to review topics more in depth or continue on to the next unit.
