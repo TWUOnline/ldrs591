@@ -25,7 +25,7 @@ Unit 3 is divided into 3 topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
- 	<li>Describe the importance of APA style for graduate level scholarly writing.</li>
+ 	<li>Describe the importance of scholarly writing for leadership.</li>
  	<li>Apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, the mechanics of style, citing sources and formatting references.</li>
  	<li>Create an APA style paper.</li>
 </ol>
@@ -45,6 +45,7 @@ Here are the resources you will need to complete the unit:
 <ul>
  	<li>American Psychological Association (2010). <em>Publication manual of the American Psychological Association</em> (6th ed.). Washington, DC: American Psychological Association.</li>
  	<li>Badke, W. (2017). <em>Research strategies: Finding your way through the information fog</em> (6th ed.). Bloomington, IN: iUniverse.</li>
+ 	<li>Parris, D. L., &amp; Peachey, J. W. (2013). A systematic literature review of servant leadership theory. <em>Journal of Business Ethics, 113</em> (3), 377-393.</li>
  	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.</li>
 </ul>
 &nbsp;
