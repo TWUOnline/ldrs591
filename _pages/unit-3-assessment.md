@@ -12,8 +12,6 @@ post_date: 2017-11-24 14:49:51
 <h2>Unit 3 Assessment</h2>
 <h3>Unit 3 Blog</h3>
 In unit 3, you are asked to write the following blog post (500 words total):
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part 1</h4>
 <ul>
  	<li>Begin by creating a new post and explain ...
