@@ -206,7 +206,7 @@ In this unit you have learned about the research process and what is involved in
 
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 2 Assessment for more details on your Assignment 2 submission<strong>.</strong>
+Go to Unit 2 Assessment for more details on your Blog assignment and Assignment 2 submission<strong>.</strong>
 
 <span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
 <h3>References</h3>
