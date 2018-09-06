@@ -33,7 +33,7 @@ In unit 1, you are asked to write the following blog post (500 words total):
 </ul>
 <h4>Part 3</h4>
 <ul>
- 	<li>Discuss, in your own words, why is evidence-based decision-making important?</li>
+ 	<li>Discuss, in your own words, what is evidence-based decision making and why it is important?</li>
  	<li>Close your blog post with one question that invites further comment and discussion from your colleagues.</li>
 </ul>
 If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
