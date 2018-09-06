@@ -142,7 +142,7 @@ Heady (2013) suggests five general rules you should always follow when you are o
  	<li>A sentence that refers to an idea from the article (paraphrased), and provide a proper in-text citation (6.11-6.12)</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit and will also be assessed in assignments 3, 4 and 5.  See Unit 3 Assessment for more details.</li>
  	<li>Here is a checklist of what I am looking for:
 <ul>
  	<li>Direct quotations include the author (or title if no author), the date, and specific part of the source (page #, paragraph # or section title).</li>
@@ -219,4 +219,6 @@ Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leader
 
 Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Retrieved from <a href="http://academicguides.waldenu.edu/writingcenter/scholarlyvoice">http://academicguides.waldenu.edu/writingcenter/scholarlyvoice</a>
 
-&nbsp;<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
+&nbsp;
+
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
