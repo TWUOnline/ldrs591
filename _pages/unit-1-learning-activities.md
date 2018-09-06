@@ -51,12 +51,11 @@ It is beyond the purpose of this course to go deeper into this topic other than 
 
 &nbsp;
 <h3>Learning Activity 1.2: Reflection</h3>
-In your reflective learning journal, answer the following questions:
+In your reflective learning journal, answer the following question:
 <ul>
- 	<li>What factors do you think shape your decision-making process as a leader?</li>
  	<li>Do you agree or disagree with the proposition made above that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
 </ul>
-Note that your journal is not graded, but these questions make up Part 2 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.
+Note that your journal is not graded.
 
 &nbsp;
 <h3>Leadership and Scholarly Inquiry</h3>
@@ -72,9 +71,14 @@ How does the research process differ from managerial activities such as decision
 
 &nbsp;
 <h3>Learning Activity 1.3: Reflection</h3>
-In the Unit 1 Discussion Forum, describe  at least one example of a decision you have made as a leader and explain how you made that decision.  Make sure to include the type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).  Your post should be between 250-300 words.  You are also required to read and reply to other learners in the discussion forum. Your replies should offer new substantiated ideas or thoughtful questions.
-
-&nbsp;
+In your reflective learning journal, answer the following questions:
+<ul>
+ 	<li>Describe at least one example of a decision you have made as a leader.</li>
+ 	<li>Consider the factors that went into that decision making process (e.g., values, research, policy, past experience, expert opinion).</li>
+ 	<li>Discuss how scholarly inquiry applies to everyday decision making.</li>
+</ul>
+Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.
+<h3></h3>
 <h3>Boyer's Model of Scholarship</h3>
 Scholarship once was defined narrowly in terms of empirical or scientific research. More recently the academic community has moved toward a broader conceptualization of scholarship more in keeping with knowledge acquisition and application through a variety of avenues. Boyer’s Scholarship of <strong>Discovery</strong> is the type of scholarship associated with traditional scholarly research. According to Leedy &amp; Ormrod (2010), “research is a systematic process of collecting, analyzing and interpreting information (data) in order to increase our understanding of a phenomenon about which we are interested or concerned” (p. 2). Boyer’s Scholarship of Discovery is often referred to as primary research. Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand in detail one isolated part of reality. Through this process it is hoped that this understanding can be generalized to some degree to a broader part of reality.
 
@@ -99,17 +103,16 @@ This course will provide the background necessary to critique empirical research
  	<li>Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b></li>
 </ul>
 </li>
- 	<li>In this learning activity, you will create a new blog post (250-500 words) where you discuss the following questions:
+ 	<li>In your reflective learning journal, discuss the following questions:
 <ul>
  	<li>How did the authors of the articles conceptualize evidence-based decisions?</li>
  	<li>What is considered as "evidence"?</li>
- 	<li>In your own words, why is evidence-based decision-making important in leadership?</li>
- 	<li>Close with one question that invites further comment and discussion.</li>
+ 	<li>In your own words, why is evidence-based decision-making important in leadership.</li>
 </ul>
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Unit 1 Summary</h3>
@@ -117,7 +120,7 @@ Congratulations on finishing the first unit!  As you complete your assignments 
 
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 1 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 2</strong>, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying your Research Interest</a>.
+Go to Unit 1 Assessment for more details on your <strong>Blog.</strong>
 
 &nbsp;
 
