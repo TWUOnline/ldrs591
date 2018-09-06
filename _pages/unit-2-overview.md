@@ -16,16 +16,15 @@ In unit 2, we will begin by developing a road map for understanding the research
 Unit 2 is divided into 5 topics:
 <p style="padding-left: 30px">Topic 1: The Research Process</p>
 <p style="padding-left: 30px">Topic 2: How to ask a good research question.</p>
-<p style="padding-left: 30px">Topic 3: Identify different genres of literature where you can find reports of research studies.</p>
-<p style="padding-left: 30px">Topic 4: Accessing and utilizing different genres of scholarly literature.</p>
+<p style="padding-left: 30px">Topic 3: Identify different sources of scholarly literature.</p>
+<p style="padding-left: 30px">Topic 4: Accessing and utilizing different sources of scholarly literature.</p>
 <p style="padding-left: 30px">Topic 5: Evaluating scholarly literature.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Identify a research interest and develop a good research question.</li>
- 	<li>Appraise the utility of various genres of scholarly writing.</li>
- 	<li>Employ different search strategies to locate different genres of scholarly literature.</li>
+ 	<li>Employ different search strategies to locate different sources of scholarly literature</li>
  	<li>Evaluate the credibility and reliability of sources of scholarly literature.</li>
 </ol>
 <h3>Activity Checklist</h3>
@@ -35,7 +34,6 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 2.3: ...</p>
 <p style="padding-left: 30px">Activity 2.4: ...</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
-<p style="padding-left: 30px"><strong>Assignment 1:</strong> Complete  ...</p>
 <strong>Assignment 2:</strong> Complete  ...
 
 &nbsp;
