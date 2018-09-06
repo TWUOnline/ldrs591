@@ -11,7 +11,7 @@ post_date: 2017-11-24 14:49:50
 ---
 <h3>An Introduction to Research Reports</h3>
 <h3>Overview</h3>
-In unit 4 we are going to find out about research reports. To start, we will focus on understanding the common elements found in the introduction of research reports. We will be engaging with the research problem, the review of precedent literature, and the research purpose. Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
+In unit 4 we are going to find out more information about research reports. To start, we will focus on understanding the common elements found in the introduction of research reports. We will be engaging with the research problem, the review of precedent literature, and the research purpose. Although the terms “research problem” and “research purpose” sound similar, we will see that although related, they are quite different.
 <h3>Topics</h3>
 Unit 4 is divided into 4 topics:
 <p style="padding-left: 30px">Topic 1: What is Servant Leadership?</p>
@@ -34,9 +34,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 3.2: Read Chapter …</p>
 <p style="padding-left: 30px">Activity 3.3: …</p>
 <p style="padding-left: 30px">Activity 3.4: …</p>
-<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates’ blogs.</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
+<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
