@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 4, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 In reference to the article by Sendjaya and Sarros (2002), create a post (250-300 words), reflecting on the following questions:
 <ul>
