@@ -22,6 +22,7 @@ Unit 1 is divided into 3 topics:
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Distinguish between informal research and scholarly inquiry.</li>
+ 	<li>Consider a recent decision you made as a leader and discuss how that decision relates to scholarly inquiry.</li>
  	<li>Critically reflect on why evidence-based decision making is important for leadership.</li>
 </ol>
 &nbsp;
@@ -32,7 +33,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 1.3: ...</p>
 <p style="padding-left: 30px">Activity 1.4: ...</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
-<strong>[Hi Kelly - I have removed assignment #1 from this unit and have moved it to a learning activity in unit 2.  It works much better to include it in unit 2]</strong>
+
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
