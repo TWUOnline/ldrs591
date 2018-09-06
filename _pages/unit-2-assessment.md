@@ -13,7 +13,7 @@ post_date: 2017-11-24 14:49:50
 <h3>Unit 2 Blog</h3>
 In unit 1, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count. ]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count. ]</span></strong>
 <h4>Part A</h4>
 Create a new blog post, and write the author, date and title (including the hyperlink) of a journal article you found in your search in the Academic Search Complete database. Post this information on your blog. Next, briefly assess the source in the following categories.
 <ul>
@@ -40,7 +40,7 @@ This post should be between 250-500 words.
 <ul>
  	<li>Describe what sources of information you will use the most to conduct research on your topic. How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
-If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000;"><strong> [Kelly to insert link]</strong></span>.
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
 
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 2</strong>. This helps to organized the class blogs and interactions.
 
@@ -48,7 +48,7 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
- 	<li>Can you ...?<strong><span style="color: #ff0000;">[Kelly to check new learning outcomes in unit overview and reword here]</span></strong></li>
+ 	<li>Can you ...?<strong><span style="color: #ff0000">[Kelly to check new learning outcomes in unit overview and reword here]</span></strong></li>
  	<li>Can you ...?</li>
  	<li>Can you ...?</li>
 </ol>
