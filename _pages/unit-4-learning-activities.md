@@ -41,7 +41,7 @@ In this learning activity you will begin by reading the article by Sendjaya and 
  	<li>Why would this article interest researchers in the leadership field?</li>
  	<li>What is already known about servant leadership?</li>
 </ul>
-<strong><span style="color: #ff0000;">[Heather please confirm which questions are for the graded blog.  Many can be formative, ungraded notes for their learning journal. See Unit 4 Assessments for the full list of questions and then double check the learning outcomes for this unit.]</span></strong>
+<strong><span style="color: #ff0000">[Heather please confirm which questions are for the graded blog.  Many can be formative, ungraded notes for their learning journal. See Unit 4 Assessments for the full list of questions and then double check the learning outcomes for this unit.]</span></strong>
 <h3>What is a research problem?</h3>
 All good research begins with a good research problem. Plano-Clark and Creswell (2015) suggest that research problems “are the issues, controversies or concerns that demand study" (p. 80). They assert that these are often real problems that must be addressed. Gall, Gall and Borg (2007) suggest that in identifying the research problem, the researcher should consider personal interest, the potential benefits to the researcher’s professional growth, and potential contribution of the research study to research knowledge. They suggest that all three criteria should be considered, with emphasis on the first and third.
 
