@@ -39,7 +39,7 @@ Aside from simplifying the work of your instructors by having everyone use the s
  	<li>Why scholarly writing can be important for you as a leader in your context?</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 1 of your <strong>XXX</strong> assignment for this unit.  See Unit 3 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
 </ul>
 <h3>What is Scholarly Writing?</h3>
 According to Heady (2013), graduate-level (or scholarly) writing is "clear, correct and concise, but it adds the elements of originality and discipline specific expertise" (p. 2). Heady suggests that graduate-level writing explores a topic or a research question in an original way, demonstrates extensive research done on the topic, has a strong organizational structure, and is written for a professional audience. The scholarly writer writes in a way that is skillful, engaging and organized well so that the paper moves from point to point allowing the reader to follow in a logical progression. Heady also states that "a good paper has a clear and obvious structure: you can enter it through a clear, well-composed introduction, you move from section to section, and you exit where you know you have been and what you have seen" (p. 73).
@@ -64,7 +64,32 @@ Writing a scholarly paper often follows a very distinct organizational structure
  	<li>In this learning activity you will read chapter 2 and pp. 228-230 (section 8.03) of the APA (2010) manual which discusses the structure and content of an APA style manuscript or paper.</li>
  	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=sGhNzgcjFXI&amp;t=379s">Manuscript Structure and Content</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains discusses the structure and content of an APA style paper.</li>
  	<li>Next, watch the following video by Purdue Owl on "<a href="https://www.youtube.com/watch?v=pdAfIqRt60c&amp;list=PL8F43A67F38DE3D5D">APA formatting the basics</a>". This video shows you how to set up your title page and other pages in APA style in a word document.</li>
- 	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Your title page should include a title, running head, author byline, institutional affiliation, and page number (see p. 229 in the APA manual under the heading "order of manuscript pages").</li>
+ 	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Here is a checklist of what these pages should include:</li>
+ 	<li>Title page:
+<ul>
+ 	<li>Running head: SHORT ALL CAPS TITLE  This is flush left, 1/2 inch from the top.</li>
+ 	<li>Page number 1 is flush right on the same line.</li>
+ 	<li>The title should exactly match the paper title but shortened if needed to accommodate no more than 50 spaces in length, including spaces.</li>
+ 	<li>Title information in includes the first letter of any major words capitalized (4 words or greater), double spaced, centered in the upper half of the page.</li>
+ 	<li>Times New Roman 12 pt. font, no use of bold, italics, underlining, or abnormal font size.</li>
+ 	<li>Name is double spaced under the title.  It is not bold, underlined, or abnormal font.</li>
+ 	<li>The institutional affiliation is double spaced under my name.  It is not bold, underlined, or abnormal font.Any other information required by my program is double spaced under the institutional affiliation.  It is not bold, underlined, or abnormal font.</li>
+</ul>
+</li>
+ 	<li>Second and subsequent pages:
+<ul>
+ 	<li>Each page header has the title in all caps, starting from the left margin, with the page number flush right, all on the same line.</li>
+ 	<li>The header matches what was used on page 1 but the part, Running head, is omitted for the remainder of the pages.</li>
+ 	<li>The entire document is double spaced.</li>
+ 	<li>Margins are 1 inch on all sides, top, bottom.</li>
+ 	<li>The introduction should not carry a heading label (see 2.05 in the APA manual).</li>
+ 	<li>The paper title is repeated in full on the first page of the body of the paper. The first letter of any major words are capitalized (4 words or greater).</li>
+ 	<li>Heading levels are consistent with APA 6</li>
+ 	<li>Paragraphs in the body of the paper are indented 5-7 spaces or one tab stop.</li>
+ 	<li>Spacing between sentences is 2 spaces.</li>
+</ul>
+</li>
+ 	<li>Note, these elements will be evaluated in assignment 3, 4, and 5.</li>
 </ul>
 <h3>How to Write a Scholarly Paper</h3>
 To begin writing a scholarly paper you need to have a research topic in mind.  Then you need to do a review of scholarly literature to obtain a good working knowledge of your topic and then critically evaluate and synthesize the literature you have read.  Finally, you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
@@ -72,12 +97,23 @@ To begin writing a scholarly paper you need to have a research topic in mind.  
 When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will motivate your reader to pay attention to what you have to say.
 
 There are also times when you are writing with a specific purpose in mind. For example, to prepare an assignment or a board briefing document.  Writing clearly and concisely helps a writer communicate what needs to be said in an efficient and effective way.  It is also easy to understand and helps the writer connect with the audience.  Here is an excellent resource by the Purdue Owl Writing Center on "<a href="https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/tips_for_writing_in_north_american_colleges/index.html">Tips for Writing in North American Colleges</a>".  This website is full of helpful resources to help you improve your scholarly writing.
-<h3>Learning Activity 3.3 - Read, Watch and Practice!</h3>
+<h3>Learning Activity 3.3 - Read, Watch and Reflect!</h3>
 <ul>
  	<li>In this learning activity you will read chapter 3 and 4 of the APA (2010) manual which discusses writing clearly and concisely and the mechanics of APA style.</li>
  	<li>Next, watch the following video tutorials  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" and "<a href="https://www.youtube.com/watch?v=9SXTfLLzmt4">The Mechanics of Style</a>" by Dr. Mark Hatala.  In the videos Dr. Hatala discusses the importance of writing clearly and concisely and the APA guidelines to ensure clear, consistent presentation of ideas.</li>
- 	<li>Next, practice your skills by completing the following quiz <strong>[Hi Kelly - I need to figure out how to make a quiz for this LA]</strong></li>
  	<li>In your reflective learning journal, make note of the elements of APA style writing that you struggle with and need to improve on for your next assignment.</li>
+ 	<li>Note, these elements will be evaluated in assignment 4 and 5.</li>
+ 	<li>Here is a checklist of what I am looking for:
+<ul>
+ 	<li>Wordiness and Redundancy <a href="http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html">http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html</a></li>
+ 	<li>Unit length <a href="http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html">http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html</a></li>
+ 	<li>Pronouns</li>
+ 	<li>Editorial we</li>
+ 	<li>Linguistic devices</li>
+ 	<li>Active voice <a href="http://blog.apastyle.org/apastyle/principles-of-good-writing/">http://blog.apastyle.org/apastyle/principles-of-good-writing/</a></li>
+ 	<li>Bias free language <a href="http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html">http://blog.apastyle.org/apastyle/2012/02/a-little-respect.html</a></li>
+</ul>
+</li>
 </ul>
 <h3>Citing the Ideas of Others</h3>
 Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions. Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" (pp. 74-75). Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" (pp. 74-75).
@@ -136,4 +172,9 @@ Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Ret
 
 &nbsp;
 <h3>Additional Resources</h3>
+<h3>Unit 3 Summary</h3>
+In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing, mechanics of writing style and citing sources.
+
+&nbsp;
+
 <!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
