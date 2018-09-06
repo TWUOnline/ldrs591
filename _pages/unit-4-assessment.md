@@ -14,8 +14,6 @@ post_date: 2017-11-24 14:49:50
 Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
 In unit 4, you are asked to write the following blog post (500 words total):
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 <ul>
  	<li>First, create a new blog post and <strong>evaluate the statement of the problem</strong> in the servant leadership article you chose to focus on. Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
@@ -26,7 +24,7 @@ In unit 4, you are asked to write the following blog post (500 words total):
 </ul>
 <h4>Part C</h4>
 <ul>
- 	<li>Then,  <strong>evaluate the purpose or research question</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
+ 	<li>Then,  <strong>evaluate the purpose statement or research question</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
  	<li>In addition, compare and contrast the common and different elements of a qualitative research question and a quantitative research question.</li>
 </ul>
 <h4>Part D</h4>
