@@ -13,10 +13,16 @@ post_date: 2017-11-24 14:49:50
 <h3>Unit 1 Blog</h3>
 <strong>Expectations for</strong> <strong>Blog posts</strong>
 
-As you work through the material in this course, you will be asked to create blog posts.
+Throughout this course, you will be invited to write about what you are learning on your blog. You should consider your blog as a place for you to try out new ideas, to test your assumptions, and to share what you are learning with your community.
+
+Unlike other assignments in this course, your blog will not always be written in a formal academic style, but you should (like always) give appropriate credit to other people who have informed or inspired your thoughts. This can be done with a simple mention and link as a way to say thank you, <a href="http://cogdogblog.com/2017/02/beautiful-benches-and-attribution/">like this</a>.
+
+The point of your blog is to provide opportunity for you to do the work of learning in a non-threatening environment. It is expected that you will be wrong about some things, or at the very least, that there will be discrepancies between what you now believe and what you used to believe, or what your colleagues believe. This is good. We want you to change your mind, and that is difficult work.
+
+As such, your blog won't be graded for 'accuracy' or 'being right', but instead for depth of thought and evidence that you are learning new ideas and incorporating them into your mental schema for later application. However, your blog will be a significant part of your final 'grade' (25%), so you shouldn't see it as optional.
 
 <strong>Replying to Colleagues’ Posts</strong>
-<p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond substantively to at least two other classmates' blogs. Your replies should offer new substantiated ideas or thoughtful questions.Please do your best to complete the blog posts that require a response by Friday at midnight of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.</p>
+<p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond substantively to at least two other classmates' blogs. Your replies should offer new substantiated ideas or thoughtful questions. Please do your best to complete the blog posts that require a response by Friday at midnight of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.</p>
 In unit 1, you are asked to write the following blog post (500 words total):
 
 <strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
