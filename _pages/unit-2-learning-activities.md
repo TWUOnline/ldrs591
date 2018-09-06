@@ -68,30 +68,16 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 </ul>
 </li>
 </ul>
-&nbsp;
-<h3>Learning Activity 2.2: Take the Coconut Challenge!</h3>
-How do you know whether the information presented to you in a journal article, book, news report, etc. is true?  What is your process for evaluating the facts and assessing the credibility of the source?  In this activity, I want you to consider your process for evaluating sources and how that relates to your research, and also to your daily decision-making.
-<ol>
- 	<li>First, watch the following video: <span style="color: #ff0000"><strong>[insert link]</strong></span>.  It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil.</li>
- 	<li>Next, read the following articles: <span style="color: #ff0000"><strong>[insert link]</strong></span></li>
- 	<li>Finally, reflect on the following questions in your reflective journal:
 <ul>
- 	<li>Compare and contrast the findings of the video and article. Why are the 'facts' different?</li>
- 	<li>How do you evaluate various sources, including news reports, youtube videos, books, articles, etc.</li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
-</li>
-</ol>
-<strong><span style="color: #ff0000">[Heather, above is a template and wording suggestions, but feel free to change]</span></strong>
-
 &nbsp;
-<h3>Learning Activity 2.3: Clarifying Your Research Interest (Assignment 2 - 10%)</h3>
+<h3>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2 - 10%)</h3>
 The rest of the activities in this unit will help you access and assess scholarly literature in order to answer a specific question for your assignments.  Before we discuss how to access scholarly literature, you need to begin with a good research question.  This learning activity is about clarifying your research interest and asking a good research question.
 <ul>
  	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
 </ul>
 <strong><span style="color: #ff0000">[Heather, I reworded a bit of the activity above to make it flow, but also so students know assignment will take some time]</span></strong>
-
-&nbsp;
 <h3>Accessing Scholarly Literature</h3>
 Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search (library books, online periodicals, internet search), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
 
@@ -110,7 +96,7 @@ Peer review is the process used by publishers and editors of academic/scholarly 
 Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources of literature you should access. They suggest that although you are probably used to searching for books on a particular topic, it is important to "focus on reading recent research studies published as journal articles to learn the most up-to-date information in your profession" (p. 11). As a general rule, articles published within the past 10 years should give you a good idea of what is current in your profession.
 
 &nbsp;
-<h3>Learning Activity 2.4: Searching for Journal Articles</h3>
+<h3>Learning Activity 2.3: Searching for Journal Articles</h3>
 <ul>
  	<li>In this learning activity you will begin by reading chapters 4 and 6 in the Badke (2017) text.  These two chapters discuss database searches and searching the library catalog.</li>
  	<li>Next, watch the tutorial "<a href="https://vimeo.com/161998287/7661f12293">Preparing a research question for a database search</a>".</li>
@@ -126,16 +112,16 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
 </ul>
 </li>
  	<li>In your reflective journal, briefly describe your experiences in the search for a journal article, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
- 	<li>Note that you will be asked some questions related to your search as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions related to your search strategies as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
-<h3>Learning Activity 2.5: Searching for Books</h3>
+<h3>Learning Activity 2.4: Searching for Books</h3>
 <ul>
  	<li>Go to <a href="http://libguides.twu.ca/library_research/home">TWU library homepage </a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>".</li>
  	<li>Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch the video tutorial to get an idea of how to search for a topic found in an e-book.</li>
  	<li>Keeping in mind the topic and specific question(s) you identified in Assignment 2, use the library catalog to locate a good example of an <strong>e-book.</strong></li>
  	<li>In your reflective journal, briefly describe your experiences in the search for an e-book, what worked well, what did not, what key search terms did you use, what databases did you search?</li>
- 	<li>Note that you will be asked some questions related to your search as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions related to your search strategies as part of your third assignment.  See Unit 2 Assessment for more details.</li>
 </ul>
 &nbsp;
 <h3>Utilizing Scholarly Literature</h3>
@@ -152,7 +138,7 @@ The research process is not always linear. You may have a great research questio
 If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature. Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic. This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
 
 &nbsp;
-<h3>Learning Activity 2.6: Upgrading Your Research Skills</h3>
+<h3>Learning Activity 2.5: Upgrading Your Research Skills</h3>
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
@@ -171,10 +157,38 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li><strong>Publication type/process:</strong> Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?</li>
  	<li><strong>Bias and special interests:</strong> According to Panucci and Williams (2010) bias can occur during all phases of research from design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias. Driscoll and Brizee (2017) suggest that when it comes to publishing research reports, "most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".</li>
 </ul>
+<h3>Learning Activity 2.6: Take the Coconut Oil Challenge!</h3>
+How do you know whether the information presented to you in a journal article, book, news report, etc. is true?  What is your process for evaluating the facts and assessing the credibility of the source?  In this activity, I want you to consider your process for evaluating sources and how that relates to your research, and also to your daily decision-making.
+<ul>
+ 	<li>First, watch the following video. It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil:
+<ul>
+ 	<li><a href="http://www.doctoroz.com/episode/dr-oz-investigates-coconut-oil-healthy-or-not?video_id=5603049252001">http://www.doctoroz.com/episode/dr-oz-investigates-coconut-oil-healthy-or-not?video_id=5603049252001</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li>Next, read the following articles:
+<ul>
+ 	<li><a href="http://www.cbc.ca/news/canada/calgary/coconut-oil-study-health-heart-disease-saturated-fats-1.4169540">http://www.cbc.ca/news/canada/calgary/coconut-oil-study-health-heart-disease-saturated-fats-1.4169540</a></li>
+ 	<li><a href="http://circ.ahajournals.org/content/136/3/e1">http://circ.ahajournals.org/content/136/3/e1#sec-18</a></li>
+ 	<li><a href="http://observer.com/2017/06/new-study-coconut-oil-ldl-cholesterol-levels/">http://observer.com/2017/06/new-study-coconut-oil-ldl-cholesterol-levels/</a></li>
+ 	<li><a href="https://draxe.com/coconut-oil-healthy/">https://draxe.com/coconut-oil-healthy/</a></li>
+</ul>
+</li>
+ 	<li>Finally, reflect on the following questions in your reflective journal:
+<ul>
+ 	<li>Compare and contrast the findings of the video and articles. What 'facts' different, what facts are the same?</li>
+ 	<li>How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?</li>
+</ul>
+</li>
+</ul>
+<ul>
+ 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
+</ul>
 &nbsp;
 <h3>Learning Activity 2.7: Read, Watch, and Search</h3>
+In this learning activity, begin by reading chapter 7 in the Badke (2017) text which discusses searching information on the internet.
 <ul>
- 	<li>In this learning activity, begin by reading chapter 7 in the Badke (2017) text which discusses searching information on the internet.</li>
  	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
  	<li>In your reflective learning journal, consider answering the following questions:
 <ul>
@@ -183,9 +197,8 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li>How will you evaluate these sources to make sure they are credible and reliable sources of information?</li>
 </ul>
 </li>
- 	<li>Note that you will be asked some questions related to your evaluation skills as part of your third assignment.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 2 Assessment for more details.</li>
 </ul>
-&nbsp;
 <h3>Additional sources for finding scholarly literature:</h3>
 I also wanted to mention two other sources of information that you can use to gather information on your research topic.  The first is viewing the TED talk videos.  These videos are a great resource to help you become familiar with a researcher and their work on a specific topic.  You can search almost any topic on the TED website, the videos are usually under 20 minutes, and are very good.  You can find TED site here: <a href="https://www.ted.com/">https://www.ted.com</a>
 
