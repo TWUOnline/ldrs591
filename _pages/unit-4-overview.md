@@ -22,8 +22,6 @@ Unit 4 is divided into 4 topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<strong> <span style="color: #ff0000">[check new outcomes]</span></strong>
 <ol>
- 	<li>Discuss the origin and development of servant leadership.</li>
- 	<li>Identify the three common elements in the introductions of research reports.</li>
  	<li>Compare and contrast the common elements of a quantitative research question and a qualitative research question.</li>
  	<li>Evaluate the quality of the research problem, literature review, and purpose statement of a research report on servant leadership.</li>
  	<li>Reflect on the importance of understanding the introduction section of a research report for a critical consumer of research.</li>
