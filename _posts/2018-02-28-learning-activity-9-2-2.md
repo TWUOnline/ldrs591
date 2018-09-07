@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-28 22:59:00
 ---
-<p>The article that I will be focusing on for this activity is Barbuto and Gottfredson&#8217;s article <em>An Examination of Emotional Intelligence </em><em>as an Antecedent of Servant Leadership.</em></p>
+The article that I will be focusing on for this activity is Barbuto and Gottfredson&#8217;s article <em>An Examination of Emotional Intelligence </em><em>as an Antecedent of Servant Leadership.</em>
+
 <ul>
 <li><em>Are the major results identified and summarized?<br />
 </em><strong>Rating: 3/3</strong><br />
@@ -27,11 +28,17 @@ Yes Barbuto and Gottfredson (2014) include a detailed list of the limitation of 
 </em><strong>Rating: 3/3</strong><br />
 Yes, after identifying the limitations of the study, Barbuto and Gottfredson (2014) suggest potential research that could solidify and confirm their findings (p, 322). They suggest that future research increase the followers to leaders ratio and that a similar study be done in the private sector so that the results can be compared to this study (Barbuto &amp; Gottfredson, 2014, p. 322).</li>
 </ul>
-<p><strong>References</strong></p>
-<p>Barbuto, J. E., Gottfredson, R. K., &amp; Searle, T. P. (2014). An examination of emotional intelligence as an antecedent of servant leadership. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 315-323.</p>
-<p>&nbsp;</p>
-<p><strong><a href="https://create.twu.ca/ldrs591-sp18/unit-9-learning-activities/">Original assignment post found here.</a> </strong></p>
+
+<strong>References</strong>
+
+Barbuto, J. E., Gottfredson, R. K., &amp; Searle, T. P. (2014). An examination of emotional intelligence as an antecedent of servant leadership. <em>Journal of Leadership and Organizational Studies, 21</em>(3), 315-323.
+
+&nbsp;
+
+<strong><a href="https://create.twu.ca/ldrs591/unit-9-learning-activities/">Original assignment post found here.</a> </strong>
+
 <div id="themify_builder_content-485" data-postid="485" class="themify_builder_content themify_builder_content-485 themify_builder">
 
     </div>
+
 <!-- /themify_builder_content -->
