@@ -36,7 +36,7 @@ Qualitative research designs typically are less structured than in quantitative 
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<h3><span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
+<h3><span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
 <h3>Data Collection</h3>
 Qualitative research data collection is typically based on one or more of the following methods: observation (including participant observation), open-ended interviewing, first person accounts, and the review of various documents. Data collected is descriptive, and may consist of personal documents, field notes, various records of people’s own words (including video and voice recordings and written transcripts), photographs, official documents, and other artifacts. Data is collected from small, non-representative samples selected through various sampling strategies including theoretical, purposeful, and snow ball sampling (Bogdan &amp; Biklen, 2007, p. 45).
 
@@ -57,7 +57,7 @@ In qualitative research, data is usually collected until saturation is achieved.
 </li>
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<h3><span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
+<h3><span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
 <h3>Data Analysis and Findings</h3>
 Qualitative research data analysis typically employs analytic induction, is ongoing throughout the research, and seeks to identify themes and concepts emergent in the data (Bogdan &amp; Biklen, 2007, p. 46). This is a dynamic process in which the researcher breaks data apart into its various components in order to identify their properties and dimensions (Corbin &amp; Strauss, 2008, p. 46). Because data might suggest more than one story, analysis is an interpretive act that often begins, as in Glaser and Strauss’ constant comparison, from the very onset of data collection (Gall, Gall &amp; Borg, 2007, p. 469).
 
@@ -80,9 +80,9 @@ Because qualitative research can involve the investigation of as few as one rese
 <ul>
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
+<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
 <h3>Learning Activity 6.4 - Blog post</h3>
-<strong><span style="color: #ff0000;">[Kelly - I need to reword these instructions to include reflections from LA 1-3]</span></strong>
+<strong><span style="color: #ff0000">[Kelly - I need to reword these instructions to include reflections from LA 1-3]</span></strong>
 
 Prepare a brief 250- to 500-word response to the following:
 
