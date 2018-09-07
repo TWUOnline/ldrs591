@@ -11,14 +11,14 @@ post_date: 2017-11-24 14:49:51
 ---
 <h2>Unit 8 Assessment</h2>
 <h3>Unit 8 Blog</h3>
-Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
+Part A and Part B blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.
 
 In unit 8, you are asked to write the following blog post:
 <h4>Part A (250 words)</h4>
-Think about some practical problems that you have faced in your professional life that you would like to change. In your blog,  select one that you would like to address for your action research project.  Introduce the problem on your blog and discuss why this problem is the one you have chosen to address.
+Think about some practical problems that you have faced in your professional life that you would like to change.  On your blog,  introduce  one practical problem that you would like to address for your action research project.  Introduce the topic, discuss why it is a problem and  discuss why this problem is the one you have chosen to address.
 <h4>Part B</h4>
+Next, using one of the practical problems you identified from Part A, create an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.
 <ul>
- 	<li>Using one of the practical problems you identified from Part A, create an idea for an action research project following the steps described by Plano-Clark and Creswell (2015) on pp. 440-442.</li>
  	<li>Record that idea in a podcast so that it can be presented to your colleagues for feedback.</li>
  	<li>Your introduction should include your key problem and explain the structure of your presentation.</li>
  	<li>Your project idea should relate to a practical leadership issue you are currently facing.</li>
@@ -30,7 +30,7 @@ Think about some practical problems that you have faced in your professional lif
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
 <h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organized the class blogs and interactions.</h4>
 <h4>Part C</h4>
-Next, you will create a new blog post where you will peer review one Action Research project by a colleague in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
+Finally, you will create a new blog post where you will peer review one Action Research project by a colleague in the class. I have posted the peer-review partnerships on the Learning Management System under the assignments tab.
 
 For your review make notes about the strengths of the project idea as well as areas to work on (clarify, more analysis, more personal application) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.
 
