@@ -23,8 +23,8 @@ Unit 7 is divided into .. topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
+ 	<li>Discuss how mixed-methods research can advance leadership research.</li>
  	<li>Evaluate the quality of mixed methods research report on servant leadership.</li>
- 	<li>Consider how mixed-methods research can apply to your own leadership context.</li>
  	<li>Conduct a mixed-methods interview on servant leadership.</li>
 </ol>
 &nbsp;
