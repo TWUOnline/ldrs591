@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-28 21:41:07
 ---
-<p>Melchar and Bosco&#8217;s (2014) study is evaluated based on Plano-Clark and Creswell&#8217;s (2015) criteria for evaluating the conclusions and back matter in a research report below. Each criteria is rated on a three-point scale.</p>
+Melchar and Bosco&#8217;s (2014) study is evaluated based on Plano-Clark and Creswell&#8217;s (2015) criteria for evaluating the conclusions and back matter in a research report below. Each criteria is rated on a three-point scale.
+
 <ol>
 <li><strong>The major results are identified and summarized (3/3) &#8211; </strong>The key results that confirmed the two hypotheses &#8211; mid-level managers exhibit servant leadership &#8220;consistent with those of high-level leaders&#8221; (Melchar &amp; Bosco, p. 83, 2014) and there is a lack of differences between subjects based on education, age, and employment time &#8211; were clearly highlighted and focused. The summary of the data was logical and solely addressed the hypotheses without introducing new ideas.</li>
 <li><strong>The results are thoughtfully examined in relation to the literature and personal reflections (1/3) &#8211; </strong>The discussion includes personal reflections well focused on the results and the implications of the quantitative data gathered. While there are suggestions of the study&#8217;s relation to prior literature about servant literature, Melchar and Bosco (2014) fail to explicitly relate prior research to their study. While this may be a fault of a lack of precedent literature, the complete lack of reference back to previous studies is unjustified.</li>
@@ -19,6 +20,9 @@ post_date: 2018-02-28 21:41:07
 <li><strong>The interpretations are consistent with the study (2/3) &#8211; </strong>While the conclusions are drawn from the data logically and focuses on the two key hypotheses, further explanation of the findings and concluding themes would have been helpful.</li>
 <li><strong>The back matter is appropriate for the study report (1/3) &#8211; </strong>The reference list provided is appropriate, but there is a lack of author notes and appendices. Providing examples of the questions asked in both the interviews and surveys would have benefited the readers&#8217; understanding of the study.</li>
 </ol>
-<p>References</p>
-<p>Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving High Organization Performance through Servant Leadership. <i>Journal Of Business Inquiry: Research, Education &amp; Application</i>, <i>9</i>(1), 74-88.</p>
-<p>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.</p>
+
+References
+
+Melchar, D. E., &amp; Bosco, S. M. (2010). Achieving High Organization Performance through Servant Leadership. <i>Journal Of Business Inquiry: Research, Education &amp; Application</i>, <i>9</i>(1), 74-88.
+
+Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
