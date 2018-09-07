@@ -13,15 +13,12 @@ post_date: 2017-11-24 14:49:51
 We are near the end of our investigation of research designs and the interpretation of research reports.  This week, in Unit 9, you will be reading about the common elements of a conclusion section of a research report in Chapter 14 of Plano-Clark and Creswell's (2015) text.  After you have read the chapter, then you will be working through the last few servant leadership articles to evaluate and interpret the conclusions section of a research report.
 <h3>The Conclusion Section of a Research Report</h3>
 The final section of a research report is the conclusion section and the back matter.  Leedy and Ormrod observe, “Any research report should end by bringing closure to the interpretation of the data” (2010, p. 296).  They assert that the conclusion is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished.  All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions.  Above all, a good conclusion makes explicit how the findings or results support the conclusions.  Also, Leedy and Ormrod (2010) suggest that the conclusion should identify the weaknesses and limitations of the study, suggest practical implications of the findings or results, and make recommendations for further research (p. 297).
-<h3></h3>
 <h3>Comparing the Contents of Conclusion Sections of Different Research Approaches</h3>
 Plano-Clark and Creswell (2015) provide a helpful chart on page 472 that provides a comparison of the contents of the conclusion section for quantitative and qualitative research reports.  In common, the conclusion will report a summary of the major results or findings, a statement of comparison of the study results or findings with those of similar previous studies, a statement of the implications of the results or findings with suggestions for practice, a statement of the limitations of the study, and a concluding statement as to the overall significance of the study.  Significant differences are found in that quantitative studies explain the study results in terms of the predictions (hypotheses) discussed in the introductions, while qualitative studies "interpret their results in terms of their overall goal to explore a central phenomenon to describe its complexity and meaning" (p. 472).
-
-&nbsp;
 <h3>Learning Activity 9.2 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>In this learning activity you will begin by reading chapter 14, "Conclusions," in Plano-Clark and Creswell (2015).</li>
- 	<li>Select <strong>one</strong> of the servant leadership articles listed under the unit 9 resources to focus on for the learning activity.</li>
+ 	<li>Next, select <strong>one</strong> of the servant leadership articles listed under the unit 9 resources to focus on for the learning activity.</li>
  	<li>Using the evaluation criteria on pg. 476-477 in Plano-Clark &amp; Creswell (2015), evaluate the quality of the discussion/conclusion section in the servant leadership article you chose. The figure on page 477 provides a template for recording your rating and rationale for your evaluation.</li>
  	<li>In your reflective learning journal, discuss the following questions:
 <ul>
@@ -36,7 +33,6 @@ Plano-Clark and Creswell (2015) provide a helpful chart on page 472 that provide
 <ul>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 9 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
 <h3>Elements of Back Matter</h3>
 Three common elements may be found in the back matter of a research report.  You will always find a reference list—you may find additional notes and appendixes provided.
 
@@ -50,15 +46,17 @@ Finally, you will often encounter appendixes.  Because of the space limitations
 
 As a consumer of research, the back matter can be a valuable feature of the research report.  The reference list can be useful in identifying further research reports for you to read, or theorists to investigate. Pay close attention to theorists or particular studies that are repeatedly referred to in the back matter of a number of research reports.  As we saw earlier in this course, this is how you can make decisions as to who the primary theorists or foundational thinkers in a given discipline are.  If possible, when you have identified these foundational thinkers, read them, and only read their interpreters if you have a specific reason to do so.
 <h3></h3>
-<h3>Learning Activity 9.3 - Blog post</h3>
-We have now concluded our investigation of research designs and the interpretation of the consequent research reports. In this learning activity, prepare a brief 250- to 300-word response to the following:
-
-The most important thing for me about the conclusions section of a high-quality research report is . . .
-
-Close with one question that invites further comment and discussion.
-<h3></h3>
+<h3>Learning Activity 9.3 - Reflect</h3>
+We have now concluded our investigation of research designs and the interpretation of the consequent research reports. In this learning activity, prepare a response to the following questions in your reflective learning journal:
+<ul>
+ 	<li>As a consumer of research reports what were the most important aspects you need to consider in the discussion/conclusion section of  of a high-quality research report?</li>
+ 	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
+ 	<li>How can you apply this knowledge to your work context or current leadership experience?</li>
+</ul>
+Note that these questions will make up Part 2 of your Blog assignment for this unit.  See Unit 9 Assessment for more details.
 <h3>Unit 9 Summary</h3>
-<span style="color: #ff0000"><strong>[to add]</strong></span>
-<h3></h3>
+In unit 9 we have focused on assessing and interpreting the discussion/conclusion section of a research report. The discussion section is where all significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions. A good discussion makes explicit how the findings or results support the conclusions.
 <h3>References</h3>
-<strong><span style="color: #ff0000">[to add]</span></strong>
+Leedy, P., &amp; Ormrod, J. (2010). <em>Practical research: Planning and design</em> (9th ed.). Upper Saddle River, NJ: Prentice-Hall.
+<p style="background: white;margin: 0cm 0cm 7.5pt 0cm">Plano-Clark, V. &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson</p>
+&nbsp;
