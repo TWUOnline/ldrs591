@@ -23,8 +23,8 @@ Unit 7 is divided into .. topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
- 	<li>Identify and understand the purpose of mixed methods research.</li>
  	<li>Evaluate the quality of mixed methods research report on servant leadership.</li>
+ 	<li>Consider how mixed-methods research can apply to your own leadership context.</li>
  	<li>Conduct a mixed-methods interview on servant leadership.</li>
 </ol>
 &nbsp;
@@ -34,9 +34,8 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 3.2: Read Chapter …</p>
 <p style="padding-left: 30px">Activity 3.3: …</p>
 <p style="padding-left: 30px">Activity 3.4: …</p>
-<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates’ blogs.</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
+<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px"><strong>Assignment :</strong> Complete <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/">Assignment 4: Scholarly Article Critique</a></p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
