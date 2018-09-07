@@ -60,7 +60,7 @@ Plano-Clark and Creswell (2015) provide a helpful chart on page 472 that provide
 <ul>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 9 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
+<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
 <h3>Elements of Back Matter</h3>
 Three common elements may be found in the back matter of a research report.  You will always find a reference list—you may find additional notes and appendixes provided.
 
@@ -80,17 +80,9 @@ We have now concluded our investigation of research designs and the interpretati
 The most important thing for me about the conclusions section of a high-quality research report is . . .
 
 Close with one question that invites further comment and discussion.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 9</li>
- 	<li>Learning Activity 9.3</li>
-</ul>
 <h3></h3>
 <h3>Unit 9 Summary</h3>
-<span style="color: #ff0000;"><strong>[to add]</strong></span>
+<span style="color: #ff0000"><strong>[to add]</strong></span>
 <h3></h3>
 <h3>References</h3>
-<strong><span style="color: #ff0000;">[to add]</span></strong>
+<strong><span style="color: #ff0000">[to add]</span></strong>
