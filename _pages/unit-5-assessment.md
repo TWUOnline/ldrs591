@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 5, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 <ul>
  	<li>Discuss the differences between qualitative and quantitative research reports.</li>
@@ -64,7 +64,7 @@ In unit 5, you are asked to write the following blog post:
 <ul>
  	<li>As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality quantitative research report is/are . . .</li>
  	<li>Close with one question that invites further comment and discussion.</li>
- 	<li style="list-style-type: none;"></li>
+ 	<li style="list-style-type: none"></li>
 </ul>
 &nbsp;
 
