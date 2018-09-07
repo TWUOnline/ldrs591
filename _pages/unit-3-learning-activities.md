@@ -36,7 +36,7 @@ Aside from simplifying the work of your instructors by having everyone use the s
  	<li>Next, in your reflective learning journal, discuss the following questions:
 <ul>
  	<li>What is your previous experience with APA style?</li>
- 	<li>Discuss how scholarly writing can be applied to leadership in your context.</li>
+ 	<li>Discuss why scholarly writing can be important in your leadership context.</li>
 </ul>
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
@@ -64,7 +64,8 @@ Writing a scholarly paper often follows a very distinct organizational structure
  	<li>In this learning activity you will read chapter 2 and pp. 228-230 (section 8.03) of the APA (2010) manual which discusses the structure and content of an APA style manuscript or paper.</li>
  	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=sGhNzgcjFXI&amp;t=379s">Manuscript Structure and Content</a>" by Dr. Mark Hatala.  In the video Dr. Hatala explains discusses the structure and content of an APA style paper.</li>
  	<li>Next, watch the following video by Purdue Owl on "<a href="https://www.youtube.com/watch?v=pdAfIqRt60c&amp;list=PL8F43A67F38DE3D5D">APA formatting the basics</a>". This video shows you how to set up your title page and other pages in APA style in a word document.</li>
- 	<li>Practice your skills by creating a title page and second page in an APA formatted word document. Here is a checklist of what these pages should include:</li>
+ 	<li>Practice your skills by creating a title page and second page in an APA formatted word document.</li>
+ 	<li>Here is a checklist of what these pages should include:</li>
  	<li>Title page:
 <ul>
  	<li>Running head: SHORT ALL CAPS TITLE  This is flush left, 1/2 inch from the top.</li>
@@ -100,7 +101,7 @@ There are also times when you are writing with a specific purpose in mind. For e
 <h3>Learning Activity 3.3 - Read, Watch and Reflect!</h3>
 <ul>
  	<li>In this learning activity you will read chapter 3 of the APA (2010) manual which discusses writing clearly and concisely.</li>
- 	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the importance of writing clearly and concisely and the APA guidelines to ensure clear, consistent presentation of ideas.</li>
+ 	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the APA guidelines to ensure clear, consistent presentation of ideas.</li>
  	<li>In your reflective learning journal, make note of the elements of APA style writing that you struggle with and need to improve on for your next assignment.</li>
  	<li>Note, these elements will be evaluated in assignment 4 and 5.</li>
  	<li>Here is a checklist of what I am looking for with additional links to articles that explain what each element is:
@@ -135,14 +136,15 @@ Heady (2013) suggests five general rules you should always follow when you are o
 <ul>
  	<li>In this learning activity you will read chapter 6 of the APA (2010) manual which discusses plagiarism and giving credit to sources in APA style.</li>
  	<li>Next, watch the following video tutorial "<a href="https://www.youtube.com/watch?v=ImX4SlPCH3c">Crediting Sources</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the importance of properly citing sources in APA format.</li>
- 	<li>Next, practice your skills by using the Parris and Peachey (2013) article and write an example of each of the following:
+ 	<li>Next, practice your skills by taking the following <a href="http://fgs.athabascau.ca/docs/presentations/APA_Quiz_19Oct11.pdf">quiz.</a> Then, you can check your answers to the quiz <a href="http://fgs.athabascau.ca/docs/presentations/APA_QuizAnswers_19Oct11.pdf">here.</a></li>
+ 	<li>If you
 <ul>
  	<li>A direct quote less than 40 words with proper in-text citation (6.03)</li>
  	<li>A direct quote more than 40 words with proper in-text citation (6.03).</li>
  	<li>A sentence that refers to an idea from the article (paraphrased), and provide a proper in-text citation (6.11-6.12)</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit and will also be assessed in assignments 3, 4 and 5.  See Unit 3 Assessment for more details.</li>
+ 	<li>Note that these elements will be assessed in assignments 3, 4 and 5.</li>
  	<li>Here is a checklist of what I am looking for:
 <ul>
  	<li>Direct quotations include the author (or title if no author), the date, and specific part of the source (page #, paragraph # or section title).</li>
@@ -163,18 +165,21 @@ The reference list provides a precise list of all of the sources you cited withi
 <h3>Learning Activity 3.5 - Watch and Practice!</h3>
 <ul>
  	<li>In this learning activity you will watch the following video tutorial <a href="https://www.youtube.com/watch?v=fjNALjxisC4&amp;t=3s">"Reference Examples"</a> by Dr. Mark Hatala and consult the reference examples provided in chapter 7 of the APA manual.  In the video Dr. Hatala discusses the different elements required for, and examples of, references in APA style.</li>
- 	<li>Next, practice your skills by creating a reference list in APA format for the following sources on the topic of servant leadership. The sources you should include in your reference list are as follows:
+ 	<li>Next, practice your skills by taking this <a href="http://libraryguides.vu.edu.au/apa-referencing/quiz">online quiz.</a>  Then, in your learning journal you can create a reference list in APA format for the following sources:
 <ul>
  	<li>A journal article (7.01)</li>
  	<li>A book or book chapter (7.02)</li>
  	<li>A blog post (7.11 #76)</li>
  	<li>A doctoral dissertation or master's thesis (7.05)</li>
  	<li>An online newspaper or news magazine article (7.01 #11)</li>
+ 	<li>A government report (7.03 #31)</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
+ 	<li>Note that these elements will be assessed in assignments 3, 4 and 5.</li>
  	<li>Here is a check list of what I am looking for:
 <ul>
+ 	<li>The page title, References, is centered, 1 inch from the top of the page and starts a new page.  Standard 12-point font should be used, without effects such as bold, italics or underlining.</li>
+ 	<li>All sources listed in the References have at least 1 corresponding in text citation.</li>
  	<li>References are listed in alphabetical order by the authors last name.</li>
  	<li>All lines are double spaced and for each entry the hanging indent is used.</li>
  	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Lewis, C. S.</li>
@@ -197,7 +202,7 @@ The reference list provides a precise list of all of the sources you cited withi
 </li>
 </ul>
 <h3>Unit 3 Summary</h3>
-In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing, mechanics of writing style and citing sources.
+In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing and citing sources.
 <h3>Assessment</h3>
 Go to Unit 3 Assessment for more details on your Blog assignment<strong>.</strong>
 
