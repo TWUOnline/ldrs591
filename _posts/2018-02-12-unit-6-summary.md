@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-12 10:51:41
 ---
-<p>This week in Unit 6 we have explored qualitative research methods.  You have all done a great job evaluating the qualitative studies on servant leadership.  Some of the articles were clearer than others.  Here is a short summary of the unique features of qualitative research methods:</p>
+This week in Unit 6 we have explored qualitative research methods.  You have all done a great job evaluating the qualitative studies on servant leadership.  Some of the articles were clearer than others.  Here is a short summary of the unique features of qualitative research methods:
+
 <ol>
 <li>Qualitative research has <b>three distinct purposes</b>: to describe, to explore and interpret, and to build theory.</li>
 <li><strong>Qualitative designs</strong> tend to be more holistic, investigating unknown variables following flexible guidelines utilizing emergent methods in a highly context-bound, personal approach (Leedy &amp; Ormrod, 2010, p. 96).  Examples include: phenomenological, ethnography, case studies, grounded theory.</li>
@@ -56,7 +57,9 @@ post_date: 2018-02-12 10:51:41
 <li>Qualitative data is <strong>analysed with the goal uncovering themes and categories</strong>, with acknowledgement of potential researcher bias and subjectivity.</li>
 <li>Qualitative research <strong>findings are typically reported in a narrative form</strong> (Leedy &amp; Ormrod, 2010, p. 96).</li>
 </ol>
-<p>According to Anderson (2010, p.2), the strengths of qualitative research can be summarized as follows:</p>
+
+According to Anderson (2010, p.2), the strengths of qualitative research can be summarized as follows:
+
 <ul class="unordered">
 <li>
 <div>Issues can be examined in detail and in depth.</div>
@@ -77,7 +80,9 @@ post_date: 2018-02-12 10:51:41
 <div>Findings can however be transferable to another setting.</div>
 </li>
 </ul>
-<p>According to Anderson (2010, pp.2-3), the limitations of qualitative research can be summarized as follows:</p>
+
+According to Anderson (2010, pp.2-3), the limitations of qualitative research can be summarized as follows:
+
 <ul class="unordered">
 <li>
 <div>Research quality is heavily dependent on the individual skills of the researcher and more easily influenced by the researcher&#8217;s personal biases.</div>
@@ -101,14 +106,23 @@ post_date: 2018-02-12 10:51:41
 <div>Findings can be more difficult and time consuming to characterize in a visual way.</div>
 </li>
 </ul>
-<p>References</p>
-<p>Anderson, C. (2010). Presenting and evaluating qualitative research. <em>American Journal of Pharmaceutical Education ,74</em> (8), 1-17.  Retrieved from</p>
-<p>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987281/pdf/ajpe141.pdf</p>
-<p>Leedy, P. D., &amp; Ormrod, J. E. (2010). <i>Practical research: Planning and design</i>. Upper Saddle River, NJ: Merrill.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
+References
+
+Anderson, C. (2010). Presenting and evaluating qualitative research. <em>American Journal of Pharmaceutical Education ,74</em> (8), 1-17.  Retrieved from
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2987281/pdf/ajpe141.pdf
+
+Leedy, P. D., &amp; Ormrod, J. E. (2010). <i>Practical research: Planning and design</i>. Upper Saddle River, NJ: Merrill.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 <div id="themify_builder_content-110" data-postid="110" class="themify_builder_content themify_builder_content-110 themify_builder">
 
     </div>
+
 <!-- /themify_builder_content -->
