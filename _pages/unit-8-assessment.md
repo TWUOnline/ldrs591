@@ -28,7 +28,7 @@ Next, using one of the practical problems you identified from Part A, create an 
  	<li>Upload your podcast to <a href="https://soundcloud.com">soundcloud.com</a>, <a href="https://tapewrite.com">tapewrite.com</a>, or another suitable online service and embed it in your post on your blog.</li>
 </ul>
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
-<h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organized the class blogs and interactions.</h4>
+<h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organize the class blogs and interactions.</h4>
 <h4>Part C (250-300 words)</h4>
 Finally, you will create a new blog post where you will peer review one Action Research project by a colleague in the class. I have posted the peer-review partnerships on the Learning Management System under the assignments tab.
 
@@ -45,7 +45,7 @@ Here are questions you should address in your evaluation:
  	<li>Will the results of the project enhance the lives of those involved?</li>
 </ul>
 Summarize your notes in a response to your colleagues projects and please post your review <strong><em>on your own blog.  </em></strong>Make sure you include a link to your colleague's post so that they can see your review. Remember that your response will be visible to all members of the class.
-<h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organized the class blogs and interactions.</h4>
+<h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organize the class blogs and interactions.</h4>
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
