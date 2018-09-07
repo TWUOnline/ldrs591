@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 6, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 <ul>
  	<li>Createand explain ...</li>
@@ -54,7 +54,7 @@ In unit 6, you are asked to write the following blog post:
 </ul>
 &nbsp;
 <h4>Part D</h4>
-<strong><span style="color: #ff0000;">[Kelly - I need to reword these instructions to include reflections from LA 1-3]</span></strong>
+<strong><span style="color: #ff0000">[Kelly - I need to reword these instructions to include reflections from LA 1-3]</span></strong>
 
 Prepare a brief 250- to 500-word response to the following:
 
@@ -64,7 +64,7 @@ Close with one question that invites further comment and discussion.
 
 &nbsp;
 <ul>
- 	<li style="list-style-type: none;"></li>
+ 	<li style="list-style-type: none"></li>
 </ul>
 &nbsp;
 
