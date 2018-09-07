@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h3>Unit 8 Learning Activities</h3>
+<h2>Unit 8 Learning Activities</h2>
 This week in Unit 8 you will get a chance to explore a new approach to research.  Action research "is a disciplined process of inquiry conducted <i>by</i> and <i>for</i> those taking the action" (Sagor, 2000, para. 1). Its purpose is to solve local/practical problems through the application of systematic investigation.  The problem is local, the investigation is local, and there is little concern for generalizing results to other settings.
 
 Action research may employ virtually any research methodology, and will commonly be conducted collaboratively with other professionals.  Action research differs from more formal research in some important ways that you will uncover in the readings this week.
@@ -27,7 +27,8 @@ According to Mutimbi and Khaila (2011, p.27):
 <ul>
  	<li>In this learning activity you will begin by reading chapter 13, "Action Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Next, watch the following video by John Spencer (2017) that explains what action research is <a href="http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/">http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/</a></li>
- 	<li>Then think about some practical problems that you have faced in your professional life that you would like to change. In a your reflective learning journal list three problems that matter to you and that you think you can systematically address in your work situation. After reflecting on these problems, select one that you would like to address for your action research project.</li>
+ 	<li>Then think about some practical problems that you have faced in your professional life that you would like to change. In your reflective learning journal list three problems that matter to you and that you think you can systematically address in your work situation. After reflecting on these problems, select one that you would like to address for your action research project.</li>
+ 	<li>Note that you will be asked to address this problem as Part 1 of your blog post for this unit.  See Unit 8 Assessment for more details.</li>
 </ul>
 <h3></h3>
 <h3>The Action Research Method</h3>
@@ -51,9 +52,26 @@ If you know how to create video you are welcome to do that instead. It is your c
  	<li>Upload your podcast to <a href="https://soundcloud.com">soundcloud.com</a>, <a href="https://tapewrite.com">tapewrite.com</a>, or another suitable online service and embed it in a new post on your blog.</li>
 </ul>
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
+<ul>
+ 	<li>Note this podcast is Part 2 of your blog post for this unit.  See Unit 8 Assessment for more details.</li>
+</ul>
 <h3></h3>
+<h3>Learning Activity 8.3 - Evaluate and Post</h3>
+Next, you will peer review one Action Research project by colleagues in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
+
+For your review make notes about the strengths of the project idea as well as areas to work on (clarify, more analysis, more personal application) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445. Here are questions you should address in your evaluation:
+<ul>
+ 	<li>Does the project focus on a real problem in practice?</li>
+ 	<li>Does the researcher plan to study his or her own practices or plan to collaborate with community members?</li>
+ 	<li>Does the project include careful reflection about the problem?</li>
+ 	<li>Does the researcher plan to gather several sources of information (e.g., qualitative and quantitative procedures)?</li>
+ 	<li>Does the researcher develop a clear plan for addressing the problem?</li>
+ 	<li>Does the project include reflecting, thinking, looking, and gathering information and acting?</li>
+ 	<li>Will the results of the project enhance the lives of those involved?</li>
+</ul>
+Summarize your notes in a response to your colleagues projects and please post your review <strong><em>on your own blog.  </em></strong>Make sure you include a link to your colleague's post so that they can see your review. Remember that your response will be visible to all members of the class.
 <h3>Unit 8 Summary</h3>
-<span style="color: #ff0000"><strong>[to add]</strong></span>
+In this unit you have discovered how action research is related to, and yet distinct from, other forms of research that we have explored to date. You have developed your own action research project to find a solution to your own practical problems.  You have also developed a strong sense of what a good quality action research project is.
 
 &nbsp;
 <h3>Assessment</h3>
