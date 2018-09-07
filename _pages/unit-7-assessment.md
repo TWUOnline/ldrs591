@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 7, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 Discuss the following questions in your blog:(250-400 words)
 <ul>
@@ -59,7 +59,7 @@ In your blog, discuss the following questions:
 <div>Do not talk too much.</div>
 <div>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</div>
 <div>Don’t be afraid of silence.</div>
-<div>Make sure you take good notes and upload them to<span style="color: #ff0000;"> the forum for [Heather please check ]</span></div>
+<div>Make sure you take good notes and upload them to<span style="color: #ff0000"> the forum for [Heather please check ]</span></div>
 &nbsp;
 
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 7</strong>. This helps to organized the class blogs and interactions.
