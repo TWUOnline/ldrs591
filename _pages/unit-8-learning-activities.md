@@ -53,7 +53,7 @@ If you know how to create video you are welcome to do that instead. It is your c
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
 <h3></h3>
 <h3>Unit 8 Summary</h3>
-<span style="color: #ff0000;"><strong>[to add]</strong></span>
+<span style="color: #ff0000"><strong>[to add]</strong></span>
 
 &nbsp;
 <h3>Assessment</h3>
