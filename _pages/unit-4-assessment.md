@@ -16,22 +16,22 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 In unit 4, you are asked to write the following blog post (500 words total):
 <h4>Part A</h4>
 <ul>
- 	<li>First, create a new blog post and <strong>evaluate the statement of the problem</strong> in the servant leadership article you chose to focus on. Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
+ 	<li>First, create a new blog post and begin by comparing and contrast the elements of a qualitative research question and a quantitative research question.</li>
+ 	<li>Then, discuss your <strong>evaluation of the statement of the problem</strong> in the servant leadership article you chose to focus on. Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
 </ul>
 <h4>Part B</h4>
 <ul>
- 	<li>Next, <strong>evaluate the literature review</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
+ 	<li>Next, discuss your <strong>evaluation of the literature review</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
 </ul>
 <h4>Part C</h4>
 <ul>
- 	<li>Then,  <strong>evaluate the purpose statement or research question</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
- 	<li>In addition, compare and contrast the common and different elements of a qualitative research question and a quantitative research question.</li>
+ 	<li>Then,  discuss your <strong>evaluation of the purpose statement or research question</strong> in the article you chose to focus on.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
 </ul>
 <h4>Part D</h4>
 <ul>
  	<li>Finally, discuss the following questions:
 <ul>
- 	<li>In your view, what were the most important points you need to consider as a consumer of research in the introduction section of a high-quality research report?</li>
+ 	<li>As a consumer of research reports, what were the most confusing and most important points you need to consider in the introduction section of a high-quality research report?</li>
  	<li>How can you apply this knowledge to your work context or current experience?</li>
 </ul>
 </li>
