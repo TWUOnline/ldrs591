@@ -31,9 +31,6 @@ The differing designs of quantitative and qualitative research also lead to mark
  	<li>In your reflective learning journal, discuss the differences between qualitative and quantitative research reports.</li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<strong><span style="color: #ff0000">[Heather, there are a lot of questions for students to answer in the blog.  Could we delete some, or double check the learning outcomes to see what is required to assess? Perhaps look at Unit 5 Assessment for the full list]</span></strong>
-
-&nbsp;
 <h3>Quantitative Research Designs</h3>
 Quantitative research designs typically rely on the researcher beginning with a theoretical (or conceptual) framework that will determine what concepts the researcher chooses to investigate, the research questions, and the framing of research findings (Corbin &amp; Strauss, 2008, p. 39). These frameworks lead to a structured, predetermined, formal, and specifically detailed plan of operation (Bogdan &amp; Biklen, 2007, p. 45).
 
@@ -51,7 +48,7 @@ Survey research is a popular research method used to generalize from a sample to
 
 As a consumer of survey research reports, be vigilant for potential issues of validity and reliability. Validity is a term that forces us to question the likelihood of whether the instrument or study measure actually measures what the researcher says it does. Reliability issues concern the consistency or repeatability of the instrument. Be aware that survey research is commonly criticized on these grounds, a fact underscored in Plano-Clark and Creswell’s suggestion to remedy possible concerns for internal validity by choosing a quantitative research design other than survey (Plano-Clark &amp; Creswell, 2015, p. 247).
 <h3></h3>
-<h3>Learning Activity 5.2 - Read and Evaluate</h3>
+<h3>Learning Activity 5.2 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 6, "Quantitative Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Select <strong>one</strong> of the servant leadership articles listed under the unit 5 resources and read the abstract and the methods and results section of this article.</li>
@@ -66,12 +63,8 @@ As a consumer of survey research reports, be vigilant for potential issues of va
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?</strong></span>
-
-<span style="color: #ff0000"><strong>Perhaps students should answer all of the activity questions in their reflective journal, and then choose a couple specfic ones for them to put in their blog.  As it is, there are a lot of questions.  I realize it's important for them to go through the exercise, but we should specify what is graded - and what you think students are likely to discuss in their peer responses.</strong></span><span style="color: #ff0000"><strong>]</strong></span>
-<h3></h3>
 <h3>Quantitative Data Collection</h3>
 When researchers are collecting data for a quantitative research study, they need to address two important questions: who is the data being collected from, and how are they collecting it?  In answering the first question, the terms <i>population</i> and <i>sample</i> are salient.  Population is the large category that encompasses all of the individuals who possess or exhibit certain characteristics of interest.  Quantitative data is usually collected from large samples, selected ideally through random selection.
 
@@ -85,7 +78,7 @@ A variable is anything that can vary, i.e. changed or be changed, such as eating
 
 In an experiment, the researcher is looking for the possible effect on the dependent variable that might be caused by changing the independent variable, while controlling for extraneous variables (Bogdan &amp; Biklen, 2007, p. 45). These are all variables, which are not the independent variable, but could affect the results of the experiment.
 <h3></h3>
-<h3>Learning Activity 5.3 - Read and Evaluate</h3>
+<h3>Learning Activity 5.3 - Read, Evaluate and Reflect</h3>
 <ul>
  	<li>Read chapter 7, "Participants and Data Collection," in Plano-Clark and Creswell (2015).</li>
  	<li>Using the criteria on p. 249 in Plano-Clark &amp; Creswell (2015), evaluate the participants and data collection in the servant leadership article you chose. The figure on page 250 provides a template for recording your rating and rationale for your evaluation of the article.</li>
@@ -99,9 +92,8 @@ In an experiment, the researcher is looking for the possible effect on the depen
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<h3><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></h3>
 <h3>Quantitative Data Analysis and Results</h3>
 Quantitative research data analysis is generally deductive, occurs at the conclusion of data collection and is statistical (Bogdan and Biklen, 2007, p. 46). An in-depth understanding or even an overview of statistical analysis is outside the parameters of this course. However, even if you do not have a background in statistics, you must find your way through what can initially appear to be a daunting discussion.
 
@@ -124,23 +116,17 @@ As a consumer of qualitative research reports, you will want to know that the st
 </li>
 </ul>
 <ul>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+</ul>
+<h3>Learning Activity 5.5 - Reflect</h3>
+In your reflective learning journal respond to the following questions:
+<ul>
+ 	<li>As a consumer of research reports what were the most important aspects you need to consider in the methods and results section of  of a high-quality research report?</li>
+ 	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
+ 	<li>How can you apply this knowledge to your work context or current experience?</li>
  	<li>Note that these questions make up Part 4 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<h3><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></h3>
-<h3>Learning Activity 5.5 - Blog post [Kelly - I need to reword these instructions]</h3>
-In this learning activity you will prepare a brief 250- to 500-word response to the following:
-
-As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality quantitative research report is/are . . .
-
-Close with one question that invites further comment and discussion.
-
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 5</li>
- 	<li>Learning Activity 5.5</li>
-</ul>
+<h3></h3>
 <h5>Additional Resources</h5>
 I wanted to provide you with a few extra resources to help you understand Quantitative Analysis and Results.
 
