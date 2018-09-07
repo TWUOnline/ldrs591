@@ -16,7 +16,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 In unit 5, you are asked to write the following blog post (500 words total):
 <h4>Part A</h4>
 <ul>
- 	<li>First, create a new blog post and compare and contrast the common and different elements of a methods and results section of qualitative and a quantitative research report.</li>
+ 	<li>First, create a new blog post and compare and contrast the elements of a methods and results section of qualitative and a quantitative research report.</li>
  	<li>Then, discuss your <strong>evaluation of the research design</strong> in the servant leadership article you chose to focus on. Make sure that you include your article reference, quality rating (0-3) and also the rationale/evidence for your rating in your response.</li>
 </ul>
 <h4>Part B</h4>
@@ -31,7 +31,8 @@ In unit 5, you are asked to write the following blog post (500 words total):
 <ul>
  	<li>Finally, discuss the following questions:
 <ul>
- 	<li>As a consumer of research reports what were the most confusing parts and the most important parts you need to consider in the methods and results section of  of a high-quality research report?</li>
+ 	<li>As a consumer of research reports what were the most important aspects you need to consider in the methods and results section of  of a high-quality research report?</li>
+ 	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
  	<li>How can you apply this knowledge to your work context or current experience?</li>
 </ul>
 </li>
