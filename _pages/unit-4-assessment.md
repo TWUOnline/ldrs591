@@ -31,7 +31,8 @@ In unit 4, you are asked to write the following blog post (500 words total):
 <ul>
  	<li>Finally, discuss the following questions:
 <ul>
- 	<li>As a consumer of research reports, what were the most confusing and most important points you need to consider in the introduction section of a high-quality research report?</li>
+ 	<li>As a consumer of research reports, what were the most important aspects you need to consider in the introduction section of a high-quality research report?</li>
+ 	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
  	<li>How can you apply this knowledge to your work context or current experience?</li>
 </ul>
 </li>
