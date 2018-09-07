@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h3>Unit 5 Learning Activities</h3>
+<h2>Unit 5 Learning Activities</h2>
 In this unit we will explore the next major section of a research report:  The methods and results section.  We will see that the methods section indicates the <strong>overall plan</strong> for how the research was conducted, how the data was collected, and what the analysis of the data tells us.  These may be termed research design, method, and analysis and results, respectively.  In unit 5 we will be looking at the methods and results sections of <strong>quantitative research reports</strong>.
 
 Once again we start with the reminder that we are <i>reviewing</i> these materials in order to become an <em>informed consumer of research</em>, rather than research experts.  Before we get into the specifics of the methods and results of quantitative research reports, it would be helpful to take a step back and remind ourselves of some of the features of the broader research landscape.
@@ -31,7 +31,7 @@ The differing designs of quantitative and qualitative research also lead to mark
  	<li>In your reflective learning journal, discuss the differences between qualitative and quantitative research reports.</li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<strong><span style="color: #ff0000;">[Heather, there are a lot of questions for students to answer in the blog.  Could we delete some, or double check the learning outcomes to see what is required to assess? Perhaps look at Unit 5 Assessment for the full list]</span></strong>
+<strong><span style="color: #ff0000">[Heather, there are a lot of questions for students to answer in the blog.  Could we delete some, or double check the learning outcomes to see what is required to assess? Perhaps look at Unit 5 Assessment for the full list]</span></strong>
 
 &nbsp;
 <h3>Quantitative Research Designs</h3>
@@ -68,9 +68,9 @@ As a consumer of survey research reports, be vigilant for potential issues of va
 <ul>
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000;"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?</strong></span>
+<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?</strong></span>
 
-<span style="color: #ff0000;"><strong>Perhaps students should answer all of the activity questions in their reflective journal, and then choose a couple specfic ones for them to put in their blog.  As it is, there are a lot of questions.  I realize it's important for them to go through the exercise, but we should specify what is graded - and what you think students are likely to discuss in their peer responses.</strong></span><span style="color: #ff0000;"><strong>]</strong></span>
+<span style="color: #ff0000"><strong>Perhaps students should answer all of the activity questions in their reflective journal, and then choose a couple specfic ones for them to put in their blog.  As it is, there are a lot of questions.  I realize it's important for them to go through the exercise, but we should specify what is graded - and what you think students are likely to discuss in their peer responses.</strong></span><span style="color: #ff0000"><strong>]</strong></span>
 <h3></h3>
 <h3>Quantitative Data Collection</h3>
 When researchers are collecting data for a quantitative research study, they need to address two important questions: who is the data being collected from, and how are they collecting it?  In answering the first question, the terms <i>population</i> and <i>sample</i> are salient.  Population is the large category that encompasses all of the individuals who possess or exhibit certain characteristics of interest.  Quantitative data is usually collected from large samples, selected ideally through random selection.
@@ -148,14 +148,7 @@ Here is a link to a really helpful website that has been created by Dr. Andy Fie
 
 https://www.discoveringstatistics.com/statistics-hell-p/postverta-foundational-statistics/de-mystifying-statistics/
 <h3>Unit 5 Summary</h3>
-This week in Unit 5 we have explored quantitative research methods. Here is a short summary of the unique features of quantitative research methods from Leedy and Ormrod, (2010, p.96):
-<ol>
- 	<li>Quantitative research has <b>three distinct purposes</b>: to explain and predict, to confirm and validate, and to test theory.</li>
- 	<li>Quantitative<strong> designs</strong> tend to be focused on a problem that has known variables that can be controlled or at least accounted for.  The investigation is conducted following established guidelines utilizing largely predetermined methods while the researcher seeks to maintain a detached view.</li>
- 	<li>Quantitative research collects <strong>numeric data</strong> from as large a sample as possible so to enhance claims of being representative, using standardized data collection instruments.</li>
- 	<li>Quantitative data is <strong>analysed primarily through deductive reasoning, employing statistical analyses </strong>applied to numerical data, with stress on objectivity<strong>. </strong></li>
- 	<li>Quantitative research <strong>findings are reported in a formal, scientific style with full display of numbers and statistics</strong>.</li>
-</ol>
+This week in Unit 5 we have explored quantitative research methods. We have learned that the methods section indicates the <strong>overall plan</strong> for how the research was conducted, how the data was collected, and what the analysis of the data tells us.  These sections of a research report are called the research design, method, and analysis and results, respectively.  Coming up in unit 6 we will be looking at the methods and results sections of qualitative research reports.
 <h5>References</h5>
 Bogdan, R., &amp; Biklen, S. (2007). <em>Qualitative research for education: An introduction to theories and method</em> (5th ed.). Boston, MA: Pearson.
 
