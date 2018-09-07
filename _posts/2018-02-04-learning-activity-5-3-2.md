@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-02-04 13:38:54
 ---
-<p>The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction</em> by Yusuf Cerit.</p>
+The article I chose to focus on for this unit is<em> The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction</em> by Yusuf Cerit.
+
 <ol>
 <li>Were descriptive analyses reported?<br />
 <strong>Rating: 3/3<br />
@@ -24,10 +25,15 @@ post_date: 2018-02-04 13:38:54
 <strong>Rating: 3/3<br />
 </strong>Yes, while my limited knowledge of statistical testing does now allow me to fully understand the tests that Cerit (2009) used in his study, his explanations of the factors and statistics appear objective and the process was impartial and linear. My mathematical background allows me to understand some of the more basic statistical processes he used and to me, those seem valid and correct (Cerit, 2009, p. 610).</li>
 </ol>
-<p><strong>References</strong></p>
-<p>Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.</p>
-<p><strong><a href="https://create.twu.ca/ldrs591-sp18/unit-5-learning-activities/">Original assignment post found here</a>. </strong></p>
+
+<strong>References</strong>
+
+Cerit, Y. (2009). The Effects of Servant Leadership Behaviours of School Principals on Teachers’ Job Satisfaction. <i>Educational Management Administration &amp; Leadership</i>, <i>37</i>(5), 600-623.
+
+<strong><a href="https://create.twu.ca/ldrs591/unit-5-learning-activities/">Original assignment post found here</a>. </strong>
+
 <div id="themify_builder_content-434" data-postid="434" class="themify_builder_content themify_builder_content-434 themify_builder">
 
     </div>
+
 <!-- /themify_builder_content -->
