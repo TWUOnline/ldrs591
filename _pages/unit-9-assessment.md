@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 9, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part A</h4>
 Before we get into the conclusion of research reports, first you will peer review one Action Research project (from Unit 8) by colleagues in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
 
