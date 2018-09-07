@@ -24,7 +24,7 @@ Unit 8 is divided into .. topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
- 	<li>Identify the purpose of action research.</li>
+ 	<li>Identify a practical problem that can be addressed with action research.</li>
  	<li>Design an action research project that might be utilized in your leadership practice.</li>
  	<li>Evaluate an action research project proposal.</li>
 </ol>
@@ -42,7 +42,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
 <ul>
- 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.&nbsp;</li>
+ 	<li>Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.</li>
  	<li>Spender, J. (2017, January 12). <em>What is action research?</em> [Video file]. Retrieved from <a href="http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/">http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/</a></li>
 </ul>
 &nbsp;
