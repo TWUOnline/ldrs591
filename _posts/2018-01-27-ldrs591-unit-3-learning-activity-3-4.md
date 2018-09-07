@@ -9,24 +9,42 @@ permalink: >
 published: true
 post_date: 2018-01-27 07:59:06
 ---
-<p><strong>Journal article</strong></p>
-<p>Ambrish. (2014). Entrepreneurship Development: An Approach to Economic Empowerment of Women.<em> International Journal of Multidisciplinary Approach and Studies, 1</em>(6), 224-232. Retrieved from http://ezproxy.student.twu.ca:2152/ehost/pdfviewer/pdfviewer?vid=2&amp;sid=9307389a-5c2d-48de-91b1-e7950a4a44bc%40sessionmgr4009</p>
-<p><strong> </strong></p>
-<p><strong>Book</strong></p>
-<p>Badke, W. (2017). <em>Research Strategies: Finding Your Way Through the Information Fog</em>.<br />
-(6th ed.). Bloomington, IN: iUniverse.</p>
-<p><strong> </strong></p>
-<p><strong>Government report</strong></p>
-<p>U.S. Department of the Treasury. (2016). <em>A Citizen’s Guide to the 2015 Financial Report of the United States Government</em>. Washington D.C: Author. Retrieved from https://www.fiscal.treasury.gov/fsreports/rpt/finrep/fr/15frusg/02242016_FR(Final).pdf</p>
-<p><strong> </strong></p>
-<p><strong>Blog post</strong></p>
-<p>Leist, R. (2017, December 5). How to Write a Blog Post: A bookmarkable Formula + 5 Free Blog Post Templates [Web log post]. Retrieved from https://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht</p>
-<p><strong> </strong></p>
-<p><strong> </strong><strong>Doctoral dissertation</strong></p>
-<p>Guikema, J.W. (2004). <em>Scanning Hall Probe Microscopy of Magnetic Vortices in Very Underdoped Yttrium-Barium-Copper-Oxide</em> (Unpublished doctoral dissertation). Standford University, Stanford.</p>
-<p><strong> </strong></p>
-<p><strong>Online newspaper article</strong></p>
-<p>Okogba, E. (2018, January 28). Arsenal strong without Aubameyang – Wenger.<br />
-<em>Vanguard Newspaper.</em> Retrieved from https://www.vanguardngr.com</p>
-<p>&nbsp;</p>
-<p>Link: https://create.twu.ca/ldrs591-sp18/unit-3-learning-activities/</p>
+<strong>Journal article</strong>
+
+Ambrish. (2014). Entrepreneurship Development: An Approach to Economic Empowerment of Women.<em> International Journal of Multidisciplinary Approach and Studies, 1</em>(6), 224-232. Retrieved from http://ezproxy.student.twu.ca:2152/ehost/pdfviewer/pdfviewer?vid=2&amp;sid=9307389a-5c2d-48de-91b1-e7950a4a44bc%40sessionmgr4009
+
+<strong> </strong>
+
+<strong>Book</strong>
+
+Badke, W. (2017). <em>Research Strategies: Finding Your Way Through the Information Fog</em>.<br />
+(6th ed.). Bloomington, IN: iUniverse.
+
+<strong> </strong>
+
+<strong>Government report</strong>
+
+U.S. Department of the Treasury. (2016). <em>A Citizen’s Guide to the 2015 Financial Report of the United States Government</em>. Washington D.C: Author. Retrieved from https://www.fiscal.treasury.gov/fsreports/rpt/finrep/fr/15frusg/02242016_FR(Final).pdf
+
+<strong> </strong>
+
+<strong>Blog post</strong>
+
+Leist, R. (2017, December 5). How to Write a Blog Post: A bookmarkable Formula + 5 Free Blog Post Templates [Web log post]. Retrieved from https://blog.hubspot.com/marketing/how-to-write-blog-post-simple-formula-ht
+
+<strong> </strong>
+
+<strong> </strong><strong>Doctoral dissertation</strong>
+
+Guikema, J.W. (2004). <em>Scanning Hall Probe Microscopy of Magnetic Vortices in Very Underdoped Yttrium-Barium-Copper-Oxide</em> (Unpublished doctoral dissertation). Standford University, Stanford.
+
+<strong> </strong>
+
+<strong>Online newspaper article</strong>
+
+Okogba, E. (2018, January 28). Arsenal strong without Aubameyang – Wenger.<br />
+<em>Vanguard Newspaper.</em> Retrieved from https://www.vanguardngr.com
+
+&nbsp;
+
+Link: https://create.twu.ca/ldrs591/unit-3-learning-activities/
