@@ -73,7 +73,7 @@ The rest of the activities in this unit will help you access and assess scholarl
 <ul>
  	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
 </ul>
-<strong><span style="color: #ff0000">[Heather, I reworded a bit of the activity above to make it flow, but also so students know assignment will take some time]</span></strong>
+&nbsp;
 <h3>Accessing Scholarly Literature</h3>
 Accessing scholarly literature can be a frustrating process. The key is to start at the beginning with a good plan and keep yourself organized. Organizing tools are important both to streamline your literature search and to summarize and synthesize. As you begin your literature search (library books, online periodicals, internet search), organize your search into general topic areas and more specific keywords. It is very helpful to have some sense of the various fields that will potentially inform your research interests.
 
