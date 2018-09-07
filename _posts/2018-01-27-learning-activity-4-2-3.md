@@ -9,7 +9,8 @@ permalink: >
 published: true
 post_date: 2018-01-27 18:12:57
 ---
-<p>For this activity, I chose to focus on Sendjaya and Sarros&#8217; (2002) article <em>Servant leadership: Its origin, development, and application in organizations</em>.</p>
+For this activity, I chose to focus on Sendjaya and Sarros&#8217; (2002) article <em>Servant leadership: Its origin, development, and application in organizations</em>.
+
 <ol>
 <li><em>Is this topic interesting?</em><br />
 <strong>Rating: 3</strong><br />
@@ -33,10 +34,15 @@ Yes, the topic is interesting and written in a way that is easy to understand. E
 </em><strong>Rating: 3</strong><br />
 Yes, this article is well-written as it is engaging and easy to read. There is enough background information that even readers who are unfamiliar with the topic are able to follow along and learn.</li>
 </ol>
-<p><strong>References</strong></p>
-<p>Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.</p>
-<p><strong>Original assignment post found <a href="https://create.twu.ca/ldrs591-sp18/unit-4-learning-activities/">here</a>. </strong></p>
+
+<strong>References</strong>
+
+Sendjaya, S., &amp; Sarros, J. C. (2002). Servant leadership: Its origin, development, and application in organizations. <em>Journal of Leadership and Organization Studies, 9</em>(2), 57-64.
+
+<strong>Original assignment post found <a href="https://create.twu.ca/ldrs591/unit-4-learning-activities/">here</a>. </strong>
+
 <div id="themify_builder_content-404" data-postid="404" class="themify_builder_content themify_builder_content-404 themify_builder">
 
     </div>
+
 <!-- /themify_builder_content -->
