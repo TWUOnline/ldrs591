@@ -33,7 +33,7 @@ In unit 5, you are asked to write the following blog post (500 words total):
 <ul>
  	<li>As a consumer of research reports what were the most important aspects you need to consider in the methods and results section of  of a high-quality <strong>quantitative</strong> research report?</li>
  	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
- 	<li>How can you apply this knowledge to your work context or current experience?</li>
+ 	<li>How can you apply this knowledge to your work context or current leadership experience?</li>
 </ul>
 </li>
  	<li>Close with one question that invites further comment and discussion.</li>
