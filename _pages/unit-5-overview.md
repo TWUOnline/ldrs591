@@ -24,7 +24,6 @@ Unit 3 is divided into .. topics:
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
 <ol>
  	<li>Describe the differences between a quantitative and qualitative research report</li>
- 	<li>Identify the three common elements of the methods and results section of a quantitative research report.</li>
  	<li>Evaluate the research design, participants, data collection, analysis and results of a quantitative research report on servant leadership.</li>
  	<li>Reflect on the importance of understanding the methods and results section of a quantitative research report for the critical consumer of research.</li>
 </ol>
@@ -35,8 +34,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 3.3: …</p>
 <p style="padding-left: 30px">Activity 3.4: …</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates’ blogs.</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
-<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  …</p>
+<p style="padding-left: 30px"><strong>Assignment :</strong> Complete  <a href="https://create.twu.ca/ldrs591/literature-review-search/">Assignment 3: Literature Search</a></p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
