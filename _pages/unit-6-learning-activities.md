@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h3>Unit 6 Learning Activities</h3>
+<h2>Unit 6 Learning Activities</h2>
 This week in Unit 6 you will be exploring a different approach to research: <em><strong>qualitative research methods</strong></em>. Plano-Clark and Creswell (2015) define qualitative research as "a set of procedures for collecting, analyzing, and reporting text and image data to answer research questions by exploring participants’ views" (p. 286).
 
 Qualitative research has three distinct purposes:  <em><strong>to describe, to explore, and to build theory</strong></em>.   Quantitative research and qualitative research designs differ significantly in what data are collected, how data are collected, how data are analyzed and how findings are reported.
@@ -36,7 +36,6 @@ Qualitative research designs typically are less structured than in quantitative 
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<h3><span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
 <h3>Data Collection</h3>
 Qualitative research data collection is typically based on one or more of the following methods: observation (including participant observation), open-ended interviewing, first person accounts, and the review of various documents. Data collected is descriptive, and may consist of personal documents, field notes, various records of people’s own words (including video and voice recordings and written transcripts), photographs, official documents, and other artifacts. Data is collected from small, non-representative samples selected through various sampling strategies including theoretical, purposeful, and snow ball sampling (Bogdan &amp; Biklen, 2007, p. 45).
 
@@ -57,7 +56,6 @@ In qualitative research, data is usually collected until saturation is achieved.
 </li>
  	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<h3><span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span></h3>
 <h3>Data Analysis and Findings</h3>
 Qualitative research data analysis typically employs analytic induction, is ongoing throughout the research, and seeks to identify themes and concepts emergent in the data (Bogdan &amp; Biklen, 2007, p. 46). This is a dynamic process in which the researcher breaks data apart into its various components in order to identify their properties and dimensions (Corbin &amp; Strauss, 2008, p. 46). Because data might suggest more than one story, analysis is an interpretive act that often begins, as in Glaser and Strauss’ constant comparison, from the very onset of data collection (Gall, Gall &amp; Borg, 2007, p. 469).
 
@@ -78,63 +76,21 @@ Because qualitative research can involve the investigation of as few as one rese
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
-<span style="color: #ff0000"><strong>[Kelly- I'm not sure what is best for these LA's learning journal? or discussion forum?]</strong></span>
-<h3>Learning Activity 6.4 - Blog post</h3>
-<strong><span style="color: #ff0000">[Kelly - I need to reword these instructions to include reflections from LA 1-3]</span></strong>
-
-Prepare a brief 250- to 500-word response to the following:
-
-As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality qualitative research report is/are . . .
-
-Close with one question that invites further comment and discussion.
+<h3>Learning Activity 6.4 - Reflect</h3>
+In your reflective learning journal discuss the following questions:
+<ul>
+ 	<li>As a consumer of research reports what were the most important aspects you need to consider in the methods and results section of  of a high-quality <strong>qualitative</strong> research report?</li>
+ 	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
+ 	<li>How can you apply this knowledge to your work context or current leadership experience?</li>
+</ul>
+Note that these questions make up Part 4 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.
 <h3></h3>
-&nbsp;
 <h3>Unit 6 Summary</h3>
-This week in Unit 6 we have explored qualitative research methods. Here is a short summary of the unique features of qualitative research methods:
-<ol>
- 	<li>Qualitative research has <b>three distinct purposes</b>: to describe, to explore and interpret, and to build theory.</li>
- 	<li><strong>Qualitative designs</strong> tend to be more holistic, investigating unknown variables following flexible guidelines utilizing emergent methods in a highly context-bound, personal approach (Leedy &amp; Ormrod, 2010, p. 96).  Examples include: phenomenological, ethnography, case studies, grounded theory.</li>
- 	<li>Qualitative research gathers <strong>textual or image-based data</strong> from typically <strong>small, informative samples</strong> using loosely structured or unstructured interviews or observations (Leedy &amp; Ormrod, 2010, p. 96).</li>
- 	<li>Qualitative data is <strong>analysed with the goal uncovering themes and categories</strong>, with acknowledgement of potential researcher bias and subjectivity.</li>
- 	<li>Qualitative research <strong>findings are typically reported in a narrative form</strong> (Leedy &amp; Ormrod, 2010, p. 96).</li>
-</ol>
-According to Anderson (2010, p.2), the strengths of qualitative research can be summarized as follows:
-<ul class="unordered">
- 	<li>
-<div>Issues can be examined in detail and in depth.</div></li>
- 	<li>
-<div>Interviews are not restricted to specific questions and can be guided/redirected by the researcher in real time.</div></li>
- 	<li>
-<div>The research framework and direction can be quickly revised as new information emerges.</div></li>
- 	<li>
-<div>The data based on human experience that is obtained is powerful and sometimes more compelling than quantitative data.</div></li>
- 	<li>
-<div>Data usually are collected from a few cases or individuals so findings cannot be generalized to a larger population.</div></li>
- 	<li>
-<div>Findings can however be transferable to another setting.</div></li>
-</ul>
-According to Anderson (2010, pp.2-3), the limitations of qualitative research can be summarized as follows:
-<ul class="unordered">
- 	<li>
-<div>Research quality is heavily dependent on the individual skills of the researcher and more easily influenced by the researcher's personal biases.</div></li>
- 	<li>
-<div>Rigor is more difficult to maintain, assess, and demonstrate.</div></li>
- 	<li>
-<div>The volume of data makes analysis and interpretation time consuming.</div></li>
- 	<li>
-<div>It is sometimes not as well understood and accepted as quantitative research within the scientific community.</div></li>
- 	<li>
-<div>The researcher's presence during data gathering can affect the subjects' responses.</div></li>
- 	<li>
-<div>Issues of anonymity and confidentiality can present problems when presenting findings.</div></li>
- 	<li>
-<div>Findings can be more difficult and time consuming to characterize in a visual way.</div></li>
-</ul>
-&nbsp;
+In this unit you have learned that qualitative research has three distinct purposes:  <em><strong>to describe, to explore, and to build theory</strong></em>.  Qualitative research designs typically are less structured than in quantitative designs, and are far more flexible. The data are usually collected from a few cases or individuals so findings cannot be generalized to a larger population, but issues can be examined in great detail. Findings can however be transferable to another setting.
 <h3>Assessment</h3>
-Go to Unit 6 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 3</strong>, <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/"><em>Scholarly Article Critique</em></a>.
+Go to Unit 6 Assessment for more details on your <strong>Blog.</strong>
 
 &nbsp;
 <h3>References</h3>
