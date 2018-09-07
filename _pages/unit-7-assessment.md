@@ -9,22 +9,19 @@ permalink: >
 published: true
 post_date: 2018-09-05 12:25:17
 ---
-<h3>Unit 7 Assessment</h3>
+<h2>Unit 7 Assessment</h2>
 <h3>Unit 7 Blog</h3>
 Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
-In unit 7, you are asked to write the following blog post:
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+In unit 7, you are asked to write the following blog post (300 words total for Part A and B):
 <h4>Part A</h4>
-Discuss the following questions in your blog:(250-400 words)
+First, create a new blog post and discuss the following questions:
 <ul>
  	<li>What is at the heart of the quantitative/qualitative debate?</li>
  	<li>How has mixed methods been seen as a remedy for advancing leadership research?</li>
 </ul>
-<h3></h3>
 <h4>Part B</h4>
-In your blog, discuss the following questions:
+Next, discuss your evaluation of the mixed methods approach in the servant leadership article you chose.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.  Consider the following questions in your response:
 <ul>
  	<li>What was the purpose of the study?</li>
  	<li>Is there a rationale provided for needing a mixed methods design?</li>
@@ -32,36 +29,33 @@ In your blog, discuss the following questions:
  	<li>What were the results of the study?</li>
  	<li>Does the use of mixed methods produce a good understanding of the study's purpose?</li>
 </ul>
-<h3></h3>
-<h3>Part C: Interview and Blog post</h3>
-<p id="yui_3_17_2_1_1535585504618_19">In pairs, you will be given the task of interviewing a partner about transformational servant leadership.  During your interview, you will ask both open-ended and closed questions. Here is a list of the open-ended questions:</p>
+<h4>Part C: Interview (250 words total)</h4>
+<p id="yui_3_17_2_1_1535585504618_19">In pairs, you will be given the task of interviewing a partner about transformational servant leadership.  During your interview, you will ask both open-ended and closed questions.</p>
 
 <ul>
- 	<li>Ask your partner to complete the Servant Leadership Questionnaire found here: <a href="http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html">http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html</a></li>
- 	<li>Then interview your partner and ask the following questions:
+ 	<li>First, ask your partner to complete the Servant Leadership Questionnaire found here: <a href="http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html">http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html</a></li>
+ 	<li>Then interview your partner and ask the following open-ended questions:
 <ul>
- 	<li>Describe an example of a TSL leader in your life.</li>
+ 	<li>Describe an example of a Transformational Servant Leader in your life.</li>
  	<li>What values and characteristics define that person?</li>
  	<li>What does Transformational Servant Leadership (TSL) mean to you?</li>
 </ul>
 </li>
-</ul>
+ 	<li>Here are some interview guidelines
 <ul>
- 	<li>Record your findings by preparing a brief 250- to 500-word blog post:</li>
+ 	<li>You may choose to interview your partner in-person, over the phone, over email or via skype.</li>
+ 	<li>Begin the interview with “warm-up” questions to develop rapport.</li>
+ 	<li>Ask simple, easy, short questions.</li>
+ 	<li>Let people finish.  Given them time to think.</li>
+ 	<li>Listen attentively to what is said and how it is said.</li>
+ 	<li>Clarify and extend meanings but do not impose meaning on them.</li>
+ 	<li>Do not talk too much.</li>
+ 	<li>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</li>
+ 	<li>Don’t be afraid of silence.</li>
+ 	<li>Make sure you take good notes and record your findings by preparing a brief 250 word blog post.</li>
 </ul>
-<div>Interview Guidelines:</div>
-<div>- You may choose to interview your partner in-person, over the phone, over email or via skype.</div>
-<div>Begin the interview with “warm-up” questions to develop rapport.</div>
-<div>Ask simple, easy, short questions.</div>
-<div>Let people finish.  Given them time to think.</div>
-<div>Listen attentively to what is said and how it is said.</div>
-<div>Clarify and extend meanings but do not impose meaning on them.</div>
-<div>Do not talk too much.</div>
-<div>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</div>
-<div>Don’t be afraid of silence.</div>
-<div>Make sure you take good notes and upload them to<span style="color: #ff0000"> the forum for [Heather please check ]</span></div>
-&nbsp;
-
+</li>
+</ul>
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 7</strong>. This helps to organized the class blogs and interactions.
 <h3>Assignment 4: Scholarly Article Critique (20%)</h3>
 One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013).
@@ -112,3 +106,12 @@ APA formatting is required for this assignment. Please refer to the APA formatti
 Submit a draft of your assignment for peer review to your assigned partner via email. Please submit the draft at least one week before the due date to allow for feedback and revisions. Your partner will review your assignment and provide you with feedback following the peer review protocol. Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make. Please submit this assignment in the Assignment 4 drop box on the Learning Management System.
 <h5>Evaluation:</h5>
 [table id=6 /]
+<h3>Checking Your Learning</h3>
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+<ol>
+ 	<li>Can you discuss how mixed-methods research can help advance leadership research?</li>
+ 	<li>Can you evaluate the quality of mixed methods research report on servant leadership?</li>
+ 	<li>Can you conduct a mixed-methods interview on servant leadership?</li>
+</ol>
+Feel free to review topics more in depth or continue on to the next unit.
+<h3></h3>
