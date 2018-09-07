@@ -15,7 +15,7 @@ Blog posts are to be submitted by<strong> Friday at midnight</strong> of the w
 
 In unit 8, you are asked to write the following blog post:
 
-<strong><span style="color: #ff0000;">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
 <h4>Part B</h4>
 Think about some practical problems that you have faced in your professional life that you would like to change. In your blog, list three problems that matter to you and that you think you can systematically address in your work situation. After reflecting on these problems, select one that you would like to address for your action research project.
 <h3></h3>
