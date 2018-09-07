@@ -11,30 +11,6 @@ post_date: 2017-11-24 14:49:51
 ---
 <h3>Unit 9 Learning Activities</h3>
 We are near the end of our investigation of research designs and the interpretation of research reports.  This week, in Unit 9, you will be reading about the common elements of a conclusion section of a research report in Chapter 14 of Plano-Clark and Creswell's (2015) text.  After you have read the chapter, then you will be working through the last few servant leadership articles to evaluate and interpret the conclusions section of a research report.
-<h3></h3>
-<h3>Learning Activity 9.1 - Evaluate and Blog Post</h3>
-Before we get into the conclusion of research reports, first you will peer review one Action Research project (from Unit 8) by colleagues in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
-
-For your review make notes about the strengths of the project idea as well as areas to work on (clarify, more analysis, more personal application) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445. Here are questions you should address in your evaluation:
-<ul>
- 	<li>Does the project focus on a real problem in practice?</li>
- 	<li>Does the researcher plan to study his or her own practices or plan to collaborate with community members?</li>
- 	<li>Does the project include careful reflection about the problem?</li>
- 	<li>Does the researcher plan to gather several sources of information (e.g., qualitative and quantitative procedures)?</li>
- 	<li>Does the researcher develop a clear plan for addressing the problem?</li>
- 	<li>Does the project include reflecting, thinking, looking, and gathering information and acting?</li>
- 	<li>Will the results of the project enhance the lives of those involved?</li>
-</ul>
-Summarize your notes in a response to your colleagues projects in 250-350 words.
-
-Please post your review <strong><em>on your own blog</em></strong> and include a link to your colleague's post so that they can see your review. Remember that your response will be visible to all members of the class.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 9</li>
- 	<li>Learning Activity 9.1</li>
-</ul>
-<h3></h3>
 <h3>The Conclusion Section of a Research Report</h3>
 The final section of a research report is the conclusion section and the back matter.  Leedy and Ormrod observe, “Any research report should end by bringing closure to the interpretation of the data” (2010, p. 296).  They assert that the conclusion is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished.  All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions.  Above all, a good conclusion makes explicit how the findings or results support the conclusions.  Also, Leedy and Ormrod (2010) suggest that the conclusion should identify the weaknesses and limitations of the study, suggest practical implications of the findings or results, and make recommendations for further research (p. 297).
 <h3></h3>
