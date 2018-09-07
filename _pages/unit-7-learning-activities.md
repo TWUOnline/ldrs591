@@ -87,14 +87,7 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 <div>Do not talk too much.</div>
 <div>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</div>
 <div>Don’t be afraid of silence.</div>
-<div>Make sure you take good notes and upload them to<span style="color: #ff0000;"> the forum for</span></div>
-Make sure you add a link to this page in your post.
-<h5>Categories for this post:</h5>
-<ul>
- 	<li>ldrs591</li>
- 	<li>Unit 7</li>
- 	<li>Learning Activity 7.3</li>
-</ul>
+<div>Make sure you take good notes and upload them to<span style="color: #ff0000"> the forum for</span></div>
 <h3></h3>
 <h3>Unit 7 Summary</h3>
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
@@ -105,5 +98,9 @@ In general researchers conduct mixed methods studies when both quantitative and 
  	<li>Helps to explain findings or how causal processes work.</li>
 </ul>
 <h5></h5>
+<h3>Assessment</h3>
+Go to Unit 7 Assessment for more details on your <strong>Blog,</strong> to submit this week.
+
+&nbsp;
 <h3>References</h3>
 Leedy, P. &amp; Ormrod, J.  (2013).  <i>Practical research: Planning and design </i>(10th ed.).  Boston, MA:  Pearson.
