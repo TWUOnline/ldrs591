@@ -111,5 +111,12 @@ major points of the table.</li>
 Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA formatting requirements</a> and rubric for specific details.
 
 <strong>Overall Score: /40</strong>
-
-&nbsp;
+<h3>Checking Your Learning</h3>
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+<ol>
+ 	<li>Can you describe the differences between a quantitative and qualitative research report?</li>
+ 	<li>Can you evaluate the research design, participants, data collection, analysis and results of a quantitative research report?</li>
+ 	<li>Can you discuss the importance of understanding the methods and results section of a quantitative research report?</li>
+</ol>
+Feel free to review topics more in depth or continue on to the next unit.
+<h3></h3>
