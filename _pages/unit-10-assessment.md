@@ -182,5 +182,13 @@ At the very end list your references. Reference lists must start on a new page, 
 [table id=14 /]
 
 Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA formatting</a> rubric provided for an evaluation of specific APA requirements for this assignment.
+<h3>Check Your Learning</h3>
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+<ol>
+ 	<li>Can you evaluate the safeguards that are in place to uphold the integrity of the research process?</li>
+ 	<li>Can you critically reflect on the importance of evidence-based decision making for transformational servant leadership?</li>
+ 	<li>Can you create a critical literature review?</li>
+</ol>
+Feel free to review topics more in depth or continue on to the next unit.
 
 <!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47836"> Upload Literature Review to Moodle</a><!--/themify_builder_static-->
