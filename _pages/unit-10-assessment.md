@@ -97,6 +97,16 @@ On the basis of your personal knowledge, as well as your investigation of the li
 On the basis of your personal knowledge as well as your investigation of the literature, provide a brief discussion of the major issues or gaps that have been identified related to the topic that is being investigated. This addresses the importance or the significance of your study.
 
 To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you wish, you may also include a paragraph about your personal interest in this topic as a researcher.
+
+Here is a checklist of what you should include in this section:
+<ul>
+ 	<li>What is the "problem" you are aiming to address?</li>
+ 	<li>What information will you need to provide a broad context for your topic?</li>
+ 	<li>Do you have any relevant statistics that you could use to support "the problem"?</li>
+ 	<li>Why is it important to address this problem?</li>
+ 	<li>What key terms should you define in your introduction so that the reader understands your topic?</li>
+ 	<li>What is the purpose of your paper? Or what research questions are being addressed?</li>
+</ul>
 <h5><strong>Method</strong></h5>
 Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment 3. Here is an example template that you can use:
 
@@ -114,6 +124,16 @@ For each publication, the methodology that was used to critically appraise each 
 
 <em>Note.</em> Table adapted from Parris &amp; Peachey (2013, p. 382).
 
+Here is a checklist of what you should include in this section:
+<ul>
+ 	<li>How did you choose your articles for your paper?</li>
+ 	<li>What inclusion/exclusion criteria did you use?</li>
+ 	<li>What databases did you search?</li>
+ 	<li>What key search terms did you use?</li>
+ 	<li>How many records were obtained in your search?</li>
+ 	<li>How many articles did you use for your review?</li>
+ 	<li>How did you critically evaluate your articles?</li>
+</ul>
 <strong>Results</strong>
 
 In the results section you are now going to organize what you have learned by summarizing the major themes with full reference citations. This is similar to what you had to do for assignment 2. You may wish to denote these major themes with Level One Headings. If you are organizing your literature review along thematic lines, you may want to use Level Two Headings to further organize sub-themes that emerge within the broader themes. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature.
@@ -131,13 +151,33 @@ The table below is adapted from Parris &amp; Peachy (2013, p. 385).
 [table id=8 /]
 
 <em>SL = servant leadership; QAT = quantitative study; QAL = qualitative study</em>
-<h3></h3>
+
+Here is a checklist of what you should include in this section:
+<ul>
+ 	<li>How will you organize the main body of your paper (e.g., themes or categories, chronologically, theoretical or methodological issues)?</li>
+ 	<li>Did you include at least 10 academic sources?</li>
+ 	<li>Have you summarized the articles you have reviewed?</li>
+ 	<li>Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?</li>
+ 	<li>Have you presented the "results" from your critical analysis of your 10 academic sources? Did you present this information in a table or text?</li>
+ 	<li>Have you critically evaluated each of the articles you have reviewed?</li>
+</ul>
 <h5><strong>Discussion</strong></h5>
 In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results (e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations (and offer a rationale) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
+
+Here is a checklist of what you should include in this section:
+<ul>
+ 	<li>What is the problem you are addressing?</li>
+ 	<li>What are the major results you found?</li>
+ 	<li>How would you interpret your results (e.g., what are the gaps, inconsistencies, strengths and weaknesses based on your critical evaluation)?</li>
+ 	<li>What are the key limitation(s) of your results?</li>
+ 	<li>Can you offer a rationale for why future research should be conducted on this topic?</li>
+ 	<li>Why are your findings important?</li>
+ 	<li>What are the practical implications of your findings?</li>
+</ul>
 <h5><strong>References</strong></h5>
 At the very end list your references. Reference lists must start on a new page, and must be formatted according to APA (6th edition) guidelines pertaining to which type of literature is being cited (i.e., book by one author, book with an editor, journal article, blog and so forth).
 
-<strong>Submit a draft of your assignment for peer review to your assigned partner via email.</strong> Please submit the draft at least one week before the due date to allow for feedback and revisions. Your partner will review your assignment and provide you with feedback following the peer review protocol. Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make. Please submit this assignment using the link at the bottom of the assignment page.
+<strong>Please submit this assignment using the Assignment 5 drop box on the Learning Management System.</strong>
 <h5>Assignment Rubric:</h5>
 [table id=14 /]
 
