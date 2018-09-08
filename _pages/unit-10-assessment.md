@@ -13,12 +13,10 @@ post_date: 2017-11-24 14:49:50
 <h3>Unit 10 Blog</h3>
 Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
-In unit 10, you are asked to write the following blog post:
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+In unit 10, you are asked to write the following blog post (500 words total):
 <h4>Part A</h4>
 <ul>
- 	<li>Discuss the following questions:
+ 	<li>Create a new blog post where you will discuss the following questions:
 <ul>
  	<li>How can I know that I can trust what I am reading?</li>
  	<li>How do I know the research has been performed competently?</li>
@@ -27,13 +25,13 @@ In unit 10, you are asked to write the following blog post:
 </ul>
 </li>
 </ul>
-<h3></h3>
-In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
-
-Please post your response on your blog (250-500 words).
-
-&nbsp;
-<h3>Part C</h3>
+<h4>Part B</h4>
+In light of what you have learned in this course, respond to the following questions:
+<ul>
+ 	<li>Why do you think evidence-based decision making is important for the Transformational Servant leader?</li>
+ 	<li>How will you use scholarly evidence in your leadership practice moving forward?</li>
+</ul>
+<h4>Part C</h4>
 For this learning activity, I would like you to become familiar with the rationale, expectations and process of the Leadership Integration Project.
 <ul>
  	<li>Prepare a list of questions that you have about the LIP (LDRS 697/698) and email those questions to Dr. Strong.</li>
@@ -43,19 +41,7 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> a
 <h3></h3>
 <h3>Assignment 5: Formal Literature Review (30%)</h3>
 In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 2 and extends the work you did in Assignments 3, and 4. Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (6th edition) format.
-
-<em><strong>What is a literature review in general?</strong></em>  Here is a really helpful website that explains what a formal literature review paper is: <a href="http://libguides.usc.edu/writingguide/literaturereview">http://libguides.usc.edu/writingguide/literaturereview</a>
-
-<em><strong>What type of literature review is required for this assignment? </strong></em>The "type" or "style" of literature review that I am asking you to write for your fifth assignment is called a <em><strong>systematic literature review.</strong></em>  You can find an excellent example of this type of literature review paper here: Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leadership theory in organizational contexts. Journal of Business Ethics, 113(3), 377-395.  This article is available through the TWU online library.
-
-<em><strong>How should you organize and write a systematic literature review?</strong> </em>I have provided a really helpful document that describes how to write your systematic literature review below. The title of the document is <em>What is a systematic literature review and how do I do one?</em>
-
-<strong>Please note: </strong>
-<ul>
- 	<li>I am NOT asking you to review ALL of the empirical evidence on your topic (this would be a huge undertaking).  I am asking you to select a minimum of 10 scholarly sources that you will use to review for your paper.  This means you are writing a mini-systematic review.</li>
- 	<li>I am also NOT asking you to do a meta-analysis (which involves statistics).</li>
-</ul>
-<h3>Synthesize and Critique Scholarly Literature.</h3>
+<h3><em><strong>What is a Literature Review?</strong></em></h3>
 A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
 
 An effective summary of an article or book will:
@@ -72,7 +58,7 @@ An effective critique of an article or a book will:
  	<li>Evaluate each section of the article/book – Introduction, Methods, Results, Discussion – highlighting the strengths and weaknesses of each section.</li>
 </ul>
 When you are critically evaluating research studies, you are not just listing and summarizing them. You need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed.
-<h5>Critical thinking</h5>
+<h5>Critical Thinking</h5>
 One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013).
 
 Scholarly writing, should reflect higher levels of learning. According to Bloom's (1956) taxonomy there are six levels of learning: knowledge, comprehension, application, analysis, synthesis and evaluation. When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation. What this means is that your writing (and your thinking) should be able to:
@@ -84,10 +70,28 @@ Scholarly writing, should reflect higher levels of learning. According to Bloom'
 When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind. According to the Critical Appraisal Skills Program (2017) the three key questions to ask are: 1) Are the results of the study valid? 2) What are the results? and 3) Are the results useful? These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading.
 <h3>How Much Information Is Enough?</h3>
 When performing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature (e.g., why we need to know more, or why the literature needs to be applied in a particular context). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation.
+
+Here is a really helpful website that further explains what a formal literature review is: <a href="http://libguides.usc.edu/writingguide/literaturereview">http://libguides.usc.edu/writingguide/literaturereview</a>
+
+<em><strong>What type of literature review is required for this assignment? </strong></em>
+
+The "type" or "style" of literature review that I am asking you to write for your fifth assignment is called a <em><strong>systematic literature review.</strong></em>  You can find an excellent example of this type of literature review paper here: Parris, D. L., &amp; Peachy, J. W. (2013). A systematic review of servant leadership theory in organizational contexts. Journal of Business Ethics, 113(3), 377-395.  This article is available through the TWU online library.
+
+<em><strong>How should you organize and write a systematic literature review?</strong> </em>
+
+I have provided a link to a really helpful document that describes how to write your systematic literature review. The title of the document is <a href="https://pdfs.semanticscholar.org/2214/2c9cb17b4baab118767e497c93806d741461.pdf"><em>What is a systematic literature review and how do I do one? by Dr. Andy Siddaway</em></a>
+
+<strong>Please note: </strong>
+<ul>
+ 	<li>I am NOT asking you to review ALL of the empirical evidence on your topic (this would be a huge undertaking).  I am asking you to select <strong>a minimum of 10 scholarly sources</strong> that you will use to review for your paper.  This means you are writing a mini-systematic review.</li>
+ 	<li>I am also NOT asking you to do a meta-analysis (which involves statistics).</li>
+</ul>
 <h3>Requirements for the Systematic Literature Review</h3>
 <h5><strong>Title page</strong></h5>
-Create a title page including a title, running head, author byline, institutional affiliation, date submitted and page number.
-<h5><strong>Abstract</strong></h5>
+Create a title page in APA format.
+
+<strong>Abstract</strong>
+
 You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word (or less), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
 <h5><strong>Introduction</strong></h5>
 The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
