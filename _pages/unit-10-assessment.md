@@ -31,12 +31,6 @@ In light of what you have learned in this course, respond to the following quest
  	<li>Why do you think evidence-based decision making is important for the Transformational Servant leader?</li>
  	<li>How will you use scholarly evidence in your leadership practice moving forward?</li>
 </ul>
-<h4>Part C</h4>
-For this learning activity, I would like you to become familiar with the rationale, expectations and process of the Leadership Integration Project.
-<ul>
- 	<li>Prepare a list of questions that you have about the LIP (LDRS 697/698) and email those questions to Dr. Strong.</li>
-</ul>
-<h3></h3>
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 10</strong>. This helps to organized the class blogs and interactions.
 <h3></h3>
 <h3>Assignment 5: Formal Literature Review (30%)</h3>
