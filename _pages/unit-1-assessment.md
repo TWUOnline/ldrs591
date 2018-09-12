@@ -17,16 +17,14 @@ As you work through the material in this course, you will be asked to create blo
 
 <strong>Replying to Colleagues’ Posts</strong>
 <p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum one discussion question during unit 1, 4, 5, 6, 9, and 10. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
-In unit 1, you are asked to write the following blog post:
-
-<strong><span style="color: #ff0000">[Heather, please delete questions that aren't graded.  Also, please check the word count.  We can say 500-750 total words, or split it up for the different parts]</span></strong>
+In unit 1, you are asked to write the following blog post (500 words total):
 <h4>Part 1</h4>
 <ul>
- 	<li>Create a post (250-500 words), and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
+ 	<li>Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
 </ul>
 <h4>Part 2</h4>
 <ul>
- 	<li>Answer the following questions: (250-500 words)
+ 	<li>Then, answer the following questions:
 <ul>
  	<li>What factors do you think shape your decision-making process as a leader?</li>
  	<li>Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
