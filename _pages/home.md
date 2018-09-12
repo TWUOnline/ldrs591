@@ -58,7 +58,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-2-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-2-notes/">Assessment</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-2-assessment/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u2-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-2" > Student Posts for Unit 2</a> 
@@ -77,7 +77,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-3-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-3-notes/">Assessment</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-3-assessment/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u3-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-3" > Student Posts for Unit 3</a> 
@@ -96,7 +96,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-4-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-4-notes/">Assessment</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u4-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-4" > Student Posts for Unit 4</a> 
@@ -115,7 +115,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-5-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-5-notes/">Assessment</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u5-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-5" > Student Posts for Unit 5</a> 
@@ -134,7 +134,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-6-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-6-notes/">Assessment</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-6-assessment/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u6-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-6" > Student Posts for Unit 6</a> 
@@ -169,7 +169,7 @@ post_date: 2017-05-29 11:26:38
  </a> 
  <h3><a href="https://create.twu.ca/ldrs591/unit-8-learning-activities/">Learning Activities</a></h3> 
  
- <a href="https://create.twu.ca/ldrs591/unit-8-notes/" > 
+ <a href="https://create.twu.ca/ldrs591/unit-8-assessment/" > 
  
  </a> 
  <h3><a href="https://create.twu.ca/ldrs591/unit-8-notes/">Notes</a></h3> 
@@ -202,10 +202,10 @@ post_date: 2017-05-29 11:26:38
  </a> 
  <h3><a href="https://create.twu.ca/ldrs591/unit-10-learning-activities/">Learning Activities</a></h3> 
  
- <a href="https://create.twu.ca/ldrs591/unit-10-notes/" > 
+ <a href="https://create.twu.ca/ldrs591/unit-10-assessment/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-10-notes/">Notes</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-10-assessment/">Notes</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u10-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-10" > Student Posts for Unit 10</a> 
