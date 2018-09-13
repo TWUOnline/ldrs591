@@ -50,4 +50,4 @@ Here are the resources you will need to complete the unit:
 </ul>
 &nbsp;
 
-Go to <a href="https://create.twu.ca/drheatherstrong/2018/01/18/unit-3-learning-activities/">Learning Activities</a> to continue the unit.
+Go to <a href="https://create.twu.ca/ldrs591/unit-3-learning-activities/">Learning Activities</a> to continue the unit.
