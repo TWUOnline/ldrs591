@@ -17,13 +17,14 @@ The MA Leadership program uses the APA Manual (6th edition) as the model for for
 
 &nbsp;
 <h3>Topics</h3>
-Unit 3 is divided into 3 topics:
-<p style="padding-left: 30px">Topic 1: What is Scholarly Writing?</p>
-<p style="padding-left: 30px">Topic 2: How to Write a Scholarly Paper</p>
-<p style="padding-left: 30px">Topic 3: APA Formatting</p>
+Unit 3 is divided into 4 topics:
+<p style="padding-left: 30px;">Topic 1: Developing Your Professional Voice</p>
+<p style="padding-left: 30px;">Topic 2: What is Scholarly Writing?</p>
+<p style="padding-left: 30px;">Topic 3: How to Write a Scholarly Paper</p>
+<p style="padding-left: 30px;">Topic 4: APA Formatting</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
-When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> [check new outcomes]</strong></span>
+When you have completed this unit you should be able to:<span style="color: #ff0000;"><strong> </strong></span>
 <ol>
  	<li>Describe the importance of scholarly writing for leadership.</li>
  	<li>Apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, the mechanics of style, citing sources and formatting references.</li>
@@ -32,11 +33,12 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 &nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px">Activity 3.1: <span style="color: #ff0000"><strong>[Kelly to insert activity info later]</strong></span></p>
-<p style="padding-left: 30px">Activity 3.2: Read Chapter …</p>
-<p style="padding-left: 30px">Activity 3.3: …</p>
-<p style="padding-left: 30px">Activity 3.4: …</p>
-<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B and C). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px;">Activity 3.1: Read Chapter 1 of the APA manual and also the Appendix of the Plano-Clark and Creswell (2015) text. Watch a video and reflect in your learning journal.</p>
+<p style="padding-left: 30px;">Activity 3.2:  Watch two videos and practice your formatting skills.</p>
+<p style="padding-left: 30px;">Activity 3.3: Watch a video by Dr. Hatala and review the checklist.</p>
+<p style="padding-left: 30px;">Activity 3.4: Watch a video by Dr. Hatala and take an online quiz.</p>
+<p style="padding-left: 30px;">Activity 3.4: Watch a video by Dr. Hatala and take an online quiz.</p>
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B and C). Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
@@ -48,6 +50,4 @@ Here are the resources you will need to complete the unit:
 </ul>
 &nbsp;
 
-Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
-
-<span style="color: #ff0000"><strong>[Kelly to check all links later]</strong></span>
+Go to <a href="https://create.twu.ca/drheatherstrong/2018/01/18/unit-3-learning-activities/">Learning Activities</a> to continue the unit.
