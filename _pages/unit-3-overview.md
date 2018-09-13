@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h3>Developing Your Professional Voice</h3>
+<h3>Unit 3: Developing Your Professional Voice</h3>
 <h3>Overview</h3>
 An essential attribute of scholarly work is that of writing well. Writing well involves several components. Some are conceptual—reasoning and developing a logical argument. Others reflect the mechanics of good written communication—organization of a manuscript, style and language use, grammar, spelling, and punctuation. APA formatting also falls within this category of the mechanics of writing well.
 
