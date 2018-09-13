@@ -226,4 +226,4 @@ Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Ret
 
 &nbsp;
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/" > Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/" > Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
