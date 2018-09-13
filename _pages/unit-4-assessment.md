@@ -46,5 +46,5 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you evaluate the quality of the research problem, literature review, and purpose statement of a research report on servant leadership.</li>
  	<li>Can you discuss the importance of understanding the introduction section of a research report for a critical consumer of research.</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-5-overview/">next unit</a>.
 <h3></h3>
