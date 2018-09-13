@@ -28,8 +28,7 @@ Plano-Clark and Creswell (2015) define research as "a process of steps used to c
  	<li><strong>Disseminating and evaluating the research.</strong> Usually the term “disseminated” means “published.” The most common way that research is disseminated is in journals dedicated to publishing primary research.</li>
 </ol>
 &nbsp;
-<h3>Topic 2: How to Ask a Good Research Question</h3>
-<h4>Significant Questions</h4>
+<h3>Topic 2: Asking a Significant Research Question</h3>
 The most important part of the research process is beginning with a good research question.  This is something that will be highly relevant to completing of most of your assignments in this course, particularly the second assignment.  Your research question will be then guide you as you complete assignments 3, 4 and 5.
 
 The research process often starts when you ask a question about something that you observe: How, What, When, Who, Which, Why, or Where?  Questions can be based on what you observe in the real world, or on intuition or a “gut feeling”.
