@@ -40,4 +40,4 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you apply the basic rules of APA style which includes the structure and content of a paper, writing clearly and concisely, citing sources and formatting references?</li>
  	<li>Can you confidently create an APA style paper?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-4-overview/">next unit</a>.
