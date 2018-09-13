@@ -51,8 +51,8 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
- 	<li>Can you evaluate the philosophical bases for empirical inquiry, including the knowledge claims represented by various approaches to research?</li>
- 	<li>Can you appraise the contributions of scholarly inquiry as foundational for evidence-based leadership?</li>
- 	<li>Can you distinguish between various domains of scholarship (i.e., discovery, integration, application, and teaching)?</li>
+ 	<li>Can you distinguish between informal research and scholarly inquiry?</li>
+ 	<li>Can you discuss how scholarly inquiry applies to everyday decision making?</li>
+ 	<li>Reflect on why evidence-based decision making is important for leadership?</li>
 </ol>
 Feel free to review topics more in depth or continue on to the next unit.
