@@ -27,6 +27,7 @@ When you have completed this unit you should be able to:<span style="color: #ff0
  	<li>Employ different search strategies to locate different sources of scholarly literature</li>
  	<li>Evaluate the credibility and reliability of sources of scholarly literature.</li>
 </ol>
+&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 2.1: Watch the Badke video tutorials and read chapter 3 in the Badke (2017) text.</p>
@@ -36,9 +37,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;">Activity 2.5: Upgrade your research skills.</p>
        Activity 2.6: Take the Coconut Oil Challenge!
 
-Activity 2.7: Read chapter 7 in the Badke (2017) text, watch two videos,                    and answer questions in your journal.
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B).              Respond substantively to at least two other classmates' blogs.</p>
-<strong>Assignment 2:</strong> Complete the Blog assignment and Assignment 2,                             Clarifying Your Research Interest.
+Activity 2.7: Read chapter 7 in the Badke (2017) text, watch two videos, and answer questions in your journal.
+
+<strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.
+
+<strong>Assignment 2:</strong> Complete the Blog assignment and Assignment 2, Clarifying Your Research Interest.
 
 &nbsp;
 <h3>Resources</h3>
