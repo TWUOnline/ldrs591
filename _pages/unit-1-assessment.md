@@ -20,7 +20,7 @@ As you work through the material in this course, you will be asked to create blo
 In unit 1, you are asked to write the following blog post (500 words total):
 <h4>Part 1</h4>
 <ul>
- 	<li>Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include on what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
+ 	<li>Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
 </ul>
 <h4>Part 2</h4>
 <ul>
@@ -34,7 +34,7 @@ In unit 1, you are asked to write the following blog post (500 words total):
 </ul>
 <h4>Part 3</h4>
 <ul>
- 	<li>Discuss the following questions (250-500 words):
+ 	<li>Discuss the following questions:
 <ul>
  	<li>How did the authors of the articles conceptualize evidence-based leadership?</li>
  	<li>What is considered as "evidence"?</li>
