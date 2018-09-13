@@ -175,7 +175,7 @@ How do you know whether the information presented to you in a journal article, b
 </li>
  	<li>Finally, reflect on the following questions in your reflective journal:
 <ul>
- 	<li>Compare and contrast the findings of the video and articles. What 'facts' different, what facts are the same?</li>
+ 	<li>Compare and contrast the findings of the video and articles. What 'facts' are different, what facts are the same?</li>
  	<li>How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?</li>
 </ul>
 </li>
