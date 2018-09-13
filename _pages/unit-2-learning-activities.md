@@ -56,7 +56,7 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 <b><i>Interesting: </i></b>This is key! The question needs to be one that interests you and is likely to remain intriguing for the duration of the project. There are two traps to be avoided. Make sure that you have a real, grounded interest in your research question, and that you can explore this in an academic paper. It is your interest that will motivate you to keep working and to produce a good research paper.
 
 &nbsp;</blockquote>
-<h3>Learning Activity 2.1: Watch, Read and Reflect</h3>
+<h4>Learning Activity 2.1: Watch, Read and Reflect</h4>
 <ul>
  	<li>Watch the following <a href="http://libguides.twu.ca/library_research/home">video tutorials</a> prepared by Dr. William Badke. Begin with clicking <a href="http://libguides.twu.ca/c.php?g=284762&amp;p=3191885">"How to develop research skills"</a> and watch the first two video tutorials under the section "starting a research paper." The videos are labelled<a href="https://vimeo.com/160913559/eeb081c04e"> "Understanding the research process"</a> and <a href="https://vimeo.com/160925544/a3ea2bace3">"Pre-research strategies"</a>.</li>
  	<li>Read chapter 3 in the Badke (2017) text.</li>
@@ -69,7 +69,7 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 </li>
 </ul>
 &nbsp;
-<h3>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2 - 10%)</h3>
+<h4>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2 - 10%)</h4>
 The rest of the activities in this unit will help you access and assess scholarly literature in order to answer a specific question for your assignments.  Before we discuss how to access scholarly literature, you need to begin with a good research question.  This learning activity is about clarifying your research interest and asking a good research question.
 <ul>
  	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
@@ -93,7 +93,7 @@ Peer review is the process used by publishers and editors of academic/scholarly 
 Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources of literature you should access. They suggest that although you are probably used to searching for books on a particular topic, it is important to "focus on reading recent research studies published as journal articles to learn the most up-to-date information in your profession" (p. 11). As a general rule, articles published within the past 10 years should give you a good idea of what is current in your profession.
 
 &nbsp;
-<h3>Learning Activity 2.3: Searching for Journal Articles</h3>
+<h4>Learning Activity 2.3: Searching for Journal Articles</h4>
 <ul>
  	<li>In this learning activity you will begin by reading chapters 4 and 6 in the Badke (2017) text.  These two chapters discuss database searches and searching the library catalog.</li>
  	<li>Next, watch the tutorial "<a href="https://vimeo.com/161998287/7661f12293">Preparing a research question for a database search</a>".</li>
@@ -112,7 +112,7 @@ Plano-Clark and Creswell (2015) provide a very useful tip regarding what sources
  	<li>Note that you will be asked some questions related to your search strategies as part of your blog post for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-2-assessment/">Unit 2 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
-<h3>Learning Activity 2.4: Searching for Books</h3>
+<h4>Learning Activity 2.4: Searching for Books</h4>
 <ul>
  	<li>Go to <a href="http://libguides.twu.ca/library_research/home">TWU library homepage </a> and click "<a href="http://libguides.twu.ca/library_research/books">How to search for books</a>".</li>
  	<li>Begin by selecting one of video tutorials in the section "searching for e-books" such as "<a href="https://vimeo.com/164163119/b24ecb42e6">searching for e-books in the classic catalogue</a>." Watch the video tutorial to get an idea of how to search for a topic found in an e-book.</li>
@@ -135,7 +135,7 @@ The research process is not always linear. You may have a great research questio
 If you are having difficulty finding research articles and books on your topic then try to reexamine the keywords you are using for your search. Look up synonyms for your keywords and try to find the terms that are used in the research literature. Another helpful tip is to look at the reference list of any articles or books that seem closest to your topic. This can help you to see what sources other authors have used and can be a helpful strategy to track down articles and books on your topic.
 
 &nbsp;
-<h3>Learning Activity 2.5: Upgrading Your Research Skills</h3>
+<h4>Learning Activity 2.5: Upgrading Your Research Skills</h4>
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
@@ -154,7 +154,8 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
  	<li><strong>Publication type/process:</strong> Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is it from a government agency? Is the source self-published?</li>
  	<li><strong>Bias and special interests:</strong> According to Panucci and Williams (2010) bias can occur during all phases of research from design, implementation, and analysis to publication. Therefore, careful attention to the interpretation of research results and study design will help identify bias. Driscoll and Brizee (2017) suggest that when it comes to publishing research reports, "most major publishers are out to make a profit and will either not cater to special interest groups or will clearly indicate when they are catering to special interest groups".</li>
 </ul>
-<h3>Learning Activity 2.6: Take the Coconut Oil Challenge!</h3>
+&nbsp;
+<h4>Learning Activity 2.6: Take the Coconut Oil Challenge!</h4>
 How do you know whether the information presented to you in a journal article, book, news report, etc. is true?  What is your process for evaluating the facts and assessing the credibility of the source?  In this activity, I want you to consider your process for evaluating sources and how that relates to your research, and also to your daily decision-making.
 <ul>
  	<li>First, watch the following video. It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil:
@@ -183,7 +184,7 @@ How do you know whether the information presented to you in a journal article, b
  	<li>Note that these questions make up part of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-2-assessment/">Unit 2 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
-<h3>Learning Activity 2.7: Read, Watch, and Search</h3>
+<h4>Learning Activity 2.7: Read, Watch, and Search</h4>
 In this learning activity, begin by reading chapter 7 in the Badke (2017) text which discusses searching information on the internet.
 <ul>
  	<li>Go to the link <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a> and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching the two videos in the section "using the web." There are two short videos on <a href="https://vimeo.com/160915822/0661b2b1c2">using google scholar</a> and <a href="https://vimeo.com/162602381/1b0d684fb6">assessing online resources</a> in this section.</li>
