@@ -29,6 +29,10 @@ In unit 3, you are asked to write the following blog post (350 words total):
  	<li>Close your blog post with questions for your instructor about APA style.</li>
 </ul>
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit  3</strong>. This helps to organized the class blogs and interactions.
+
+&nbsp;
+
+&nbsp;
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
@@ -37,9 +41,3 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you confidently create an APA style paper?</li>
 </ol>
 Feel free to review topics more in depth or continue on to the next unit.
-<h3></h3>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
