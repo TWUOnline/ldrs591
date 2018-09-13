@@ -20,25 +20,25 @@ As you work through the material in this course, you will be asked to create blo
 In unit 1, you are asked to write the following blog post (500 words total):
 <h4>Part 1</h4>
 <ul>
- 	<li>Create a new post, and explain what your experience is with "research". Next, discuss at least one example of a decision you have made as a leader and explain how you made that decision. Make sure to include what type of information you used to base your decision (e.g., values, research, policy, past experience, expert opinion).</li>
+ 	<li>Create a new post, and begin by introducing yourself and explaining what your experience is with research.</li>
+ 	<li>Next, discuss what you have learned about the differences between informal research (everyday problem solving) and scholarly inquiry (formal research).</li>
 </ul>
 <h4>Part 2</h4>
 <ul>
  	<li>Then, answer the following questions:
 <ul>
+ 	<li>Describe at least one example of a decision you have made as a leader.</li>
  	<li>What factors do you think shape your decision-making process as a leader?</li>
- 	<li>Do you agree or disagree with the proposition made in the course notes (by the authors) that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
- 	<li>Close with one question that invites further comment and discussion.</li>
+ 	<li>Discuss how scholarly inquiry applies to everyday decision making.</li>
 </ul>
 </li>
 </ul>
 <h4>Part 3</h4>
 <ul>
- 	<li>Discuss the following questions:
+ 	<li>Finally, discuss the following questions:
 <ul>
- 	<li>How did the authors of the articles conceptualize evidence-based leadership?</li>
- 	<li>What is considered as "evidence"?</li>
- 	<li>In your own words, why is evidence-based decision-making important?</li>
+ 	<li>How did the authors of the articles conceptualize evidence-based decisions? What is considered as "evidence"?</li>
+ 	<li>In your own words, why is evidence-based decision-making important in leadership?</li>
  	<li>Close with one question that invites further comment and discussion.</li>
 </ul>
 </li>
