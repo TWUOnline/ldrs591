@@ -71,6 +71,8 @@ All of these contribute to answering the ultimate question for any research: “
 </li>
 </ul>
 Note, this activity will make up Part A of your graded blog this week.  See Unit 4 Assessment for more details.
+
+&nbsp;
 <h3>Topic 3: What is a literature review?</h3>
 The research problem establishes why a particular research study is worth doing. The review of the literature supports this by establishing what is already known about the problem and summarizes what scholarship has already established regarding the research problem. This has many facets that go beyond merely establishing the research purpose. As we will see, a literature review affects every aspect of a research study and its final report. For that reason, one of the most important preliminary steps in the process of scholarly inquiry is doing a thorough review of the precedent academic literature on a given topic. A precedent literature review is the process of locating, obtaining, reading and evaluating the research and theoretical literature in your area of interest. Bordens and Abbott (2005) outline several important reasons for a researcher to conduct a precedent literature review:
 <ol>
@@ -94,7 +96,7 @@ A precedent literature review that is useful and instructive exhibits the follow
  	<li>the degree to which the writer provides synthesis (i.e., relates research studies to one another and to the paper's thesis and purpose in meaningful ways)</li>
  	<li>the objectivity of the writer in selecting, interpreting, organizing and summarizing the research he or she has reviewed.</li>
 </ul>
-<h3>Learning Activity 4.3 - Read, Evaluate and Reflect!</h3>
+<h4>Learning Activity 4.3 - Read, Evaluate and Reflect!</h4>
 <ul>
  	<li>In this learning activity you will read chapter 4, "Literature Reviews," in the Plano-Clark and Creswell (2015) text.</li>
  	<li>Using the servant leadership article from activity 4.2, and the evaluation criteria on p. 143 in Plano-Clark &amp; Creswell (2015), complete the following questions in your learning journal to evaluate the literature review in the article you chose to focus on. The figure on page 144 provides a template for recording your rating and rationale.
@@ -110,14 +112,14 @@ A precedent literature review that is useful and instructive exhibits the follow
 </ul>
 Note, this activity will make up Part B of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
-<h3>What is the Research Purpose?</h3>
+<h3>Topic 4: What is the Research Purpose?</h3>
 The research problem establishes why a particular research study is worth doing or why it matters, the review of precedent literature establishes what is already known about the problem, and the research purpose establishes what the research specifically intends to do. Typically, the research purpose is further refined into a limited number of research questions or predictions (hypotheses) that the researcher will address.
 
 Taken together, these three common elements in introductions to research reports combine in such a way as to “pose significant questions that can be answered empirically” (Gall, Gall &amp; Borg, 2007, p. 35). As a consumer of research, you are vitally interested in the answers research reports offer to your significant questions.
 
 Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be the most important step the entire research process" (p. 162). Identification of the research problem and review of precedent literature leads directly to specifying the purpose of the study. The purpose will then provide direction for selection of the research design, data collection, analysis of data in determining findings or results and finally in the interpretation and evaluation of the research.
 <h3></h3>
-<h3>Learning Activity 4.4 - Read, Evaluate and Reflect!</h3>
+<h4>Learning Activity 4.4 - Read, Evaluate and Reflect!</h4>
 <ul>
  	<li>In this learning activity, you will read chapter 5, "Purpose statements and research questions," in the Plano-Clark and Creswell (2015) text.</li>
  	<li>Using the servant leadership article you chose for activity 4.2, and the evaluation criteria on p.184 (for a quantitative study) and p.185 (for a qualitative study) in Plano-Clark &amp; Creswell (2015), complete the following questions in your learning journal to evaluate the purpose in the article you chose to focus on. The figure on page 186 provides a template for recording your rating and rationale.
@@ -133,7 +135,7 @@ Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be 
 </ul>
 This activity will make up Part C of your graded blog this week.  See Unit 4 Assessment for more details.
 <h3></h3>
-<h3>Learning Activity 4.5 - Reflect</h3>
+<h4>Learning Activity 4.5 - Reflect</h4>
 In your reflective learning journal discuss the following questions:
 <ul>
  	<li>In your view, what were the most important points you need to consider in the introduction section of a high-quality research report?</li>
@@ -146,8 +148,16 @@ In your reflective learning journal discuss the following questions:
 Close with one question that invites further comment and discussion.
 
 This activity will make up Part D of your graded blog this week.  See Unit 4 Assessment for more details.
+
+&nbsp;
 <h3>Unit 4 Summary</h3>
 In this unit you have learned about the origin and development of servant leadership and the common elements found in the introduction of research reports. You have learned about the research problem, the review of precedent literature, and the research purpose and the similarities and differences among qualitative and quantitative research reports. Although theses terms are similar, they are quite different and serve different functions in the introduction of a research report.
+
+&nbsp;
+<h3>Assessment</h3>
+Go to <a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Unit 4 Assessment</a> for more details on your Blog assignment<strong>.</strong>
+
+&nbsp;
 <h3>References</h3>
 Bordens, K., &amp; Abbott, B. (2005). <em>Research design and methods: A process approach</em> (6th ed.). Boston, MA: McGraw-Hill.
 
