@@ -30,9 +30,10 @@ When you have completed this unit you should be able to:<strong> </strong>
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 4.1:<span style="color: #ff0000;"> <span style="color: #000000;">Read the article by Sendjaya and Sarros (2002), "Servant leadership: Its origin, development, and application in organizations," and reflect in your journal.</span></span></p>
-<p style="padding-left: 30px;">Activity 3.2: Read Chapter 3 in the Plano-Clark and Creswell (2015) text. Choose <strong>one</strong> of the servant leadership articles listed and use the evaluation criteria to answer questions in your learning journal.</p>
-<p style="padding-left: 30px;">Activity 3.3: …</p>
-<p style="padding-left: 30px;">Activity 3.4: …</p>
+<p style="padding-left: 30px;">Activity 4.2: Read Chapter 3 in the Plano-Clark and Creswell (2015) text. Choose <strong>one</strong> of the servant leadership articles listed and evaluate the statement of the problem.</p>
+<p style="padding-left: 30px;">Activity 4.3: Read chapter 4 in the Plano-Clark and Creswell text. Using your chosen servant leadership article, evaluate the literature review in the article.</p>
+<p style="padding-left: 30px;">Activity 4.4: Read chapter 5 in your text. Evaluate the purpose in the article you chose to focus on.</p>
+<p style="padding-left: 30px;">Activity 4.5: Reflect in your learning journal.</p>
 <p style="padding-left: 30px;"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
@@ -49,6 +50,4 @@ Here are the resources you will need to complete the unit:
 </ul>
 &nbsp;
 
-Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
-
-<span style="color: #ff0000;"><strong>[Kelly to check all links later]</strong></span>
+Go to <a href="https://create.twu.ca/ldrs591/unit-4-learning-activities/">Learning Activities</a> to continue the unit.
