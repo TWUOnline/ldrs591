@@ -15,7 +15,7 @@ In unit 2, we will begin by developing a road map for understanding the research
 <h3>Topics</h3>
 Unit 2 is divided into 5 topics:
 <p style="padding-left: 30px;">Topic 1: The Research Process</p>
-<p style="padding-left: 30px;">Topic 2: How to ask a good research question</p>
+<p style="padding-left: 30px;">Topic 2: Asking A Significant Research Question</p>
 <p style="padding-left: 30px;">Topic 3: Accessing Scholarly Literature</p>
 <p style="padding-left: 30px;">Topic 4: Utilizing Scholarly Literature</p>
 <p style="padding-left: 30px;">Topic 5: Evaluating scholarly literature</p>
@@ -29,12 +29,16 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 </ol>
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px;">Activity 2.1: Answer questions in your reflective learning journal...</p>
-<p style="padding-left: 30px;">Activity 2.2: Read Chapter 1 of...</p>
-<p style="padding-left: 30px;">Activity 2.3: ...</p>
-<p style="padding-left: 30px;">Activity 2.4: ...</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
-<strong>Assignment 2:</strong> Complete  ...
+<p style="padding-left: 30px;">Activity 2.1: Watch the Badke video tutorials and read chapter 3 in the Badke (2017) text.</p>
+<p style="padding-left: 30px;">Activity 2.2: Complete Assignment 2, Clarifying Your Research Interest.</p>
+<p style="padding-left: 30px;">Activity 2.3: Search for journal articles.</p>
+<p style="padding-left: 30px;">Activity 2.4: Search for books.</p>
+<p style="padding-left: 30px;">Activity 2.5: Upgrade your research skills.</p>
+       Activity 2.6: Take the Coconut Oil Challenge!
+
+Activity 2.7: Read chapter 7 in the Badke (2017) text, watch two videos,                    and answer questions in your journal.
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B).              Respond substantively to at least two other classmates' blogs.</p>
+<strong>Assignment 2:</strong> Complete the Blog assignment and Assignment 2,                             Clarifying Your Research Interest.
 
 &nbsp;
 <h3>Resources</h3>
@@ -46,5 +50,3 @@ Here are the resources you will need to complete the unit:
 &nbsp;
 
 Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
-
-<span style="color: #ff0000;"><strong>[Kelly to check all links later]</strong></span>
