@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:50
 ---
-<h2>Unit 4 Learning Activities</h2>
-<h3>What is Servant Leadership?</h3>
+<h3>Unit 4 Learning Activities</h3>
+<h3>Topic 1: What is Servant Leadership?</h3>
 To begin this unit, I want to provide you with a very brief overview of servant leadership because the research articles that I have selected for you to focus on for units 4, 5, 6, 7, and 9 are all focused on the topic of servant leadership.  I have included articles on servant leadership from the field of education, business, non-profit and health care.
 
 Servant leadership, as a concept, has its origins tracing back to the earliest records we have in history.  It is not a religious concept, however, it is a concept that you will find is supported by most of the world’s major religions.
@@ -33,13 +33,14 @@ Several years later Larry Spears (2010) went on to write an essay that describes
  	<li>Building Community</li>
 </ul>
 According to Sendjaya and Sarros (2002) "There has been a strong tendency among leadership scholars and journalists to treat leaders as isolated heroes controlling and commanding others from within their ivory tower. In the organizational context, the word 'leader' has been mostly ascribed to people who hold management positions and are capable of giving orders to other members of the organization (Senge, 1990)".  The authors suggest that servant leadership may offer a better alternative.
-<h3>Learning Activity 4.1: Read and Reflect</h3>
+<h4>Learning Activity 4.1: Read and Reflect</h4>
 In this learning activity you will begin by reading the article by Sendjaya and Sarros (2002), "Servant leadership: Its origin, development, and application in organizations," to familiarize yourself with the topic of servant leadership. After reading the article, reflect on the following questions in your learning journal:
 <ul>
  	<li>What is already known and not known about servant leadership?</li>
  	<li>Why do you think servant leadership should be of interest researchers in the leadership field?</li>
 </ul>
-<h3>What is a research problem?</h3>
+&nbsp;
+<h3>Topic 2: What is a research problem?</h3>
 All good research begins with a good research problem. Plano-Clark and Creswell (2015) suggest that research problems “are the issues, controversies or concerns that demand study" (p. 80). They assert that these are often real problems that must be addressed. Gall, Gall and Borg (2007) suggest that in identifying the research problem, the researcher should consider personal interest, the potential benefits to the researcher’s professional growth, and potential contribution of the research study to research knowledge. They suggest that all three criteria should be considered, with emphasis on the first and third.
 
 Somewhat reflexively, a thorough review of literature on a topic that interests you informs the identification of a good research problem. Gall, Gall and Borg (2007, p. 43) suggest that through the process of the literature review, researchers ask themselves the following kinds of questions.
@@ -52,7 +53,7 @@ Somewhat reflexively, a thorough review of literature on a topic that interests 
 </ul>
 All of these contribute to answering the ultimate question for any research: “So what?” As a consumer of research, these sorts of questions can help you identify a good research problem to focus your personal research interest. This narrowing of research interest, or research problem, is a process that is refined as you read over a variety of different sources of literature.
 <h3></h3>
-<h3>Learning Activity 4.2 - Read, Evaluate and Reflect!</h3>
+<h4>Learning Activity 4.2 - Read, Evaluate and Reflect!</h4>
 <ul>
  	<li>In this learning activity you will begin by reading chapter 3, "Statements of the Problem," in the Plano-Clark and Creswell (2015) text.</li>
  	<li>Next, choose <strong>one</strong> of the servant leadership articles listed under the Unit 4 resources to focus on to answer the questions in this learning activity.</li>
@@ -70,7 +71,7 @@ All of these contribute to answering the ultimate question for any research: “
 </li>
 </ul>
 Note, this activity will make up Part A of your graded blog this week.  See Unit 4 Assessment for more details.
-<h3>What is a literature review?</h3>
+<h3>Topic 3: What is a literature review?</h3>
 The research problem establishes why a particular research study is worth doing. The review of the literature supports this by establishing what is already known about the problem and summarizes what scholarship has already established regarding the research problem. This has many facets that go beyond merely establishing the research purpose. As we will see, a literature review affects every aspect of a research study and its final report. For that reason, one of the most important preliminary steps in the process of scholarly inquiry is doing a thorough review of the precedent academic literature on a given topic. A precedent literature review is the process of locating, obtaining, reading and evaluating the research and theoretical literature in your area of interest. Bordens and Abbott (2005) outline several important reasons for a researcher to conduct a precedent literature review:
 <ol>
  	<li><strong>To avoid needless duplication of effort.</strong> By becoming familiar with an area of study through a review of the literature, the researcher can avoid “re-inventing the wheel.” The researcher’s specific question or topic may already have been thoroughly addressed and answered. In the case of research designed for application, a review of literature provides a rich resource of information upon which to draw and apply to the chosen context.</li>
