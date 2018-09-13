@@ -16,7 +16,7 @@ Inquiry is “the process of developing skills to arrive at understandings of a 
 By now you are well aware of the applied nature of the MA in Leadership program. This feature may be an important part of what attracted you to the program! Why then study research methods? Why worry about scholarly inquiry? This course in scholarly inquiry will help you to develop systematic thinking skills applicable in all realms of leadership and everyday life. As Plano-Clark &amp; Creswell (2015) note, research adds to your professional knowledge, informs your position in policy debates, and contributes to the improvement in your practice (pp. 4-5). Moreover, our leadership practice is ideally evidence-based; that is, based on evidence derived from systematic scholarly inquiry.
 
 &nbsp;
-<h3>Learning Activity 1.1: Read and Reflect</h3>
+<h4>Learning Activity 1.1: Read and Reflect</h4>
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
@@ -49,7 +49,7 @@ The framework of Creation, Fall and Redemption is important because it allows us
 It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around us (i.e., our worldview) influences how we approach all of life, including how we approach research and how we use research to inform our decision-making process.
 
 &nbsp;
-<h3>Learning Activity 1.2: Reflection</h3>
+<h4>Learning Activity 1.2: Reflection</h4>
 In your reflective learning journal, answer the following question:
 <ul>
  	<li>Do you agree or disagree with the proposition made above that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
@@ -69,7 +69,7 @@ Systematic inquiry (as represented by research) is one tool that leaders can use
 How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue/problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community. The past two decades have produced remarkable growth in the area of foundations of research and research methodologies within natural, applied, and social sciences and humanities.
 
 &nbsp;
-<h3>Learning Activity 1.3: Reflection</h3>
+<h4>Learning Activity 1.3: Reflection</h4>
 In your reflective learning journal, answer the following questions:
 <ul>
  	<li>Describe at least one example of a decision you have made as a leader.</li>
@@ -94,7 +94,7 @@ Boyer’s typology originally identified as the Scholarship of Teaching has been
 This course will provide the background necessary to critique empirical research studies, rather than to guide you in carrying out your own research (scholarship of discovery). Put another way, you will be learning about various research methods (e.g., quantitative research, qualitative research, and mixed methods) so that you can gain proficiency in becoming a critical consumer of research.
 
 &nbsp;
-<h3>Learning Activity 1.4: Read and Reflect</h3>
+<h4>Learning Activity 1.4: Read and Reflect</h4>
 <ul>
  	<li>Read the following articles that speak to the importance of evidence-based practices in leadership. The articles below can be found through the <a href="https://twu.ca/library">TWU library</a> or through the hyperlink provided.
 <ul>
