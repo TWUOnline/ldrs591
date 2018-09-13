@@ -17,7 +17,7 @@ In unit 2, we will begin by developing a road map for understanding the research
 <h3>Topics</h3>
 Unit 2 is divided into 5 topics:
 <p style="padding-left: 30px;">Topic 1: The Research Process</p>
-<p style="padding-left: 30px;">Topic 2: Asking A Significant Research Question</p>
+<p style="padding-left: 30px;">Topic 2: Asking a Significant Research Question</p>
 <p style="padding-left: 30px;">Topic 3: Accessing Scholarly Literature</p>
 <p style="padding-left: 30px;">Topic 4: Utilizing Scholarly Literature</p>
 <p style="padding-left: 30px;">Topic 5: Evaluating scholarly literature</p>
