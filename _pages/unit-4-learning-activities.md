@@ -11,13 +11,13 @@ post_date: 2017-11-24 14:49:50
 ---
 <h2>Unit 4 Learning Activities</h2>
 <h3>What is Servant Leadership?</h3>
-To begin this unit, I want to provide you with a very brief overview of servant leadership because the research articles that I have selected for you to focus on for units 4, 5, 6, 7, and 9 are all focused on the topic of servant leadership.  For example, I have included some articles on servant leadership from the field of education, business, non-profit and health care.
+To begin this unit, I want to provide you with a very brief overview of servant leadership because the research articles that I have selected for you to focus on for units 4, 5, 6, 7, and 9 are all focused on the topic of servant leadership.  I have included articles on servant leadership from the field of education, business, non-profit and health care.
 
 Servant leadership, as a concept, has its origins tracing back to the earliest records we have in history.  It is not a religious concept, however, it is a concept that you will find is supported by most of the world’s major religions.
 
 For Christians, Jesus Christ is considered the epitome of a servant-leader. In fact servant leadership is fully aligned with the teachings of Christianity. For example, read the following passage from <a href="https://www.biblegateway.com/passage/?search=Mark+10%3A35-45&amp;version=ESV">Mark 10:35-45</a>  which states "But among you it will be different. Whoever wants to be a leader among you must be your servant.” <a href="https://biblia.com/bible/nrsv/Mark%2010.43">Mark 10:43</a>  Consider the following reflection on this passage by <a href="https://www.theologyofwork.org/the-high-calling/daily-reflection/servant-leadership">Mark Roberts (2014).</a>
 
-In the 1970's,  Robert K. Greenleaf began writing about servant leadership in our modern day context in his seminal essay "The Servant as Leader".  He stated that "servant leadership begins with the natural feeling that one wants to serve others first. Then conscious choice brings one to aspire to lead. That person is sharply different from one who is leader first…"
+In 1970,  Robert Greenleaf began writing about servant leadership in our modern day context in his seminal essay "The Servant as Leader".  He stated that "servant leadership begins with the natural feeling that one wants to serve others first. Then conscious choice brings one to aspire to lead. That person is sharply different from one who is leader first…"(p.6).
 
 Several years later Larry Spears (2010) went on to write an essay that describes the <a href="https://www.regent.edu/acad/global/publications/jvl/vol1_iss1/Spears_Final.pdf">ten characteristics of a servant leader</a>.  They are:
 <ul>
@@ -153,5 +153,7 @@ Bordens, K., &amp; Abbott, B. (2005). <em>Research design and methods: A process
 Creswell, J. (2003). <em>Research design: Qualitative, quantitative, and mixed methods approaches</em> (2nd ed.).Thousand Oaks, CA: Sage.
 
 Gall, M., Gall, J., &amp; Borg, W. (2007). <em>Educational research</em>. Boston, MA: Pearson.
+
+Greenleaf, R. K. (1970). The servant as leader. <i>Indianapolis, IN</i>.
 
 Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson.
