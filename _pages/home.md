@@ -36,7 +36,7 @@ post_date: 2017-05-29 11:26:38
  </a> 
  <h3><a href="https://create.twu.ca/ldrs591/unit-1-learning-activities/">Learning Activities</a></h3> 
  
- <a href="https://create.twu.ca/ldrs591/unit-1-notes/"> 
+ <a href="https://create.twu.ca/ldrs591/unit-1-assessment/"> 
  
  </a> 
  <h3><a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Assessment</a></h3> 
