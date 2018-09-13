@@ -10,29 +10,28 @@ published: true
 post_date: 2017-11-24 14:49:51
 ---
 <h3>Unit 1 Learning Activities</h3>
-<h3>What is inquiry?</h3>
+<h3>Topic 1: What is scholarly inquiry?</h3>
 Inquiry is “the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" (Penner, 2017).
 
 By now you are well aware of the applied nature of the MA in Leadership program. This feature may be an important part of what attracted you to the program! Why then study research methods? Why worry about scholarly inquiry? This course in scholarly inquiry will help you to develop systematic thinking skills applicable in all realms of leadership and everyday life. As Plano-Clark &amp; Creswell (2015) note, research adds to your professional knowledge, informs your position in policy debates, and contributes to the improvement in your practice (pp. 4-5). Moreover, our leadership practice is ideally evidence-based; that is, based on evidence derived from systematic scholarly inquiry.
 
 &nbsp;
 <h3>Learning Activity 1.1: Read and Reflect</h3>
-<strong><span style="color: #ff0000">[Heather please let me know which are ungraded questions for their learning journal, and which are the assessed blog post questions]</span></strong>
-
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit. For more on reflective journaling, see here <strong><span style="color: #ff0000">[Kelly to insert link]</span></strong>.
+ 	<li>Start a <em>Reflective Learning Journal</em> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
 <ul>
  	<li>In your reflective learning journal, explain how you would define research.</li>
  	<li>Describe what your experience is with "research".  Have you taken an undergraduate statistics course?  Is this your first time learning about research?  Have you published your own scientific paper?</li>
  	<li>Discuss the differences between informal research (everyday problem solving) and scholarly inquiry (formal research).</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
+ 	<li>Note that some of these questions will be addressed in your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details.</li>
 </ul>
 <h3></h3>
-<h3>Three Foundational Questions</h3>
+<h3>Topic 2: Philosophical Foundations of Research</h3>
+<h4>Three Foundational Questions</h4>
 A professor of mine often observed that a fundamental attribute of being human is to ask questions. Humanity is especially interested in three fundamental questions: What is real? What is true? What is good? The philosophical category of metaphysics is concerned with what is real, and what is the nature of reality. The philosophical category of epistemology is concerned with what is true, and what is the nature and process of knowing. The philosophical category of axiology is concerned with what is good and how we can determine the nature of goodness. Much of history is a chronicle of the different ways people have answered these three fundamental questions. How we answer these questions reveals our perspective, or our worldview.
 
 A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" (Geisler &amp; Watkins, 2003). It is like a pair of glasses that you wear when you are observing things about yourself, other people and the world in which you live.  Here is a short video by the Impact 360 Institute (2014) that explains <a href="https://www.youtube.com/watch?v=VXnSE0uvwzM&amp;sns=em">"What's your worldview?"</a>
@@ -55,10 +54,10 @@ In your reflective learning journal, answer the following question:
 <ul>
  	<li>Do you agree or disagree with the proposition made above that one’s worldview influences the types of questions that you ask, and the processes that you use to find the answers to your questions?</li>
 </ul>
-Note that your journal is not graded.
+Note that your journal is not graded, but will help you in your Blog assignment.
 
 &nbsp;
-<h3>Leadership and Scholarly Inquiry</h3>
+<h3>Topic 3: Leadership and Scholarly Inquiry</h3>
 On what basis are sound decisions made? What evidence do leaders rely upon for best outcomes? The need to evaluate evidence for best practices in leadership decision-making is widely acknowledged. Patton (2001) observes that “the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society” (p. 329).
 
 We often refer to the vision of best practices in leadership within the MA in Leadership program (see Kirkham 2004). What do we mean by this? Put simply, “best practices” refers to those practices and initiatives that result in the best possible outcomes. How do we know what best practice is? The process of identifying best practices begins with an understanding of common sources of evidence available to leaders.
@@ -77,9 +76,9 @@ In your reflective learning journal, answer the following questions:
  	<li>Consider the factors that went into that decision making process (e.g., values, research, policy, past experience, expert opinion).</li>
  	<li>Discuss how scholarly inquiry applies to everyday decision making.</li>
 </ul>
-Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.
+Note that some of these questions are a part of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details.
 <h3></h3>
-<h3>Boyer's Model of Scholarship</h3>
+<h4>Boyer's Model of Scholarship</h4>
 Scholarship once was defined narrowly in terms of empirical or scientific research. More recently the academic community has moved toward a broader conceptualization of scholarship more in keeping with knowledge acquisition and application through a variety of avenues. Boyer’s Scholarship of <strong>Discovery</strong> is the type of scholarship associated with traditional scholarly research. According to Leedy &amp; Ormrod (2010), “research is a systematic process of collecting, analyzing and interpreting information (data) in order to increase our understanding of a phenomenon about which we are interested or concerned” (p. 2). Boyer’s Scholarship of Discovery is often referred to as primary research. Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand in detail one isolated part of reality. Through this process it is hoped that this understanding can be generalized to some degree to a broader part of reality.
 
 The Scholarship of Discovery (traditional research) falls into two distinct genres: quantitative research and qualitative research. Each of these genres manifest in numerous variations, including hybrid models involving both quantitative and qualitative elements designed to address different research questions.
@@ -112,7 +111,7 @@ This course will provide the background necessary to critique empirical research
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 1 Assessment for more details.</li>
+ 	<li>Note that some of these questions will be part of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Unit 1 Summary</h3>
@@ -120,11 +119,7 @@ Congratulations on finishing the first unit!  As you complete your assignments 
 
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 1 Assessment for more details on your <strong>Blog.</strong>
-
-&nbsp;
-
-<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
+Go to <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details on your <strong>Blog.</strong>
 
 &nbsp;
 <h3>References</h3>
