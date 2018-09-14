@@ -51,4 +51,4 @@ Here are the resources you will need to complete the unit:
 </ul>
 &nbsp;
 
-Go to <a href="https://create.twu.ca/icandothis/2018/01/01/ldrs-591-unit-1/">Learning Activities</a> to continue the unit.
+Go to <a href="https://create.twu.ca/ldrs591/unit-5-learning-activities/">Learning Activities</a> to continue the unit.
