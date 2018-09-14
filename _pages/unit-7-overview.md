@@ -33,7 +33,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px">Activity 7.1: Read chapter 12 of your text. Watch a video.</p>
 <p style="padding-left: 30px">Activity 7.2: Evaluate the use of the mixed methods approach in the servant leadership article you chose.</p>
 <p style="padding-left: 30px">Activity 7.3: Read an article and answer questions.</p>
-<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, and C). Respond substantively to at least two other classmates’ blogs.</p>
 <p style="padding-left: 30px"><strong>Assignment :</strong> Complete <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/">Assignment 4: Scholarly Article Critique</a></p>
 &nbsp;
 <h3>Resources</h3>
