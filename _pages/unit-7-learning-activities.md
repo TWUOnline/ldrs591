@@ -63,7 +63,7 @@ The <strong>sequential exploratory design </strong>involves the collection and a
  	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
 </ul>
 &nbsp;
-<h3>Topic 3: Why a mixed-methods approach is used to understand leadership.</h3>
+<h3>Topic 3: Using Mixed-Methods to Understand Leadership.</h3>
 <h4>Learning Activity 7.3 - Read and Reflect</h4>
 <ul>
  	<li>Read the article "Applying mixed methods to leadership research: A review of current practices" by Stentz, Plano-Clark and Matkin (2012).</li>
@@ -73,11 +73,12 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 <ul>
  	<li>Describe an example of a Transformational Servant Leader in your life.</li>
  	<li>What values and characteristics define that person?</li>
- 	<li>What does Transformational Servant Leadership (TSL) mean to you?</li>
- 	<li>How do you think mixed methods can be applied to u leadership research?</li>
+ 	<li>How would you use a mixed methods approach to studying servant leadership?</li>
 </ul>
 </li>
+ 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Unit 7 Summary</h3>
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
 <ul>
