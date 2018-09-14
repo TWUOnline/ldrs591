@@ -52,9 +52,9 @@ major points of the table.</li>
 </ul>
 <strong>Step 9: Create a reference list: </strong>List all references on a separate page in APA format.
 
-<strong>Step 10: APA formatting is required</strong> for this assignment. Please refer to the APA requirements link and APA rubric for more details.
+<strong>Step 10: APA formatting is required</strong> for this assignment. <strong>[Add APA requirements here]</strong>
 
-<strong>Step 11: Submit your assignment in the Assignment #3 drop box on the Learning Management System.</strong>
+<strong>Step 11: Submit your assignment in the Assignment #3 drop box on Moodle.</strong>
 <h3>Evaluation</h3>
 <strong>Identify research question and key terms (5 points)</strong>
 <ol>
@@ -75,8 +75,6 @@ major points of the table.</li>
  	<li>Preliminary Investigation Summary: In several appropriately cited paragraphs, you have (a) presented a working knowledge summary of your topic (the basic facts required to make someone familiar with the topic to a limited extent) based on what you have discovered about the topic from your initial investigations of literature, and (b) a brief statement outlining your personal professional interest in this topic.</li>
 </ol>
 <strong>APA format compliance (10 points)</strong>
-
-Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA formatting requirements</a> and rubric for specific details.
 
 <strong>Overall Score: /40</strong>
 
