@@ -14,10 +14,9 @@ This week, in Unit 7, I have prepared an audio message to introduce you to mixed
 
 https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 
-<strong>Reminder: In week 8 you will need to create your own audio recording to share your action research idea with your colleagues.  Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.  Have fun!</strong>
-
-&nbsp;
-<h3>Learning Activity 7.1 - Read, Watch and Reflect</h3>
+<strong>Reminder: </strong>In week 8 you will need to <strong>create your own audio recording</strong> to share your action research idea with your colleagues.  Make sure you take some time to <strong>practice</strong> what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.  Have fun!
+<h3>Topic 1: Mixed-Methods Research</h3>
+<h4>Learning Activity 7.1 - Read, Watch and Reflect</h4>
 <ul>
  	<li>Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Next, watch the following video by Dr. John W. Creswell, "<a href="http://johnwcreswell.com/videos/">What is mixed methods research?</a>" In this video Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.</li>
@@ -28,9 +27,10 @@ https://soundcloud.com/user-303479512/welcome-to-unit-7-2
  	<li>How has mixed methods been seen as a remedy for advancing leadership research?</li>
 </ul>
 </li>
- 	<li>Note that these questions will make up Part 1 of your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
 </ul>
-<h3>Mixed-Methods Research Designs</h3>
+&nbsp;
+<h3>Topic 2: Mixed-Methods Research Designs</h3>
 A wide variety of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data.  As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy &amp; Ormrod, 2013, p. 97). As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
 <ul>
  	<li>What is the purpose of needing qualitative and quantitative data?</li>
@@ -46,7 +46,7 @@ The <strong>s</strong><b>equential explanatory design </b>involves the collecti
 
 The <strong>sequential exploratory design </strong>involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. This designed is used to explore a phenomenon and to expand on qualitative findings.
 <h3></h3>
-<h3>Learning Activity 7.2 - Read, Evaluate and Reflect</h3>
+<h4>Learning Activity 7.2 - Read, Evaluate and Reflect</h4>
 <ul>
  	<li>In this learning activity, you will select <strong>one</strong> of the servant leadership articles listed under the unit 7 resources.</li>
  	<li>Read the article and then using the criteria on pg. 405 in Plano-Clark &amp; Creswell (2015), evaluate the use of the mixed methods approach in the servant leadership article you chose. The figure on page 406 provides a template for recording your rating and rationale for your evaluation.</li>
@@ -61,10 +61,11 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions will make up Part 2 of your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
+ 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
 </ul>
-<h3></h3>
-<h3>Learning Activity 7.3 - Interview and Blog post</h3>
+&nbsp;
+<h3>Topic 3: Why a mixed-methods approach is used to understand leadership.</h3>
+<h4>Learning Activity 7.3 - Interview and Blog post</h4>
 <p id="yui_3_17_2_1_1535585504618_19">In pairs, you will be given the task of interviewing a partner about transformational servant leadership.  During your interview, you will ask both open-ended and closed questions.</p>
 
 <ul>
@@ -90,8 +91,9 @@ The <strong>sequential exploratory design </strong>involves the collection and a
  	<li>Make sure you take good notes and record your findings by preparing a brief 250 word blog post.</li>
 </ul>
 </li>
- 	<li>Note this activity will make up Part 3 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
+ 	<li>Note this activity will will help you complete your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
 </ul>
+&nbsp;
 <h3>Unit 7 Summary</h3>
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
 <ul>
@@ -102,7 +104,7 @@ In general researchers conduct mixed methods studies when both quantitative and 
 </ul>
 <h5></h5>
 <h3>Assessment</h3>
-Go to Unit 7 Assessment for more details on your <strong>Blog,</strong> to submit this week.
+Go to <a href="https://create.twu.ca/ldrs591/unit-7-assessment/">Unit 7 Assessment</a> for more details on your <strong>Blog,</strong> as well as <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/">Assignment 4: Scholarly Article Critique</a>.
 
 &nbsp;
 <h3>References</h3>
