@@ -38,7 +38,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;">Activity 3.3: Watch a video by Dr. Hatala and review the checklist.</p>
 <p style="padding-left: 30px;">Activity 3.4: Watch a video by Dr. Hatala and take an online quiz.</p>
 <p style="padding-left: 30px;">Activity 3.4: Watch a video by Dr. Hatala and take an online quiz.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B and C). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit. Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
