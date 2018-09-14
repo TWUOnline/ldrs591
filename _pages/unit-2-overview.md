@@ -33,14 +33,14 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 2.1: Watch the Badke video tutorials and read chapter 3 in the Badke (2017) text.</p>
-<p style="padding-left: 30px;">Activity 2.2: Complete Assignment 2, Clarifying Your Research Interest.</p>
+<p style="padding-left: 30px;">Activity 2.2: Complete Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a>.</p>
 <p style="padding-left: 30px;">Activity 2.3: Search for journal articles.</p>
 <p style="padding-left: 30px;">Activity 2.4: Search for books.</p>
 <p style="padding-left: 30px;">Activity 2.5: Upgrade your research skills.</p>
        Activity 2.6: Take the Coconut Oil Challenge!
 <p style="padding-left: 30px;">Activity 2.7: Read chapter 7 in the Badke (2017) text, watch two videos, and answer questions in your journal.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: ...Complete the blog for this unit (Parts A and B). Respond substantively to at least two other classmates' blogs.</p>
-<p style="padding-left: 30px;"><strong>Assignment 2:</strong> Complete the Blog assignment and Assignment 2, Clarifying Your Research Interest.</p>
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit. Respond substantively to at least two other classmates' blogs.</p>
+<p style="padding-left: 30px;"><strong>Assignment 2:</strong> Complete Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a>.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
