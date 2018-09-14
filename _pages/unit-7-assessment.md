@@ -23,11 +23,8 @@ First, create a new blog post and discuss the following questions:
 <h4>Part B</h4>
 Next, discuss your evaluation of the mixed methods approach in the servant leadership article you chose.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.
 <h4>Part C</h4>
-Finally, describe an example of a Transformational Servant Leader in your life and then discuss the following:
-<ul>
- 	<li>If you had to conduct your own study what approach would you use to capture the characteristics of people with servant leadership characteristics? Discuss how you would apply a mixed-methods approach to the study of servant leadership.</li>
-</ul>
-<h4></h4>
+Finally, describe an example of a Transformational Servant Leader in your life and then discuss how you would apply a mixed-methods approach to the study of servant leadership.
+
 &nbsp;
 
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 7</strong>. This helps to organized the class blogs and interactions.
