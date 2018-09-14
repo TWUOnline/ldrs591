@@ -25,6 +25,8 @@ Next, discuss your evaluation of the mixed methods approach in the servant leade
 <h4>Part C</h4>
 Finally, describe an example of a Transformational Servant Leader in your life and then discuss how you would apply a mixed-methods approach to the study of servant leadership.
 
+Close with one question that invites further comments and discussion.
+
 &nbsp;
 
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 7</strong>. This helps to organized the class blogs and interactions.
