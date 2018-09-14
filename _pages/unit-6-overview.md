@@ -27,6 +27,7 @@ When you have completed this unit you should be able to:<span style="color: #ff0
  	<li>Reflect on the importance of understanding the methods and findings section of a qualitative research report.</li>
  	<li>Apply what you have learned about qualitative research methods to your own leadership context.</li>
 </ol>
+&nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px;">Activity 6.1: Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell (2015). Evaluate the research design in the servant leadership article you chose.</p>
