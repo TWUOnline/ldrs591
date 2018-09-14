@@ -39,7 +39,7 @@ In unit 5, you are asked to write the following blog post (500 words total):
  	<li>Close with one question that invites further comment and discussion.</li>
 </ul>
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 5</strong>. This helps to organized the class blogs and interactions.
-<h3></h3>
+
 &nbsp;
 <h3>Assignment 3: Literature Search</h3>
 The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignments 4 and 5 will be closely linked. This assignment will include the “paper trail” that provides the details of your search for relevant literature, and Assignment 5 will be the final document that summarizes the findings of your review of precedent literature.
