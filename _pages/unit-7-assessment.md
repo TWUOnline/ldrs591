@@ -25,7 +25,7 @@ Next, discuss your evaluation of the mixed methods approach in the servant leade
 <h4>Part C</h4>
 Finally, describe an example of a Transformational Servant Leader in your life and then discuss the following:
 <ul>
- 	<li>If you had to conduct your own study on servant leadership what approach would you use to capture the characteristics of that person?  Would you use a qualitative approach and use focus groups, interviews, or would you use a quantitative approach and have them complete a questionnaire?  Or would you choose a mixed methods approach?  Discuss how you would apply a mixed-methods approach to the study of servant leadership.</li>
+ 	<li>If you had to conduct your own study what approach would you use to capture the characteristics of people with servant leadership characteristics? Discuss how you would apply a mixed-methods approach to the study of servant leadership.</li>
 </ul>
 <h4></h4>
 &nbsp;
