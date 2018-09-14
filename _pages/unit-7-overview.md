@@ -23,16 +23,16 @@ Unit 7 is divided into 3 topics:
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
 <ol>
- 	<li>Discuss how mixed-methods research can advance research.</li>
+ 	<li>Discuss how a mixed-methods approach can advance research.</li>
  	<li>Evaluate the quality of mixed methods research report on servant leadership.</li>
- 	<li>How to apply mixed-methods research to the study of servant leadership.</li>
+ 	<li>Apply a mixed-methods approach to the study of servant leadership.</li>
 </ol>
 &nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px">Activity 7.1: Read chapter 12 of your text. Watch a video and read an article.</p>
-<p style="padding-left: 30px">Activity 7.2: Evaluate the use of the mixed methods approach in the servant leadership article you chose</p>
-<p style="padding-left: 30px">Activity 7.3: Interview a partner about transformational servant leadership.</p>
+<p style="padding-left: 30px">Activity 7.1: Read chapter 12 of your text. Watch a video.</p>
+<p style="padding-left: 30px">Activity 7.2: Evaluate the use of the mixed methods approach in the servant leadership article you chose.</p>
+<p style="padding-left: 30px">Activity 7.3: Read an article and answer questions.</p>
 <p style="padding-left: 30px"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
 <p style="padding-left: 30px"><strong>Assignment :</strong> Complete <a href="https://create.twu.ca/ldrs591/scholarly-article-review-3/">Assignment 4: Scholarly Article Critique</a></p>
 &nbsp;
