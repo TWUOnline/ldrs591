@@ -20,11 +20,10 @@ https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 <ul>
  	<li>Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Next, watch the following video by Dr. John W. Creswell, "<a href="http://johnwcreswell.com/videos/">What is mixed methods research?</a>" In this video Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.</li>
- 	<li>Read the article "Applying mixed methods to leadership research: A review of current practices" by Stentz, Plano-Clark and Matkin (2012).</li>
  	<li>In your reflective learning journal, discuss the following questions:
 <ul>
  	<li>What is at the heart of the quantitative/qualitative debate?</li>
- 	<li>How has mixed methods been seen as a remedy for advancing leadership research?</li>
+ 	<li>Do you think mixed-methods research can provide a more complete picture for leadership studies?  Why or why not?</li>
 </ul>
 </li>
  	<li>Note that these questions will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
@@ -65,35 +64,20 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </ul>
 &nbsp;
 <h3>Topic 3: Why a mixed-methods approach is used to understand leadership.</h3>
-<h4>Learning Activity 7.3 - Interview and Blog post</h4>
-<p id="yui_3_17_2_1_1535585504618_19">In pairs, you will be given the task of interviewing a partner about transformational servant leadership.  During your interview, you will ask both open-ended and closed questions.</p>
-
+<h4>Learning Activity 7.3 - Read and Reflect</h4>
 <ul>
- 	<li>First, ask your partner to complete the Servant Leadership Questionnaire found here: <a href="http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html">http://www.nwlink.com/~donclark/leader/servant_leadership_survey.html</a></li>
- 	<li>Then interview your partner and ask the following open-ended questions:
+ 	<li>Read the article "Applying mixed methods to leadership research: A review of current practices" by Stentz, Plano-Clark and Matkin (2012).</li>
+</ul>
+<ul>
+ 	<li>Then in your reflective learning journal discuss the following:
 <ul>
  	<li>Describe an example of a Transformational Servant Leader in your life.</li>
  	<li>What values and characteristics define that person?</li>
  	<li>What does Transformational Servant Leadership (TSL) mean to you?</li>
+ 	<li>How do you think mixed methods can be applied to u leadership research?</li>
 </ul>
 </li>
- 	<li>Here are some interview guidelines
-<ul>
- 	<li>You may choose to interview your partner in-person, over the phone, over email or via skype.</li>
- 	<li>Begin the interview with “warm-up” questions to develop rapport.</li>
- 	<li>Ask simple, easy, short questions.</li>
- 	<li>Let people finish.  Given them time to think.</li>
- 	<li>Listen attentively to what is said and how it is said.</li>
- 	<li>Clarify and extend meanings but do not impose meaning on them.</li>
- 	<li>Do not talk too much.</li>
- 	<li>Use active listening: “wow”, “tell me more about that”, “that is really interesting”….</li>
- 	<li>Don’t be afraid of silence.</li>
- 	<li>Make sure you take good notes and record your findings by preparing a brief 250 word blog post.</li>
 </ul>
-</li>
- 	<li>Note this activity will will help you complete your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
-</ul>
-&nbsp;
 <h3>Unit 7 Summary</h3>
 In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
 <ul>
