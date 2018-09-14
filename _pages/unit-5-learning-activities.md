@@ -142,7 +142,7 @@ This week in Unit 5 we have explored quantitative research methods. We have lear
 
 &nbsp;
 <h3>Assessment</h3>
-Go to <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details on your Blog assignment<strong>.</strong>
+Go to <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details on your Blog assignment and  <a href="https://create.twu.ca/ldrs591/literature-review-search/">Assignment 3: Literature Search</a><strong>.</strong>
 
 &nbsp;
 <h5>References</h5>
