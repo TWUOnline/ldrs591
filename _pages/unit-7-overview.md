@@ -17,8 +17,8 @@ Plano-Clark and Creswell assert that the decision to engage in qualitative or qu
 <h3>Topics</h3>
 Unit 7 is divided into 3 topics:
 <p style="padding-left: 30px">Topic 1: Introduction to Mixed-Methods Research</p>
-<p style="padding-left: 30px">Topic 2: Mixed-methods Research Designs</p>
-<p style="padding-left: 30px">Topic 3: Why a mixed-methods approach is used to understand leadership.</p>
+<p style="padding-left: 30px">Topic 2: Mixed-Methods Research Designs</p>
+<p style="padding-left: 30px">Topic 3: Using Mixed-Methods to Understand Leadership.</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
