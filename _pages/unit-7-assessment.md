@@ -77,7 +77,7 @@ Speculate on how you might expand upon this research based upon the limitations 
 <h5><strong>STEP 5</strong></h5>
 APA formatting is required for this assignment. Please refer to the APA formatting requirements and APA rubric for further information.
 <h5><strong>STEP 6 </strong></h5>
-Submit a draft of your assignment for peer review to your assigned partner via email. Please submit the draft at least one week before the due date to allow for feedback and revisions. Your partner will review your assignment and provide you with feedback following the peer review protocol. Submit your assignment, along with the feedback that you received from your partner with a brief rationale for the changes that you made or didn't make. Please submit this assignment in the Assignment 4 drop box on the Learning Management System.
+Please submit this assignment in the Assignment 4 drop box on the Learning Management System.
 <h5>Evaluation:</h5>
 [table id=6 /]
 <h3>Checking Your Learning</h3>
