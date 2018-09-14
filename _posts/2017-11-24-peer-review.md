@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: post
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/peer-review/
+  https://create.twu.ca/ldrs591/peer-review/
 published: true
 post_date: 2017-11-24 14:49:50
 ---
