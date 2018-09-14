@@ -17,6 +17,8 @@ As you work through the material in this course, you will be asked to create blo
 
 <strong>Replying to Colleagues’ Posts</strong>
 <p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum one discussion question. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
+For more information about what is expected in your blog posts, responses, and grading criteria please go to <a href="https://create.twu.ca/ldrs591/instructions-for-blog-posts-and-responses/">Blog posts and responses (Assignment 1).</a>
+
 In unit 1, you are asked to write the following blog post (500 words total):
 <h4>Part 1</h4>
 <ul>
