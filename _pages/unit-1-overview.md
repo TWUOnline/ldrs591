@@ -32,7 +32,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;">Activity 1.2: Read the Philosophical Foundations notes and answer questions in your reflective learning journal.</p>
 <p style="padding-left: 30px;">Activity 1.3: Read the Topic 3 notes and answer questions in your reflective learning journal.</p>
 <p style="padding-left: 30px;">Activity 1.4: Read the two articles and answer questions.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B and C). Respond substantively to at least two other classmates' blogs.</p>
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit. Respond substantively to at least two other classmates' blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
