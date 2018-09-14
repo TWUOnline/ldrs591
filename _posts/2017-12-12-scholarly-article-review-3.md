@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: post
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/scholarly-article-review-3/
+  https://create.twu.ca/ldrs591/scholarly-article-review-3/
 published: true
 post_date: 2017-12-12 12:49:50
 ---
@@ -69,4 +69,4 @@ Submit a draft of your assignment for peer review to your assigned partner via e
 
 [table id=6 /]
 
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833" > Submit Scholarly Article Review in Moodle </a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833"> Submit Scholarly Article Review in Moodle</a><!--/themify_builder_static-->
