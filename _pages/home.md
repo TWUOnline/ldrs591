@@ -172,7 +172,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-8-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-8-notes/">Notes</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-8-notes/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u8-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-8" > Student Posts for Unit 8</a> 
@@ -205,7 +205,7 @@ post_date: 2017-05-29 11:26:38
  <a href="https://create.twu.ca/ldrs591/unit-10-notes/" > 
  
  </a> 
- <h3><a href="https://create.twu.ca/ldrs591/unit-10-notes/">Notes</a></h3> 
+ <h3><a href="https://create.twu.ca/ldrs591/unit-10-notes/">Assessment</a></h3> 
  
  <a href="https://create.twu.ca/ldrs591/category/u10-updates" > Instructor Updates</a> 
  <a href="https://create.twu.ca/ldrs591/category/unit-10" > Student Posts for Unit 10</a> 
