@@ -40,6 +40,7 @@ In unit 5, you are asked to write the following blog post (500 words total):
 </ul>
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 5</strong>. This helps to organized the class blogs and interactions.
 <h3></h3>
+&nbsp;
 <h3>Assignment 3: Literature Search</h3>
 The purpose of this assignment is to develop your skills to search, retrieve and review relevant literature. This assignment and Assignments 4 and 5 will be closely linked. This assignment will include the “paper trail” that provides the details of your search for relevant literature, and Assignment 5 will be the final document that summarizes the findings of your review of precedent literature.
 
@@ -111,6 +112,8 @@ major points of the table.</li>
 Please refer to the <a href="https://create.twu.ca/ldrs591/apa-formatting-requirements/">APA formatting requirements</a> and rubric for specific details.
 
 <strong>Overall Score: /40</strong>
+
+&nbsp;
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
@@ -118,5 +121,5 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you evaluate the research design, participants, data collection, analysis and results of a quantitative research report?</li>
  	<li>Can you discuss the importance of understanding the methods and results section of a quantitative research report?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-6-overview/">next unit</a>.
 <h3></h3>
