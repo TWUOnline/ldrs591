@@ -1,53 +1,50 @@
 ### Unit 1 - Sept. 17-23
 
-* Submit blog post and respond to peers post
-* Begin Clarifying Your Research Interest Assignment
+* Submit blog post and respond to peers post (Assignment 1)
+* Begin Clarifying Your Research Interest (Assignment 2)
 * Assignment 1 is due January 8th, by midnight
 
 ### Unit 2 - Sept. 24-30
 
 * Submit blog post and respond to peers post
-* Submit Clarifying Your Research Interest Assignment
+* Submit Clarifying Your Research Interest (Assignment 2)
 
 ### Unit 3 - Oct. 1-7
 
 * Submit blog post and respond to peers post
-* Begin Scholarly Article Review Assignment
-  * Submit draft for peer review
 * Assignment 2 is due January 29th, by midnight
 
 ### Unit 4 - Oct. 8-14
 
 * Submit blog post and respond to peers post
-* Submit Scholarly Article Review Assignment
 
 ### Unit 5 - Oct.15-21
 
 * Submit blog post and respond to peers post
-* Begin Literature Review Search Assignment
+* Submit Literature Review Search (Assignment 3)
 * Assignment 3 is due February 12, by midnight
 
 ### Unit 6 - Oct. 22-28
 
 * Submit blog post and respond to peers post
-* Continue working on the Literature Review Search Assignment
+* 
 
 ### Unit 7 - Oct. 29 - Nov. 4
 
 * Submit blog post and respond to peers post
-* Submit Literature Review Search Assignment
+* Submit Scholarly Article Review (Assignment 4)
+  * Submit draft for peer review
 
 ### Unit 8 - Nov. 5-11
 
 * Submit blog post and respond to peers post
-* 1 podcast
-* Begin Literature Review Outline Assignment
+* Create a podcast
 * Assignment 4 is due February 26th, by midnight
 
 ### Unit 9 - Nov. 12-18
 
 * Submit blog post and respond to peers post
-* Submit Literature Review Outline Assignment
+* Submit Literature Review Outline (Assignment 4)
 * Begin Formal Literature Review Assignment
 
 ### Unit 10 - Nov. 19-25
