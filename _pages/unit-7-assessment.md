@@ -23,10 +23,9 @@ First, create a new blog post and discuss the following questions:
 <h4>Part B</h4>
 Next, discuss your evaluation of the mixed methods approach in the servant leadership article you chose.  Make sure that you include your quality rating (0-3) and also the rationale/evidence for your rating in your response.
 <h4>Part C</h4>
-Finally, describe an example of a Transformational Servant Leader in your life.
+Finally, describe an example of a Transformational Servant Leader in your life and then discuss the following:
 <ul>
- 	<li>What values and characteristics define that person?</li>
- 	<li>If you had to conduct your own study on servant leadership what approach would you use to capture the characteristics of that person?  Would you use a qualitative approach and use focus groups, interviews, or would you use a quantitative approach and have them complete a questionnaire?  Or would you choose a mixed methods approach?  Discuss the strengths and weakness of the approach you would choose.</li>
+ 	<li>If you had to conduct your own study on servant leadership what approach would you use to capture the characteristics of that person?  Would you use a qualitative approach and use focus groups, interviews, or would you use a quantitative approach and have them complete a questionnaire?  Or would you choose a mixed methods approach?  Discuss how you would apply a mixed-methods approach to the study of servant leadership.</li>
 </ul>
 <h4></h4>
 &nbsp;
@@ -86,7 +85,7 @@ Now that you have completed the learning activities and assignments for this uni
 <ol>
  	<li>Can you discuss how mixed-methods research can help advance leadership research?</li>
  	<li>Can you evaluate the quality of mixed methods research report on servant leadership?</li>
- 	<li>Can you conduct a mixed-methods interview on servant leadership?</li>
+ 	<li>Can you discuss how a mixed-methods approach can be applied to the study of servant leadership?</li>
 </ol>
 Feel free to review topics more in depth or continue on to the next unit.
 <h3></h3>
