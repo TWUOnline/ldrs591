@@ -34,7 +34,7 @@ Here is a checklist of learning activities you will benefit from in completing t
 <p style="padding-left: 30px;">Activity 6.2: Read Chapter 10 in your text. Evaluate the participants and data collection in the servant leadership article you chose.</p>
 <p style="padding-left: 30px;">Activity 6.3: Read Chapter 11 in your text. Evaluate the data analysis and findings in the servant leadership article you chose.</p>
 <p style="padding-left: 30px;">Activity 6.4: Reflect in your learning journal.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: …Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
