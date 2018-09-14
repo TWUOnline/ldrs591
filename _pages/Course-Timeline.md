@@ -29,7 +29,6 @@
 
 * Submit blog post and respond to peers post
 * Submit Scholarly Article Review (Assignment 4)
-  * Submit draft for peer review
 
 ### Unit 8 - Nov. 5-11
 
