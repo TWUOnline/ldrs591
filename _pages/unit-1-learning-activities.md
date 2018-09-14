@@ -20,7 +20,7 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Start a <a href="https://create.twu.ca/ldrs591/reflective-learning-journal/"><em>Reflective Learning Journal</em></a> and answer the question below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
+ 	<li>Start a <a href="https://create.twu.ca/ldrs591/reflective-learning-journal/"><em>Reflective Learning Journal</em></a> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
 <ul>
  	<li>In your reflective learning journal, explain how you would define research.</li>
  	<li>Describe what your experience is with "research".  Have you taken an undergraduate statistics course?  Is this your first time learning about research?  Have you published your own scientific paper?</li>
