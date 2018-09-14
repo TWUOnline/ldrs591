@@ -10,12 +10,12 @@ published: true
 post_date: 2017-11-24 14:49:51
 ---
 <h2>Unit 7 Learning Activities</h2>
+<h3>Topic 1: Introduction to Mixed-Methods Research</h3>
 This week, in Unit 7, I have prepared an audio message to introduce you to mixed methods research.  You can listen to my audio message here:
 
 https://soundcloud.com/user-303479512/welcome-to-unit-7-2
 
 <strong>Reminder: </strong>In week 8 you will need to <strong>create your own audio recording</strong> to share your action research idea with your colleagues.  Make sure you take some time to <strong>practice</strong> what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.  Have fun!
-<h3>Topic 1: Mixed-Methods Research</h3>
 <h4>Learning Activity 7.1 - Read, Watch and Reflect</h4>
 <ul>
  	<li>Read chapter 12, "Mixed Methods Research Designs," in Plano-Clark and Creswell (2015).</li>
