@@ -76,7 +76,7 @@ Next, choose either <strong>one</strong> journal article, or e-book, or interne
 <h4>Part C</h4>
 Finally, discuss what sources of information you will use the most to conduct research on your topic. How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?  Close with one question that invites further comments or discussion.
 
-If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000;"><strong> [Kelly to insert link]</strong></span>.
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
 
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 2</strong>. This helps to organized the class blogs and interactions.
 <h3>Checking Your Learning</h3>
