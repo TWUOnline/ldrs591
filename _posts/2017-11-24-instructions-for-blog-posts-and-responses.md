@@ -20,7 +20,7 @@ As such, your blog won't be graded for 'accuracy' or 'being right', but instead 
 
 Some of the blog posts do not require a discussion or a response, however, some of the blog posts do require you to close with one question that invites further comments and discussion from your colleagues.  Please do your best to complete the blog posts that require a response by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.  When you post, remember to tag each entry with the Unit and Learning Activity number so it can be easily searched.
 
-All blog posts should be between 500-750 words.
+All blog posts should be between 350-500 words.
 
 <strong>Replying to Colleagues’ Posts</strong>
 <p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond substantively to at least two other classmates' blogs. Your replies should offer new substantiated ideas or thoughtful questions.</p>
