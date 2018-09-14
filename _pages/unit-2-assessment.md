@@ -56,7 +56,7 @@ Also, be sure to add the categories for this post: <strong>LDRS591</strong> and
 </ul>
 <strong>Overall Score = /20</strong>
 <h4>Assignment Submission</h4>
-Submit Assignment 2 via the following link <strong><span style="color: #ff0000">[Kelly insert link]</span></strong>.
+Submit Assignment 2 via the Moodle dropbox.
 <h3>Unit 2 Blog</h3>
 Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
@@ -76,7 +76,7 @@ Next, choose either <strong>one</strong> journal article, or e-book, or interne
 <h4>Part C</h4>
 Finally, discuss what sources of information you will use the most to conduct research on your topic. How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?  Close with one question that invites further comments or discussion.
 
-If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000"><strong> [Kelly to insert link]</strong></span>.
+If you are uncertain about how to set-up your blog, go to the following link<span style="color: #ff0000;"><strong> [Kelly to insert link]</strong></span>.
 
 Also, be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 2</strong>. This helps to organized the class blogs and interactions.
 <h3>Checking Your Learning</h3>
