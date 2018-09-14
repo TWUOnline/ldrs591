@@ -2,7 +2,6 @@
 
 * Submit blog post and respond to peers post (Assignment 1)
 * Begin Clarifying Your Research Interest (Assignment 2)
-* Assignment 1 is due January 8th, by midnight
 
 ### Unit 2 - Sept. 24-30
 
@@ -12,7 +11,6 @@
 ### Unit 3 - Oct. 1-7
 
 * Submit blog post and respond to peers post
-* Assignment 2 is due January 29th, by midnight
 
 ### Unit 4 - Oct. 8-14
 
@@ -22,7 +20,6 @@
 
 * Submit blog post and respond to peers post
 * Submit Literature Review Search (Assignment 3)
-* Assignment 3 is due February 12, by midnight
 
 ### Unit 6 - Oct. 22-28
 
@@ -39,7 +36,6 @@
 
 * Submit blog post and respond to peers post
 * Create a podcast
-* Assignment 4 is due February 26th, by midnight
 
 ### Unit 9 - Nov. 12-18
 
@@ -52,7 +48,6 @@
 * Submit blog post and respond to peers post
 * Complete a draft of the Formal Literature Review Assignment
   * Submit draft for peer review
-  * Final submission for Assignment 5 is due March 23, 2018 by midnight
 
 
 
