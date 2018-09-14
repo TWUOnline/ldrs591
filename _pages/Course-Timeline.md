@@ -23,7 +23,6 @@
 ### Unit 6 - Oct. 22-28
 
 * Submit blog post and respond to peers post
-* 
 
 ### Unit 7 - Oct. 29 - Nov. 4
 
@@ -42,7 +41,7 @@
 ### Unit 10 - Nov. 19-25
 
 * Submit blog post and respond to peers post
-* Complete a draft of the Formal Literature Review (Assignment 5)
+* Submit Formal Literature Review (Assignment 5)
 
 
 
