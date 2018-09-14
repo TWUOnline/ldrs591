@@ -33,6 +33,8 @@ We have now concluded our investigation of research designs and the interpretati
 Close with one question that invites further comment and discussion.
 
 Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 9</strong>. This helps to organized the class blogs and interactions.
+
+&nbsp;
 <h3>Checking Your Learning</h3>
 Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
 <ol>
@@ -40,5 +42,5 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you evaluate the quality of the final sections of a research report on servant leadership?</li>
  	<li>Can you apply what you have learned about the discussion/conclusion section of a research report to your own leadership context?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-10-overview/">next unit</a>.
 <h3></h3>
