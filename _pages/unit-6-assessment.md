@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-24 14:49:51
 ---
-<h2><span style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>Unit 6 Assessment</h2>
+<h2>Unit 6 Assessment</h2>
 <h3>Unit 6 Blog</h3>
 Blog posts are to be submitted by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend. Be sure to respond to 2 or 3 of your colleagues posts.
 
@@ -45,6 +45,6 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you discuss the importance of understanding the methods and findings section of a qualitative research report?</li>
  	<li>Can you apply what you have learned about qualitative research to your own leadership context?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the <span style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_start">﻿</span>next unit<span style="width: 0px;overflow: hidden;line-height: 0" class="mce_SELRES_end">﻿</span>.
+Feel free to review topics more in depth or continue on to the next unit?
 <h3></h3>
 <!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833"> Submit Scholarly Article Review in Moodle</a><!--/themify_builder_static-->
