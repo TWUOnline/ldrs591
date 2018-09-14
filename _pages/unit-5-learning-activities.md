@@ -145,7 +145,7 @@ This week in Unit 5 we have explored quantitative research methods. We have lear
 Go to <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details on your Blog assignment and  <a href="https://create.twu.ca/ldrs591/literature-review-search/">Assignment 3: Literature Search</a><strong>.</strong>
 
 &nbsp;
-<h5>References</h5>
+<h3>References</h3>
 Bogdan, R., &amp; Biklen, S. (2007). <em>Qualitative research for education: An introduction to theories and method</em> (5th ed.). Boston, MA: Pearson.
 
 Corbin, J., &amp; Strauss, A. (2008). <em>Basics of qualitative research</em> (3rd ed.). Los Angeles, CA: Sage.
