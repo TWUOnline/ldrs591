@@ -11,7 +11,7 @@ post_date: 2017-11-24 14:49:50
 ---
 <h3>Unit 10 Learning Activities</h3>
 Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  This week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and reflecting on what your expectations are now for a high quality research report.  You will also be introduced to the MA Lead: Leadership Integration Project (LDRS 697/698).
-<h3>Issues of Credibility</h3>
+<h3>Topic 1: Issues of Credibility</h3>
 Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes: Simply stated, the question is “how can I know I can trust what I am reading?” At the heart of this issue are three interrelated concerns: Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)?
 
 By now you are aware that the reason behind much of the tedious detail provided in research reports is aimed at addressing the question "is the research performed competently?" Great efforts are expended in the publication process to further address research competence, honesty, and consistency. As we will see, the final concern introduces an element that can be distressing.
@@ -37,7 +37,7 @@ As you read research, there are some potential “deal-breakers” to be aware o
 Finally, obvious errors either due to carelessness or poor researcher decisions contribute to the erosion of trust. Poor scholarship is evident when such errors are sufficient to call into question whether the researcher has even a basic understanding of the field.
 
 &nbsp;
-<h3>Learning Activity 10.1: Watch and Reflect</h3>
+<h4>Learning Activity 10.1: Watch and Reflect</h4>
 We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports and you have increased your ability to sense potential problems.
 
 In this learning activity you are asked to do the following:
@@ -53,24 +53,24 @@ In this learning activity you are asked to do the following:
 </li>
 </ul>
 <h3></h3>
-<h3>Leadership Decisions Revisited</h3>
+<h3>Topic 2: Leadership Decisions Revisited</h3>
 In unit 1 you were asked to discuss a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion?
 
 This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies.
 
 My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available.
 <h3></h3>
-<h3>Learning Activity 10.2: Reflect and Blog post</h3>
+<h4>Learning Activity 10.2: Reflect and Blog post</h4>
 In light of what you have learned in this course, prepare a blog post explaining why you think evidence-based decision making is important for the Transformational Servant leader.
 
 Please post your response on your blog (250-500 words).
 <h3></h3>
-<h3>An Introduction to the Leadership Integration Project</h3>
+<h3>Topic 3: An Introduction to the Leadership Integration Project</h3>
 All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are LDRS 697 and LDRS 698.  Theses courses are referred to as the Learning Integration Project or LIP.  The Leadership Integration Project is the capstone individual product of the MA in Leadership program and consists of a total of four credit hours of work, the first 2 credit hours is for LDRS 697, followed by another 2 credit hours for LDRS 698.  These courses represent the final demonstration of a learner’s ability to integrate knowledge learned in the program curriculum and to practice the MA Leadership competencies.
 
 In LDRS 697/698 you will propose and implement a Leadership Integration Project that integrates knowledge and experiences gained in the MA Lead program. In LDRS 697/698 you will complete a series of activities (one pre-work assignment and 5 assignments) where you will have opportunity to integrate your learning in the MA in Leadership program and bring together diverse servant leadership practice into a focused whole using higher order thinking skills.  LDRS 697/698 is the application of servant leadership theory to your workplace in a scholarly project.  Ideally, your Leadership Integration Project is a report of the action research you have conducted to further your personal professional practice.
 <h3></h3>
-<h3>Learning Activity 10.3: Read, Watch and Ask Questions!</h3>
+<h4>Learning Activity 10.3: Read, Watch and Ask Questions!</h4>
 For this learning activity, I would like you to become familiar with the rationale, expectations and process of the Leadership Integration Project.
 <ul>
  	<li>To begin, read the rationale for the Leadership Integration Project provided here: <a href="https://create.twu.ca/ldrs591/leadership-integration-project/">https://create.twu.ca/ldrs591/leadership-integration-project/</a></li>
@@ -80,7 +80,7 @@ For this learning activity, I would like you to become familiar with the rationa
 </ul>
 &nbsp;
 <h3>Assessment</h3>
-Go to Unit 10 Assessment for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 5</strong>, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a>.
+Go to <a href="https://create.twu.ca/ldrs591/unit-10-assessment/">Unit 10 Assessment</a> for more details on your <strong>Blog,</strong> as well as on <strong>Assignment 5</strong>, <a href="https://create.twu.ca/ldrs591/formal-literature-review/">Formal Literature Review</a>.
 <h3></h3>
 <h3>References</h3>
 Locke, L., Silverman, S., &amp; Spirduso, W. (2010). <em>Reading and understanding research</em> (3rd ed.). Los Angeles, CA: Sage.
