@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/navigating-this-course/
+  https://create.twu.ca/ldrs591/navigating-this-course/
 published: true
 post_date: 2018-01-03 00:00:00
 ---
