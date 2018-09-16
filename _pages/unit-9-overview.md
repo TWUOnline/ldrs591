@@ -15,13 +15,13 @@ In unit 9 we focus on assessing and interpreting the discussion/conclusion secti
 <h3></h3>
 <h3>Topics</h3>
 Unit 9 is divided into 4 topics:
-<p style="padding-left: 30px;">Topic 1:  The Conclusion Section of a Research Report</p>
-<p style="padding-left: 30px;">Topic 2: Comparing the Contents of Conclusion Sections of Different Research Approaches</p>
-<p style="padding-left: 30px;">Topic 3:  Elements of Back Matter</p>
-<p style="padding-left: 30px;"><del>Topic 4: How to evaluate the quality of the conclusions and back matter in a research report.</del></p>
+<p style="padding-left: 30px">Topic 1:  The Conclusion Section of a Research Report</p>
+<p style="padding-left: 30px">Topic 2: Comparing the Contents of Conclusion Sections of Different Research Approaches</p>
+<p style="padding-left: 30px">Topic 3:  Elements of Back Matter</p>
+<p style="padding-left: 30px"><del>Topic 4: How to evaluate the quality of the conclusions and back matter in a research report.</del></p>
 &nbsp;
 <h3>Learning Outcomes</h3>
-When you have completed this unit you should be able to:<span style="color: #ff0000;"><strong> </strong></span>
+When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
 <ol>
  	<li>Compare the similarities and differences in the discussion/conclusion section of a qualitative and quantitative research report.</li>
  	<li>Evaluate the quality of the final sections of a research report on servant leadership.</li>
@@ -30,9 +30,9 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 &nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px;">Activity 9.1: Read chapter 14 in Plano-Clark and Creswell. Evaluate the quality of the discussion/conclusion section in the servant leadership article you chose.</p>
-<p style="padding-left: 30px;">Activity 9.2: Reflect in your learning journal.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit. Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px">Activity 9.1: Read chapter 14 in Plano-Clark and Creswell. Evaluate the quality of the discussion/conclusion section in the servant leadership article you chose.</p>
+<p style="padding-left: 30px">Activity 9.2: Reflect in your learning journal.</p>
+<p style="padding-left: 30px"><strong>Blog Assignment</strong>: Complete the blog for this unit. Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
