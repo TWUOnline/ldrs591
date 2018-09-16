@@ -69,5 +69,5 @@ Go to <a href="https://create.twu.ca/ldrs591/unit-9-assessment/">Unit 9 Assessme
 &nbsp;
 <h3>References</h3>
 Leedy, P., &amp; Ormrod, J. (2010). <em>Practical research: Planning and design</em> (9th ed.). Upper Saddle River, NJ: Prentice-Hall.
-<p style="background: white; margin: 0cm 0cm 7.5pt 0cm;">Plano-Clark, V. &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson</p>
+<p style="background: white;margin: 0cm 0cm 7.5pt 0cm">Plano-Clark, V. &amp; Creswell, J. (2015). <em>Understanding research: A consumer’s guide</em> (2nd ed.). Boston, MA: Pearson</p>
 &nbsp;
