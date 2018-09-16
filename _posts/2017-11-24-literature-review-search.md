@@ -52,7 +52,7 @@ major points of the table.</li>
 </ul>
 <strong>Step 9: Create a reference list: </strong>List all references on a separate page in APA format.
 
-<strong>Step 10: APA formatting is required</strong> for this assignment.  You should focus on general formatting, tables, in-text citations and references.
+<strong>Step 10: APA formatting is required</strong> for this assignment.  You should focus on general formatting (including a title page), tables, in-text citations and references.  For more details visit the <a href="https://create.twu.ca/ldrs591/apa-style-checklist/">APA Style Checklist.</a>
 
 <strong>Step 11: Submit your assignment in the Assignment #3 drop box on Moodle.</strong>
 <h3>Evaluation</h3>
