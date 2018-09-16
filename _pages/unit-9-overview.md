@@ -18,7 +18,6 @@ Unit 9 is divided into 4 topics:
 <p style="padding-left: 30px">Topic 1:  The Conclusion Section of a Research Report</p>
 <p style="padding-left: 30px">Topic 2: Comparing the Contents of Conclusion Sections of Different Research Approaches</p>
 <p style="padding-left: 30px">Topic 3:  Elements of Back Matter</p>
-<p style="padding-left: 30px"><del>Topic 4: How to evaluate the quality of the conclusions and back matter in a research report.</del></p>
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
