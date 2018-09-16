@@ -64,6 +64,13 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </ul>
 &nbsp;
 <h3>Topic 3: Using Mixed-Methods to Understand Leadership.</h3>
+Mixed methods studies have the potential to provide powerful findings that maximize the benefits of both qualitative and quantitative data. In a paper discussing the benefits of mixed-methods for business research, Molina-Azorín and Cameron (2015) highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies.  For example:
+<ol>
+ 	<li>Collecting preliminary qualitative data can provide a deeper understanding of the leadership context to inform context-specific leadership studies.</li>
+ 	<li>Attention to both process and outcome through the use of mixed methods can benefit theory-building, for example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.</li>
+ 	<li>Complex organizations with different leadership roles would benefit from analyses that are integrated across micro and macro levels.</li>
+ 	<li>The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation and communication of results.</li>
+</ol>
 <h4>Learning Activity 7.3 - Read and Reflect</h4>
 <ul>
  	<li>Read the article "Applying mixed methods to leadership research: A review of current practices" by Stentz, Plano-Clark and Matkin (2012).</li>
@@ -94,3 +101,5 @@ Go to <a href="https://create.twu.ca/ldrs591/unit-7-assessment/">Unit 7 Assessme
 &nbsp;
 <h3>References</h3>
 Leedy, P. &amp; Ormrod, J.  (2013).  <i>Practical research: Planning and design </i>(10th ed.).  Boston, MA:  Pearson.
+
+Molina Azorín, J. F. &amp; Cameron, R. (2015). History and emergent practices of multimethod and mixed methods in business research’, in Hesse-Biber, S. &amp; Johnson, R.B. (eds.), <em>Oxford handbook of multimethod and mixed methods research inquiry</em>, pp. 466-485, New York: Oxford University Press.
