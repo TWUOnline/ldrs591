@@ -201,8 +201,7 @@ The reference list provides a precise list of all of the sources you cited withi
 </ul>
 </li>
 </ul>
-<strong>Additional APA resources:</strong>
-<h2>APA Resources</h2>
+<h3>Additional APA Resources:</h3>
 <div class="box generalbox center clearfix py-3">
 <div class="no-overflow">
 
