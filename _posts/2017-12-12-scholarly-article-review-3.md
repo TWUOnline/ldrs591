@@ -52,7 +52,7 @@ Discuss the study with a critical eye for both its strengths and its weaknesses.
 <h5><strong>STEP 4</strong></h5>
 Speculate on how you might expand upon this research based upon the limitations you have identified. This can be general or specific. That said, a sweeping statement such as “I would like to study this phenomenon more” doesn’t help us to understand why that might be an acceptable new direction without including sufficient justification for your claims. Thus, concrete ideas about your rationale are expected in this section, although explicit details regarding the next study or series of studies are not crucial.
 <h5><strong>STEP 5</strong></h5>
-APA formatting is required for this assignment. <strong>[ADD APA requirements here]</strong>
+<strong>APA formatting is required</strong> for this assignment.  You should focus on general formatting (including a title page), writing clearly and concisely, in-text citations and references.  For more details visit the <a href="https://create.twu.ca/ldrs591/apa-style-checklist/">APA Style Checklist.</a>
 <h5><strong>STEP 6</strong></h5>
 Submit this assignment using the Assignment 4 drop box on Moodle.
 <h5>Evaluation:</h5>
