@@ -64,10 +64,10 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </ul>
 &nbsp;
 <h3>Topic 3: Using Mixed-Methods to Understand Leadership.</h3>
-Mixed methods studies have the potential to provide powerful findings that maximize the benefits of both qualitative and quantitative data. Molina-Azorín and Cameron (2015) have highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies.  For example mixed methods can be beneficial for leadership studies because:
+Mixed methods studies have the potential to provide strengths that offset the weaknesses of both quantitative and qualitative research and provide a more complete and comprehensive understanding of the research problem than either quantitative or qualitative approaches alone.  Molina-Azorín and Cameron (2015) have highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies.  For example mixed methods can be beneficial for leadership studies because:
 <ol>
- 	<li>Collecting preliminary qualitative data can provide a deeper understanding of the leadership context to inform context-specific leadership studies.</li>
- 	<li>Attention to both process and outcome through the use of mixed methods can aid in theory-building. For example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.</li>
+ 	<li>Collecting qualitative data can provide a deeper understanding of the leadership context.</li>
+ 	<li>Attention to both process and outcome through the use of mixed methods can aid in building theory. For example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.</li>
  	<li>Complex organizations with different leadership roles would benefit from analyses that are integrated across micro and macro levels.</li>
  	<li>The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation of results.  For example, mixed methods can helps to explain findings or describe how causal processes work.</li>
 </ol>
