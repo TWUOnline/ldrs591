@@ -58,8 +58,8 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 &nbsp;</blockquote>
 <h4>Learning Activity 2.1: Watch, Read and Reflect</h4>
 <ul>
- 	<li>Watch the following <a href="http://libguides.twu.ca/library_research/home">video tutorials</a> prepared by Dr. William Badke. Begin with clicking <a href="http://libguides.twu.ca/c.php?g=284762&amp;p=3191885">"How to develop research skills"</a> and watch the first two video tutorials under the section "starting a research paper." The videos are labelled<a href="https://vimeo.com/160913559/eeb081c04e"> "Understanding the research process"</a> and <a href="https://vimeo.com/160925544/a3ea2bace3">"Pre-research strategies"</a>.</li>
- 	<li>Read chapter 3 in the Badke (2017) text.</li>
+ 	<li>Watch the following video tutorials prepared by Dr. William Badke. Begin by watching the first two video tutorials under the section "starting a research paper." The videos are<a href="https://vimeo.com/160913559/eeb081c04e"> "Understanding the research process"</a> and <a href="https://vimeo.com/160925544/a3ea2bace3">"Pre-research strategies"</a>.</li>
+ 	<li>Next, read chapter 3 in the Badke (2017) text.</li>
  	<li>In your reflective learning journal, respond to the following questions:
 <ul>
  	<li>In your view, what were the most important points in the readings or video tutorials?</li>
@@ -69,10 +69,10 @@ The Higher Education Academy and Sheffield Hallam University (2005) have develop
 </li>
 </ul>
 &nbsp;
-<h4>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2 - 10%)</h4>
+<h4>Learning Activity 2.2: Clarifying Your Research Interest (Assignment 2)</h4>
 The rest of the activities in this unit will help you access and assess scholarly literature in order to answer a specific question for your assignments.  Before we discuss how to access scholarly literature, you need to begin with a good research question.  This learning activity is about clarifying your research interest and asking a good research question.
 <ul>
- 	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box in the Learning Management System (LMS). Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
+ 	<li>Take some time to complete Assignment 2 and submit it via the assignment 2 drop box on Moodle. Please refer to the Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a> link for further instructions about this assignment.</li>
 </ul>
 &nbsp;
 <h3>Topic 3: Accessing Scholarly Literature</h3>
@@ -139,7 +139,7 @@ If you are having difficulty finding research articles and books on your topic t
 <ul>
  	<li>Go to the <a href="http://libguides.twu.ca/library_research/home">TWU library homepage</a>  and click "<a href="http://libguides.twu.ca/library_research/skills">How to develop research skills</a>." Begin by watching all of the video tutorials under the section "upgrading your research skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.</li>
  	<li>In your reflective journal, briefly describe your experiences with upgrading your research skills.  What did you find worked well, what did not? What boolean searches did you use, what inclusion or exclusion criteria did you select?</li>
- 	<li>Note that you will be asked some questions as part of your blog post for this unit.  See Unit 2 Assessment for more details.</li>
+ 	<li>Note that you will be asked some questions as part of your blog post for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-2-assessment/">Unit 2 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 5: Evaluating Scholarly Literature</h3>
@@ -158,7 +158,7 @@ As an MA Leadership student, and as a professional, it is imperative that you ar
 <h4>Learning Activity 2.6: Take the Coconut Oil Challenge!</h4>
 How do you know whether the information presented to you in a journal article, book, news report, etc. is true?  What is your process for evaluating the facts and assessing the credibility of the source?  In this activity, I want you to consider your process for evaluating sources and how that relates to your research, and also to your daily decision-making.
 <ul>
- 	<li>First, watch the following video. It's a 5 minute clip in which Dr.Oz presents his findings about the benefits of coconut oil:
+ 	<li>First, watch the following video. It's a 5 minute clip in which Dr.Oz presents his findings about the pros and cons of coconut oil:
 <ul>
  	<li><a href="http://www.doctoroz.com/episode/dr-oz-investigates-coconut-oil-healthy-or-not?video_id=5603049252001">http://www.doctoroz.com/episode/dr-oz-investigates-coconut-oil-healthy-or-not?video_id=5603049252001</a></li>
 </ul>
@@ -176,7 +176,7 @@ How do you know whether the information presented to you in a journal article, b
  	<li>Finally, reflect on the following questions in your reflective journal:
 <ul>
  	<li>Compare and contrast the findings of the video and articles. What 'facts' are different, what facts are the same?</li>
- 	<li>How do you know what sources you can trust, how do you evaluate sources of information, including news reports, youtube videos, blogs, articles, etc ?</li>
+ 	<li>How do you know what sources you can trust, how do you evaluate sources of information from the internet, including news reports, youtube videos, blogs, articles, etc ?</li>
 </ul>
 </li>
 </ul>
