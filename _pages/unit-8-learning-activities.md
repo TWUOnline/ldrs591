@@ -96,6 +96,8 @@ Leedy, P., &amp; Ormrod, J. (2010). <em>Practical research: Planning and design<
 
 Mutimba, J. K., &amp; Khaila, S.. (2011). Action research: A practical step-by-step guide for agricultural extension professionals. <i>South African Journal of Agricultural Extension </i>, <i>39</i>(1), 26-34. Retrieved February 20, 2018, from http://www.scielo.org.za/scielo.php?script=sci_arttext&amp;pid=S0301-603X2011000100003&amp;lng=en&amp;tlng=en.
 
+Plano-Clark, V., &amp; Creswell, J. (2015). <em>Understanding research: A consumer's guide</em> (2nd ed.). Boston, MA: Pearson.
+
 Sagor, R. (2000). <em>What is action research?</em> In guiding school improvement with action research. Alexandria, VA: ACSD. Retrieved from http://www.ascd.org/publications/books/100047/chapters/What-Is-Action-Research%C2%A2.aspx
 
 Smith, M. K. (2007). <em>Action research.</em> Retrieved from <a href="http://infed.org/mobi/action-research/">http://infed.org/mobi/action-research/</a>
