@@ -30,7 +30,7 @@ Next, using one of the practical problems you identified from Part A, create an 
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
 <h4>Be sure to add the categories for this post: <strong>LDRS591</strong> and <strong>Unit 8</strong>. This helps to organize the class blogs and interactions.</h4>
 <h4>Part C (250-300 words)</h4>
-Finally, you will create a new blog post where you will peer review one Action Research project by a colleague in the class. I have posted the peer-review partnerships on the Learning Management System under the assignments tab.
+Finally, you will create a new blog post where you will peer review one Action Research project by a colleague in the class. I have posted the peer-review partnerships on Moodle under the assignments tab.
 
 For your review make notes about the strengths of the project idea as well as areas to work on (clarify, more analysis, more personal application) by using the evaluation criteria for an action research study outlined by Plano-Clark and Creswell on page 444-445.
 
