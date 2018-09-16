@@ -10,7 +10,7 @@ published: true
 post_date: 2017-11-24 14:49:50
 ---
 In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 5 is focused on the professional interest you have identified and defined in Assignment 2 and extends the work you did in Assignments 3, and 4. Assignment 5 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (6th edition) format.
-<h3><em><strong>What is a Literature Review?</strong></em></h3>
+<h3><strong>What is a Literature Review?</strong></h3>
 A literature review is a summary of the “state of knowledge” in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature.
 
 An effective summary of an article or book will:
@@ -62,7 +62,9 @@ Create a title page in APA format.
 <strong>Abstract</strong>
 
 You will need to create an abstract that provides a key synopsis of the entire paper so that the reader can determine if he/she wishes to read the full paper. An abstract is a concise 250-word (or less), single-paragraph summary. In a minute or less a reader should be able to learn the purpose of the study, the overall research question or objective, a general description of the method or approach, important results, and important conclusions.
-<h5><strong>Introduction</strong></h5>
+
+<strong>Introduction</strong>
+
 The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction.
 
 In the next few paragraphs it is important to provide your reader with a brief overview of the problem. It is here that you want to begin to set the stage for your research story. You can build the overview by answering these questions in a few paragraphs: What is the problem? Are there any relevant statistics that address your problem? Why is this problem important to address?
@@ -82,7 +84,8 @@ Here is a checklist of what you should include in this section:
  	<li>What key terms should you define in your introduction so that the reader understands your topic?</li>
  	<li>What is the purpose of your paper? Or what research questions are being addressed?</li>
 </ul>
-<h5><strong>Method</strong></h5>
+<strong>Method</strong>
+
 Following your introduction you want to tell your reader how you chose your articles to review. This is essentially re-writing the information that you collected for assignment 3. Here is an example template that you can use:
 
 A review of the literature was conducted to identify scholarly research of XXXX on XXXX. Published articles were identified through searches of electronic databases that were available at the author’s university library. Databases included in this review were: [list specific databases that you searched]. The following key subject words were used to search the databases: XXX, XXX, XXX, XXX, XXX, XXX (include your search terms from assignment #3 here). Boolean “AND” was used to combine the XXX terms with the XXX terms. This search resulted in a total of XX articles.
@@ -136,7 +139,8 @@ Here is a checklist of what you should include in this section:
  	<li>Have you presented the "results" from your critical analysis of your 10 academic sources? Did you present this information in a table or text?</li>
  	<li>Have you critically evaluated each of the articles you have reviewed?</li>
 </ul>
-<h5><strong>Discussion</strong></h5>
+<strong>Discussion</strong>
+
 In the discussion section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the results (e.g., identify gaps, inconsistencies, strengths, weaknesses based on your critical analysis) and link these interpretations back to the literature that was reviewed. You also need to discuss the limitations of your findings and make recommendations (and offer a rationale) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings.
 
 Here is a checklist of what you should include in this section:
@@ -149,9 +153,12 @@ Here is a checklist of what you should include in this section:
  	<li>Why are your findings important?</li>
  	<li>What are the practical implications of your findings?</li>
 </ul>
-<h5><strong>References</strong></h5>
+<strong>References</strong>
+
 At the very end list your references. Reference lists must start on a new page, and must be formatted according to APA (6th edition) guidelines pertaining to which type of literature is being cited (i.e., book by one author, book with an editor, journal article, blog and so forth).
-<h5>APA Requirements <strong>[Add APA checklist here]</strong></h5>
+
+<strong>APA formatting is required</strong> for this assignment.  You should focus on general formatting (including a title page and abstract), writing clearly and concisely, tables, in-text citations and references.  For more details visit the <a href="https://create.twu.ca/ldrs591/apa-style-checklist/">APA Style Checklist.</a>
+
 <strong>Please submit this assignment using the Assignment 5 drop box on Moodle.</strong>
 <h5>Assignment Rubric:</h5>
 [table id=14 /]
