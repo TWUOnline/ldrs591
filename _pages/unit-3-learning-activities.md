@@ -74,7 +74,7 @@ Writing a scholarly paper often follows a very distinct organizational structure
  	<li>Title information in includes the first letter of any major words capitalized (4 words or greater), double spaced, centered in the upper half of the page.</li>
  	<li>Times New Roman 12 pt. font, no use of bold, italics, underlining, or abnormal font size.</li>
  	<li>Name is double spaced under the title.  It is not bold, underlined, or abnormal font.</li>
- 	<li>The institutional affiliation is double spaced under my name.  It is not bold, underlined, or abnormal font.Any other information required by my program is double spaced under the institutional affiliation.  It is not bold, underlined, or abnormal font.</li>
+ 	<li>The institutional affiliation is double spaced under my name.  It is not bold, underlined, or abnormal font. Any other information required by my program is double spaced under the institutional affiliation.  It is not bold, underlined, or abnormal font.</li>
 </ul>
 </li>
  	<li>Second and subsequent pages:
@@ -226,4 +226,4 @@ Walden University Writing Center (2017). <em>Basics of scholarly voice.</em> Ret
 
 &nbsp;
 
-<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/" > Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/" > Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://create.twu.ca/ldrs591/lessons/learning-activity-3-6/"> Submit Learning Activity 3.6</a> <a href="https://create.twu.ca/ldrs591/lessons/scholarly-article-review/"> Submit Scholarly Article Review (3.7)</a><!--/themify_builder_static-->
