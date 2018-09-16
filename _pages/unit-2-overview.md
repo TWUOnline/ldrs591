@@ -26,7 +26,7 @@ Unit 2 is divided into 5 topics:
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
 <ol>
  	<li>Identify a research interest and develop a good research question.</li>
- 	<li>Employ different search strategies to locate different sources of scholarly literature</li>
+ 	<li>Employ different search strategies to locate different sources of scholarly literature.</li>
  	<li>Evaluate the credibility and reliability of sources of scholarly literature.</li>
 </ol>
 &nbsp;
@@ -34,7 +34,7 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 <p style="padding-left: 30px">Activity 2.1: Watch the Badke video tutorials and read chapter 3 in the Badke (2017) text.</p>
 <p style="padding-left: 30px">Activity 2.2: Complete Assignment 2, <a href="https://create.twu.ca/ldrs591/clarifying-your-research-interest-2/">Clarifying Your Research Interest</a>.</p>
-<p style="padding-left: 30px">Activity 2.3: Search for journal articles.</p>
+<p style="padding-left: 30px">Activity 2.3: Read chapter 4 and 6 in the Badke (2017) text. Then search for journal articles.</p>
 <p style="padding-left: 30px">Activity 2.4: Search for books.</p>
 <p style="padding-left: 30px">Activity 2.5: Upgrade your research skills.</p>
        Activity 2.6: Take the Coconut Oil Challenge!
