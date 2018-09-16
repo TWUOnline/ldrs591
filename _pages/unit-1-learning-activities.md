@@ -20,7 +20,7 @@ By now you are well aware of the applied nature of the MA in Leadership program.
 According to Plano-Clark and Creswell (2015), "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different then informal research.
 <ul>
  	<li>Read Chapters 1 and 2 of the Plano-Clark and Creswell (2015) text.</li>
- 	<li>Start a <a href="https://create.twu.ca/ldrs591/reflective-learning-journal/"><em>Reflective Learning Journal</em></a> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on and engage with the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
+ 	<li>Start a <a href="https://create.twu.ca/ldrs591/reflective-learning-journal/"><em>Reflective Learning Journal</em></a> and answer the questions below.  This journal is not submitted or graded, but is an opportunity for you to reflect on, and engage with, the course content.  The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
 <ul>
  	<li>In your reflective learning journal, explain how you would define research.</li>
  	<li>Describe what your experience is with "research".  Have you taken an undergraduate statistics course?  Is this your first time learning about research?  Have you published your own scientific paper?</li>
@@ -78,7 +78,7 @@ In your reflective learning journal, answer the following questions:
 </ul>
 Note that some of these questions are a part of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details.
 <h3></h3>
-<h4>Boyer's Model of Scholarship</h4>
+<h3>Topic 4: Boyer's Model of Scholarship</h3>
 Scholarship once was defined narrowly in terms of empirical or scientific research. More recently the academic community has moved toward a broader conceptualization of scholarship more in keeping with knowledge acquisition and application through a variety of avenues. Boyer’s Scholarship of <strong>Discovery</strong> is the type of scholarship associated with traditional scholarly research. According to Leedy &amp; Ormrod (2010), “research is a systematic process of collecting, analyzing and interpreting information (data) in order to increase our understanding of a phenomenon about which we are interested or concerned” (p. 2). Boyer’s Scholarship of Discovery is often referred to as primary research. Primary research is narrowly focused, and contributes to the body of knowledge by helping us to understand in detail one isolated part of reality. Through this process it is hoped that this understanding can be generalized to some degree to a broader part of reality.
 
 The Scholarship of Discovery (traditional research) falls into two distinct genres: quantitative research and qualitative research. Each of these genres manifest in numerous variations, including hybrid models involving both quantitative and qualitative elements designed to address different research questions.
@@ -106,7 +106,7 @@ This course will provide the background necessary to critique empirical research
 <ul>
  	<li>How did the authors of the articles conceptualize evidence-based decisions?</li>
  	<li>What is considered as "evidence"?</li>
- 	<li>In your own words, why is evidence-based decision-making important in leadership.</li>
+ 	<li>In your own words, why is evidence-based decision-making important in leadership?</li>
 </ul>
 </li>
 </ul>
@@ -115,9 +115,7 @@ This course will provide the background necessary to critique empirical research
 </ul>
 &nbsp;
 <h3>Unit 1 Summary</h3>
-Congratulations on finishing the first unit!  As you complete your assignments for this unit, you may encounter some very interesting and insightful questions from your colleagues.  In this unit you have learned about what scholarly inquiry is, how our own worldview can shape the questions that we ask, and the importance of evidence based decision making for leaders.
-
-&nbsp;
+In this unit you have learned about what scholarly inquiry is, what is a worldview and how it can shape the questions that we ask.  You have also learned about the importance of scholarly inquiry for leadership, Boyer's model of scholarship and the implications of evidence based decision making for leaders.
 <h3>Assessment</h3>
 Go to <a href="https://create.twu.ca/ldrs591/unit-1-assessment/">Unit 1 Assessment</a> for more details on your <strong>Blog.</strong>
 
