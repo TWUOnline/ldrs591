@@ -30,7 +30,14 @@ When APA formatting is required for your assignments, here is a checklist of ele
  	<li>My name is double spaced under the title.  It is not bold, underlined, or abnormal font.</li>
  	<li>The institutional affiliation is double spaced under my name.  It is not bold, underlined, or abnormal font.</li>
 </ol>
-<strong>Subsequent Pages:</strong>
+<strong>Abstract: (only required for final assignment)</strong>
+<ol>
+ 	<li>The abstract is on page 2.</li>
+ 	<li>Header is without the words, Running head.  The header text is in all caps and page number 2 is flush right margin. All are on the same line.  This continues throughout the remainder of the paper and should be set up using the word processor functionality of headers/footers.</li>
+ 	<li>The page title Abstract is centered, 1 inch from top of page.  It is not in bold, caps, and standard 12 pt. Times New Roman font.</li>
+ 	<li>The abstract is 150-250 words and is block style aligned to the left.</li>
+</ol>
+<strong>General Formatting for Subsequent Pages:</strong>
 <ol>
  	<li>Each page header has the title in all caps, starting from the left margin, with the page number flush right, all on the same line.</li>
  	<li>The Header matches what was used on page 1 but the part, Running head, is omitted for the remainder of the pages.</li>
@@ -46,11 +53,11 @@ When APA formatting is required for your assignments, here is a checklist of ele
 <strong>Writing Clearly and Concisely:</strong>
 <ol>
  	<li>I have used no more words than are necessary to convey meaning (APA, 2010, p.67).</li>
- 	<li>I have used direct, declarative sentences with simple, common words. (APA, 2010, p.68).</li>
+ 	<li>I have used direct, declarative sentences with simple, common words (APA, 2010, p.68).</li>
  	<li>I have not used paragraphs that run longer than one double spaced manuscript page (APA, 2010, p.68).</li>
- 	<li>Each pronoun refers clearly to its antecedent and should agree with the antecedent in number (singular or plural) and gender (APA, 2010, p. 79).  Personal pronouns are used sparingly.</li>
+ 	<li>Each pronoun refers clearly to its antecedent and agrees with the antecedent in number (singular or plural) and gender (APA, 2010, p. 79).  Personal pronouns are used sparingly.</li>
  	<li>I have only used "we" to refer only to myself and my coauthors (APA, 2010, p.69).</li>
- 	<li>I have avoided heavy alliteration, rhyming, poetic expressions, and clichés. I have used metaphors sparingly (APA, 2010, p.70).</li>
+ 	<li>I have avoided using alliteration, rhyming, poetic expressions, and clichés. I have used metaphors sparingly (APA, 2010, p.70).</li>
  	<li>I used the active rather than the passive voice, and I have selected tense or mood carefully (APA, 2010, p.77).</li>
  	<li>I have used bias-free language (APA, 2010, p.70).</li>
  	<li>I have omitted the use of slang.</li>
@@ -76,7 +83,7 @@ When APA formatting is required for your assignments, here is a checklist of ele
  	<li>All sources listed in the References have at least 1 corresponding in text citation.</li>
  	<li>References are listed in alphabetical order by the authors last name.</li>
  	<li>All lines are double spaced and for each entry the hanging indent is used.</li>
- 	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Lewis, C. S.</li>
+ 	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Strong, H. A.</li>
  	<li>If there are multiple authors, they are listed in the order they appear on the original source.</li>
  	<li>Authors in the references are separated by commas (even for 2 authors) and an ampersand is used before the last one.</li>
  	<li>Year of publication follows the authors of the article in parentheses.</li>
@@ -95,3 +102,4 @@ When APA formatting is required for your assignments, here is a checklist of ele
  	<li>The titles of works that stand alone (such as a book or a report) are italicized in both the text and the reference list.</li>
  	<li>The titles of works that are part of a greater whole (such as an article, which is part of a journal, or a book chapter, which is part of a book) are enclosed in quotation marks and written in title case.</li>
 </ol>
+<strong>Source:</strong> Information provided on this page has been adapted from <a href="https://www2.indwes.edu/APA/APAStyleChecklist.pdf">APA Style Errors Checklist</a>
