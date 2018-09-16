@@ -17,6 +17,9 @@ Unit 1 is divided into 3 topics:
 <p style="padding-left: 30px">Topic 1: What is Scholarly Inquiry?</p>
 <p style="padding-left: 30px">Topic 2: Philosophical Foundations of Research</p>
 <p style="padding-left: 30px">Topic 3: Leadership and Scholarly Inquiry</p>
+<p style="padding-left: 30px">Topic 4: Boyer's Model of Scholarship</p>
+&nbsp;
+
 &nbsp;
 <h3>Learning Outcomes</h3>
 When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
