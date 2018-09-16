@@ -64,12 +64,12 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </ul>
 &nbsp;
 <h3>Topic 3: Using Mixed-Methods to Understand Leadership.</h3>
-Mixed methods studies have the potential to provide powerful findings that maximize the benefits of both qualitative and quantitative data. In a paper discussing the benefits of mixed-methods for business research, Molina-Azorín and Cameron (2015) highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies.  For example:
+Mixed methods studies have the potential to provide powerful findings that maximize the benefits of both qualitative and quantitative data. Molina-Azorín and Cameron (2015) have highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies.  For example mixed methods can be beneficial for leadership studies because:
 <ol>
  	<li>Collecting preliminary qualitative data can provide a deeper understanding of the leadership context to inform context-specific leadership studies.</li>
- 	<li>Attention to both process and outcome through the use of mixed methods can benefit theory-building, for example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.</li>
+ 	<li>Attention to both process and outcome through the use of mixed methods can aid in theory-building. For example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.</li>
  	<li>Complex organizations with different leadership roles would benefit from analyses that are integrated across micro and macro levels.</li>
- 	<li>The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation and communication of results.</li>
+ 	<li>The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation of results.  For example, mixed methods can helps to explain findings or describe how causal processes work.</li>
 </ol>
 <h4>Learning Activity 7.3 - Read and Reflect</h4>
 <ul>
@@ -80,7 +80,7 @@ Mixed methods studies have the potential to provide powerful findings that maxim
 <ul>
  	<li>Describe an example of a Transformational Servant Leader in your life.</li>
  	<li>What values and characteristics define that person?</li>
- 	<li>How would you use a mixed methods approach to studying servant leadership?</li>
+ 	<li>How would you use a mixed methods approach to study servant leadership?</li>
 </ul>
 </li>
  	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
