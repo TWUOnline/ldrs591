@@ -182,7 +182,7 @@ The reference list provides a precise list of all of the sources you cited withi
  	<li>All sources listed in the References have at least 1 corresponding in text citation.</li>
  	<li>References are listed in alphabetical order by the authors last name.</li>
  	<li>All lines are double spaced and for each entry the hanging indent is used.</li>
- 	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Lewis, C. S.</li>
+ 	<li>Only initials are used for first and/or second names of authors.  There is a space between initials, e.g. Strong, H. A.</li>
  	<li>If there are multiple authors, they are listed in the order they appear on the original source.</li>
  	<li>Authors in the references are separated by commas (even for 2 authors) and an ampersand is used before the last one.</li>
  	<li>Year of publication follows the authors of the article in parentheses.</li>
@@ -201,12 +201,25 @@ The reference list provides a precise list of all of the sources you cited withi
 </ul>
 </li>
 </ul>
+<strong>Additional APA resources:</strong>
+<h2>APA Resources</h2>
+<div class="box generalbox center clearfix py-3">
+<div class="no-overflow">
+
+<a href="http://blog.apastyle.org/apastyle/">APA Style Blog</a>
+<ul>
+ 	<li>"The APA Style Blog is the official companion to the Publication Manual of the American Psychological Association, Sixth Edition. It's run by a group of experts who work with APA Style every day. We publish weekly posts to talk about what we love—writing, publishing, and APA Style. We explore what APA Style is and how it works in a variety of areas, including reference citations of every sort, grammar and usage, the publication process, and social media. Occasionally we feature guest bloggers who write about more technical issues." (APA Style Blog, 2017)</li>
+</ul>
+<a href="https://owl.english.purdue.edu/owl/section/2/10/">Purdue OWL:Online Writing Lab</a>
+<ul>
+ 	<li>"These OWL resources will help you learn how to use the American Psychological Association (APA) citation and format style. This section contains resources on in-text citation and the References page, as well as APA sample papers, slide presentations, and the APA classroom poster." (Purdue OWL, 2017)</li>
+</ul>
+</div>
+</div>
 <h3>Unit 3 Summary</h3>
 In this unit, you have learned how important it is to use APA style in graduate level writing.  You have also learned how to apply the APA standards for general aspects of writing and citing sources.
 <h3>Assessment</h3>
-Go to Unit 3 Assessment for more details on your Blog assignment<strong>.</strong>
-
-<span style="color: #ff0000"><strong>[Kelly to check links to pages]</strong></span>
+Go to <a href="https://create.twu.ca/ldrs591/unit-3-assessment/">Unit 3 Assessment</a> for more details on your Blog assignment<strong>.</strong>
 
 <strong>References</strong>
 
