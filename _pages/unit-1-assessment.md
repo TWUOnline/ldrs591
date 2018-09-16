@@ -16,7 +16,7 @@ post_date: 2017-11-24 14:49:50
 As you work through the material in this course, you will be asked to create blog posts.  Some of the blog posts do not require a discussion or a response, however, some of the blog posts do require you to close with one question that invites further comments and discussion from your colleagues.  Please do your best to complete the blog posts that require a response by<strong> Friday at midnight</strong> of the week they are assigned to allow time for your colleagues to respond to your questions over the weekend.
 
 <strong>Replying to Colleagues’ Posts</strong>
-<p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum one discussion question. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
+<p class="Paragraph">You do not have to reply to all of your colleagues blog posts when a discussion question is posted. However, you should make an effort to read through your colleagues posts and respond to a minimum of two discussion questions. Your replies should offer new substantiated ideas or thoughtful questions. <strong> </strong>Feel free to respond to more questions if you want to.<strong>   </strong></p>
 For more information about what is expected in your blog posts, responses, and grading criteria please go to <a href="https://create.twu.ca/ldrs591/instructions-for-blog-posts-and-responses/">Blog posts and responses (Assignment 1).</a>
 
 In unit 1, you are asked to write the following blog post (500 words total):
