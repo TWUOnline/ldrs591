@@ -28,7 +28,7 @@ According to Mutimbi and Khaila (2011):
  	<li>In this learning activity you will begin by reading chapter 13, "Action Research Designs," in Plano-Clark and Creswell (2015).</li>
  	<li>Next, watch the following video by John Spencer (2017) that explains what action research is <a href="http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/">http://www.spencerauthor.com/how-action-research-sparks-innovation-and-boosts-creativity-in-the-classroom/</a></li>
  	<li>Then think about some practical problems that you have faced in your professional life that you would like to change. In your reflective learning journal list three problems that matter to you and that you think you can systematically address in your work situation. After reflecting on these problems, select one that you would like to address for your action research project.</li>
- 	<li>Note that you will be asked to address this problem in your blog post for this unit.  See Unit 8 Assessment for more details.</li>
+ 	<li>Note that you will be asked to address this problem in your blog post for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-8-assessment/">Unit 8 Assessment</a> for more details.</li>
 </ul>
 <h3></h3>
 <h3>Topic 2: The Action Research Method</h3>
@@ -53,11 +53,11 @@ If you know how to create video you are welcome to do that instead. It is your c
 </ul>
 <strong>Reminder: </strong>Make sure you take some time to practice what you are going to say (I highly recommend creating a script) and give yourself lots of time to record, make mistakes, re-record, make more mistakes, take a break, re-record and then post it on your blog.
 <ul>
- 	<li>Note this podcast is part of your blog post for this unit.  See Unit 8 Assessment for more details.</li>
+ 	<li>Note this podcast is part of your blog post for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-8-assessment/">Unit 8 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 3: Evaluating An Action Research Study</h3>
-According to Plano-Clark and Creswell (2015)
+According to Plano-Clark and Creswell (2015):
 <blockquote>Action research has gained support across many disciplines including education, nursing, and clinical work. [However], some view it as an “informal” process of research, conducted by practitioners who are not formal academic researchers.  Action researchers typically report results of their studies in informal venues, such as conferences, websites, or local groups in the community. Hence, the design may not have the rigor and systematic approach found in other designs. However, it is precisely this flexibility and responsiveness that makes action research studies among the best source of information to learn about potential solutions to real problems because they are conducted in real professional settings by real practitioners. Therefore, when evaluating an action research study, you need to keep in mind the intent and standards for this particular form of research. (pp.443-444)</blockquote>
 <h4>Learning Activity 8.3 - Evaluate and Post</h4>
 Next, you will peer review one Action Research project by colleagues in the class. I have posted the peer-review partnerships in Moodle under the assignments tab.
