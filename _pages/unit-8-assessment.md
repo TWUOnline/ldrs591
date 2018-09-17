@@ -53,6 +53,6 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you design an action research project that might be utilized in your leadership practice?</li>
  	<li>Can you evaluate an action research project proposal?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-9-overview/">next unit</a>.
 
 &nbsp;
