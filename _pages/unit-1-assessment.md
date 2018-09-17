@@ -53,4 +53,4 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you discuss how scholarly inquiry applies to everyday decision making?</li>
  	<li>Reflect on why evidence-based decision making is important for leadership?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-2-overview/">next unit</a>.
