@@ -43,4 +43,4 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you employ different search strategies to locate different sources of scholarly literature?</li>
  	<li>Can you evaluate the credibility and reliability of sources of scholarly literature?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-3-overview/">next unit</a>.
