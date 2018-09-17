@@ -45,6 +45,6 @@ Now that you have completed the learning activities and assignments for this uni
  	<li>Can you discuss the importance of understanding the methods and findings section of a qualitative research report?</li>
  	<li>Can you apply what you have learned about qualitative research to your own leadership context?</li>
 </ol>
-Feel free to review topics more in depth or continue on to the next unit.
+Feel free to review topics more in depth or continue on to the <a href="https://create.twu.ca/ldrs591/unit-7-overview/">next unit</a>.
 <h3></h3>
 <!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833"> Submit Scholarly Article Review in Moodle</a><!--/themify_builder_static-->
