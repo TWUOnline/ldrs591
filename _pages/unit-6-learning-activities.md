@@ -34,7 +34,7 @@ Qualitative research designs typically are less structured than in quantitative 
  	<li>Does the qualitative research design address the study's purpose?</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-6-assessment/">Unit 6 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 2: Qualitative Data Collection</h3>
@@ -55,7 +55,7 @@ In qualitative research, data is usually collected until saturation is achieved.
  	<li>Are the data gathered ethically and thoughtfully?</li>
 </ul>
 </li>
- 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 2 of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-6-assessment/">Unit 6 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 3: Qualitative Data Analysis and Findings</h3>
@@ -78,7 +78,7 @@ Because qualitative research can involve the investigation of as few as one rese
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.</li>
+ 	<li>Note that these questions make up Part 3 of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-6-assessment/">Unit 6 Assessment</a> for more details.</li>
 </ul>
 <h4>Learning Activity 6.4 - Reflect</h4>
 In your reflective learning journal discuss the following questions:
@@ -87,7 +87,7 @@ In your reflective learning journal discuss the following questions:
  	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
  	<li>How can you apply this knowledge to your work context or current leadership experience?</li>
 </ul>
-Note that these questions make up Part 4 of your Blog assignment for this unit.  See Unit 6 Assessment for more details.
+Note that these questions make up Part 4 of your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-6-assessment/">Unit 6 Assessment</a> for more details.
 <h3></h3>
 <h3>Unit 6 Summary</h3>
 In this unit you have learned that qualitative research has three distinct purposes:  <em><strong>to describe, to explore, and to build theory</strong></em>.  Qualitative research designs typically are less structured than in quantitative designs, and are far more flexible. The data are usually collected from a few cases or individuals so findings cannot be generalized to a larger population, but issues can be examined in great detail. Findings can however be transferable to another setting.
