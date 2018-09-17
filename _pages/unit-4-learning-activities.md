@@ -40,7 +40,7 @@ In this learning activity you will begin by reading the article by Sendjaya and 
  	<li>Why do you think servant leadership should be of interest researchers in the leadership field?</li>
 </ul>
 &nbsp;
-<h3>Topic 2: What is a research problem?</h3>
+<h3>Topic 2: What is a Research Problem?</h3>
 All good research begins with a good research problem. Plano-Clark and Creswell (2015) suggest that research problems “are the issues, controversies or concerns that demand study" (p. 80). They assert that these are often real problems that must be addressed. Gall, Gall and Borg (2007) suggest that in identifying the research problem, the researcher should consider personal interest, the potential benefits to the researcher’s professional growth, and potential contribution of the research study to research knowledge. They suggest that all three criteria should be considered, with emphasis on the first and third.
 
 Somewhat reflexively, a thorough review of literature on a topic that interests you informs the identification of a good research problem. Gall, Gall and Borg (2007, p. 43) suggest that through the process of the literature review, researchers ask themselves the following kinds of questions.
@@ -70,10 +70,10 @@ All of these contribute to answering the ultimate question for any research: “
 </ul>
 </li>
 </ul>
-Note, this activity will make up Part A of your graded blog this week.  See Unit 4 Assessment for more details.
+Note, this activity will make up Part A of your graded blog this week.  See <a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Unit 4 Assessment</a> for more details.
 
 &nbsp;
-<h3>Topic 3: What is a literature review?</h3>
+<h3>Topic 3: What is a Literature Review?</h3>
 The research problem establishes why a particular research study is worth doing. The review of the literature supports this by establishing what is already known about the problem and summarizes what scholarship has already established regarding the research problem. This has many facets that go beyond merely establishing the research purpose. As we will see, a literature review affects every aspect of a research study and its final report. For that reason, one of the most important preliminary steps in the process of scholarly inquiry is doing a thorough review of the precedent academic literature on a given topic. A precedent literature review is the process of locating, obtaining, reading and evaluating the research and theoretical literature in your area of interest. Bordens and Abbott (2005) outline several important reasons for a researcher to conduct a precedent literature review:
 <ol>
  	<li><strong>To avoid needless duplication of effort.</strong> By becoming familiar with an area of study through a review of the literature, the researcher can avoid “re-inventing the wheel.” The researcher’s specific question or topic may already have been thoroughly addressed and answered. In the case of research designed for application, a review of literature provides a rich resource of information upon which to draw and apply to the chosen context.</li>
@@ -110,7 +110,7 @@ A precedent literature review that is useful and instructive exhibits the follow
 </ul>
 </li>
 </ul>
-Note, this activity will make up Part B of your graded blog this week.  See Unit 4 Assessment for more details.
+Note, this activity will make up Part B of your graded blog this week.  See <a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Unit 4 Assessment</a> for more details.
 <h3></h3>
 <h3>Topic 4: What is the Research Purpose?</h3>
 The research problem establishes why a particular research study is worth doing or why it matters, the review of precedent literature establishes what is already known about the problem, and the research purpose establishes what the research specifically intends to do. Typically, the research purpose is further refined into a limited number of research questions or predictions (hypotheses) that the researcher will address.
@@ -133,7 +133,7 @@ Plano-Clark and Creswell (2015) contend that "specifying a study purpose may be 
 </ul>
 </li>
 </ul>
-This activity will make up Part C of your graded blog this week.  See Unit 4 Assessment for more details.
+This activity will make up Part C of your graded blog this week.  See <a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Unit 4 Assessment</a> for more details.
 <h3></h3>
 <h4>Learning Activity 4.5 - Reflect</h4>
 In your reflective learning journal discuss the following questions:
@@ -147,7 +147,7 @@ In your reflective learning journal discuss the following questions:
 </ul>
 Close with one question that invites further comment and discussion.
 
-This activity will make up Part D of your graded blog this week.  See Unit 4 Assessment for more details.
+This activity will make up Part D of your graded blog this week.  See <a href="https://create.twu.ca/ldrs591/unit-4-assessment/">Unit 4 Assessment</a> for more details.
 
 &nbsp;
 <h3>Unit 4 Summary</h3>
