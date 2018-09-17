@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/wordpress-setup/
+  https://create.twu.ca/ldrs591/wordpress-setup/
 published: true
 post_date: 2018-01-03 00:00:00
 ---
