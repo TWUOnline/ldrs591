@@ -104,9 +104,9 @@ There are also times when you are writing with a specific purpose in mind. For e
  	<li>Next, watch the following video tutorial  "<a href="https://www.youtube.com/watch?v=BRu1UPPubMY">Writing Clearly and Concisely</a>" by Dr. Mark Hatala.  In the video Dr. Hatala discusses the APA guidelines to ensure clear, consistent presentation of ideas.</li>
  	<li>In your reflective learning journal, make note of the elements of APA style writing that you struggle with and need to improve on for your next assignment.</li>
  	<li>Note, these elements will be evaluated in assignment 4 and 5.</li>
- 	<li>Here is a checklist of what I am looking for with additional links to articles that explain what each element is:
+ 	<li>Here is a checklist of elements from the APA (2010) manual of what I am looking for with additional links to articles that explain what each element is:
 <ul>
- 	<li><strong>Wordiness and Redundancy:</strong> Use no more words than are necessary to convey your meaning (APA, 2010, p.67). For more information see:
+ 	<li><strong>Wordiness and Redundancy:</strong> Say what you mean and mean what you say.  Do not use too many words to convey your meaning (APA, 2010, p.67). For more information see:
 <a href="http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html">http://blog.apastyle.org/apastyle/2015/09/principles-of-writing-how-to-avoid-wordiness.html</a></li>
  	<li><strong>Unit length:</strong> Writing in long sentences results in difficult, sometimes incomprehensible material.  Direct, declarative sentences with simple, common words are usually best (APA, 2010, p.68).  In addition, if a paragraph runs longer than one double spaced manuscript page, you may lose your readers (APA, 2010, p.68). For more information see: <a href="http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html">http://blog.apastyle.org/apastyle/2011/12/the-long-and-the-short-of-it.html</a></li>
  	<li><strong><strong>Pronouns: </strong></strong>Each pronoun should refer clearly to its antecedent and should agree with the antecedent in number (singular or plural) and gender (APA, 2010, p. 79).  For more information see: <a href="http://blog.apastyle.org/apastyle/2015/11/the-use-of-singular-they-in-apa-style.html">http://blog.apastyle.org/apastyle/2015/11/the-use-of-singular-they-in-apa-style.html</a></li>
