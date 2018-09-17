@@ -13,7 +13,7 @@ post_date: 2017-11-24 14:49:50
 This week in Unit 3 you will be discovering how to develop your professional scholarly voice, specifically through your scholarly writing.  This means that you will be reading content that will help you understand that there are different writing styles that are used in the world of academia and how important it is to use APA style in the MA Lead program.
 
 Your learning activities this week are focused on applying the APA standards for general aspects of writing, mechanics of writing and citing sources.  You will also have a chance to apply these skills in assignment 3 which is the literature search and assignment 4 which is the scholarly article critique, and then continue to practice them in assignment 5 - the formal literature review.
-<h3>Developing Your Professional Voice</h3>
+<h3>Topic 1: Developing Your Professional Voice</h3>
 When you are asked to write a scholarly paper in graduate school, what you are really being asked to do is to develop your professional voice (McDonald, 2011). A professional voice can be described as utilizing formal language, good vocabulary and appropriate tone in your written and oral communication (Walden University Writing Center, 2017). Characteristics of a strong professional voice are writing concisely, with clarity and precision, and appropriately citing your sources (McDonald, 2011).
 
 Developing your professional voice is important because some students will turn their papers into professional manuscripts that will be submitted to a journal or a book. Some students may be asked to present their work at a professional conference. McDonald suggests that "for most students, writing papers in graduate school is an exercise in presenting important information in an easy to understand and concise way" (p.125).
@@ -41,7 +41,7 @@ Aside from simplifying the work of your instructors by having everyone use the s
 </li>
  	<li>Note that these questions make up Part 1 of your Blog assignment for this unit.  See Unit 3 Assessment for more details.</li>
 </ul>
-<h3>What is Scholarly Writing?</h3>
+<h3>Topic 2: What is Scholarly Writing?</h3>
 According to Heady (2013), graduate-level (or scholarly) writing is "clear, correct and concise, but it adds the elements of originality and discipline specific expertise" (p. 2). Heady suggests that graduate-level writing explores a topic or a research question in an original way, demonstrates extensive research done on the topic, has a strong organizational structure, and is written for a professional audience. The scholarly writer writes in a way that is skillful, engaging and organized well so that the paper moves from point to point allowing the reader to follow in a logical progression. Heady also states that "a good paper has a clear and obvious structure: you can enter it through a clear, well-composed introduction, you move from section to section, and you exit where you know you have been and what you have seen" (p. 73).
 <h5>Structure and Organization</h5>
 Writing a scholarly paper often follows a very distinct organizational structure and includes: a title page, an introduction, methods and results, a discussion and a list of references. Let's take a closer look at what should be included in each of these sections of a scholarly paper.
@@ -92,7 +92,7 @@ Writing a scholarly paper often follows a very distinct organizational structure
 </li>
  	<li>Note, these elements will be evaluated in assignment 3, 4, and 5.</li>
 </ul>
-<h3>How to Write a Scholarly Paper</h3>
+<h3>Topic 3: How to Write a Scholarly Paper</h3>
 To begin writing a scholarly paper you need to have a research topic in mind.  Then you need to do a review of scholarly literature to obtain a good working knowledge of your topic and then critically evaluate and synthesize the literature you have read.  Finally, you need to have an organizational system for presenting what you know about the research topic. The APA (2010) manual provides a clear organizational structure for presenting scholarly information.
 
 When you begin writing, it is important to remember that you are communicating ideas about a topic to a specific audience.  In order to convey your ideas well, you need to write clearly and concisely with set of specific guidelines.  This is important for two reasons: to keep your reader's attention and to make sure your meaning is clear.  If your writing is long-winded, you will either lose the interest of your reader or confuse your reader.  When your writing is more concise and clear, this will motivate your reader to pay attention to what you have to say.
@@ -117,7 +117,7 @@ There are also times when you are writing with a specific purpose in mind. For e
 </ul>
 </li>
 </ul>
-<h3>Citing the Ideas of Others</h3>
+<h3>Topic 4: Citing the Ideas of Others</h3>
 Within each section of a scholarly paper, each paragraph utilizes a combination three types of content: claims, evidence and transitions. Heady states that "claims are the points you want to prove, interpretations you want to offer, and assertions you want to make, whereas, evidence is the material you use to back up your claims" (pp. 74-75). Some examples of types of evidence that may be used to support claims include: "quotes from a book, citations from an article, data from a study, personal experience, historical facts, statistics, etc. Transitions are one or two words that help you move from one claim to another" (pp. 74-75).
 
 An example of the three types of content (claims, evidence and transitions) included in a paragraph of scholarly writing is provided below from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy (2013, pp. 377-378):
@@ -204,14 +204,12 @@ The reference list provides a precise list of all of the sources you cited withi
 <h3>Additional APA Resources:</h3>
 <div class="box generalbox center clearfix py-3">
 <div class="no-overflow">
-
-<a href="http://blog.apastyle.org/apastyle/">APA Style Blog</a>
 <ul>
- 	<li>"The APA Style Blog is the official companion to the Publication Manual of the American Psychological Association, Sixth Edition. It's run by a group of experts who work with APA Style every day. We publish weekly posts to talk about what we love—writing, publishing, and APA Style. We explore what APA Style is and how it works in a variety of areas, including reference citations of every sort, grammar and usage, the publication process, and social media. Occasionally we feature guest bloggers who write about more technical issues." (APA Style Blog, 2017)</li>
+ 	<li>"The <a href="http://blog.apastyle.org/apastyle/">APA Style Blog</a> is the official companion to the Publication Manual of the American Psychological Association, Sixth Edition. It's run by a group of experts who work with APA Style every day. We publish weekly posts to talk about what we love—writing, publishing, and APA Style. We explore what APA Style is and how it works in a variety of areas, including reference citations of every sort, grammar and usage, the publication process, and social media. Occasionally we feature guest bloggers who write about more technical issues." (APA Style Blog, 2017)</li>
 </ul>
-<a href="https://owl.english.purdue.edu/owl/section/2/10/">Purdue OWL:Online Writing Lab</a>
+&nbsp;
 <ul>
- 	<li>"These OWL resources will help you learn how to use the American Psychological Association (APA) citation and format style. This section contains resources on in-text citation and the References page, as well as APA sample papers, slide presentations, and the APA classroom poster." (Purdue OWL, 2017)</li>
+ 	<li>"The <a href="https://owl.english.purdue.edu/owl/section/2/10/">Purdue OWL: Online Writing Lab</a> resources will help you learn how to use the American Psychological Association (APA) citation and format style. This section contains resources on in-text citation and the References page, as well as APA sample papers, slide presentations, and the APA classroom poster." (Purdue OWL, 2017)</li>
 </ul>
 </div>
 </div>
