@@ -26,7 +26,7 @@ https://soundcloud.com/user-303479512/welcome-to-unit-7-2
  	<li>Do you think mixed-methods research can provide a more complete picture for leadership studies?  Why or why not?</li>
 </ul>
 </li>
- 	<li>Note that these questions will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment in this unit.  See <a href="https://create.twu.ca/ldrs591/unit-7-assessment/">Unit 7 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 2: Mixed-Methods Research Designs</h3>
@@ -60,7 +60,7 @@ The <strong>sequential exploratory design </strong>involves the collection and a
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
+ 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See <a href="https://create.twu.ca/ldrs591/unit-7-assessment/">Unit 7 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 3: Using Mixed-Methods to Understand Leadership.</h3>
@@ -83,7 +83,7 @@ Mixed methods studies have the potential to provide strengths that offset the we
  	<li>How would you use a mixed methods approach to study servant leadership?</li>
 </ul>
 </li>
- 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See Unit 7 Assessment for more details.</li>
+ 	<li>Note that these questions will will help you complete your Blog assignment in this unit.  See <a href="https://create.twu.ca/ldrs591/unit-7-assessment/">Unit 7 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Unit 7 Summary</h3>
