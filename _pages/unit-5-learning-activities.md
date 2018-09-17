@@ -29,7 +29,7 @@ The differing designs of quantitative and qualitative research also lead to mark
 <ul>
  	<li>Review pp. 57-69 in chapter 2 in the Plano-Clark and Creswell (2015) text.</li>
  	<li>In your reflective learning journal, discuss the differences between qualitative and quantitative research reports.</li>
- 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 2: Quantitative Research Designs</h3>
@@ -64,7 +64,7 @@ As a consumer of survey research reports, be vigilant for potential issues of va
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 3: Quantitative Data Collection</h3>
@@ -94,7 +94,7 @@ In an experiment, the researcher is looking for the possible effect on the depen
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h3>Topic 4: Quantitative Data Analysis and Results</h3>
@@ -119,7 +119,7 @@ As a consumer of qualitative research reports, you will want to know that the st
 </li>
 </ul>
 <ul>
- 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details.</li>
 </ul>
 &nbsp;
 <h4>Learning Activity 5.5 - Reflect</h4>
@@ -128,13 +128,13 @@ In your reflective learning journal respond to the following questions:
  	<li>As a consumer of research reports what were the most important aspects you need to consider in the methods and results section of  of a high-quality research report?</li>
  	<li>Are there any elements of this section that you still have questions about or finding confusing?</li>
  	<li>How can you apply this knowledge to your work context or current experience?</li>
- 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See Unit 5 Assessment for more details.</li>
+ 	<li>Note that these questions will help you complete your Blog assignment for this unit.  See <a href="https://create.twu.ca/ldrs591/unit-5-assessment/">Unit 5 Assessment</a> for more details.</li>
 </ul>
 <h3></h3>
 <h5>Additional Resources</h5>
 I wanted to provide you with a few extra resources to help you understand Quantitative Analysis and Results.
 
-Here is a link to a really helpful website that has been created by Dr. Andy Field.  Dr. Field goes into much more detail about everything you need to know about statistics than the course textbook.  Here is the website: <a href="https://www.discoveringstatistics.com/">https://www.discoveringstatistics.com/</a>  If there is something that you don't understand when you are reading through the results section of a quantitative research study, search Dr. Field's website.  This is a great tutorial to start with.
+Here is a link to a really helpful website that has been created by Dr. Andy Field.  Dr. Field goes into much more detail about everything you need to know about statistics than the course textbook.  Here is the website: <a href="https://www.discoveringstatistics.com/">https://www.discoveringstatistics.com/</a>  If there is something that you don't understand when you are reading through the results section of a quantitative research study, search Dr. Field's website.
 
 &nbsp;
 <h3>Unit 5 Summary</h3>
