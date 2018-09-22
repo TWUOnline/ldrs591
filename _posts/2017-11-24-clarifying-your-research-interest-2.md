@@ -30,21 +30,21 @@ There is no limit to the number (and nature) of research questions the researche
 </ul>
 </li>
  	<li>Use the mapping program to draw connections between areas of interest. Use a different style of connector, such as a dotted line, for these links.</li>
- 	<li>Download your map as a .jpg or .png and insert it as an image on a word document.  Then answer the following questions:
+ 	<li>Download your map as a .jpg or .png and upload it to your blog.</li>
+ 	<li>Create a new blog post with your concept map as the featured image and answer the following questions:
 <ul>
  	<li>What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied.</li>
  	<li>Identify the research question you feel is <strong>the strongest one</strong> to pursue for a future research paper, and outline reasons for your selection.</li>
  	<li>In what broad fields do you anticipate searching for literature that might inform your research question (e.g., education, business, psychology, healthcare, leadership, religion)?</li>
- 	<li>Try using the following three statements to help get some clarity about what exactly you want to address in your question. If you can fill out these statements, then you most likely have a narrow enough topic with enough direction to perform some great research.</li>
- 	<li><b>I am researching </b>______________________________________ (<b>topic</b>)</li>
- 	<li><b>because I want to find out </b>______________________________(<b>issue/question</b>)</li>
- 	<li><b>in order to </b>________________________________ (<b>application </b>- So What? - Project/Audience/Purpose driven)</li>
 </ul>
 </li>
- 	<li>The written portion of your assignment should be 350 words or less.</li>
- 	<li>
-<h4>Submit Assignment 2 via the Moodle dropbox.</h4>
-</li>
+</ul>
+The written portion of your assignment should be 500 words or less.
+<h5>Categories</h5>
+<ul>
+ 	<li>LDRS591</li>
+ 	<li>Unit 2</li>
+ 	<li>Assignment 1</li>
 </ul>
 <h5>Sample Map</h5>
 <img class="aligncenter size-full wp-image-2021" src="http://create.twu.ca/ldrs591/files/2017/11/Research-Interest-Concept-Map.png" alt="" width="561" height="571" />
