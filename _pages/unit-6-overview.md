@@ -16,12 +16,12 @@ In unit 6 we continue our overview of the most common research methods used in l
 &nbsp;
 <h3>Topics</h3>
 Unit 6 is divided into 3 topics:
-<p style="padding-left: 30px;">Topic 1: Qualitative Research Design</p>
-<p style="padding-left: 30px;">Topic 2: Qualitative Data Collection</p>
-<p style="padding-left: 30px;">Topic 3: Qualitative Data Analysis and Findings</p>
+<p style="padding-left: 30px">Topic 1: Qualitative Research Design</p>
+<p style="padding-left: 30px">Topic 2: Qualitative Data Collection</p>
+<p style="padding-left: 30px">Topic 3: Qualitative Data Analysis and Findings</p>
 &nbsp;
 <h3>Learning Outcomes</h3>
-When you have completed this unit you should be able to:<span style="color: #ff0000;"><strong> </strong></span>
+When you have completed this unit you should be able to:<span style="color: #ff0000"><strong> </strong></span>
 <ol>
  	<li>Evaluate the quality of the methods and findings section of a qualitative research report on servant leadership.</li>
  	<li>Reflect on the importance of understanding the methods and findings section of a qualitative research report.</li>
@@ -30,11 +30,11 @@ When you have completed this unit you should be able to:<span style="color: #ff0
 &nbsp;
 <h3>Activity Checklist</h3>
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<p style="padding-left: 30px;">Activity 6.1: Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell (2015). Evaluate the research design in the servant leadership article you chose.</p>
-<p style="padding-left: 30px;">Activity 6.2: Read Chapter 10 in your text. Evaluate the participants and data collection in the servant leadership article you chose.</p>
-<p style="padding-left: 30px;">Activity 6.3: Read Chapter 11 in your text. Evaluate the data analysis and findings in the servant leadership article you chose.</p>
-<p style="padding-left: 30px;">Activity 6.4: Reflect in your learning journal.</p>
-<p style="padding-left: 30px;"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
+<p style="padding-left: 30px">Activity 6.1: Read chapter 9, "Qualitative Research Designs," in Plano-Clark and Creswell (2015). Evaluate the research design in the servant leadership article you chose.</p>
+<p style="padding-left: 30px">Activity 6.2: Read Chapter 10 in your text. Evaluate the participants and data collection in the servant leadership article you chose.</p>
+<p style="padding-left: 30px">Activity 6.3: Read Chapter 11 in your text. Evaluate the data analysis and findings in the servant leadership article you chose.</p>
+<p style="padding-left: 30px">Activity 6.4: Reflect in your learning journal.</p>
+<p style="padding-left: 30px"><strong>Blog Assignment</strong>: Complete the blog for this unit (Parts A, B, C and D). Respond substantively to at least two other classmates’ blogs.</p>
 &nbsp;
 <h3>Resources</h3>
 Here are the resources you will need to complete the unit:
