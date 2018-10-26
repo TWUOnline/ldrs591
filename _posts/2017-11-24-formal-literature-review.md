@@ -140,6 +140,8 @@ In the results section you are now going to organize what you have learned by su
 
 The literature review "results" should include: the author and year of publication, the purpose of the study, type of study, method of data collection, major findings, and key conclusions. Then it is important to critically evaluate the articles you have reviewed. When you are critically evaluating research studies, you are not just listing and summarizing items, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study that you have reviewed.
 
+In this section you should describe the characteristics of studies included in detail in a Table.  In text, discuss your assessment of the scientific quality of included studies. Critically evaluate and integrate the results in an unbiased and systematic way, including stating whether the results are different and discuss possible reasons for this. Identify inconsistencies in study results and identify points of contention in theories, conceptualizations, and methods in the literature (Cooper, 2003).
+
 As an example, below is an excerpt from the article "A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts" by Parris and Peachy (2013). In this excerpt, Parris and Peachy (2013) discuss the results from their review of servant leadership in one area, implementation of servant leadership. This is what they found:
 
 "Three studies examined servant leadership in various organizational processes (Hamilton &amp; Bean, 2005—leadership development; Savage-Austin &amp; Honeycutt, 2011—organizational change; Dingman &amp; Stone, 2007— succession planning). Nevertheless, these studies were not supported by other empirical studies nor were their methodological quality sufficient to provide any conclusions" (p. 388).
@@ -155,7 +157,7 @@ The table below is adapted from Parris &amp; Peachy (2013, p. 385).
 Here is a checklist of what you should include in this section:
 
 <ul>
-    <li>How will you organize the main body of your paper (e.g., themes or categories, chronologically, theoretical or methodological issues)?</li>
+    <li>How will you organize the results section e.g., themes or categories, chronologically, theoretical or methodological issues?</li>
     <li>Did you include at least 10 academic sources?</li>
     <li>Have you summarized the articles you have reviewed?</li>
     <li>Have you included the following information in your summaries: author and year of the study, purpose of the study, type of study conducted, data collection method, and key findings?</li>
@@ -177,6 +179,7 @@ Here is a checklist of what you should include in this section:
     <li>Can you offer a rationale for why future research should be conducted on this topic?</li>
     <li>Why are your findings important?</li>
     <li>What are the practical implications of your findings?</li>
+    <li>Provide a clear link between what you have learned from the literature and how it can be applied in practice.</li>
 </ul>
 
 <strong>References</strong>
@@ -193,4 +196,4 @@ At the very end list your references. Reference lists must start on a new page, 
 
 &nbsp;
 
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47836" > Upload Literature Review to Moodle</a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47836"> Upload Literature Review to Moodle</a><!--/themify_builder_static-->
