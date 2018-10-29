@@ -1,0 +1,57 @@
+---
+ID: 6163
+post_title: Unit 6 Summary
+author: drheatherstrong
+post_excerpt: 'Let me begin this weeks unit summary by saying that I absolutely love reading all of your posts.&nbsp; You have all been so open, honest, and vulnerable about your experiences with this course and I am incredibly blessed by your reflections. This week in Unit 6 we have explored qualitative research methods.&nbsp; You have all [&hellip;]'
+layout: post
+permalink: >
+  https://create.twu.ca/drheatherstrong/2018/10/28/unit-6-summary-2/
+published: true
+post_date: 2018-10-28 18:41:55
+---
+Let me begin this weeks unit summary by saying that I absolutely love reading all of your posts.  You have all been so open, honest, and vulnerable about your experiences with this course and I am incredibly blessed by your reflections.
+
+This week in Unit 6 we have explored qualitative research methods.  You have all done a great job evaluating the qualitative studies on servant leadership.  Some of the articles were clearer than others, and I commend all of you for working through the evaluation process even when at times it was frustrating, confusing, or didn&#8217;t make sense.
+
+I mentioned this as a comment on <a href="https://create.twu.ca/achsahs-springs/2018/10/27/unit-6-understanding-qualitative-research-reports/">Achsah&#8217;s Spring&#8217;s</a> post, but let me offer each of you some encouragement by saying that learning &#8220;researcher language&#8221; is in fact entirely like learning a new language. And in this course you are learning different dialects of &#8220;researcher language&#8221; because there are differences in what is communicated in qualitative, quantitative, mixed-methods, and action research studies.  My goal with this course is to help you develop the skills necessary to start (or continue) on your journey becoming a critical consumer of research. The journey is a life long process!
+
+One of my favorite qualitative researchers is Dr. Brene Brown.  I am currently reading her new book <a href="https://daretolead.brenebrown.com/">Dare to Lead</a>.  All of Dr. Brown&#8217;s work is based on qualitative research findings. She uses grounded theory to explore shame, vulnerability, empathy and courage. For a really helpful (and very clear and understandable) explanation about the design, methodology, sampling, and coding processes that she uses you can visit her site <a href="https://brenebrown.com/the-research/">https://brenebrown.com/the-research/</a>
+
+I also realized that in my face to face 591 course that I show a video clip of Dr. Brown discussing her work with <a href="http://www.jonathanfields.com/about/">Jonathan Fields</a> (a former lawyer and serial entrepreneur). She shares what she learns through her qualitative research and connects grounded theory and the concept of trust in emergence to the business world.  You can find the video clip <a href="https://www.youtube.com/watch?v=3A2dRwgcexw">here</a>.
+
+Each of you have spent time this week reflecting on the application of qualitative research to your current professional contexts and also on leadership lessons learned thus far. Here is a summary of what I have learned from you this week:
+
+<a href="https://create.twu.ca/charliemable/2018/10/26/unit-6-qualitative-research/">Charlie Mable</a> mentions that &#8220;Marketers use focus groups, and various types of interview to collect data which informs how to educate or market a product. The section on procedure for qualitative interview had many parallels with good sales calls that employ using good open-ended questions to understand better what would be useful for a customer&#8221;.
+
+<a href="https://create.twu.ca/kwantlenbrenda/2018/10/27/unit-6/">Brenda</a> suggests that she &#8220;now feels more confident and better equipped to work with researcher to develop a study on our business model. It will also be interesting to not let my biases slip in, but will look to the experienced researchers to implement methods to prevent this from happening.&#8221;
+
+<a href="https://create.twu.ca/awalkinthewoods/unit-6-qualitative-research-analysis/">A Walk in the Woods </a>provided a great reflection on the lessons she is learning.  Specifically she mentions that &#8220;Learning is a life-long process. Learning isn&#8217;t easy and doesn&#8217;t always come naturally. Focus on strengths first&#8221;.  I&#8217;d encourage all of you to read her post.
+
+E.denguessi&#8217;s provided a reflection through a comment on <a href="https://create.twu.ca/awalkinthewoods/unit-6-qualitative-research-analysis/">A Walk in the Woods post</a> &#8220;I would argue that this course offers me an opportunity to discover good and bad in the world of research. It allows me to create a framework in my thinking process, and appreciate the values of perspective. I am discover, through unpacking research, that good work is hard work, and hard work is good work&#8221;.
+
+<a href="https://create.twu.ca/achsahs-springs/2018/10/27/unit-6-understanding-qualitative-research-reports/">Achsah&#8217;s Spring</a>&#8216;s mentions that &#8220;I want to be able to take what the researcher(s) presents at face value.  I don’t want to examine, or search to determine if the research is true.  I just want to believe it.  And somewhere along the way I lost my will to be a critical thinker in this area.  I have critical thinking skills, and utilize those skills elsewhere, in both my professional and personal life.  But in the area of research, likely due to the difficulties in comprehending the information, I defaulted to an easier road of either just accepting the research findings, or not reading at all.&#8221;
+
+<a href="https://create.twu.ca/achsahs-springs/2018/10/27/unit-6-understanding-qualitative-research-reports/">Achsah&#8217;s Spring&#8217;s</a> also brought up a great question this week &#8220;is critical thinking an essential leadership skill?&#8221;  I thought I would expand on my answer to the question here.
+
+I absolutely believe that critical thinking is an essential leadership skill! According to the <a href="http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411">Foundation of Critical Thinking</a> &#8220;Critical thinking is that mode of thinking — about any subject, content, or problem — in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing, and reconstructing it&#8221; (para. 2).  I think this is an essential skill for a leader to poses and the great news is that it can be learned. Here is a brief article about the importance of critical thinking by the <a href="http://www.brandonhall.com/blogs/critical-thinking-the-difference-between-good-and-great-leaders/">Brandon Hall Group (2014)</a> and here is a quote from the article:
+
+<blockquote>Corporate and academic research dating as far back as 1985 (Ennis) and consistently through the years (1986 Sternberg, 1990 McPeck, 1992 Paul, 1998 Halpern, 1999 Bailin, 2002 Toplak, 2003 Runco, 2004 Lubart, 2007 Willingham, 2008 West, 2010 AMA/CMC 2010, 2014 Brandon Hall Group) shows that organizations with strong critical thinkers make better decisions, commit fewer mistakes, and outperform those who have a deficit in critical thinking skills. Ironically, however, research also shows that the preponderance of current and future leaders severely lack the critical thinking skills required to lead in the 21<sup>st</sup> century. (para. 6)</p></blockquote>
+
+<a href="http://www.criticalthinking.org/pages/our-conception-of-critical-thinking/411">The Foundation of Critical Thinking</a> has suggested that a well-cultivated critical thinker possess the following qualities (para. 5):<br />
+&#8211; Raises vital questions and problems, formulating them clearly and precisely<br />
+&#8211; Gathers and assesses relevant information, using abstract ideas to interpret it effectively<br />
+&#8211; Comes to well-reasoned conclusions and solutions, testing them against relevant criteria and standards<br />
+&#8211; Thinks openmindedly within alternative systems of thought, recognizing and assessing, as needs be, their assumptions, implications, and practical consequences<br />
+&#8211; Communicates effectively with others in figuring out solutions to complex problems
+
+You are using critical thinking skills in this course and developing them more each week.  If you want more information about how to continue once the course is done then you can find more information <a href="https://www.thinkwatson.com/the-red-model/red-critical-thinking-model">here. </a>And if you want to assess your own critical thinking skills you can take an online assessment like the Watson-Glaser Critical Thinking Appraisal tool found <a href="https://www.thinkwatson.com/assessments">here</a>.
+
+Thanks for your responses (don&#8217;t forget to respond to your colleagues!)
+
+Dr. Strong
+
+<div id="themify_builder_content-318" data-postid="318" class="themify_builder_content themify_builder_content-318 themify_builder">
+
+    </div>
+
+<!-- /themify_builder_content -->
