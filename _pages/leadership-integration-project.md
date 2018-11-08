@@ -10,9 +10,7 @@ published: true
 post_date: 2017-11-25 12:43:15
 ---
 All of the work you have done in LDRS 591 supports the Master of Arts in Leadership program capstone courses which are called the Leadership Integration Project (LIP) LDRS 697/698. LDRS 591 is the main prerequisite course for the culminating activity of the MA in Leadership program.
-
 <h3>What is the Leadership Integration Project: LDRS 697/698?</h3>
-
 The Leadership Integration Project (LDRS 697/698) is the capstone of the Master of Arts in Leadership program. These courses are the vehicle upon which your personal Leadership Competency Development will be framed and documented.
 
 The purpose of LDRS 697/698 is to encourage learners to integrate their learning in the Master of Arts in Leadership and the Master of Arts in Educational Leadership programs and apply the following curriculum themes:
@@ -25,9 +23,7 @@ The process of designing and completing LDRS 697/698 itself is part of the highe
 LDRS 697/698 consists of four credit hours of work, and represents the final demonstration of a student’s ability to integrate practical program curriculum content and demonstration of MA Lead’s defined leadership competencies: Visioning and Strategic Thinking; Adaptability and Change; Results; Team Leadership; People Development; Innovation; Values and Ethics; Service &amp; Quality Orientation; Relationships &amp; Collaboration; Planning &amp; Organizing; and Higher Ordered Analysis.  For more information about the MA Leadership competencies please see the LIP manual and the Monograph.
 
 During LDRS 697/698 you will document your implementation of the LDRS 697/698 goals through your completion of a series of elements largely negotiated between yourself and your advisor.  Your LIP will demonstrate your personal leadership development and how your development will  add value to employers.  LDRS 697/698 requires competent use of evidence-based scholarly knowledge, the ability to analyze an issue, discipline in the problem-solving process, and scholarly documentation and presentation of information.
-
 <h5>Leadership Integration Project (LDRS 697/698) Rationale</h5>
-
 Glanz has described an action research cycle as consisting of six steps: selecting of a focus, followed by data collection, then data analysis and interpretation, then action based on the data analysis, followed by reflection and then either continuing with, or modification of, the action all leading back to the selection of a new focus (Glanz, 1998, p. 27). The cycles of action research share a great deal of conceptual overlap with the process known as “praxis.”
 
 Praxis is a transliteration of a Greek word that is focused on both doing and planning (Kittel, Bromiley &amp; Freidreich 1964-1976, p. 632). The Brazilian educator Paulo Freire conceives of praxis as action and reflection (2006, p. 94). He asserts that humans are marked by the results of their actions. In acting they transform, and in transforming they create an environment that conditions their acting (Freire, 2006).
