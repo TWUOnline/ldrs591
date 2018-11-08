@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2017-06-29 14:39:12
 ---
-<!--themify_builder_static-->
-
-<ul> <li id="timeline-0">
+<!--themify_builder_static--><ul> <li id="timeline-0">
  Sept. 17-23 
  
  <h2><a href="https://create.twu.ca/ldrs591#Unit_1">Unit 1</a></h2> <ul> <li>Submit blog post and respond to peers post (Assignment 1)</li> </ul> 
@@ -61,8 +59,6 @@ post_date: 2017-06-29 14:39:12
  
  <h2><a href="https://create.twu.ca/ldrs591#Unit_10">Unit 10</a></h2> <ul> <li>Submit blog post and respond to peers post</li> <li>Submit Formal Literature Review (Assignment 5)</li> </ul> 
  </li>
- </ul>
-
-<!--/themify_builder_static-->
+ </ul><!--/themify_builder_static-->
 
 &nbsp;
