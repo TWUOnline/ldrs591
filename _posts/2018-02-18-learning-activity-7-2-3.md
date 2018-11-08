@@ -1,7 +1,7 @@
 ---
 ID: 3548
 post_title: Learning Activity 7.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 7 Learning Activities Is there a rationale provided for needing a mixed methods design? To enhance both reliability and validity, the current study employed a mixed method approach of conducting research. The strength of a mixed-method design is through implementing the best features of both types of data collection. The purpose of using a &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/19/learning-activity-7-2/">Continue reading<span> "Learning Activity 7.2"</span></a></p>'
 layout: post
 permalink: >

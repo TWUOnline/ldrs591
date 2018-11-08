@@ -1,7 +1,7 @@
 ---
 ID: 3814
 post_title: Learning Activity 10.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Home In unit 1, I shared a decision I had made as a leader. My decision occurred when I was acting admin for 2 days in my school and I had to make a discipline decision. In this particular incidence, I do not feel I would&rsquo;ve made my decision differently. My decision was based on &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/12/learning-activity-10-1/">Continue reading<span> "Learning Activity 10.1"</span></a></p>'
 layout: post
 permalink: >

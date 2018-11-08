@@ -1,8 +1,8 @@
 ---
 ID: 3688
 post_title: Learning Activity 9.3
-author: sadiethompson
-post_excerpt: 'https://create.twu.ca/ldrs591-sp18/#Unit_9 The most important thing for me about the conclusions section of a high-quality research report is a clear and organized summary of results and that the researcher carefully examines and relates the results to the literature. Plano-Clark and Creswell, 2015, say that the researcher should explicitly relate the results, as well as compare and &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/04/learning-activity-9-3/">Continue reading<span> "Learning Activity 9.3"</span></a></p>'
+author: sadieoberle
+post_excerpt: 'https://create.twu.ca/ldrs591/#Unit_9 The most important thing for me about the conclusions section of a high-quality research report is a clear and organized summary of results and that the researcher carefully examines and relates the results to the literature. Plano-Clark and Creswell, 2015, say that the researcher should explicitly relate the results, as well as compare and &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/04/learning-activity-9-3/">Continue reading<span> "Learning Activity 9.3"</span></a></p>'
 layout: post
 permalink: >
   https://create.twu.ca/sadiethompson/2018/03/04/learning-activity-9-3/

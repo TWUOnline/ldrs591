@@ -1,7 +1,7 @@
 ---
 ID: 3425
 post_title: Learning Activity 6.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'https://create.twu.ca/ldrs591/unit-6-learning-activities/ Chan, K. W. C, &amp; So, G. B. K. (2017). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4(1), 12-31. &nbsp; What research design was used to guide the study? Was it justified? (2) Plano-Clark and Creswell suggest that a case study research design is &ldquo;a set of qualitative procedures used &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-1/">Continue reading<span> "Learning Activity 6.1"</span></a></p>'
 layout: post
 permalink: >

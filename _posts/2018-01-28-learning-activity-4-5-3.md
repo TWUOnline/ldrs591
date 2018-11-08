@@ -1,7 +1,7 @@
 ---
 ID: 3119
 post_title: Learning Activity 4.5
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'As a consumer of research reports, the most important things for me in the introduction section of a high-quality research report are as follows: That the subject matter is of interest to me; That the author provides a clear and concise purpose statement in the introduction (P184 of clark and creswell); That the need for &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/29/learning-activity-4-5/">Continue reading<span> "Learning Activity 4.5"</span></a></p>'
 layout: post
 permalink: >

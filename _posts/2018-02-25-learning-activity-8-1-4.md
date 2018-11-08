@@ -1,8 +1,8 @@
 ---
 ID: 3612
 post_title: Learning Activity 8.1
-author: sadiethompson
-post_excerpt: 'https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/ &nbsp; Since I have started working at my school in 2013, one of the biggest problems that I have encountered is a low staff morale. It may not seem like a major issue to some, however when the staff morale is low, it affects teacher efficacy, teacher burnout rates and eventually affects the students. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/25/learning-activity-8-1/">Continue reading<span> "Learning Activity 8.1"</span></a></p>'
+author: sadieoberle
+post_excerpt: 'https://create.twu.ca/ldrs591/unit-8-learning-activities/ &nbsp; Since I have started working at my school in 2013, one of the biggest problems that I have encountered is a low staff morale. It may not seem like a major issue to some, however when the staff morale is low, it affects teacher efficacy, teacher burnout rates and eventually affects the students. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/25/learning-activity-8-1/">Continue reading<span> "Learning Activity 8.1"</span></a></p>'
 layout: post
 permalink: >
   https://create.twu.ca/sadiethompson/2018/02/25/learning-activity-8-1/

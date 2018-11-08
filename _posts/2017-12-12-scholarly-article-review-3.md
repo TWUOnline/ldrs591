@@ -76,4 +76,4 @@ Submit this assignment using the Assignment 4 drop box on Moodle.
 
 [table id=6 /]
 
-<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833"> Submit Scholarly Article Review in Moodle</a><!--/themify_builder_static-->
+<!--themify_builder_static--><a href="https://learn.twu.ca/mod/assign/view.php?id=47833" > Submit Scholarly Article Review in Moodle</a><!--/themify_builder_static-->

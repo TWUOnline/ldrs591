@@ -2,7 +2,7 @@
 ID: 2750
 post_title: Internet searches
 author: Simarjit
-post_excerpt: 'Internet search activity- https://create.twu.ca/ldrs591-sp18/unit-2-learning-activities/ So far my use of research has been based on articles that I read in a few peer-reviewed journals that I subscribe to. These have been articles that I read to update myself on the current advances in my field.&nbsp; While one would think that an internet search for scholarly articles [&hellip;]'
+post_excerpt: 'Internet search activity- https://create.twu.ca/ldrs591/unit-2-learning-activities/ So far my use of research has been based on articles that I read in a few peer-reviewed journals that I subscribe to. These have been articles that I read to update myself on the current advances in my field.&nbsp; While one would think that an internet search for scholarly articles [&hellip;]'
 layout: post
 permalink: >
   https://create.twu.ca/icandothis/2018/01/13/internet-searches/

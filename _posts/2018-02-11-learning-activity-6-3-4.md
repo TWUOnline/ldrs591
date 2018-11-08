@@ -1,8 +1,8 @@
 ---
 ID: 3421
 post_title: Learning Activity 6.3
-author: sadiethompson
-post_excerpt: 'https://create.twu.ca/ldrs591-sp18/unit-6-learning-activities/ Chan, K. W. C, &amp; So, G. B. K. (2017). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4(1), 12-31. Did the researcher(s) use at least three strategies to validate the findings? Chan and So did not provide evidence of Triangulation, member checking or an outsider audit to validate their findings. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-3/">Continue reading<span> "Learning Activity 6.3"</span></a></p>'
+author: sadieoberle
+post_excerpt: 'https://create.twu.ca/ldrs591/unit-6-learning-activities/ Chan, K. W. C, &amp; So, G. B. K. (2017). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4(1), 12-31. Did the researcher(s) use at least three strategies to validate the findings? Chan and So did not provide evidence of Triangulation, member checking or an outsider audit to validate their findings. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-3/">Continue reading<span> "Learning Activity 6.3"</span></a></p>'
 layout: post
 permalink: >
   https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-3/

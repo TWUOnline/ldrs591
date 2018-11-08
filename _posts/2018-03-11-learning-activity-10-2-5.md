@@ -1,7 +1,7 @@
 ---
 ID: 3812
 post_title: Learning Activity 10.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'https://create.twu.ca/ldrs591/#Unit_10 Stone et. Al, (2003), discuss that the underlying focus of transformational and servant leadership is how the leader focus&rsquo; on the people. &ldquo;While transformational leaders and servant leaders both show concern for their followers, the overriding focus of the servant leader is upon service to their followers. The transformational leader has a greater concern &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/12/learning-activity-10-2/">Continue reading<span> "Learning Activity 10.2"</span></a></p>'
 layout: post
 permalink: >

@@ -5,8 +5,7 @@ post_title: >
   – Podcast
 author: lewa
 post_excerpt: |
-  
-  Link to assignment: https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/
+  Link to assignment: https://create.twu.ca/ldrs591/unit-8-learning-activities/
 layout: post
 permalink: >
   https://create.twu.ca/lewa/2018/02/22/ldrs591-unit-8-learning-activity-8-2-podcast/

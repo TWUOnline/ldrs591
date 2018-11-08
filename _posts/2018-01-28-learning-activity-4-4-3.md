@@ -1,7 +1,7 @@
 ---
 ID: 3102
 post_title: Learning Activity 4.4
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Is the study&rsquo;s purpose clearly specified? Yes the purpose of the study is clearly stated. It is to &ldquo;identify empirical studies that explored servant leadership theory by engaging a sample population in order to assess and synthesize the mechanisms and outcomes and impact on servant leadership&rdquo; (Parris, D., &amp; Peachey, J., 2013, p. 377). Is &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/29/learning-activity-4-4/">Continue reading<span> "Learning Activity 4.4"</span></a></p>'
 layout: post
 permalink: >

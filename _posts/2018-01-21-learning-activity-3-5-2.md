@@ -1,7 +1,7 @@
 ---
 ID: 2923
 post_title: Learning Activity 3.5
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Learning Activity 3.5 &nbsp; Direct Quote: &nbsp; Other researchers have not yet investigated the impact of PCDD/F and PCB&rsquo;s on human development &ldquo;To our knowledge, the influence of PCDD/F exposure on attention performance in children of school age has not been studied yet&rdquo; (Neugebauer, J.W., et al., 2015, p. 154). &nbsp; Reference: American Psychological Association &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/22/learning-activity-3-5/">Continue reading<span> "Learning Activity 3.5"</span></a></p>'
 layout: post
 permalink: >

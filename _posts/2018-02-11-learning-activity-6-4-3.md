@@ -1,7 +1,7 @@
 ---
 ID: 3420
 post_title: Learning Activity 6.4
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'https://create.twu.ca/ldrs591/unit-6-learning-activities/ As a consumer of research reports, the most important thing(s) for me in the methods and results section of a high-quality qualitative research report is the explanation and justification of a research design. I found it difficult to determine the research design when it was not explicitly stated. Plano-Clark and Creswell (2015) offer many &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-4/">Continue reading<span> "Learning Activity 6.4"</span></a></p>'
 layout: post
 permalink: >

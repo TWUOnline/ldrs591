@@ -1,7 +1,7 @@
 ---
 ID: 2776
 post_title: Learning Activity 2.3
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'This is an article that I found in my search in the Academic Search Complete database: Exposures to Environmental Toxicants and Attention Deficit Hyperactivity Disorder in U.S. Children (http://ezproxy.student.twu.ca:2152/ehost/pdfviewer/pdfviewer?vid=6&amp;sid=dfb18b79-999d-4e90-a886-bd5ec14eef2b%40sessionmgr4006) There are 5 authors for this article. They are Joe M. Braun, Robert S. Kahn, Tanya Froehlich, Peggy Auinger, and Bruce P. Lanphear. There credentials are &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/15/learning-activity-2-3/">Continue reading<span> "Learning Activity 2.3"</span></a></p>'
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3105
 post_title: Learning Activity 4.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'I have chosen to use the article by Parris, D., &amp; Peachey, J. (2013). A Systematic Literature Review of Servant Leadership Theory in Organizational Contexts. Journal Of Business Ethics, 113(3), 377-393 to complete the Unit 4.2 assignment. &nbsp; Is the topic interesting? The topic of Servant Leadership is interesting because although its origins stem from &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/29/learning-activity-4-2/">Continue reading<span> "Learning Activity 4.2"</span></a></p>'
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3614
 post_title: Learning Activity 8.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 8 Learning Activities &nbsp; Austin, A. E., Council of Independent Colleges, W. D., &amp; And, O. (1991). A Good Place to Work: Sourcebook for the Academic Workplace. Gruenert, S., &amp; Whitaker, T. (2015). School culture rewired : how to define, assess, and transform it. Alexandria, VA : ASCD, [2015]. Larkin, P., Clagett, C., &amp; &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/25/learning-activity-8-2/">Continue reading<span> "Learning Activity 8.2"</span></a></p>'
 layout: post
 permalink: >

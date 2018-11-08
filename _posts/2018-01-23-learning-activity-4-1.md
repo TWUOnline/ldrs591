@@ -1,7 +1,7 @@
 ---
 ID: 2950
 post_title: Learning Activity 4.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: '&nbsp; Learning Activity 4.1 Why is servant leadership an interesting or worthwhile topic/phenomenon to research? &nbsp; Servant leadership is an interesting topic/phenomenon to research because typically the words &nbsp;&ldquo;servant&rdquo; and &ldquo;leadership&rdquo; are oxymorons, they are a contradiction in terms of how most scholars view attributes of a leader (Sendjaya, S. and Sattos, J., 2002 p. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/24/learning-activity-4-1/">Continue reading<span> "Learning Activity 4.1"</span></a></p>'
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3308
 post_title: Learning Activity 5.3
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 5 Learning Activities &nbsp; The data were rigorously scored and prepared (3/3) &ndash; Cerit provides a clear explanation of the scoring process and results of the questionnaire. The servant leadership scale (OLA), developed by Laub in 1999, was used in this research. It is a measurement scale that uses six factors of servant leadership. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/05/learning-activity-5-3/">Continue reading<span> "Learning Activity 5.3"</span></a></p>'
 layout: post
 permalink: >

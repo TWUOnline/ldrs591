@@ -1,7 +1,7 @@
 ---
 ID: 2783
 post_title: Learning Activity 2.5
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'I have learned many new and more efficient ways to use the TWU library search page and I believe that this will help me to be more successful with my research. Although I found some of the topics for e-books very interesting, I believe that I will find the most current and valuable information through &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/15/learning-activity-2-5/">Continue reading<span> "Learning Activity 2.5"</span></a></p>'
 layout: post
 permalink: >

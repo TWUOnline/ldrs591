@@ -1,7 +1,7 @@
 ---
 ID: 2622
 post_title: Narrating U
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'I have decided to organize my site using categories and tags as recommended. I used this set-up previously and I believe that is the most efficient for me. I have decided to also add menus to my site. I have title them by course name, which I hope will help me when searching for old &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/05/narrating-u/">Continue reading<span> "Narrating U"</span></a></p>'
 layout: post
 permalink: >
