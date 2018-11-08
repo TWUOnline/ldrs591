@@ -5,7 +5,7 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/ldrs591-sp18/course-description/
+  https://create.twu.ca/ldrs591/course-description/
 published: true
 post_date: 2017-11-24 14:49:50
 ---
@@ -48,4 +48,4 @@ The table below lists all of the assignments for this course. All of the assignm
 
 <!--themify_builder_static--><h3>Important!</h3> <p>It will be assumed that you have read, understand, and agree to the information provided at the &#8216;Academic Integrity&#8217; link below. If you have any questions at all please contact your instructor.</p>
  
- <a href="https://create.twu.ca/ldrs591-sp18/academic-integrity" > Academic Integrity</a> <a href="https://create.twu.ca/ldrs591-sp18/apa-resources" > APA Resources</a><!--/themify_builder_static-->
+ <a href="https://create.twu.ca/ldrs591/academic-integrity"> Academic Integrity</a> <a href="https://create.twu.ca/ldrs591/apa-resources"> APA Resources</a><!--/themify_builder_static-->

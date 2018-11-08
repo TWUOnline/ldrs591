@@ -9,29 +9,19 @@ permalink: >
 published: true
 post_date: 2018-10-07 10:02:39
 ---
-Thank you for sharing your experience with APA style.  I enjoyed reading your post and will respond to your questions here.
-
+<p>Thank you for sharing your experience with APA style.  I enjoyed reading your post and will respond to your questions here.</p>
 <div class="post-embed">
-<blockquote class="wp-embedded-content" data-secret="Ff6HBoGuz0"><a href="https://create.twu.ca/awalkinthewoods/unit-3-my-relationship-with-apa/">Unit 3 &#8211; My Relationship With APA</a></p></blockquote>
-<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://create.twu.ca/awalkinthewoods/unit-3-my-relationship-with-apa/embed/#?secret=Ff6HBoGuz0" data-secret="Ff6HBoGuz0" width="600" height="338" title="&#8220;Unit 3 &#8211; My Relationship With APA&#8221; &#8212; A Walk in the Woods"  marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
-
+<blockquote class="wp-embedded-content" data-secret="Ff6HBoGuz0"><p><a href="https://create.twu.ca/awalkinthewoods/unit-3-my-relationship-with-apa/">Unit 3 &#8211; My Relationship With APA</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://create.twu.ca/awalkinthewoods/unit-3-my-relationship-with-apa/embed/#?secret=Ff6HBoGuz0" data-secret="Ff6HBoGuz0" width="600" height="338" title="&#8220;Unit 3 &#8211; My Relationship With APA&#8221; &#8212; A Walk in the Woods"  marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
 <ol>
 <li>As part of the check list of what you are looking for, you mention that, “all sources listed in the References have at least 1 corresponding in text citation” (Strong, 2018).  Does that mean, if we read published journal articles or books that relate to our topic but don’t end up directly quoting or paraphrasing from them that we are NOT to include them in our References list?</li>
 </ol>
-
-<p><em><strong>Yes, that is exactly what it means.</strong>  </em>
-<blockquote>An APA style reference list lists only the sources you refer to in your writing.
-
-The purpose of the reference list is to allow your sources to be be found by your reader.  It also gives credit to authors you have consulted for their ideas.  All references cited in the text must appear in the reference list, except for personal communications (such as conversations or emails) which cannot be retrieved.
-
-A bibliography is different from a reference list as it lists all the sources used during your research and background reading, not just the ones you refer to in your writing. <em><a href="https://aut.ac.nz.libguides.com/APA6th/referencelist">Source</a></em>
-
-</blockquote>
-
-2. What are the most common errors you see made by your students when writing scholarly papers and what are your personal tips in avoiding these?
-
-<em><strong>Great question!</strong>  Let me start by stating that I expect students to make many APA mistakes in this course.  I don&#8217;t expect everyone to read the APA manual and be able to apply every detail automatically.  What I do expect is that you try to begin applying what you have learned about APA.  You will find with every assignment that you will make APA mistakes, and that is ok.  I actually find the best way to learn APA is to make mistakes, correct them, and then learn what to do the next time.  I still make mistakes and I have been working with APA style for 16 years. The most common errors that I consistently see are provided below: </em>
-
+<p><em><strong>Yes, that is exactly what it means.</strong>  </em></p>
+<blockquote><p>An APA style reference list lists only the sources you refer to in your writing.</p>
+<p>The purpose of the reference list is to allow your sources to be be found by your reader.  It also gives credit to authors you have consulted for their ideas.  All references cited in the text must appear in the reference list, except for personal communications (such as conversations or emails) which cannot be retrieved.</p>
+<p>A bibliography is different from a reference list as it lists all the sources used during your research and background reading, not just the ones you refer to in your writing. <em><a href="https://aut.ac.nz.libguides.com/APA6th/referencelist">Source</a></em></p></blockquote>
+<p>2. What are the most common errors you see made by your students when writing scholarly papers and what are your personal tips in avoiding these?</p>
+<p><em><strong>Great question!</strong>  Let me start by stating that I expect students to make many APA mistakes in this course.  I don&#8217;t expect everyone to read the APA manual and be able to apply every detail automatically.  What I do expect is that you try to begin applying what you have learned about APA.  You will find with every assignment that you will make APA mistakes, and that is ok.  I actually find the best way to learn APA is to make mistakes, correct them, and then learn what to do the next time.  I still make mistakes and I have been working with APA style for 16 years. The most common errors that I consistently see are provided below: </em></p>
 <ul>
 <li>Running head: SHORT ALL CAPS TITLE  This is flush left, 1/2 inch from the to (the word head has a lowercase h). The title should exactly match the paper title but shortened if needed to accommodate no more than 50 spaces in length, including spaces.</li>
 <li>Title information includes the first letter of any major words capitalized (4 words or greater), double spaced, centered in the upper half of the page.</li>
@@ -60,35 +50,20 @@ A bibliography is different from a reference list as it lists all the sources 
 <li>For any citations ending with a URL all hyperlinking (blue, underline) is removed and there is no period at the end of the hyperlink.</li>
 <li>APA Style uses two kinds of capitalization to format reference titles: title case and sentence case. APA’s title case refers to a capitalization style in which most words are capitalized, and sentence case refers to a capitalization style in which most words are lowercase.</li>
 </ul>
-
-<em>I think what you have suggested are great ideas to work on APA.  </em>
-
+<p><em>I think what you have suggested are great ideas to work on APA.  </em></p>
 <ul>
 <li>Ask the question, ‘by whom’? to ensure you are writing in an active voice.</li>
 <li>Cross out unessential words or areas where I repeat points during the editing process.</li>
 <li>Ask for feedback from a colleague when editing (peer review is a great idea!)</li>
 </ul>
-
-<ol>
-<li>Is writing in first person discouraged other than when it involves a study that the writer was involved in?  Is sharing personal experiences discouraged?</li>
-</ol>
-
-According to McAdoo (2009) &#8220;<em>I </em>or <em>we </em>is perfectly acceptable in APA Style! In fact, the <em>Publication Manual </em>actually recommends using first person, when appropriate, to avoid ambiguity&#8221;.  For more information on this see the following article <a href="http://blog.apastyle.org/apastyle/2009/09/use-of-first-person-in-apa-style.html">http://blog.apastyle.org/apastyle/2009/09/use-of-first-person-in-apa-style.html</a>
-
-<ol>
-<li>When referencing a YouTube video, after the title, should we be putting in brackets …  [Video podcast]?</li>
-</ol>
-
-<em>The general format for a youtube video is this:</em>
-
-Author, A. A. [Screen name]. (year, month day). <em>Title of video</em> [Video file]. Retrieved from http://xxxxx
-
-Thanks for your questions!
-
-Dr. Strong
-
+<p>3. Is writing in first person discouraged other than when it involves a study that the writer was involved in?  Is sharing personal experiences discouraged?</p>
+<p>According to McAdoo (2009) &#8220;<em>I </em>or <em>we </em>is perfectly acceptable in APA Style! In fact, the <em>Publication Manual </em>actually recommends using first person, when appropriate, to avoid ambiguity&#8221;.  For more information on this see the following article <a href="http://blog.apastyle.org/apastyle/2009/09/use-of-first-person-in-apa-style.html">http://blog.apastyle.org/apastyle/2009/09/use-of-first-person-in-apa-style.html</a></p>
+<p>4. When referencing a YouTube video, after the title, should we be putting in brackets …  [Video podcast]?</p>
+<p><em>The general format for a youtube video is this:</em></p>
+<p>Author, A. A. [Screen name]. (year, month day). <em>Title of video</em> [Video file]. Retrieved from http://xxxxx</p>
+<p>Thanks for your questions!</p>
+<p>Dr. Strong</p>
 <div id="themify_builder_content-278" data-postid="278" class="themify_builder_content themify_builder_content-278 themify_builder">
 
     </div>
-
 <!-- /themify_builder_content -->

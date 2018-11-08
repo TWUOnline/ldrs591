@@ -4,8 +4,7 @@ post_title: Overview
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs591-sp18/overview/
+permalink: https://create.twu.ca/ldrs591/overview/
 published: true
 post_date: 2017-11-22 21:51:28
 ---
@@ -25,7 +24,7 @@ At the end of the unit, the student will be able to
 
 ### Resources
 
-Plano-Clark, V., & Creswell, J. (2015). _Understanding research: A consumer's guide. (2nd Ed.)._ Boston, MA: Pearson.
+Plano-Clark, V., &amp; Creswell, J. (2015). _Understanding research: A consumer's guide. (2nd Ed.)._ Boston, MA: Pearson.
 
 ##### E-Resources
 
@@ -35,4 +34,4 @@ Patton, M. (2001). Evaluation, knowledge management, best practices and high qua
 
 Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? _Delta Kappa Gamma Bulletin, 73_(4), 5-8.
 
-Walshe, K. & Rundall, T. G. (2001). Evidence-based management: From theory to practice in health care. _The Millbank Quarterly, 79_ (3), 429-457.
+Walshe, K. &amp; Rundall, T. G. (2001). Evidence-based management: From theory to practice in health care. _The Millbank Quarterly, 79_ (3), 429-457.

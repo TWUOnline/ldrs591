@@ -4,8 +4,7 @@ post_title: About
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs591-sp18/about/
+permalink: https://create.twu.ca/ldrs591/about/
 published: true
 post_date: 2017-11-07 14:27:56
 ---

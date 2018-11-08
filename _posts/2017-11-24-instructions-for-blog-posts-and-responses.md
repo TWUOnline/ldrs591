@@ -17,28 +17,6 @@ This on-going assignment accounts for 25% of the final grade of this course. The
 
 All blog posts should be between 250 and 500 words.
 
-##### **Blog posts and responses requested in the course**
-
-* Unit 1 Learning Activity 1, 2, 3. Respond to colleagues' posts.
-
-* Unit 2 Learning Activity 3, 4, 5.
-
-* Unit 3 Learning Activity 1, 2, 3, 4, 5.
-
-* Unit 4 Learning Activity 2, 3, 4, 5. Respond to colleagues' posts.
-
-* Unit 5 Learning Activity 1, 2, 3, 4. Respond to colleagues' posts.
-
-* Unit 6 Learning Activity 1, 2, 3, 4. Respond to colleagues' posts.
-
-* Unit 7 Learning Activity 1 and 2.
-
-* Unit 8 Learning Activity 1.
-
-* Unit 9 Learning Activity 1 and 2. Respond to colleagues' posts.
-
-* Unit 10 Learning Activity 1, 2, 3. Respond to colleagues' posts.
-
 ##### Marking criteria for posts and responses: {#marking-criteria-for-posts-and-responses}
 
 The following criteria will be used to assign marks to your blog posts and colleague responses:
@@ -51,7 +29,7 @@ The following criteria will be used to assign marks to your blog posts and colle
 
 Marks accumulate at 3% per week 3= outstanding on all criteria above; 2= meeting expectations; 1= not meeting all expectations as outlined above but made an effort; 0 = did not make an effort to answer the question
 
-In Unit 4, 5, 6, 7, 9 you will be asked to provide a brief reflection on the topic for the unit. Below you will find the reflection brief rubric for these specific blog post responses.
+Below you will find the rubric for these specific blog post responses.
 <h5>Reflection Brief Rubric:</h5>
 [table id=16 /]
 

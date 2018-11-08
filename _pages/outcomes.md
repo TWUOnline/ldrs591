@@ -4,8 +4,7 @@ post_title: Outcomes
 author: Colin Madland
 post_excerpt: ""
 layout: page
-permalink: >
-  https://create.twu.ca/ldrs591-sp18/outcomes/
+permalink: https://create.twu.ca/ldrs591/outcomes/
 published: true
 post_date: 2017-11-24 14:49:50
 ---

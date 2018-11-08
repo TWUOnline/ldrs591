@@ -15,7 +15,7 @@ Research is a process which involves information gathering and analysis to grow 
 
 My first exposure to research occurred during my undergraduate degree where I took classes in statistic and  research design.
 
-The informal research can be classified as empirical if we consider intuition, and non-empirical if one uses authority or logic. Whereas, formal research is a scientific process meaning &#8220;empirical, objective, self-correcting, progressive, tentative, parsimonious, and concerned with theory&#8221; (McBurney and White, 2010, p. 26).
+The informal research can be classified as empirical if we consider intuition, and non-empirical if one uses authority or logic. Whereas, formal research is a scientific process meaning “empirical, objective, self-correcting, progressive, tentative, parsimonious, and concerned with theory” (McBurney and White, 2010, p. 26).
 
 Part 2
 
@@ -47,7 +47,7 @@ Mc Burney, D. H. &amp; White, T. L. (2010). <em>Research Methods (8th ed). </em
 
 Pfeffer, J. &amp; Sutton, R. I. (2006). Evidence-based management. <em>Harvard Business Review</em>. Retrieved from <b><a href="https://hbr.org/2006/01/evidence-based-management">https://hbr.org/2006/01/evidence-based-management</a></b>
 
-Plano Clark, V. L. &amp; Creswell, J. W. (2015). Understanding Research: A Consumer&#8217;s Guide. (2 ed). Upper Saddle River, NJ: Pearson.
+Plano Clark, V. L. &amp; Creswell, J. W. (2015). Understanding Research: A Consumer’s Guide. (2 ed). Upper Saddle River, NJ: Pearson.
 
 Trybus, M. (2007). Understanding scientifically based research: A mandate or decision making tool? <em>Delta Kappa Gamma Bulletin, 73</em>(4), 5-8.
 
