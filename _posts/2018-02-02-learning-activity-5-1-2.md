@@ -1,7 +1,7 @@
 ---
 ID: 3232
 post_title: Learning Activity 5.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 5 Learning Activities What quantitative research design is used and is it justified? The quantitative research design used in this nonexperimental research is a survey design. (Plano Clark and Creswell, 2015, P 196). The purpose of the study was to examine the effects of the servant leadership behaviour in principals of elementary schools, and &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/02/learning-activity-5-1/">Continue reading<span> "Learning Activity 5.1"</span></a></p>'
 layout: post
 permalink: >

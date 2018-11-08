@@ -1,7 +1,7 @@
 ---
 ID: 2618
 post_title: Learning Activity 1.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'What factors do you think shape your decision-making process as a leader? I believe that the most influential factors in my decision-making process are my own personal values, policies that are in place, past experiences, and the knowledge and advice that I seek from people that are experienced and that I trust. When faced with &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/08/learning-activity-1-2/">Continue reading<span> "Learning Activity 1.2"</span></a></p>'
 layout: post
 permalink: >

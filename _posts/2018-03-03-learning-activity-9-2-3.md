@@ -1,7 +1,7 @@
 ---
 ID: 3689
 post_title: Learning Activity 9.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Home &nbsp; Are the major results identified and summarized? The results are identified in the Results section of the article. In the Discussion section of the article, the results are presented but they are not related to other models or descriptions of servant-leadership in the literature. Further the authors suggest: &ldquo;that servant leadership can provide &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/04/199/">Continue reading<span> "Learning Activity 9.2"</span></a></p>'
 layout: post
 permalink: >

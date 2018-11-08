@@ -1,7 +1,7 @@
 ---
 ID: 2657
 post_title: Assignment 1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: '&nbsp; What research questions can be generated from combining different areas of personal and/or professional interests you have identified in the concept map? Please state three potential research questions that could be studied. My concept map has inspired me to learn more about: 1. How does overall health impact students with special needs? 2. How &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/09/assignment-1/">Continue reading<span> "Assignment 1"</span></a></p>'
 layout: post
 permalink: >

@@ -1,7 +1,7 @@
 ---
 ID: 3310
 post_title: Learning Activity 5.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 5 Learning Activities &nbsp; The sampling strategy is appropriate and justified (3/3) &ndash; &nbsp;Cerit provides a clear explanation of the gender, teaching experience and levels of education for the teachers that responded to the survey. The survey was sent out to 700 teachers and 595 responded. This is an appropriate sample size for the &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/05/learning-activity-5-2/">Continue reading<span> "Learning Activity 5.2"</span></a></p>'
 layout: post
 permalink: >

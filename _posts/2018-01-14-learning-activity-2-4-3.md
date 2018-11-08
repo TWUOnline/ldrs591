@@ -1,7 +1,7 @@
 ---
 ID: 2775
 post_title: Learning Activity 2.4
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'The e-book I have found for this learning activity is Hope for the autism spectrum [electronic resource] : a mother and son journey of insight and biomedical intervention. The author of this books is Sally Kirk. It was published by Jessica Kingsley out of London, Philadelphia in 2008, c2009. http://library.twu.ca/uhtbin/cgisirsi.exe/?ps=pDd8hy8duD/MAIN/16210070/9 The author, Sally Kirk, is &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/15/learning-activity-2-4/">Continue reading<span> "Learning Activity 2.4"</span></a></p>'
 layout: post
 permalink: >

@@ -1,8 +1,8 @@
 ---
 ID: 3811
 post_title: Learning Activity 10.3
-author: sadiethompson
-post_excerpt: 'https://create.twu.ca/ldrs591-sp18/#Unit_10 How can I know that I can trust what I am reading? After completing this course, I feel that I have been given many tools to increase the level of skepticism and critical thinking that I use when reading research. I believe that there is always a chance that what we are reading may &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/12/learning-activity-10-3/">Continue reading<span> "Learning Activity 10.3"</span></a></p>'
+author: sadieoberle
+post_excerpt: 'https://create.twu.ca/ldrs591/#Unit_10 How can I know that I can trust what I am reading? After completing this course, I feel that I have been given many tools to increase the level of skepticism and critical thinking that I use when reading research. I believe that there is always a chance that what we are reading may &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/12/learning-activity-10-3/">Continue reading<span> "Learning Activity 10.3"</span></a></p>'
 layout: post
 permalink: >
   https://create.twu.ca/sadiethompson/2018/03/12/learning-activity-10-3/

@@ -1,7 +1,7 @@
 ---
 ID: 3423
 post_title: Learning Activity 6.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'https://create.twu.ca/ldrs591/unit-6-learning-activities/ Chan, K. W. C, &amp; So, G. B. K. (2017). Cultivating servant leaders in secondary schooling. Servant Leadership: Theory and Practice, 4(1), 12-31. What sampling strategy is used and is it appropriate and justified? Plano-Clark and Creswell suggest that Theory or Concept Sampling is used to &ldquo;generate a theory or explore a concept.&rdquo; (Plano-Clark &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/11/learning-activity-6-2/">Continue reading<span> "Learning Activity 6.2"</span></a></p>'
 layout: post
 permalink: >

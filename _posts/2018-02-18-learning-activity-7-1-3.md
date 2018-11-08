@@ -1,8 +1,8 @@
 ---
 ID: 3544
 post_title: Learning Activity 7.1
-author: sadiethompson
-post_excerpt: 'https://create.twu.ca/ldrs591-sp18/unit-7-learning-activities/ At the heart of the quantitative/qualitative research debate are the strengths and weaknesses of each method of research. &nbsp;Each method has its limitations. But by designing research to combine the strengths of each of the qualitative and of the quantitative methods, researchers hope to gain a better understanding of the research problem than by &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/19/learning-activity-7-1/">Continue reading<span> "Learning Activity 7.1"</span></a></p>'
+author: sadieoberle
+post_excerpt: 'https://create.twu.ca/ldrs591/unit-7-learning-activities/ At the heart of the quantitative/qualitative research debate are the strengths and weaknesses of each method of research. &nbsp;Each method has its limitations. But by designing research to combine the strengths of each of the qualitative and of the quantitative methods, researchers hope to gain a better understanding of the research problem than by &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/02/19/learning-activity-7-1/">Continue reading<span> "Learning Activity 7.1"</span></a></p>'
 layout: post
 permalink: >
   https://create.twu.ca/sadiethompson/2018/02/19/learning-activity-7-1/

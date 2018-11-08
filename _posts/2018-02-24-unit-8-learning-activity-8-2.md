@@ -3,8 +3,7 @@ ID: 3607
 post_title: Unit 8, Learning activity 8.2
 author: layla
 post_excerpt: |
-  
-  https://create.twu.ca/ldrs591-sp18/unit-8-learning-activities/
+  https://create.twu.ca/ldrs591/unit-8-learning-activities/
 layout: post
 permalink: >
   https://create.twu.ca/layla11/2018/02/24/unit-8-learning-activity-8-2/

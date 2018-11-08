@@ -1,7 +1,7 @@
 ---
 ID: 2620
 post_title: Learning Activity 1.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Research is something that I find to be challenging. In chapter one, Clark and Creswell discuss that research is sometimes the most difficult type of text for people to read because they are unfamiliar with the structure of research text and because it uses a type of language which is more challenging to comprehend. (Clark &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/08/learning-activity-1-1/">Continue reading<span> "Learning Activity 1.1"</span></a></p>'
 layout: post
 permalink: >

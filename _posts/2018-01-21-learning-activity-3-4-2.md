@@ -1,7 +1,7 @@
 ---
 ID: 2918
 post_title: Learning Activity 3.4
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 3 Learning Activities References Diet related to killer diseases: hearings before the Select Committee on Nutrition and Human Needs of the United States Senate, Ninety-fifth Congress, first session. (1977). Washington: U.S. Govt. Print. Off., 1977-. Englehart, D. (2005). Health, hygiene, and nutrition: grades 3-4. Grand Rapids: Instructional Fair, c2005. Hunter, E. M., Neubert, M. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/21/learning-activity-3-4/">Continue reading<span> "Learning Activity 3.4"</span></a></p>'
 layout: post
 permalink: >

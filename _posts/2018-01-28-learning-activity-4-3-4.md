@@ -1,7 +1,7 @@
 ---
 ID: 3103
 post_title: Learning Activity 4.3
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Learning Activity 4.3: Does the review include relevant literature? The article includes a reference section that is roughly 3 and a half pages in length. The authors referenced numerous sources related to the article. The authors clarify that the purpose of their study was to examine the research that is available on servant leadership (Parris &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/29/learning-activity-4-3/">Continue reading<span> "Learning Activity 4.3"</span></a></p>'
 layout: post
 permalink: >

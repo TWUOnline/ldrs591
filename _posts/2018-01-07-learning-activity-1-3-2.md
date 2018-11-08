@@ -1,7 +1,7 @@
 ---
 ID: 2624
 post_title: Learning Activity 1.3
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'The authors of these articles conceptualize &ldquo;evidence&rdquo; as the results of research. They conceptualize evidence-based leadership as a challenging, yet highly reliable means of leadership. Evidence based research helps to minimize the human error in that one&rsquo;s perception &nbsp;of a situation and how to handle it, can differ from the actual reality of the situation. &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/08/learning-activity-1-3/">Continue reading<span> "Learning Activity 1.3"</span></a></p>'
 layout: post
 permalink: >

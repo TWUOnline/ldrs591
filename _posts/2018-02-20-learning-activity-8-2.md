@@ -2,7 +2,7 @@
 ID: 3569
 post_title: Learning Activity 8.2
 author: Oliver Parsons
-post_excerpt: \n
+post_excerpt: ""
 layout: post
 permalink: >
   https://create.twu.ca/oplearning/2018/02/21/learning-activity-8-2/

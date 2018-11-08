@@ -2,7 +2,7 @@
 ID: 3598
 post_title: LDRS 591, Unit 8, Activity 8.2
 author: Leona So
-post_excerpt: \n
+post_excerpt: ""
 layout: post
 permalink: >
   https://create.twu.ca/soleona/2018/02/23/ldrs-591-unit-8-activity-8-2/

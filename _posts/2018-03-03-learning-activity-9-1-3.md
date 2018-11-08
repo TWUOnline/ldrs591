@@ -1,7 +1,7 @@
 ---
 ID: 3685
 post_title: Learning Activity 9.1
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 9 Learning Activities &nbsp; Does the problem focus on a real problem in practice? The problem that the researcher plans to study is the decline in female participation in sports from middle school to high school levels. Tom tells us that there is a high amount of participation when the girls are in middle &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/03/04/learning-activity-9-1/">Continue reading<span> "Learning Activity 9.1"</span></a></p>'
 layout: post
 permalink: >

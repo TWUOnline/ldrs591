@@ -1,7 +1,7 @@
 ---
 ID: 2912
 post_title: Learning Activity 3.2
-author: sadiethompson
+author: sadieoberle
 post_excerpt: 'Unit 3 Learning Activities Article title &nbsp; The influence of low level pre- and perinatal exposure to PCDD/Fs, PCBs, and lead on attention performance and attention-related behavior among German school-aged children. &nbsp; Authors Julia Neugebauer, (Department of Hygiene, Social and Environmental Medicine, Ruhr-University Bochum, Universit&auml;tsstra&szlig;e 150, D-44801 Bochum, Germany) J&uuml;rgen Wittsiepe, (Department of Hygiene, Social &hellip; <p><a href="https://create.twu.ca/sadiethompson/2018/01/21/learning-activity-3-2/">Continue reading<span> "Learning Activity 3.2"</span></a></p>'
 layout: post
 permalink: >
