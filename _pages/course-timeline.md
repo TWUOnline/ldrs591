@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2017-06-29 14:39:12
 ---
-<!--themify_builder_static--><ul> <li id="timeline-0">
+<!--themify_builder_static-->
+
+<ul> <li id="timeline-0">
  Sept. 17-23 
  
  <h2><a href="https://create.twu.ca/ldrs591#Unit_1">Unit 1</a></h2> <ul> <li>Submit blog post and respond to peers post (Assignment 1)</li> </ul> 
@@ -59,51 +61,71 @@ post_date: 2017-06-29 14:39:12
  
  <h2><a href="https://create.twu.ca/ldrs591#Unit_10">Unit 10</a></h2> <ul> <li>Submit blog post and respond to peers post</li> <li>Submit Formal Literature Review (Assignment 5)</li> </ul> 
  </li>
- </ul><!--/themify_builder_static-->
-### Unit 1 - Sept. 17-23
+ </ul>
 
-* Submit blog post and respond to peers post (Assignment 1)
+<!--/themify_builder_static-->
 
-### Unit 2 - Sept. 24-30
+<h3>Unit 1 - Sept. 17-23</h3>
 
-* Submit blog post and respond to peers post
-* Submit Clarifying Your Research Interest (Assignment 2)
+<ul>
+<li>Submit blog post and respond to peers post (Assignment 1)</li>
+</ul>
 
-### Unit 3 - Oct. 1-7
+<h3>Unit 2 - Sept. 24-30</h3>
 
-* Submit blog post and respond to peers post
+<ul>
+<li>Submit blog post and respond to peers post</li>
+<li>Submit Clarifying Your Research Interest (Assignment 2)</li>
+</ul>
 
-### Unit 4 - Oct. 8-14
+<h3>Unit 3 - Oct. 1-7</h3>
 
-* Submit blog post and respond to peers post
+<ul>
+<li>Submit blog post and respond to peers post</li>
+</ul>
 
-### Unit 5 - Oct. 15-21
+<h3>Unit 4 - Oct. 8-14</h3>
 
-* Submit blog post and respond to peers post
-* Submit Literature Review Search (Assignment 3)
+<ul>
+<li>Submit blog post and respond to peers post</li>
+</ul>
 
-### Unit 6 - Oct. 22-28
+<h3>Unit 5 - Oct. 15-21</h3>
 
-* Submit blog post and respond to peers post
+<ul>
+<li>Submit blog post and respond to peers post</li>
+<li>Submit Literature Review Search (Assignment 3)</li>
+</ul>
 
-### Unit 7 - Oct. 29 - Nov. 4
+<h3>Unit 6 - Oct. 22-28</h3>
 
-* Submit blog post and respond to peers post
-* Submit Scholarly Article Review (Assignment 4)
+<ul>
+<li>Submit blog post and respond to peers post</li>
+</ul>
 
-### Unit 8 - Nov. 5-11
+<h3>Unit 7 - Oct. 29 - Nov. 4</h3>
 
-* Create a podcast
-* Submit blog post and respond to peers post
+<ul>
+<li>Submit blog post and respond to peers post</li>
+<li>Submit Scholarly Article Review (Assignment 4)</li>
+</ul>
 
-### Unit 9 - Nov. 12-18
+<h3>Unit 8 - Nov. 5-11</h3>
 
-* Submit blog post and respond to peers post
+<ul>
+<li>Create a podcast</li>
+<li>Submit blog post and respond to peers post</li>
+</ul>
 
-### Unit 10 - Nov. 19-25
+<h3>Unit 9 - Nov. 12-18</h3>
 
-* Submit blog post and respond to peers post
-* Submit Formal Literature Review (Assignment 5)
+<ul>
+<li>Submit blog post and respond to peers post</li>
+</ul>
 
+<h3>Unit 10 - Nov. 19-25</h3>
 
-
+<ul>
+<li>Submit blog post and respond to peers post</li>
+<li>Submit Formal Literature Review (Assignment 5)</li>
+</ul>
