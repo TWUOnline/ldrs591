@@ -85,7 +85,7 @@ There are three different categories of documents where you can find research re
 The chart below summarizes the relative advantages and disadvantages of each genre of scholarly literature. You can refer to Plano-Clark and Creswell (2015) pages 10-12 for more details.
 
 [table id=5 /]
-<h5>*Note</h5>
+<h5>Note</h5>
 High quality journals are determined by the peer review process, the journals impact factor (IF) and by professional reputation. The impact factor is a measure of the frequency with which the average article in a journal has been cited in a particular year. The IF is used to measure the importance or rank of a journal by calculating the times its articles are cited. The IF can be found on the home page of most online journals.
 
 Peer review is the process used by publishers and editors of academic/scholarly journals to ensure that the articles they publish meet the accepted standards of their discipline. Manuscripts being considered for publication are sent to independent experts in the same field (the author's scholarly or scientific peers). They evaluate the quality of the scholarship, reliability of findings, relevance to the field, appropriateness for the journal, etc.
