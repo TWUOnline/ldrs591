@@ -1,0 +1,149 @@
+# Understanding Mixed Methods Research Reports
+
+## Overview {.unnumbered}
+
+Plano-Clark and Creswell assert that the decision to engage in qualitative or quantitative research is driven by whether the research problem calls for an explanation or an exploration (2015, p. 63). A third genre---mixed methods---has developed. Mixed methods is the conscious inclusion of both qualitative and quantitative methods and so doing, seeks to mitigate some of the inherent tensions and weaknesses in both. Unit 7 investigates mixed methods research design.
+
+### Topics {.unnumbered}
+
+Unit 7 is divided into 3 topics:
+
+1. Introduction to Mixed-Methods Research
+2. Mixed-Methods Research Designs
+3. Using Mixed-Methods to Understand Leadership.
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit you should be able to:
+
+1. Discuss how a mixed-methods approach can advance research.
+2. Evaluate the quality of mixed methods research report on servant leadership.
+3. Apply a mixed-methods approach to the study of servant leadership.
+
+### Activity Checklist {.unnumbered}
+
+::: {.callout-tip icon=false appearance="simple"}
+
+**Learning Activities**
+
+- **Activity:** Read chapter 12 of your text. Watch a video.
+- **Activity:** Evaluate the use of the mixed methods approach in a servant leadership article.
+- **Activity:** Read an article and reflect in your learning journal.
+- **Assessment:** Contribute to the course discussions. See Assessment tab in Moodle for details.
+
+:::
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete the unit:
+
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+- *E-Resources:* The articles in this unit can be found through the [TWU library](https://www.twu.ca/library){target="_blank"}.
+
+## Introduction to Mixed-Methods Research
+
+This week, in Unit 7, I have prepared an audio message to introduce you to mixed methods research. You can listen to my audio message below.
+
+[*Listen: Welcome to Unit 7*](https://soundcloud.com/user-303479512){target="_blank"}
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/398715627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-303479512" title="hstrong" target="_blank" style="color: #cccccc; text-decoration: none;">hstrong</a> · <a href="https://soundcloud.com/user-303479512/welcome-to-unit-7-2" title="Welcome to Unit 7 (2)" target="_blank" style="color: #cccccc; text-decoration: none;">Welcome to Unit 7 (2)</a></div>
+
+
+### Activity: Watch, Read, and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 Begin this learning activity by watching the following video where John Creswell explains what mixed methods research is. In this video Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.
+
+[*Watch: What is Mixed Methods Research?*](https://www.youtube.com/watch?v=II_OoioL0-E){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/II_OoioL0-E?si=Oi1b_bZFjQujeYca >}}
+
+📖 Next, read chapter 12, "Mixed Methods Research," in Rosch, Kniffen, and Guthrie (2023).
+
+✏️ Finally, in your reflective learning journal, discuss the following question:
+
+1. What are some of the strengths and challenges of using a mixed-methods approach?
+2. What would you would look for in a high quality mixed-methods research report?
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Mixed-Methods Research Designs
+
+A wide variety of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data. As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy & Ormrod, 2013, p. 97). As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
+
+- What is the purpose of needing qualitative and quantitative data?
+- What is the sequence of qualitative and quantitative data collection?
+- What is the priority of the qualitative and quantitative data?
+- How do the two data sets inform each other?
+
+For example in a **convergent parallel design,** only one data collection phase is used, during which quantitative and qualitative data collection and analysis are conducted separately yet concurrently. This design is used to develop a more complete understanding of a topic or phenomenon. In an **embedded (concurrent nested) design,** only one data collection phase is used, during which a predominant method (quantitative or qualitative) nests or embeds the other less priority method (qualitative or quantitative, respectively). This design is used o gain broader and in-depth perspectives on a topic. The **sequential explanatory design** involves the collection and analysis of quantitative data followed by the collection and analysis of qualitative data. This design is used to help explain, interpret or contextualize quantitative findings. The **sequential exploratory design** involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. This designed is used to explore a phenomenon and to expand on qualitative findings.
+
+### Activity: Watch, Read, and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 Begin this learning activity by watching the following video on Mixed-Methods research designs.
+
+[*Watch: Types of Mixed Methods Research Designs ~GM Lectures*](https://www.youtube.com/watch?v=q4OFHOg3Azc){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/q4OFHOg3Azc?si=ZMnSvWj4uAuB8I7N >}}
+
+📖 Next, read the article by Beck (2014). [Antecedents of servant leadership: A mixed methods study](https://doi.org/10.1177/1548051814529993){target="_blank"} to prepare yourself for the group activity in this unit.
+
+✏️ After reading the article, reflect on the following questions in your learning journal:
+
+1. What type of mixed-methods design was used in the article?
+2. Do you think mixed-methods research can provide a more complete picture for research on servant leadership?
+3. Why or why not?
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Using Mixed-Methods to Understand Leadership
+
+Mixed methods studies have the potential to provide strengths that offset the weaknesses of both quantitative and qualitative research and provide a more complete and comprehensive understanding of the research problem than either quantitative or qualitative approaches alone. Molina-Azorín and Cameron (2015) have highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies. For example mixed methods can be beneficial for leadership studies because:
+
+1. Collecting qualitative data can provide a deeper understanding of the leadership context.
+2. Attention to both process and outcome through the use of mixed methods can aid in building theory. For example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.
+3. Complex organizations with different leadership roles would benefit from analyses that are integrated across micro and macro levels.
+4. The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation of results. For example, mixed methods can helps to explain findings or describe how causal processes work.
+
+### Activity: Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+✏️ Begin this learning activity by writing a response to the following questions in your reflective learning journal:
+
+1. Do you think mixed-methods is the best approach for research on leadership? Why or why not?
+2. How would you use a mixed methods approach to study servant leadership?
+
+*Note that these questions relate to the assignment questions for this unit. See Assessment for more details.*
+
+:::
+
+## Summary
+
+In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
+
+- Provides strengths that offset the weaknesses of both quantitative and qualitative research.
+- Provides a more complete and comprehensive understanding of the research problem than either quantitative or qualitative approaches alone.
+- Provides an approach for developing better, more context specific instruments.
+- Helps to explain findings or how causal processes work.
+
+### Checking Your Learning {.unnumbered}
+
+::: {.callout-warning icon=false appearance="simple"}
+
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+
+1. Can you discuss how mixed-methods research can help advance leadership research?
+2. Can you evaluate the quality of mixed methods research report on servant leadership?
+3. Can you discuss how a mixed-methods approach can be applied to the study of servant leadership?
+
+*Feel free to review topics more in depth or continue on to the next unit.*
+
+:::

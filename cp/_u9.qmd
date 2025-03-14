@@ -1,0 +1,220 @@
+## Overview {.unnumbered}
+
+In unit 9 we focus on assessing and interpreting the discussion/conclusion section of a research report. The discussion section is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished. All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions. Above all, a good discussion makes explicit how the findings or results support the conclusions.
+
+### Topics {.unnumbered}
+
+Unit 9 is divided into 3 topics:
+
+1. The Conclusion Section of a Research Report
+2. Comparing the Conclusion Section of Different Approaches to Research
+3. Elements of Back Matter
+4. Writing a Literature Review
+
+## Learning Objectives
+
+When you have completed this unit you should be able to:
+
+1. Discuss the similarities and differences in the discussion/conclusion section of a qualitative and quantitative research report.
+2. Evaluate the quality of the final sections of a research report on servant leadership.
+3. Apply what you have learned about the discussion/conclusion section of a research report to your own leadership context.
+
+### Activity Checklist {.unnumbered}
+
+  -----------------------------------------------------------------------
+  **Learning Activities**
+  -----------------------------------------------------------------------
+  **Activity:** Review "Explication of Findings and Results " and "Discussions and Implications of Results" in Chapter 1, as well as "Writing Qualitative Findings" in Chapter 10 of Rosch et al. (2023).
+
+  **Activity:** Read and evaluate the "findings" and "implications" section of **one** of the articles you selected in your literature search. Reflect in your learning journal on how these authors presented their findings..
+
+  **Activity:** Reflect on what you have learned about the discussion/conclusion section of a research report.
+
+  ** **
+
+  **Assessment:** Contribute to the course discussions. See Assessment tab in Moodle for details.
+
+  ** **
+  -----------------------------------------------------------------------
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete the unit:
+
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+
+We are near the end of our investigation of research designs and the interpretation of research reports. This week, in Unit 9, you will be focusing on the common elements of a conclusion section of a research report.
+
+The final section of a research report is the conclusion section and the back matter. Leedy and Ormrod observe, "Any research report should end by bringing closure to the interpretation of the data" (2010, p. 296). They assert that the conclusion is where loose threads are gathered together, and in particular, the author looks backward and distills into a few succinct paragraphs what the particular research has accomplished.
+
+All significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions.
+
+**Above all, a good conclusion makes explicit how the findings or results support the conclusions.**
+
+Also, Leedy and Ormrod (2010) suggest that the conclusion should identify the weaknesses and limitations of the study, suggest practical implications of the findings or results, and make recommendations for further research (p. 297).
+
+: ::::: {#learning-activity-watch-read-and-reflect-14 .section .level3 .hasAnchor number="9.1.1"}
+
+### Watch, Read and Reflect
+
+: :::: {.callout-tip icon=false appearance="simple"}
+
+📺 To begin this learning activity, watch the video describing the conclusion section of a research report.
+
+: ::: {.mediaplugin .mediaplugin_videojs .d-block}
+
+::: {style="max-width:400px;"}
+
+[Watch video](https://www.youtube.com/watch?v=Lh0WXWcXqvA){target="_blank"} <!--Video missing--> 
+
+:::
+
+::::
+
+✏️ Next, in your Learning Journal discuss the elements of research reports you struggle with the most and how you plan to improve on these elements moving forward.
+
+*Note that your journal is not graded. These questions relate to the assessment questions for this unit.*
+
+:::::
+
+::::::
+
+Rosch et al. (2023) provide a helpful information in sections II and III (pp. 79-188) provide good information for understanding all the elements related to quantitative and qualitative research. The conclusion will report a summary of the major results or findings, a statement of comparison of the study results or findings with those of similar previous studies, a statement of the implications of the results or findings with suggestions for practice, a statement of the limitations of the study, and a concluding statement as to the overall significance of the study. Significant differences are found in that quantitative studies explain the study results in terms of the predictions (hypotheses) discussed in the introductions, while qualitative studies.
+
+: ::: {#learning-activity-read-evaluate-and-reflect-2 .section .level3 .hasAnchor number="9.2.1"}
+
+### Read, Evaluate and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📖 For this learning activity, read the Eva et al. (2019) article, [Servant leadership: A systematic review and call for future research](https://doi.org/10.1016/j.leaqua.2018.07.004){target="_blank"}, or another article you selected for your literature review.
+
+📖 Next, read the conclusion section of the article closely and practice evaluating the conclusions section of a research report.
+
+✏️ Finally, in your Learning Journal, identify what you would consider a high quality conclusions section of a research report.
+
+*Note that the journal is not graded, but these questions will help you prepare for the activities in this unit.*
+
+:::
+
+::::
+
+Three common elements may be found in the back matter of a research report. You will always find a reference list---you may find additional notes and appendixes provided.
+
+Notes can provide both general and specific information. General information would include how to contact the author, who funded the study, or thanks and credits to individuals who contributed to the study. Sometimes the author will provide specific information in notes to the reader. Usually this is done by adding a superscript number in the text that will refer either to a note at the bottom of the page or an endnote found in the back matter. Either way, they serve the same purpose---they convey additional information that is useful but for whatever reason did not fit into the main body of text.
+
+Second, you will find extensive reference lists. The governing mantra proclaims, *Every source cited in the article should appear in the References. Every entry in References should be cited in the main body of text.*
+
+Remember that a References list is different from a Bibliography. A References List *ONLY* includes those sources that are actually cited. A Bibliography is much more extensive, and includes those sources which have influenced the author's thinking whether specifically cited or not.
+
+Finally, you will often encounter appendixes. Because of the space limitations inherent in journals, appendixes in journal articles tend to be brief, and often are not provided when you really wish they were. Appendixes often provide specific details regarding data-gathering instruments such as a survey or interview questions.
+
+As a consumer of research, the back matter can be a valuable feature of the research report. The reference list can be useful in identifying further research reports for you to read, or theorists to investigate. Pay close attention to theorists or particular studies that are repeatedly referred to in the back matter of a number of research reports. As we saw earlier in this course, this is how you can make decisions as to who the primary theorists or foundational thinkers in a given discipline are. If possible, when you have identified these foundational thinkers, read them, and only read their interpreters if you have a specific reason to do so.
+
+: ::: {#learning-activity-reflect-1 .section .level3 .hasAnchor number="9.3.1"}
+
+### Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+✏️ We have now concluded our investigation of research designs and the interpretation of the consequent research reports. In this learning activity, prepare a response to the following questions in your reflective learning journal:
+
+1. As a consumer of research reports what were the most important aspects you need to consider in a high-quality research report?
+2. How can you apply your knowledge about research reports to your work context or current experience?
+
+*Note that these questions relate to the assessment for this unit. See Assessment for more details.*
+
+By the end of this course you will be required to write a formal literature review for the last assignment. This section will cover what you need to know about writing a literature review.
+
+:::
+
+::::
+
+: ::: {#what-is-a-literature-review-1 .section .level3 .unnumbered .hasAnchor}
+
+### What Is a Literature Review?
+
+A literature review is a summary of the "state of knowledge" in a given area. It involves finding key relevant articles and books, and synthesizing concepts and findings for critical (i.e., careful and judicious) application to a given problem. In other words, a good review of literature is a synthesis of what current scholarly literature has to say regarding a given problem, presented in a coherent and compelling manner. An integral step in this course is to effectively critique and summarize scholarly literature. An effective summary of an article or book will:
+
+- Mention the problem being addressed.
+- State the central purpose or focus of the study.
+- Briefly state information about the sample, population or participants.
+- Review key results/conclusions that relate to your problem or topic.
+
+Once you have highlighted those key points, then you need to critically evaluate the article or book. An effective critique of an article or a book will:
+
+- Evaluate each section of the article/book -- Introduction, Methods, Results, Discussion -- highlighting the strengths and weaknesses of each section.
+
+When you are critically evaluating research studies, you are not just listing and summarizing them. You need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study or book that you have reviewed.
+
+#### Critical Thinking
+
+One of the distinguishing features of scholarly writing is the practice of critical thinking. Critical thinking is "that mode of thinking --- about any subject, content, or problem --- in which the thinker improves the quality of his or her thinking by skillfully analyzing, assessing and reconstructing it" (Foundation for Critical Thinking, 2015). In addition, critical thinking also involves creating new and original information, conclusions and ideas (Heady, 2013). Scholarly writing, should reflect higher levels of learning. According to Bloom's (1956) taxonomy there are six levels of learning: knowledge, comprehension, application, analysis, synthesis and evaluation. When you are writing a scholarly paper, the focus should not be on just identifying, comprehending material and applying it, your writing should also reflect analysis, synthesis and evaluation. What this means is that your writing (and your thinking) should be able to:
+
+- Break down ideas into parts and see how those parts relate and are organized to demonstrate analysis.
+- Re-arrange ideas into a new whole to demonstrate synthesis.
+- Make judgments based on internal evidence or external criteria to demonstrate evaluation.
+
+When you are thinking critically about a scholarly article or book, you need to keep a few key questions in mind. According to the Critical Appraisal Skills Program (2017) the three key questions to ask are: 1) Are the results of the study valid? 2) What are the results? and 3) Are the results useful? These questions will help you break down ideas, re-arrange those ideas to synthesize them and help you make judgments about the information you are reading.
+
+::::
+
+### How Much Information Is Enough?
+
+When performing a review of literature, it may be difficult to determine how much literature to review. To help in this decision, consider the main question of interest, or main subtopics, and include literature on these topics. Begin by reviewing the scholarly literature pertaining to each identified topic. Next, provide a summary of the literature that highlights the most important studies or articles, captures major themes in what you have reviewed and articulates how your research interest intersects with this literature (e.g., why we need to know more, or why the literature needs to be applied in a particular context). In essence, you want to include a summary statement of the state of knowledge in the area you are examining. Keep going until you sense that you have represented fairly the current field of literature. A good indication that you have done that is when you find authors mostly re-stating but not really advancing knowledge in the field. In other words, you have hit saturation. Here is a really helpful website that further explains what a formal literature review is: [5. The Literature Review - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California](http://libguides.usc.edu/writingguide/literaturereview){target="_blank"}<!-- Auto link title --> 
+
+: ::: {#learning-activity-read-watch-and-reflect-2 .section .level3 .hasAnchor number="9.4.1"}
+
+### Read, Watch and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+The literature review defines the issue you are exploring more clearly by setting the problem within a wider professional context. At first, you will be exploring the literature. It is useful to determine if there are other authors that who share your assumptions and if they have evidence you can use. You will be looking for how others have tackled the problem that you are investigating. Their outcomes can be very helpful to you.
+
+When you begin writing, think about how to structure the evidence. This should NOT be a randomly organized collection of findings from a first, second and third article. Create a set of sections that flow logically, building the case for your approach.
+
+📺 Watch the following video Literature Review Preparation by Laura Killam. This video shows you exactly how to create a summary table for your research articles. It outlines what information should go in the table and provides helpful summary hints.
+
+✏️ **Part 1: Start writing.** Begin by writing a rough draft of the nature of the problem you are addressing. This will be a high-level summary of your opening paragraph of your literature review where you describe the problem to your reader.
+
+✏️ **Part 2: Create reviews of your articles/sources.** The article review template (assignment 3) can be helpful when organizing your notes as you read the research on your topic. When you create an article review, make sure it is no longer than one page. Write your notes in complete sentences.
+
+✏️ **Part 3: Synthesize what others have said.** After you have completed your article reviews, then you need to organize the literature into themes, dimensions, or narratives that come from what others have written. In this section you get authors to "talk" to each other.
+
+Most paragraphs in a literature review follow a very simple and redundant format. It starts by naming the author(s) and year of publication. Then it gives a short summary of the article. Then it gives the points you want to make about the article that YOU think are important. For example:
+
+> Johnson (2017), in a research article that discussed leadership issues
+> with motivating part-time workers, noted three aspects that motivated
+> part-time workers. First, part-time workers were motivated to work
+> harder if they had friends who worked with them. Second, part-time
+> workers were motivated if they believed they were good at that work.
+> Finally, part-time workers were motivated if they deemed that their
+> work actually made a difference in other people's lives.
+
+***Note that this learning activity will be assessed in the Scoping Literature Review Assignment.***
+
+:::
+
+::::
+
+In Init 9 we have focused on assessing and interpreting the discussion/conclusion section of a research report. The discussion section is where all significant aspects of the research report are brought together in proper perspective, including relating the findings or results to the conclusions. A good discussion makes explicit how the findings or results support the conclusions.
+
+## References {.unnumbered}
+
+Leedy, P., & Ormrod, J. (2010). *Practical research: Planning and design* (9th ed.). Prentice-Hall.
+
+Plano-Clark, V. & Creswell, J. (2015). *Understanding research: A consumer's guide* (2nd ed.). Pearson
+
+Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+
+::: {.callout-warning icon=false appearance="simple"}
+
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+
+1. Can you discuss the similarities and differences in the discussion/conclusion section of a qualitative and quantitative research report?
+2. Can you evaluate the quality of the final sections of a research report on servant leadership?
+3. Can you apply what you have learned about the discussion/conclusion section of a research report to your own leadership context?
+
+*Feel free to review topics more in depth or continue on to the next unit.*
+
+:::

@@ -1,0 +1,222 @@
+# Understanding Quantitative Research Reports
+## Overview {.unnumbered}
+
+In unit 5 we will examine the next major section of a research report: the methods and results. In this unit, we will see that the methods section indicates the overall plan for how the research was conducted, how the data was collected, and what the analysis of the data tells us. These may be termed research design, method, and analysis and results, respectively. Because of significant differences in quantitative and qualitative methods, we will break this discussion into two units. This unit will focus on the methods and results of quantitative research reports.
+
+### Topics {.unnumbered}
+
+Unit 5 is divided into 4 topics:
+
+1. Introduction to Quantitative and Qualitative Research Design
+2. Quantitative Research Designs
+3. Quantitative Data Collection
+4. Quantitative Data Analysis and Results
+
+### Learning Outcomes {.unnumbered}
+
+When you have completed this unit you should be able to:
+
+1. Describe the differences between a quantitative and qualitative research report
+2. Evaluate the research design, participants, data collection, analysis and results of a quantitative research report on servant leadership.
+3. Reflect on the importance of understanding the methods and results section of a quantitative research report for the critical consumer of research.
+
+### Activity Checklist {.unnumbered}
+
+::: {.callout-tip icon=false appearance="simple"}
+
+**Learning Activities**
+
+- **Activity:** Watch a video on Qualitative & Quantitative Research - An Introduction.
+- **Activity:** Read chapter 6 and 7 in your text. Evaluate the research design in the servant leadership article you chose.
+- **Activity:** Read chapter 8 and 9 in your text. Evaluate the participants and data collection in the servant leadership article you chose.
+- **Activity:** Read two articles and chapter 12 in your text. Evaluate the data analysis and results in the servant leadership article you chose.
+- **Assessment:** Contribute to the course discussions. See Assessment tab in Moodle for details.
+- **Assessment:** Complete Article Critique Part 2 (Assignment #3)
+
+:::
+
+### Resources {.unnumbered}
+
+Here are the resources you will need to complete the unit:
+
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+- *E-Resources:* The articles in this unit can be found through the [TWU library](https://www.twu.ca/library){target="_blank"}.
+
+## Introduction to Quantitative and Qualitative Research Design
+
+In this unit we will explore the next major section of a research report: The methods and results section. We will see that the methods section indicates the **overall plan** for how the research was conducted, how the data was collected, and what the analysis of the data tells us. These may be termed research design, method, and analysis and results, respectively. In unit 5 we will be looking at the methods and results sections of **quantitative research reports**. Once again we start with the reminder that we are *reviewing* these materials in order to become an *informed consumer of research*, rather than research experts. Before we get into the specifics of the methods and results of quantitative research reports, it would be helpful to take a step back and remind ourselves of some of the features of the broader research landscape.
+
+By now you should be familiar with the terms quantitative research and qualitative research. Plano-Clark and Creswell (2015) assert that these research approaches are suited to different kinds of research questions: a quantitative research approach is indicated when the research problem requires ***explanation***, while a qualitative research approach is indicated when the research problem requires ***exploration*** (p. 85). Expanding on that somewhat, Leedy and Ormrod assert that quantitative research has three purposes: to explain and predict, to confirm and validate, and to test theory. In contrast, qualitative research has three distinct purposes: to describe and explain, to explore and interpret, and to build theory (Leedy & Ormrod, 2010, p. 96). These differing research purposes find expression in differing research processes, the kinds of data gathered, the approaches to data analysis, and finally in the ways findings are communicated.
+
+In this unit we will be looking at the methods and results sections of
+*quantitative research reports,* and in unit 6 we will do the same for qualitative research reports. We will see that there are a variety of different research designs under both of these general approaches. For example, Gill and Johnson (2002) have developed a helpful continuum (see the figure below) that describes the relative emphasis of various research designs on selected characteristics. They argue that quantitative designs (including survey research) tend towards deduction while qualitative designs are inductive in nature.
+
+::: {#fig-GillxJohnson.png}
+
+![](assets/u5/Gill_Johnson.png.png){fig-alt="Gill and Johnson’s continuum of research design emphases" .lightbox fig-align="left"}
+
+Gill and Johnson’s continuum of research design emphases
+
+:::
+
+According to Leedy and Ormrod, the nature of quantitative and qualitative research designs differ (2010, p. 96). Quantitative designs tend to be more closely focused on a problem that has known variables that can be controlled or at least accounted for. The investigation is conducted following established guidelines utilizing largely predetermined methods while the researcher seeks to maintain a detached view. In contrast, qualitative designs tend to be more holistic, investigating unknown variables following flexible guidelines utilizing emergent methods in a highly context-bound, personal approach. Qualitative designs may be characterized as evolving and flexible, sometimes guided by a general hunch as to how to proceed (Bogdan & Biklen, 2007, p. 45).
+
+These differing designs lead to marked differences in what data are collected, how data are collected, and how data are analyzed. Quantitative research seeks to collect numeric data from as large a sample as possible so to enhance claims to being representative, using standardized data collection instruments. Qualitative research gathers textual or image-based data from typically small, informative samples using loosely structured or non-standardized interviews or observations (Leedy & Ormrod, 2010, p. 96).
+
+The differing designs of quantitative and qualitative research also lead to marked differences in how data are analyzed. Quantitative data is approached primarily through deductive reasoning, employing statistical analyses applied to numerical data, with stress on objectivity. Qualitative data is approached primarily through inductive reasoning with the goal being to uncover themes and categories, with acknowledgement of potential researcher bias and subjectivity. Typically, quantitative research findings are reported in a formal, scientific style with full display of numbers and statistics, while qualitative research findings are typically reported in a narrative form (Leedy & Ormrod, 2010, p. 96). In the following sections, we will explore this somewhat for quantitative research.
+
+### Learning Activity: Watch and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 To begin this learning activity, watch the following video Qualitative & Quantitative Research - An Introduction.
+
+[*Watch: Qualitative & Quantitative Research - An Introduction*](https://youtu.be/RYmLE8UqCXU){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/RYmLE8UqCXU?si=aYIljkensbVL4FtO >}}
+
+✏️ After reading the chapters assigned, complete the questions for this learning activity in your reflective learning journal.
+
+- Discuss the differences between qualitative and quantitative research reports.
+- What did you learn that you did not already know about servant leadership?
+- What are the potential challenges for studying servant leadership using a quantitative research approach?
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Quantitative Research Designs
+
+Quantitative research designs typically rely on the researcher beginning with a theoretical (or conceptual) framework that will determine what concepts the researcher chooses to investigate, the research questions, and the framing of research findings (Corbin & Strauss, 2008, p. 39). These frameworks lead to a structured, predetermined, formal, and specifically detailed plan of operation (Bogdan & Biklen, 2007, p. 45).
+
+In Chapter 6 and 7, Rosch, Kniffen and Guthrie (2023) discuss five quantitative research designs. Experiments---particularly randomized control trials (RCTs)---are often held up as the "gold standard" of research, meeting the criteria of randomization, control, and manipulation of variables (i.e., experimental procedures, treatments, or interventions). In the domain of knowledge transfer and evidence-based practice, RCTs are considered as the highest level or most reliable form of evidence. For further understanding see the following video by David Schwartz ["Not All Scientific Studies are Created Equal".](https://youtu.be/GUpd2HJHUt8){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/GUpd2HJHUt8?si=KVHjsGzOM2mfcYFu >}}
+
+By way of caution, Gill and Johnson (2002) observe that management and leadership research seldom employs true experimentation. Having said this, there is relevance for us because the logic underpinning experimental research applies to other types of deductive research that are more common in management and leadership research. When not all of the rigorous standards required of experiments can be applied to a study, researchers approximate some of the logic of the experiment with quasi-experimental designs.
+
+In true experimental and quasi-experimental designs, the researcher intentionally introduces an intervention, and then seeks to measure the response to that intervention. The main difference between experimental and quasi-experimental designs lies in the way sampling is done. In non-experimental quantitative research designs, the researcher seeks to understand the behavior or attributes of the study sample without any researcher intervention. The terms descriptive and correlational are often applied to these types of quantitative research designs.
+
+As a consumer of research reports, you can usually find an indication of what research methodology is employed in the abstract of a research study. This is important information for you to identify, as you will quickly develop a sense of what to expect as you continue to read. This sense is important as you critique the research report, and make value judgments as to its worth.
+
+#### A Note About Survey Research {.unnumbered}
+
+At this point we want to focus on survey research for a few moments because of its wide use in leadership and management settings. While the survey is a method of data collection that may be used in qualitative research (Gall, Gall & Borg, 2007, p. 227), it is extensively employed in quantitative research (Rosch, Kniffen and Guthrie, 2023). Be aware of ambiguities in how the term survey is used (see "Here's a Tip!" on page 207). Often the term is used as a general label to denote the use of questionnaires or interviews in research. Because of the differences in intentions for generalizability between quantitative and qualitative research, this ambiguity is not helpful.
+
+Survey research is a popular research method used to generalize from a sample to a population in order that inferences can be made about some characteristic, attitude, or behavior of the larger population (Creswell, 2003). Survey research may be conducted through use of either questionnaires or interviews. These methods allow the researcher to collect data about observable phenomena as well as phenomena that would be difficult to otherwise assess (i.e., opinions, values, feelings, etc.). Questionnaires present the same questions in some form of print to all study participants uniformly, and responses are received in like manner. In interviews, the researcher presents the same questions orally to study participants, usually one at a time, but increasingly in groups, and the responses are received orally. The main difference in the two approaches lies in the fact that with questionnaires the research participant is largely in control of the response situation, whereas in the interview the researcher is largely in control. Each approach has relative advantages and disadvantages, but share in common the desire to collect data in standardized ways. For this reason, closed ended questions are typically used.
+
+As a consumer of survey research reports, be vigilant for potential issues of validity and reliability. Validity is a term that forces us to question the likelihood of whether the instrument or study measure actually measures what the researcher says it does. Reliability issues concern the consistency or repeatability of the instrument. Be aware that survey research is commonly criticized on these grounds.
+
+### Learning Activity: Watch, Read, and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 Begin this learning activity by watching the following video
+
+[*Watch:QUANTITATIVE Research Design: Everything You Need To Know (With Examples)*](https://www.youtube.com/watch?v=VQbkw-SI8c4){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/VQbkw-SI8c4?si=04s_aFXXSaCqe6tj >}}
+
+📖 Next, read chapter 6 and 7, in Rosch, Kniffen and Guthrie (2023).
+
+✏️ Practice evaluating the quality of a study's research design, using the quality criteria discussed in TRosch, Kniffen and Guthrie (2023) to evaluate the quality of the research design.
+
+✏️ Finally, in your learning journal, identify what your overall quality rating is of this section and list three pieces of evidence to support your rating. Make some notes about what you would look for in a high quality "Research Design" for a quantitative research report.
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Quantitative Data Collection
+
+When researchers are collecting data for a quantitative research study, they need to address two important questions: who is the data being collected from, and how are they collecting it? In answering the first question, the terms *population* and *sample* are salient. Population is the large category that encompasses all of the individuals who possess or exhibit certain characteristics of interest. Quantitative data is usually collected from large samples, selected ideally through random selection.
+
+Sample refers to the individuals from the population that you actually gather data from. The goal in sampling is to find a representative sample that accurately represents that population. In quantitative research, a primary interest of researchers is in *generalizability*: which is to what degree can the results of our research study be generalized back to the population? This generalization is called external validity and requires an inferential leap from the sample back to the population.
+
+In quantitative research, samples are drawn from the population through processes of *probability sampling* and *non-probability sampling techniques.* A number of sampling techniques are discussed by Plano-Clark and Creswell (2015) in Chapter 7. The gold standard is a true random sample of the population. This is where everyone gets an equal opportunity to be selected as a representative sample, and this is known as probability sampling.
+
+The second major consideration in qualitative data collection is how the data is collected. In quantitative research, data collection instruments and tools are used most often to capture variables of interest. This may include using inventories, questionnaires, indexes, scales and test scores (Bogdan & Biklen, 2007, p. 46). As a consumer of research, when judging the quality of tests used in research consider the criteria of fairness, generalizability, cognitive complexity, content quality, meaningfulness, content coverage and cost and efficiency (p. 217).
+
+A variable is anything that can vary, i.e. changed or be changed, such as eating behaviour or time taken to perform a task. There are three types of variables that are usually found in experimental investigations: the dependent variable (or outcome), the independent variable (treatment/predictor) and counfounding variable (extraneous factors that could affect the results) .
+
+In an experiment, the researcher is looking for the possible effect on the dependent variable that might be caused by changing the independent variable, while controlling for extraneous variables (Bogdan & Biklen, 2007, p. 45). These are all variables, which are not the independent variable, but could affect the results of the experiment.
+
+#### What Is Research Ethics? {.unnumbered}
+
+According to [Walton (n.d.)](https://researchethics.ca/what-is-research-ethics/){target="_blank"}, "research that involves human participants raises unique and complex ethical, legal, social and political issues. There are three objectives in research ethics. The first and broadest objective is to protect human participants. The second objective is to ensure that research is conducted in a way that serves interests of individuals, groups and/or society as a whole. Finally, the third objective is to examine specific research activities and projects for their ethical soundness, looking at issues such as the management of risk, protection of confidentiality and the process of informed consent".
+
+Before a researcher can start collecting information from participants, the research proposal must undergoe ethical review. In Canada, all academic institutions and health authorities have a Research Ethics Board (REB) and in the U.S. the same institutions have Institutional Review Boards (IRB) that conduct the reviews. The purpose of the ethical review process is to "ensure that research is planned and conducted in accordance with laws and regulatory standards. In protecting the rights and welfare of participants, REBs must weigh possible harms to individuals against the plausible societal benefits of the research. They must ensure fair participant selection and, where applicable, confirm that appropriate provisions are in place for obtaining participant consent" [(Page & Nyeboer, 2017, para. 2)](https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-017-0038-7){target="_blank"}.
+
+#### What Is Informed Consent? by [usc Oprs](https://oprs.usc.edu/files/2017/04/informed-consent-booklet-4.4.13.pdf){target="_blank"}{.unnumbered}
+
+Informed Consent is a voluntary agreement to participate in research. It is not merely a form that is signed but is a process, in which the participant has an understanding of the research and its risks. Informed consent is essential before enrolling a participant and ongoing once enrolled. Informed Consent must be obtained for all types of human research including; diagnostic, therapeutic, interventional, social and behavioral studies, and for research conducted domestically or abroad. Obtaining consent involves informing the participant about his or her rights, the purpose of the study, the procedures to be undergone, and the potential risks and benefits of participation. Participants in the study must participate willingly. Vulnerable populations (i.e. prisoners, children, pregnant women, etc.) must receive extra protections. The goal of the informed consent process is to provide sufficient information so that a participant can make an informed decision about whether or not to enroll in a study or to continue participation.
+
+### Learning Activity: Watch, Read, and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 Begin this learning activity by watching the following video: [*Watch:Quantitative Data Collection Techniques*](https://www.youtube.com/watch?v=y9qtot92N9Q){target="_blank"}
+
+{{< video https://www.youtube-nocookie.com/embed/y9qtot92N9Q?si=Kmwe2tRBsdDKT2F1 >}}
+
+📖 Next, read chapter 7, in Rosch, Kniffen and Guthrie (2023).
+
+✏️ Practice evaluating the quality of a quantitative study's participants and data collection.
+
+Use the quality criteria discussed in Rosch, Kniffen and Guthrie (2023) to evaluate the quality of the participants and data collection.
+
+✏️ Finally, in your learning journal, identify what your overall quality rating is of this section and list three pieces of evidence to support your rating. Make some notes about what you would look for in a high quality "Participants and Data Collection" section of a quantitative research report.
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Quantitative Data Analysis and Results
+
+Quantitative research data analysis is generally deductive, occurs at the conclusion of data collection and is statistical (Bogdan and Biklen, 2007, p. 46). An in-depth understanding or even an overview of statistical analysis is outside the parameters of this course. However, even if you do not have a background in statistics, you must find your way through what can initially appear to be a daunting discussion.
+
+The methods section of a quantitative research report typically presents a brief description of various statistical analysis of data. The statistical analysis chosen depends on the kind of questions asked in the research. Descriptive statistics include various measures of central tendency (including mean, median, mode, skewness, and categorical data such as frequency distribution), measures of variability (including standard deviation, the normal curve, variance and range) and correlational statistics (including bivariate and multivariate correlational methods). Inferential statistics are applied to data in an effort to answer comparison and relationship sorts of questions.
+
+As a consumer of qualitative research reports, you will want to know that the statistics employed are appropriate, and to be cautious about accepting research findings if you detect any inconsistencies.
+
+#### Additional Resources
+
+I wanted to provide you with a few extra resources to help you understand Quantitative Analysis and Results.
+
+Here is a link to a really helpful website created by Dr. Andy Field. Dr. Field goes into much more detail about everything you need to know about statistics than the course textbook. Here is the website: [https://www.discoveringstatistics.com/](https://www.discoveringstatistics.com/){target="_blank"} If there is something you don't understand when you are reading through the results section of a quantitative research study, search Dr. Field's website.
+
+### Learning Activity: Read, Evaluate and Reflect
+
+::: {.callout-tip icon=false appearance="simple"}
+
+📺 Begin this learning activity by watching the following video
+
+Quantitative Data Analysis 101 Tutorial: Descriptive vs Inferential Statistics (With Examples) - [Watch video](https://www.youtube.com/watch?v=EUeQRE5UJpg&list=PLvcb33xNTVUmCUnhQxtizmm8hOGPvdTlF){target="_blank"} <!--Video missing-->
+
+📖 Next, read chapter 7, "Analyzing Data Quantitatively" in Rosch, Kniffen and Guthrie (2023).
+
+✏️ Practice evaluating the quality of a quantitative study's analysis and results, using the quality criteria discussed in Rosch, Kniffen and Guthrie (2023) to evaluate the quality of the data analysis and results.
+
+✏️ In your learning journal, identify what your overall quality rating is of this section and list three pieces of evidence to support your rating. Make some notes about what you would look for in a high quality "Analysis and Results" section of a quantitative research report.
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+
+:::
+
+## Summary
+
+In Unit 5 we have explored quantitative research methods. We have learned that the methods section indicates the **overall plan** for how the research was conducted, how the data was collected, and what the analysis of the data tells us. These sections of a research report are called the research design, method, and analysis and results, respectively. Coming up in unit 6 we will be looking at the methods and results sections of qualitative research reports.
+
+### Checking Your Learning {.unnumbered}
+
+::: {.callout-warning icon=false appearance="simple"}
+
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+
+1. Can you describe the differences between a quantitative and qualitative research report?
+2. Can you evaluate the research design, participants, data collection, analysis and results of a quantitative research report?
+3. Can you discuss the importance of understanding the methods and results section of a quantitative research report?
+
+*Feel free to review topics more in depth or continue on to the next unit.*
+
+:::

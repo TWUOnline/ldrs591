@@ -1,0 +1,12 @@
+bookdown::gitbook:
+  css: https://twuonline.github.io/course-materials/bookdown_styles.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><a href="./">Leadership 591</a></li>
+      after: |
+        <li><a href="https://github.com/ma-lead/ldrs591" target="blank">Published with bookdown</a></li>
+    download: ["epub"]
+bookdown::epub_book: default

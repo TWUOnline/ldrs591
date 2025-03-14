@@ -1,0 +1,144 @@
+# Bringing It All Together
+
+## Overview {-}
+
+“So I turned my mind to understand, to investigate and to search out wisdom…” (Ecclesiastes 7:25) Scholarly research reports can have profound impact on society. Thus far in this course we have been making the case that best practices are informed by the wise and judicious application of research findings to particular situations. Don’t miss the importance of adverbs “wise” and “judicious.” Plano-Clark and Creswell tell us that we should “read research to learn new knowledge about topics, to become informed on policy debates, and to find suggestions for improving your practice” (2010, p. 15). In unit 10 we will be bringing things to a close through several experiential learning activities.  
+
+## Topics{-}
+
+Unit 10 is divided into 2 topics:
+
+1. Issues of Credibility
+2. Leadership Decisions Revisited
+
+## Learning Outcomes{-}
+
+When you have completed this unit you should be able to:
+
+1.  Evaluate the safeguards that are in place to uphold the integrity of the research process.
+2.  Critically reflect on the importance of evidence-based decision making for transformational servant leadership.
+3.  Create a formal literature review.
+
+## Activity Checklist {-}
+
+| **Learning Activities** |
+|----|
+|**Activity:** Watch the video [Battling Bad Science](https://www.ted.com/talksben_goldacre_battling_bad_science){target="_blank"}.   |
+|**Activity:** Reflect in your learning journal.   |
+|**Assessment:** Contribute to the course discussions. See Assessment tab in Moodle for details.  |
+|**Assessment:**  Complete Assignment 5: Final Literature Review   |
+
+### Resources{-}
+
+Here are the resources you will need to complete the unit:
+
+- Goldcare, B. (2011, July). _Battling bad science._ (Video file). Retrieved from [https://www.ted.com/talks/ben\_goldacre\_battling\_bad\_science](https://www.ted.com/talks/ben_goldacre_battling_bad_science){target="_blank"}
+
+## Issues of Credibility
+Congratulations! You have made it to the final week of LDRS 591: Scholarly Inquiry!  This week you will be revisiting a question about making informed decisions, discussing why evidence-based decision making is important for the Transformational Servant Leader, and reflecting on what your expectations are now for a high quality research report.  You will also be introduced to the MA Lead: Leadership Integration Project (LDRS 697/698).
+
+Before we finish this course, I want to take some time to address a fundamental question that underlies our decision-making processes: Simply stated, the question is “how can I know I can trust what I am reading?” At the heart of this issue are three interrelated concerns: Is the research work performed competently? Is it reported honestly? Are the findings presented consistent with what other researchers would conclude (Locke, et al., 2010, p. 12)? By now you are aware that the reason behind much of the tedious detail provided in research reports is aimed at addressing the question "is the research performed competently?" Great efforts are expended in the publication process to further address research competence, honesty, and consistency. As we will see, the final concern introduces an element that can be distressing.
+
+##### Competence and Honesty{-}
+
+You will recall that earlier in the course it was suggested that you always check the “Peer-Reviewed or Scholarly” box when doing an online search of the literature. Your first line of establishing trust in the quality of a research article is the review process followed in the formal presentation and publishing of research.
+
+Typically, the first opportunity a researcher has to disseminate their work is when their PhD dissertation is defended and subsequently published. The process involved in the successful defense of a dissertation is lengthy and strenuous, to say the very least. In effect, all three questions are addressed by the dissertation committee, which functions, at that stage, as a committee of peers. Beyond that, another first opportunity is to present papers at conferences. Such papers are typically presented beforehand to a jury of peers who critique the paper with the above three criteria in mind. Journal publication extends the processes of peer review even beyond that of conferences. Typically, articles submitted for publication are reviewed by peers who are experts in the field, often blind (the author does not know who the reviewers are or the reviewer does not know who the author is) or double-blind (neither the author nor reviewer are known to each other). This process results in juried or refereed or peer-reviewed articles that are subsequently published. The peer-reviewing process is intended to eliminate work which is flawed in fundamental ways. However, this process is not infallible. Consider this honest statement:
+
+> We must caution you, however, that it is not safe to believe that peer review operates with flawless precision as an absolute guarantor of quality in published research. The effectiveness of the peer review system can be no better than the quality of function produced by each part, and, despite the best efforts of editors and reviewers, judgments fail and mistakes do occur. Taken across journals, editors, and reviewers, there is enough residual variability to give all readers cause to be wary and to exercise one final step in quality control—by forming their own judgment about the adequacy of what they read. (Locke, et al., 2010, p. 35).
+
+Be aware that all journals are not equally selective. Every discipline has front-line journals that have the highest standards of selectivity, and equally, every discipline has journals that are remarkable for their lack of selectivity. You can get some insight into what you are dealing with if you check the requirements for document submission that are embedded somewhere in every journal. Often, you can gain insight by looking at who the editors and reviewers are, and finally, the reputation of the journal is important.
+
+The reputation of the author of the article is also very important. Academic credentials, academic honors, holding positions of influence, association with major discoveries and longevity in the field are important factors in establishing authorial reputation. These are major considerations in deciding whether a particular author’s work is foundational in a given field.
+
+Another positive indicator of research quality is if the research is funded from a prestigious funding source. Ford, Carnegie, and Pew Foundations meet those criteria, as do studies funded by the Canadian Institute of Health Research (CIHR), National Institute of Health (NIH), the National Science Foundation and the Natural Sciences and Engineering Council of Canada (NSERC) . The criteria for funding from prestigious funding sources meet or exceed those for prestigious journals. Related, scholarly organizations often provide funds, or at least endorse research studies. In the field of education, the Association for Supervision and Curriculum Development (ASCD) is but one such organization. In the social sciences, the Social Sciences and Humanities Research Council (SSHRC) is another.
+
+As you read research, there are some potential “deal-breakers” to be aware of. First, although no study will be technically perfect, beware of studies with obvious technical problems. The evaluation matrices, particularly for the introduction, methods and results sections, provided by Plano-Clark and Creswell (2015) are great places to begin. Studies with numerous technical problems make trust difficult to sustain.
+
+**Sampling:** Sampling is one of the technical aspects of research that deserves separate mention. Sampling lies at the very heart of a given research study. Two primary issues are at stake here: Does the sample truly represent the population? Does the sample allow for the generalizing of results?
+
+**Replication:** One of the strengths of the development of scholarly literature is the reinforcement of the veracity of findings through replication studies. A number of years ago the world was shaken by the announcement by Pons and Fleischmann of the achievement of a cold-fusion nuclear reaction. The problem was, not a single researcher was able to replicate this, and eventually the researcher’s methods were exposed as flawed.
+
+**Researcher Bias:** Clearly, obvious conflicts of interest with the researcher contribute to the breaking of trust. Foundational to the integrity of the research process is that the researcher be an independent, free agent. While it is normal for researchers to find results that are consistent for what was hoped for, trust is violated when the researcher has a personal vested interest in a particular favorable outcome. Locke, et al. correctly observe, “It is when the benefits become tangible rather than just intellectual that there is reason for special caution” (2010, p. 47). For that reason, it is always wise to be cautious about studies released by organizations rather than the study author. Finally, more subtle conflicts of interest emerge when personal biases of the investigator remain unacknowledged and unaccounted for. Included might be issues of theoretical commitments, beliefs and ideological dispositions that influence the research process such that the research itself becomes a tool for advancing the researcher’s personal agenda. Included in this is the accusation that the researcher “found what he/she was looking for.”
+
+Finally, obvious errors either due to carelessness or poor researcher decisions contribute to the erosion of trust. Poor scholarship is evident when such errors are sufficient to call into question whether the researcher has even a basic understanding of the field.  
+
+### Learning Activity: Watch and Reflect
+```{block, type='reflect'}
+
+We have spent a great deal of time wrestling with the specifics of research reports, and in so doing, you have developed set of expectations regarding the quality of research reports and you have increased your ability to sense potential problems. In this learning activity you are asked to do the following:
+
+📺 Watch the TED talk video [Battling Bad Science](https://www.ted.com/talks/ben_goldacre_battling_bad_science){target="_blank"}.
+
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/ben_goldacre_battling_bad_science" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+
+✏️  In your reflective learning journal, consider the following questions:
+1. How can I know that I can trust what I am reading?
+
+2. How do I know the research has been performed competently?
+
+3. How do I know the research is reported honestly?
+
+4. How do I know the findings presented are consistent with what other researchers would conclude?
+
+   *Note that your journal is not graded, but will help you in your assessment for this unit.*
+```
+
+## Leadership Decisions Revisited
+
+In unit 1 you were asked to discuss a recent decision you made as a leader. You were then asked to think through how you made that decision. For example, did you base the decision on previous experience, values, company policy, empirical evidence or expert opinion? This course has emphasized evidence-based leadership by equipping you to access, evaluate, and apply the latest empirically-based evidence and contribute to the scholarship base in the area of leadership studies. My hope is that this course will convince you of the importance of basing your leadership decisions on the best evidence available.
+
+### Learning Activity: Reflect
+```{block, type='reflect'}
+
+✏️ As a final entry in your learning journal, reflect on the following questions:
+
+1. In light of what you have learned in this course, prepare a response explaining why you think evidence-based decision making is important for the Transformational Servant leader.
+
+2. How will you use scholarly evidence in your leadership practice moving forward?
+
+*Note that your journal is not graded, but will help you in your assessment for this unit.*
+```
+
+## Unit 10 Summary{-}
+
+We have come to the conclusion of our course together. In this unit, you had the opportunity to revisit a question about making informed decisions, discuss why evidence-based decision making is important for the Transformational Servant Leader, and reflect on your own expectations for a high quality research report.
+
+It has been a pleasure to teach all of you. I look forward to hearing about your journey ahead as you progress throughout the MA Lead Program.
+
+Best Wishes,
+
+Dr. Strong
+
+## Unit 10 Assessment{-}
+```{block, type='assessment'}
+### Group Activity{-}
+
+**In your learning pod this week, you will take turns answering the following questions:**
+
+* Are there any aspects of the final literature review paper that you are struggling to understand? If so, share some of your struggles with the group so that you can support each other as you prepare your final literature review paper.
+
+* What **new insights** have you learned about the research process and how would those insights inform your decision making now?
+
+* Why do you think evidence-based decision making is important for the transformational servant leader?
+
+---
+
+### Complete Assignment # 4: Formal Literature Review{-}
+
+In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. Assignment 4 is focused on the professional interest you have identified and defined in Assignment 1 and extends the work you did in Assignments 2, and 3. Assignment 4 will be your critical analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (7th edition) format.  Please go to the Formal Literature Review (Assignment 4) Assignment tab in Moodle for more information on how to complete this assignment.
+```
+---
+
+### Checking Your Learning{-}
+```{block, type='progress'}
+Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+
+1.  Can you evaluate the safeguards that are in place to uphold the integrity of the research process?
+2.  Can you critically reflect on the importance of evidence-based decision making for transformational servant leadership?
+3.  Can you create a critical literature review?
+
+_Feel free to review topics more in depth or continue on to your final assignment submission._
+```

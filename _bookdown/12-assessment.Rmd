@@ -1,0 +1,923 @@
+# Assessment {-}
+
+The following assignments are opportunities for learners to demonstrate their understanding of the course outcomes.  Please confirm assignment details with your instructor, referring to the course syllabus.
+
+Note that Assignment dropboxes are located in Moodle.  Also refer to the Course Schedule in Moodle for the specific due dates.
+
+
+## Course Evaluation{-}
+
+|               | **Activity**                      | **Value** |
+| ------------- | --------------------------------- | --------- |
+|               | Participation/Presentations/Posts | 10%       |
+| Assignment #1 | Clarifying your research interest | 10%       |
+| Assignment #2 | Literature Review Search (WC)     | 20%       |
+| Assignment #3 | Article  Critiques                | 10%       |
+| Assignment #4 | Scholarly Article Review (WC)     | 20%       |
+| Assignment #5 | Final Literature Review (WC)      | 30%       |
+|               | **Total**                         | **100%**  |
+
+```{block, type='caution'}
+*Note:* **WC** = For students who are recommended to use services of the Writing Centre, you must have a 1-1 writing coach session before you submit your assignment. You must include the writing coach report, as page 2, when you submit your assignment.
+```
+
+## Assignment {-}
+
+<span class="blockhead">Clarifying Your Research Interest</span>
+
+The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. Before we get into some of the concrete realities of accessing scholarly literature, we would like you to take time to reflect on and articulate some of the salient **leadership interests** in your personal and professional life and practice.  At the end of the MA Leadership program (in LDRS 697 & 698) you will get an opportunity to create a project based on a salient leadership problem/interest.  It is good to start thinking about what the topic may be now so that you can use the assignments in this course to start thinking about topic for your final project.
+
+For this assignment, you will write a short 2 page paper describing your **leadership interests** (personal and/or professional).  Based on these leadership interests, you will generate research questions amenable to scholarly inquiry.
+
+##### Steps to complete this assignment
+
+**Step 1:** In the opening paragraph, state the salient **leadership interests** in your personal and professional life and practice. Identify **one problem** or topic that you would like to investigate and provide a brief introduction to your topic.
+
+**Step 2:** Next, use the following three statements to help you get some clarity about what exactly you want to address in your question. If you can fill out these statements, then you most likely have a narrow enough topic with enough direction to perform some great research.
+
+1)  I am researching ____________________________________(What? Topic)
+2)  because I want to find out _________________________(So What? Issue/question)
+3)  in order to ________________________________ (Now What? Application/Purpose).
+
+**Step 3:** Identify the research question you want to pursue for your final  research paper.  Outline reasons or a rationale for why you chose this question.  Discuss why this topic is important to you.
+
++ If you are struggling to identify a question, consider where you see the greatest need for change in the field you want to work as a leader.  What would you propose to change in your field and why?  Consider what is working really well in your field and how could you discover best practices.
+
+**Step 4:** APA Formatting is required for this assignment. Specifically, an APA title page, font, line spacing, margins, alignment, and paragraph indentation.
+
+>>> See the Sample Template located at the bottom of this page if you need help understanding how this assignment will be structured.
+
+**Step 5: Upload your document to the Assignment 1 drop box in Moodle.**
+
+
+### Rubric for Assignment # 1 ####
+
+| Elements                 | **Your assignment will be evaluated based on the following...** |
+| ------------------------ | :----------------------------------------------------------- |
+| Communication            | The research question is presented clearly and is well developed and appropriate for the assignment.  One question is clearly chosen as a focus for examining future research.  The rationale allows for a high level of understanding. |
+| Organization and Clarity | Excellent organization of content. Communication flows very smoothly. Excellent style and language usage.  Effective sentence variety and word choice.  Correct grammar, punctuation, spelling, and proofreading. |
+| APA Formatting | Title page, font, line spacing, margins, alignment, paragraph indentation. |
+
+
+### Literature Search 
+
+<p>The purpose of this assignment is to develop your skills to search, retrieve, and begin reviewing relevant literature. This assignment will include the “paper trail” that provides the details of your search for relevant literature. In order to complete this assignment you will need to:</p>
+<ul>
+<li>Identify your research question and key search terms.</li>
+<li>Use search strategies to locate and select literature.</li>
+<li>Create a table that summarizes information from your search results.</li>
+<li>Use APA 7 formatting requirements.</li>
+</ul>
+<h4 id="step-1-identify-your-research-topic">Step 1: Identify your research topic.<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-1-identify-your-research-topic"></a></h4>
+<p>In one paragraph (3-5 sentences), provide a general but engaging introduction that describes the context of the problem you are investigating. What generated your interest in this topic? What problem does your topic address?</p>
+<p>Next, in one paragraph (3-5 sentences) write a brief statement outlining your personal/professional interest in this topic. You will want to describe the relevant issues included in your problem statement, including the urgency, the controversies, and anything else that will convince your reader that your problem is worth pursuing. Why do you think your topic is important? Conclude this section with the specific research question you will be investigating.</p>
+<h4 id="step-2-conduct-a-search-for-scholarly-articles-on-your-topic">Step 2: Conduct a search for scholarly articles on your topic.<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-2-conduct-a-search-for-scholarly-articles-on-your-topic"></a></h4>
+<ol>
+<li>Identify the searchable keywords that arise from your problem statement and then search for <span><em>5 scholarly articles</em> </span>on your research topic. Record your search terms.</li>
+<li>Begin your search by starting broadly. Using your keywords, search the Library One Search engine found at the <a href="https://www.twu.ca/library" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">TWU Library</a>. This search will yield all sources of information related to your topic. From this search, identify key sources that you have found to be relevant to your research question. Make a note of these sources by saving this information in a word document or another electronic format.</li>
+<li>Next, you will conduct a search of at least two academic databases using your keywords. The list of academic databases can be found here at the <a href="http://libguides.twu.ca/articles" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">TWU Article Databases</a>. You will need to identify key academic journal articles that you have found to be relevant to your research question. Examples of academic databases are Academic Search Ultimate and Business Source Complete.</li>
+<li>Finally, move into the literature available on the internet by conducting a search using a search engine such as <a href="https://scholar.google.ca/" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Google Scholar</a> or the <a href="https://doaj.org/" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Directory of Open Access Journals</a>. You will need to identify credible sources that you have found to be relevant to your research question.</li>
+</ol>
+<h4 id="step-3-summarize-your-procedure">Step 3: Summarize your procedure.<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-3-summarize-your-procedure"></a></h4>
+<p>In one paragraph (5-7 sentences), describe how you chose your particular articles. In other words, what procedures did you follow and what inclusion and exclusion criteria did you use to keep and eliminate articles. For example, the inclusion criteria may include the following elements: peer-reviewed, publication range, language, how you accessed the information. The exclusion criteria may include the following factors: an article/book that does not meet the inclusion criteria, and non-English full-text studies were excluded even if an English translation of the abstract was provided. See the <span>template</span> provided in a link below for an example of the "procedure" section.</p>
+<h4 id="step-4-create-a-summary-table-of-your-literature-search-results">Step 4: Create a summary table of your literature search results.<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-4-create-a-summary-table-of-your-literature-search-results"></a></h4>
+<p>In a table, you will summarize the information you have collected from step 2. Complete a summary of each relevant article you found in a matrix table like the one below (change headings to suit your needs). Please note: this will take you the most time, so make sure you set aside enough time to read through the abstracts of the articles to fill in the criteria in the table below. Here is a helpful video explaining <a href="https://youtu.be/SKxm2HF_-k0" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">How to Read an Academic Paper</a>.</p>
+<p>Table 1. <em>Literature Review Search Summary Matrix</em></p>
+
+| Author/year | Article Title    | Purpose  | Key Findings |
+|-------------|------------------|----------|--------------|
+| Source 1    |                  |          |              |
+| Source 2    |                  |          |              |
+| Source 3    |                  |          |              |
+| Source 4    |                  |          |              |
+| Source 5    |
+
+<h4 id="step-5-create-an-apa-style-reference-list">Step 5: Create an APA style reference list:<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-5-create-an-apa-style-reference-list"></a></h4>
+<p>List all references on the last page of your document in APA format. APA formatting is required for this assignment. You should focus on general formatting (including a title page), in-text citations and references. For more details visit the APA Style Checklist.</p>
+<h4 id="step-6-apa-formatting">Step 6: APA formatting:<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-6-apa-formatting"></a></h4>
+<p>APA Formatting is required for this assignment. Specifically, an APA title page, font, line spacing, margins, alignment, and paragraph indentation. Adding citations to support statements/facts made and APA style reference list. See the</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>See the<a href="https://learn.twu.ca/draftfile.php/828525/user/draft/189698423/Assignment%20%232%20%28Literature%20Search%20Template%29.docx"> Sample Template</a> if you need help understanding how this assignment will be structured.</p>
+<blockquote>
+<p>Note: This paper should be a <em>maximum of 8 pages</em> (including title page, body of paper, reference list).</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h4 id="step-6-please-submit-your-assignment-using-the-assignment-drop-b">Step 6: Please submit your assignment using the Assignment drop box on Moodle.<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#step-6-please-submit-your-assignment-using-the-assignment-drop-b"></a></h4>
+<p>Please have your assignment reviewed by a writing coach prior to submitting this assignment. Your TWU Learning Commons Report must be included as a second page of this assignment.</p>
+<h4 id="rubric-for-the-literature-search">Rubric for the Literature Search<a class="anchorjs-link " aria-label="Anchor" data-anchorjs-icon="" href="https://far.twu.ca/ldrs/591/assignments/literature-search/chromeless:true/hidepagetitle:true#rubric-for-the-literature-search"></a></h4>
+
+| Elements                          | Your assignment will be evaluated based on the following...                                                                                                                                  |
+|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Research Question and Key Terms   | The research question is very clear and concise and is well formulated to provide direction for your literature search. The search terms and domains that arise from the question are clear. |
+| Search Strategies                 | The procedure for searching for the literature was clearly described in detail, is easy to follow and provides a clear inclusion and exclusion criteria.                                     |
+| Sources of Information            | At least 5 high quality (peer-reviewed) sources are identified and they are very relevant to the question.                                                                                   |
+| Summary Table                     | A summary of each article is provided. The author, year, article title, purpose of the article and key results are described with accuracy and detail.                                       |
+| APA formatting                    | Title page, formatting, citations and references are provided in proper APA format.                                                                                                          |
+| Organization and Clarity          | Excellent organization of content. Excellent use of linkages and transitions between paragraphs and ideas. Communication flows very smoothly.                                                |
+| Expression, Dictation and Grammar | Excellent style and language usage. Very effective sentence variety and word choice. Impeccable grammar, punctuation, spelling, and proofreading.                                            |
+
+
+
+<table>
+<thead>
+<tr><th><span>Elements</span></th><th><span>Your assignment will be evaluated based on the following...</span></th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Research Question and Key Terms</td>
+<td>The research question is very clear and concise and is well formulated to provide direction for your literature search. The search terms and domains that arise from the question are clear.</td>
+</tr>
+<tr>
+<td>Search Strategies</td>
+<td>The procedure for searching for the literature was clearly described in detail, is easy to follow and provides a clear inclusion and exclusion criteria.</td>
+</tr>
+<tr>
+<td>Sources of Information</td>
+<td>At least 5 high quality (peer-reviewed) sources are identified and they are very relevant to the question.</td>
+</tr>
+<tr>
+<td>Summary Table</td>
+<td>A summary of each article is provided. The author, year, article title, purpose of the article and key results are described with accuracy and detail.</td>
+</tr>
+<tr>
+<td>APA formatting</td>
+<td>Title page, formatting, citations and references are provided in proper APA format.</td>
+</tr>
+<tr>
+<td>Organization and Clarity</td>
+<td>Excellent organization of content. Excellent use of linkages and transitions between paragraphs and ideas. Communication flows very smoothly.</td>
+</tr>
+<tr>
+<td>Expression, Dictation and Grammar</td>
+<td>Excellent style and language usage. Very effective sentence variety and word choice. Impeccable grammar, punctuation, spelling, and proofreading.</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+<span class="blockhead">Assignment: Formal Literature Review</span>
+
+In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. This assignment is focused on the leadership interest you have identified and defined in the literature search, and your scholarly article review. This assignment will be your analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (7th edition) format.
+
+##### What type of literature review is required for this assignment?
+The "type" or "style" of literature review that I am asking you to write for your fifth assignment is called a Traditional or Narrative Review. This type of review provides an overview of research on a particular topic that critiques and summarizes a body of literature. It is typically broad in focus. Relevant past research is selected and synthesized into a coherent discussion. Methodologies, findings and limits of the existing body of knowledge are discussed in narrative form. This type of review requires a sufficiently focused research question. You can find an excellent example of this type of literature review paper here:
+
+> > > > Fear, W., & Erikson-Brown, A. (2014). Good quality discussion is necessary but not sufficient in asynchronous tuition: A brief narrative review of the literature.  Journal of Asynchronous Learning Networks 18(2). Retrieved from [http://files.eric.ed.gov/fulltext/EJ1036265.pdf](http://files.eric.ed.gov/fulltext/EJ1036265.pdf)
+
+
+##### How should you organize and write a literature review?
+
+In their textbook, Fredericksen and Phelps (n.d.) outline the steps you need to take to write a literature review.  Begin by reading chapter 7 "Synthesizing Sources" and Chapter 8 "Writing a Literature Review".
+
+Please note that I am NOT asking you to review ALL of the empirical evidence on your topic (this would be a huge undertaking). I am asking you to select a **minimum of 10 scholarly sources** that you will use to review for your paper. This means you are writing a literature review in **a maximum of 12 pages** (including title page, body of paper, reference list).
+
+### Requirements for the Formal Literature Review Paper
+
+##### Title page
+
+Create a title page in APA format.
+
+#### Introduction
+The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction. In the next few paragraphs it is important to provide your reader with a brief overview of the problem. It is here that you want to begin to set the stage for your research story. You can build the overview by answering these questions in a few paragraphs:
+
+- What was your research about? [Provide a general but engaging introduction that describes the context of your paper.]
+- What generated your interest in this research?
+- What problem does your research address?
+- Why is your research important? How does your paper address the problem?
+- What is the central research question?
+
+It is important also to include the definition of any key terms that you will be using throughout your paper. Remember to include appropriate reference citations, and include any reference you cite in your paper in the reference list. On the basis of your personal knowledge as well as your investigation of the literature, provide a brief discussion of the major issues or gaps that have been identified related to the topic that is being investigated. This addresses the importance or the significance of your study. To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you wish, you may also include a paragraph about your personal interest in this topic as a researcher. Here is a checklist of what you should include in this section:
+
+- Identify the general topic.
+-	Establish the importance of this topic to the field.
+-	Establish your point of view or reason for interest in the topic.
+-	Clarify key terms related to the topic.
+
+#### Body (Critical Review of the Literature)
+In this section you are now going to organize what you have learned by summarizing the major themes with full reference citations. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature. The literature review should include major findings, and key conclusions, and a critical evaluation of the articles you have reviewed. When you are critically evaluating research studies, you are not just listing and summarizing items, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study that you have reviewed. Critically evaluate and integrate your findings in an unbiased and systematic way. Identify inconsistencies in study results and identify points of contention in theories, conceptualizations, and methods in the literature (Cooper, 2003).
+
+**How to move from an article review to a paragraph in a literature review?**
+
+Your task is to create a literature review that is synthesized from the individual research articles you have read and have taken notes on in Assignment 2 and 4. Part of that process revolves around the need to be able to look back at your notes and quickly see what you actually noted from these articles.  These notes will be included in any literature review you write. Create an article review for each article you collected for this final assignment. This will help you organize your findings and create the notes you need to write the paragraphs in the "results" section of your literature review paper.
+
+Use the Article Review Template so that you can go back - after many weeks - and see your organized notes. Then, you literally organize your notes into the order you wish to present them, cut and paste things into a new word file that becomes your literature review, and then do the final cleaning up and additions.
+
+**Writing an Introductory Paragraph**
+
+After you have edited and revised your article review paragraphs, it’s time to write the Introductory Paragraph of your critical literature review.
+
+This paragraph gives readers a sense of what’s coming. For example,
+
+The question this review of literature addressed was, [XXXX]. This review of literature highlighted XX distinct themes including, a) XX, b) XX, and c) XX.
+
+**Note:** *Remind your reader about your research question. Then give them an introduction to the themes you will be exploring.*
+
+**Writing a Concluding Paragraph**
+
+After you have edited and revised your article review paragraphs and organized them into themes, written the Introductory Paragraph, you are now ready to write the Concluding Paragraph of your findings.
+
+The concluding paragraph gives readers a sense of what’s coming – for you. For example,
+
+“To conclude, this review of literature suggested that researchers should …. (finish by adding your thoughts)….. “ or you state a conclusion about the similarities and differences in the articles you reviewed.
+
+Here is a checklist of what you should include in this section:
+
+*   Did you organize this section by themes or categories or chronologically?
+*   Did you include at least 10 academic (peer-reviewed) sources?
+*   Have you summarized and critically evaluated the articles you have reviewed?
+-	Did you expand upon at least 2 main themes, each based upon multiple sources?
+-	Did you synthesize consistencies across studies and within themes?
+-	Did you discuss inconsistencies across studies and within themes?
+-	Discuss the connection between the themes and the research question?
+-	Did you write an introductory paragraph?
+-	Did you write a concluding paragraph?
+
+
+#### Discussion
+In this section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the research you reviewed (e.g., identify gaps, inconsistencies, strengths, weaknesses) and link these interpretations back to the question that you started with. You also need to discuss the limitations of your findings and make recommendations (and offer a rationale) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings. Here is a checklist of what you should include in this section:
+
+*  Provide a concise summary of the findings and conclusions in a balanced and impartial way.
+*  What are the key strengths and/or limitations of the literature?
+*  Offer a rationale for why future research should be conducted on this topic. What would you suggest based on the limitations?
+*  Make recommendations for practice.
+
+#### Conclusion
+
+In this final section, you will bring your paper to a close. Consider the following questions as writing prompts for this final conclusion (Summarize in one short paragraph):
+
++ What was your research question?
++ What did you learn from your review of the literature?
++ Why do these results matter?
++ What is one final thought you think others need to know as a result of your work?
+
+#### References
+
+At the very end list your references. Reference lists must start on a new page, and must be formatted according to APA (7th edition) guidelines pertaining to which type of literature is being cited (i.e., book by one author, book with an editor, journal article, blog and so forth).
+
+#### Your Literature Review Checklist
+
+Does your final paper:
+
+- [ ] Have an engaging introduction?
+
+- [ ] Have a critical review of literature that expands upon at least 2 main themes, each based upon multiple sources (10 sources total).
+
+- [ ] Support findings with evidence from multiple sources?
+
+- [ ] Synthesize consistencies across studies and within themes?
+
+- [ ] Have an engaging discussion and conclusion?
+
+- [ ] Have an accurate reference list?
+
+- [ ] Follow APA 7th style and formatting?
+
+>>> See the Sample Template at the bottom of this page if you need help understanding how this assignment will be structured.
+
+  > > > APA formatting is required for this assignment. You should focus on general formatting, writing clearly and concisely, in-text citations and references. For more details visit the APA Style Checklist.
+
+>>>Note: _This paper should be a maximum of 12 pages (including title page, body of paper, reference list)._  
+>>>>
+>>>Please have your assignment reviewed by a writing coach prior to submitting this assignment. Your TWU Learning Commons Report must be included as a second page of this assignment.
+>>>>
+>>>Please submit this assignment using the Assignment drop box on Moodle.
+
+
+
+#### Rubric for the Formal Literature Review:
+
+|Elements | Your assignment will be evaluated based on the following... |
+|:---|:---|
+|Introduction|All elements of the introduction are explained and discussed in a clear, interesting, concise way, and include relevant, carefully selected details. A clear case is made for why the focus of the study is important to the field and of interest to the author. Key terms are clearly defined in the context of this investigation.|
+|Review of the Literature|All themes related to research question are relevant and developed. All discussion is clearly written, in an interesting, concise way, with relevant, yet carefully selected detail. Direct quotations are carefully selected. Findings from various articles and authors are synthesized within each theme, and within subsections for each theme.|
+|Discussion and Conclusions |The discussion provides a concise summary of the findings in a balanced and impartial way and clearly connects to the research question. The key strengths and limitations of the literature reviewed are discussed in a clear and concise way. A rationale for why future research should be conducted on this topic is provided based on the limitations (examples are provided). The conclusion makes recommendations/implications for practice.|
+|Organization & Clarity | Adheres to the page limit criteria. Excellent organization of content. Excellent use of linkages and transitions. The readability of the paper is excellent. |
+|Writing Mechanics | Excellent style and language usage. Very effective sentence variety and word choice. Impeccable grammar, punctuation, spelling, and proofreading. |
+|APA Formatting | Title page includes page number, specific and informative title, author, course code, institution and date. All articles cited in the text are included in the reference list. There are no APA formatting mistakes throughout the paper or in the reference list (see the APA style checklist). |
+
+<span class="blockhead">Assignment: Article Critiques</span>
+
+In units 4, 5, 6, 7, and 9 you will be learning about and critiquing different elements of a scholarly article.  In unit 4, you will focus on the introduction of an article. In unit 5, the focus will be on the methods and results of a quantitative research report.  In unit 6, the focus will be on the methods and results of a qualitative research report.  In unit 7, the focus will be on a mixed-methods report, and finally in unit 9, the focus will be on the conclusion of a research report. You will begin by reading the assigned article, then you evaluate the elements of the article assigned in each unit. The elements that you will evaluate will be different in each unit.
+
+>>>>>> Note: You will spend time in class in your groups preparing the evaluation, and then will present your findings at the end of each class.  
+
+____________
+
+> > > > **Specific instructions for each unit are provided below. Please click on the unit title for details.**
+
+______________
+
+[ui-accordion independent=true open=none]
+[ui-accordion-item title="Unit 4 Article Activity"]
+
+### Unit 4 Article Critique
+
+In unit 4, you will review the **introduction section** of the SL article provided below.  You will evaluate the introduction using the criteria provided in the Plano-Clark and Creswell text: for the statement of the problem (page 93), the literature review (page 143), and the research question/purpose (page 184 & 185).  
+
+**Article to review:**
+
+Eva, N., Robin, M., Sendjaya, S., van Dierendonck, D., & Liden, R. C. (2019). Servant leadership: A systematic review and call for future research. *The Leadership Quarterly*, *30*(1), 111-132. https://doi.org/10.1016/j.leaqua.2018.07.004
+
+#### Evaluation Criteria for the Introduction of a Research Report
+
+**Part 1: The Statement of the Problem** (Plano Clark & Creswell, page 93)
+
+1. Is the topic interesting?
+2. Is there a meaningful problem?  
+3. Is the importance of the problem justified?
+4. Are there deficiencies or gaps in knowledge about the problem?
+5. Is there an audience identified that can benefit from the missing knowledge?
+6. Does the author clearly state that the study is warranted?
+7. Is the passage well written?
+
+
+**Part 2:Problem Statement/Research Question** (Plano Clark & Creswell, page 184 &185)
+
+1. Is the study's purpose clearly specified?
+2. Is the focus of the study appropriate?
+3. Is the purpose narrowed through specific research questions?
+4. Does the purpose follow logically from the statement of the problem?
+5. Is the purpose is consistent with the study's overall approach?
+
+>>>>Remember to provide each section with a quality rating on a scale from poor; fair; good; excellent.  Make sure to provide evidence/reasoning about why you think this section is lower or higher quality.
+
+**_Prepare a short 2-page summary of your evaluation and post it on the Unit 4 forum._ _Remember to provide the title of your article in your summary._**
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Unit 5 Article Activity"]
+
+### Unit 5 Article Critique
+
+In unit 5, you will review the **Methods and Results** section the **quantitative SL article provided below.  While you review the methods and results section, you will evaluate these sections using the criteria provided in the Plano-Clark and Creswell text for the research design, participants and data collection, and results.
+
+**Article to review:**
+
+Van Dierendonck, D., Stam, D., Boersma, P., De Windt, N., & Alkema, J. (2014). Same difference? Exploring the differential mechanisms linking servant leadership and transformational leadership to follower outcomes. *The Leadership Quarterly*, *25*(3), 544-562. r Inc. http://dx.doi.org/10.1016/j.leaqua.2013.11.014
+
+_Note: We will only be looking at Study #1 on pages 550-552._
+
+#### Evaluation Criteria for the Methods and Results Section of a Quantitative Research Report
+
+**Part 1 & 2: Research Design & Participants**  (Plano Clark & Creswell pages 211, 212, 249, 250)
+
+1. Is there a research design used to guide the study and is it described in detail?
+2. What research design is used?
+3. Are the participants described in detail? (e.g., age, gender, professional experience, any other identifying characteristics?)
+4. Is the sample size justified and appropriate?
+5. How is the data collected from participants?
+6. Are the data gathered using good ethical procedures?
+7. Are the relevant variables described?
+8. Are data-gathering instruments appropriate?
+10. Are validity and reliability established?  
+
+
+>>>>Remember to provide each section with a quality rating on a scale from poor; fair; good; excellent.  Make sure to provide evidence/reasoning about why you think this section is lower or higher quality.
+
+   **_Prepare a short 2-page summary of your evaluation and post it on the Article Evaluation forum. Remember to provide the title of your article in your summary._**
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Unit 6 Article Activity"]
+
+### Unit 6 Article Critique
+
+In unit 6, you will review the **Methods and Findings** section of the ***qualitative*** SL article below.  While you review the methods and findings sections, you will evaluate these sections using the criteria provided in the Plano-Clark and Creswell text for the research design, participants and data collection, and findings.  
+
+**Article to review:**
+
+Ragnarsson, S., Kristjánsdóttir, E. S., & Gunnarsdóttir, S. (2018). To Be Accountable While Showing Care: The Lived Experience of People in a Servant Leadership Organization. *SAGE Open*. https://doi.org/10.1177/2158244018801097
+
+#### Evaluation Criteria for the Methods and Findings Section of a Qualitative Research Report
+
+**Part 1 & 2: Research Design and Participants** (Plano-Clark & Creswell, pp. 302-303, 349-350)
+
+1. Does a research design guide the study?
+2. Does the research design address the study’s purpose?
+3. Is the sample size appropriate and justified?
+4. Are the types of data collected appropriate?
+5. Are data collection issues handled ethically and thoughtfully?
+
+**Findings** (Plano-Clark & Creswell, p. 377)
+
+1. Do the findings include  a description of the  people, places, or  events in the study?
+2. Do the findings include  appropriate themes  about the central  phenomenon?
+3. Does the data analysis represent a good  qualitative process?  
+4. Do the findings provide a good exploration of the central phenomenon?
+
+>>>>Remember to provide each section with a quality rating on a scale from poor; fair; good; excellent.  Make sure to provide evidence/reasoning about why you think this section is lower or higher quality.
+
+**_Prepare a short 2-page summary of your evaluation and post it on the Unit 6 forum. Remember to provide the title of your article in your summary._**
+
+[/ui-accordion-item]
+
+[ui-accordion-item title="Unit 7 Article Activity"]
+
+### Unit 7 Article Critique
+
+In unit 7, you will review the **Mixed-Methods** SL article below.  As a group, you will evaluate the article using the criteria provided in the Plano-Clark and Creswell text for mixed-methods research reports.  
+
+**Article to review:**
+
+Beck, C. D. (2014). Antecedents of servant leadership: A mixed methods study. _Journal of Leadership and Organizational Studies, 21_(3), 299-314. [https://doi.org/10.1177/1548051814529993](https://doi.org/10.1177/1548051814529993)
+
+#### Evaluation Criteria for the Mixed-Methods Research Report
+
+(Plano Clark & Creswell, p. 405-406)
+
+1. Was the rationale for using a mixed-methods approach mentioned and justified?
+
+2. Was the choice of mixed-methods design appropriate?
+
+3. Were the quantitative methods appropriate and of good quality?
+
+4. Were the qualitative methods appropriate and of good quality?
+
+5. Are the quantitative and qualitative components meaningfully mixed?
+
+6. Did the use of mixed  methods produce  a good  understanding of  the research  purpose?
+
+>>>>Remember to provide each section with a quality rating on a scale from poor; fair; good; excellent.  Make sure to provide evidence/reasoning about why you think this section is lower or higher quality.
+
+   **_Prepare a short 2-page summary of your evaluation and post it on the Unit 7 forum. Remember to provide the title of your article in your summary._**
+
+[/ui-accordion-item]
+[ui-accordion-item title="Unit 9 Article Activity"]
+
+### Unit 9 Article Critique
+
+In unit 9, you will review the SL article below.  As a group, you will evaluate the Conclusion section of the article using the criteria provided in the Plano-Clark and Creswell text.  
+
+**Article to Evaluate:**
+
+Eva, N., Robin, M., Sendjaya, S., van Dierendonck, D., & Liden, R. C. (2019). Servant leadership: A systematic review and call for future research. *The leadership quarterly*, *30*(1), 111-132. https://doi.org/10.1016/j.leaqua.2018.07.004
+
+#### Evaluation Criteria for the Conclusion Section of a Research Report
+
+1. Are the major results identified and summarized?
+
+2. Are the results thoughtfully examined  in relation to the literature?
+
+3. Are appropriate implications of the results for practice identified and justified?
+
+4. Are thoughtful critiques of the study’s limitations provided and appropriate for the research approach?
+
+5. Are suitable implications of the results for future research identified and justified?
+
+6. Is the back matter appropriate for the study report?
+
+>>>>Remember to provide each section with a quality rating on a scale from poor; fair; good; excellent.  Make sure to provide evidence/reasoning about why you think this section is lower or higher quality.
+
+   **_Prepare a short 2-page summary of your evaluation and post it on the Unit 9 forum. Remember to provide the title of your article in your summary._**
+
+[/ui-accordion-item]
+
+[/ui-accordion]
+
+
+
+## Article Critique Grading Criteria
+
+**The following criteria will be used to evaluate the article critiques:**
+
+| Excellent                                                                                                                                                                                                                                                                                                                                                                                             | Satisfactory                                                                                                                                                                                                                                                                                                                                    | Attempted                                                                                                                                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The critique shows in-depth thinking about the topic.<br/>As appropriate, the course content is used to support statements made with proper citation.<br/>Demonstrates strong application and understanding, using clear, detailed examples.<br/>Uses information from the text logically with supportive evidence.<br/>Consistently uses correct APA formatting, grammar, spelling, and punctuation. | The critique shows moderately clear description with adequate detail.<br/>Evidence of attempts to apply content from the course and course readings are present but inconsistent. Quotes, references, and examples are evident but integration and connection could be stronger.<br/>Small number of minor grammatical or other writing errors. | The critique shows very limited detail, difficult to understand.<br/>No/Limited attempts have been made to apply content from the course and course readings OR there is no/limited integration of quotes/references, or examples.<br/>Consistent evidence of grammatical or other writing errors. |
+
+
+**The following criteria will be used for synchronous group work:**
+
+| Peer-Evaluation                                                                                                                                                                                                                                                                                                                                | Self-Evaluation                                                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Did you attend the group meetings regularly?<br/>Did you contribute meaningfully to the group discussions?<br/>Did you complete the group assignments on time?<br/>Did you prepare your work in a quality manner?<br/>Did you demonstrate a supportive attitude?<br/>Did you contribute significantly to the success of the group assignments? | Did you attend the group meetings regularly?<br/>Did you contribute meaningfully to the group discussions?<br/>Did you complete the group assignments on time?<br/>Did you prepare your work in a quality manner?<br/>Did you demonstrate a supportive attitude?<br/>Did you contribute significantly to the success of the group assignments? |
+
+
+<span class="blockhead">Assignment: Scholarly Article Review</span>
+
+This assignment is the next step in moving toward a literature review paper. Remember, your eventual task is to create a literature review that is synthesized from the individual research articles you have read and have taken notes on in your literature search assignment. Part of that process revolves around the need to be able to look back at your notes and quickly see what you actually noted from these articles.
+
+To be efficient, you need to create the easiest way possible to organize the notes that you have made. Using a format that includes: (a) citation, (b) a 2-3 sentence summary, (c) key points (numbered 1-2-3-4), (d) a "So what?” and (e) a “Now what?” is the most efficient way to organize your notes.
+
+To be transparent, these parts will be included in any literature review you write. This template allows you to easily go back - after many weeks - and see your organized notes. Then, you literally organize your notes into the order you wish to present them, cut and paste things into a new word file that becomes your literature review, and then do the final cleaning up and additions.
+
+For this assignment, you will write a review of a journal article using the guidelines provided below. This assignment should not be any longer than **2 pages**. Note that this is rather brief, requiring you to synthesize a lot of information in a concise way, which can be challenging at first. Writing drafts of each section and then editing these to consolidate information is recommended.
+
+#### Instructions to complete this assignment:
+
+**Step 1:** To begin this assignment, select one peer-reviewed journal article from your literature review search assignment and provide the citation in APA 7th edition format.
+
+**STEP 2:** Open the article review template found at the bottom of this page. Begin filling it in.
+
+**Step 3:** Next, in 2-3 sentences summarize the purpose, problem and/or question(s). Provide a clear description of context and/or key participants and a strong summary. The summary should offer insightful comments on the article reviewed.
+
+**Step 4:** List three to five points that you believe should be remembered. These are your choices, and could differ from person to person. They do not have to cover the entire article; focus on what you care about.
+
+**Step 5:** This next section should be a personal reflection of where the article fits into your own thinking. It should be used to connect what you have read with what you think.
+
+**Step 6:** Next, includes notes that help you move forward. Write a more personal summary of what you found and how these findings relate to your own needs in the research you are engaged in.  
+
+**Step 7:** APA formatting is required for this assignment. Specifically, an APA title page, font, line spacing, margins, alignment, and paragraph indentation. Adding citations to support statements/facts made and a APA style reference. For this assignment you will also need to demonstrate clear and concise writing. For more details visit the APA Style Checklist.
+
+>>> See the Sample Template at the bottom of this page if you need help understanding how this assignment will be structured.
+
+**Step 8: Please have your assignment reviewed by a writing coach prior to submitting this assignment. Your TWU Learning Commons Report must be included as a second page of this assignment.**
+
+**Please submit the assignment using the Assignment drop box on Moodle.**
+
+#### Rubric for Scholarly Article Review
+
+| **Criteria  **               | **Your assignment will be evaluated based on the following criteria....  **                                                                                                                                                                                                                                                                          |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Citation                 | Reference is present with no APA errors.                                                                                                                                                                                                                                                                                                         |
+| Summary                  | Clearly identifies the purpose, problem and/or question(s). Provides a clear introduction, a description of context and/or key participants and a strong summary conclusion. The summary offers insightful comments on both the strengths and limitations of the article reviewed.                                                               |
+| What?                    | Describes in an explicit, detailed manner the 3-5 points you believe should be remembered. This may include the problem, and/or situation, definitions of technical terms and key concepts. Concrete examples, illustrations and quotations to clarify and enhance understanding without imposing judgment, interpretation and/or personal bias. |
+| So What?                 | Clearly connects with your own understanding of the topic. Supports and connects knowledge claims with concrete examples from scholarly literature and previous experiences.                                                                                                                                                                     |
+| Now What?                | Clearly explains the practical applications or implications. Describes how claims have confirmed, differed and/or enhanced your personal and/or practical understanding of an issue or phenomenon.                                                                                                                                               |
+| APA Formatting           | The critique follows APA 7 formatting standards.                                                                                                                                                                                                                                                                                                 |
+| Organization and Clarity | Excellent organization of content. Excellent use of linkages and transitions. Communication flows very smoothly. Excellent introduction and conclusion.                                                                                                                                                                                          |
+| Expression and Mechanics | Excellent style and language usage. Very effective sentence variety and word choice. Impeccable grammar, punctuation, spelling, and proofreading.                                                                                                                                                                                                |
+
+<span class="blockhead">Formal Literature Review</span>
+
+In this assignment you will demonstrate your scholarly inquiry learning by writing a graduate-level literature review. This assignment is focused on the leadership interest you have identified and defined in the literature search, and your scholarly article review. This assignment will be your analysis and synthesis of the literature, presented in scholarly prose, fully compliant with APA (7th edition) format.
+
+##### What type of literature review is required for this assignment?
+The "type" or "style" of literature review that I am asking you to write for your fifth assignment is called a Traditional or Narrative Review. This type of review provides an overview of research on a particular topic that critiques and summarizes a body of literature. It is typically broad in focus. Relevant past research is selected and synthesized into a coherent discussion. Methodologies, findings and limits of the existing body of knowledge are discussed in narrative form. This type of review requires a sufficiently focused research question. You can find an excellent example of this type of literature review paper here:
+
+> > > > Fear, W., & Erikson-Brown, A. (2014). Good quality discussion is necessary but not sufficient in asynchronous tuition: A brief narrative review of the literature.  Journal of Asynchronous Learning Networks 18(2). Retrieved from [http://files.eric.ed.gov/fulltext/EJ1036265.pdf](http://files.eric.ed.gov/fulltext/EJ1036265.pdf)
+
+
+##### How should you organize and write a literature review?
+
+In their textbook, Fredericksen and Phelps (n.d.) outline the steps you need to take to write a literature review.  Begin by reading chapter 7 "Synthesizing Sources" and Chapter 8 "Writing a Literature Review".
+
+Please note that I am NOT asking you to review ALL of the empirical evidence on your topic (this would be a huge undertaking). I am asking you to select a **minimum of 10 scholarly sources** that you will use to review for your paper. This means you are writing a literature review in **a maximum of 12 pages** (including title page, body of paper, reference list).
+
+### Requirements for the Formal Literature Review Paper
+
+##### Title page
+
+Create a title page in APA format.
+
+#### Introduction
+The introduction of your paper should begin with one paragraph summarizing in general terms your research topic. This information should stand out and capture your reader’s attention. This introductory material should stand below the restated paper title without any further heading that indicates it is an introduction. In the next few paragraphs it is important to provide your reader with a brief overview of the problem. It is here that you want to begin to set the stage for your research story. You can build the overview by answering these questions in a few paragraphs:
+
+- What was your research about? [Provide a general but engaging introduction that describes the context of your paper.]
+- What generated your interest in this research?
+- What problem does your research address?
+- Why is your research important? How does your paper address the problem?
+- What is the central research question?
+
+It is important also to include the definition of any key terms that you will be using throughout your paper. Remember to include appropriate reference citations, and include any reference you cite in your paper in the reference list. On the basis of your personal knowledge as well as your investigation of the literature, provide a brief discussion of the major issues or gaps that have been identified related to the topic that is being investigated. This addresses the importance or the significance of your study. To conclude this section, provide a brief statement outlining the purpose of the study and be explicit about the research question you will be addressing. If you wish, you may also include a paragraph about your personal interest in this topic as a researcher. Here is a checklist of what you should include in this section:
+
+- Identify the general topic.
+-	Establish the importance of this topic to the field.
+-	Establish your point of view or reason for interest in the topic.
+-	Clarify key terms related to the topic.
+
+#### Body (Critical Review of the Literature)
+In this section you are now going to organize what you have learned by summarizing the major themes with full reference citations. Whether you choose to follow a study-by-study or a thematic approach, it is very important that you do not just simply recite a summary of the research report. The purpose of a literature review is to connect research reports to your stated problem through analysis and synthesis. Throughout this process you must critically appraise the relevance and value of the literature. The literature review should include major findings, and key conclusions, and a critical evaluation of the articles you have reviewed. When you are critically evaluating research studies, you are not just listing and summarizing items, you need to assess them, compare and contrast them, and discuss the strengths and weaknesses of each study that you have reviewed. Critically evaluate and integrate your findings in an unbiased and systematic way. Identify inconsistencies in study results and identify points of contention in theories, conceptualizations, and methods in the literature (Cooper, 2003).
+
+**How to move from an article review to a paragraph in a literature review?**
+
+Your task is to create a literature review that is synthesized from the individual research articles you have read and have taken notes on in Assignment 2 and 4. Part of that process revolves around the need to be able to look back at your notes and quickly see what you actually noted from these articles.  These notes will be included in any literature review you write. Create an article review for each article you collected for this final assignment. This will help you organize your findings and create the notes you need to write the paragraphs in the "results" section of your literature review paper.
+
+Use the Article Review Template so that you can go back - after many weeks - and see your organized notes. Then, you literally organize your notes into the order you wish to present them, cut and paste things into a new word file that becomes your literature review, and then do the final cleaning up and additions.
+
+**Writing an Introductory Paragraph**
+
+After you have edited and revised your article review paragraphs, it’s time to write the Introductory Paragraph of your critical literature review.
+
+This paragraph gives readers a sense of what’s coming. For example,
+
+The question this review of literature addressed was, [XXXX]. This review of literature highlighted XX distinct themes including, a) XX, b) XX, and c) XX.
+
+**Note:** *Remind your reader about your research question. Then give them an introduction to the themes you will be exploring.*
+
+**Writing a Concluding Paragraph**
+
+After you have edited and revised your article review paragraphs and organized them into themes, written the Introductory Paragraph, you are now ready to write the Concluding Paragraph of your findings.
+
+The concluding paragraph gives readers a sense of what’s coming – for you. For example,
+
+“To conclude, this review of literature suggested that researchers should …. (finish by adding your thoughts)….. “ or you state a conclusion about the similarities and differences in the articles you reviewed.
+
+Here is a checklist of what you should include in this section:
+
+*   Did you organize this section by themes or categories or chronologically?
+*   Did you include at least 10 academic (peer-reviewed) sources?
+*   Have you summarized and critically evaluated the articles you have reviewed?
+-	Did you expand upon at least 2 main themes, each based upon multiple sources?
+-	Did you synthesize consistencies across studies and within themes?
+-	Did you discuss inconsistencies across studies and within themes?
+-	Discuss the connection between the themes and the research question?
+-	Did you write an introductory paragraph?
+-	Did you write a concluding paragraph?
+
+
+#### Discussion
+In this section you should open by restating the problem you are investigating. You then want to state the major findings and discuss whether or not your literature review supported or did not support your research question. In this section you should describe your own interpretation of the research you reviewed (e.g., identify gaps, inconsistencies, strengths, weaknesses) and link these interpretations back to the question that you started with. You also need to discuss the limitations of your findings and make recommendations (and offer a rationale) for future research on the topic. End this section with a commentary on the importance of your findings and provide any implications that may result from the findings. Here is a checklist of what you should include in this section:
+
+*  Provide a concise summary of the findings and conclusions in a balanced and impartial way.
+*  What are the key strengths and/or limitations of the literature?
+*  Offer a rationale for why future research should be conducted on this topic. What would you suggest based on the limitations?
+*  Make recommendations for practice.
+
+#### Conclusion
+
+In this final section, you will bring your paper to a close. Consider the following questions as writing prompts for this final conclusion (Summarize in one short paragraph):
+
++ What was your research question?
++ What did you learn from your review of the literature?
++ Why do these results matter?
++ What is one final thought you think others need to know as a result of your work?
+
+#### References
+
+At the very end list your references. Reference lists must start on a new page, and must be formatted according to APA (7th edition) guidelines pertaining to which type of literature is being cited (i.e., book by one author, book with an editor, journal article, blog and so forth).
+
+#### Your Literature Review Checklist
+
+Does your final paper:
+
+- [ ] Have an engaging introduction?
+
+- [ ] Have a critical review of literature that expands upon at least 2 main themes, each based upon multiple sources (10 sources total).
+
+- [ ] Support findings with evidence from multiple sources?
+
+- [ ] Synthesize consistencies across studies and within themes?
+
+- [ ] Have an engaging discussion and conclusion?
+
+- [ ] Have an accurate reference list?
+
+- [ ] Follow APA 7th style and formatting?
+
+>>> See the Sample Template at the bottom of this page if you need help understanding how this assignment will be structured.
+
+  > > > APA formatting is required for this assignment. You should focus on general formatting, writing clearly and concisely, in-text citations and references. For more details visit the APA Style Checklist.
+
+>>>Note: _This paper should be a maximum of 12 pages (including title page, body of paper, reference list)._  
+>>>>
+>>>Please have your assignment reviewed by a writing coach prior to submitting this assignment. Your TWU Learning Commons Report must be included as a second page of this assignment.
+>>>>
+>>>Please submit this assignment using the Assignment drop box on Moodle.
+
+
+
+#### Rubric for the Formal Literature Review:
+
+|Elements | Your assignment will be evaluated based on the following... |
+|:---|:---|
+|Introduction|All elements of the introduction are explained and discussed in a clear, interesting, concise way, and include relevant, carefully selected details. A clear case is made for why the focus of the study is important to the field and of interest to the author. Key terms are clearly defined in the context of this investigation.|
+|Review of the Literature|All themes related to research question are relevant and developed. All discussion is clearly written, in an interesting, concise way, with relevant, yet carefully selected detail. Direct quotations are carefully selected. Findings from various articles and authors are synthesized within each theme, and within subsections for each theme.|
+|Discussion and Conclusions |The discussion provides a concise summary of the findings in a balanced and impartial way and clearly connects to the research question. The key strengths and limitations of the literature reviewed are discussed in a clear and concise way. A rationale for why future research should be conducted on this topic is provided based on the limitations (examples are provided). The conclusion makes recommendations/implications for practice.|
+|Organization & Clarity | Adheres to the page limit criteria. Excellent organization of content. Excellent use of linkages and transitions. The readability of the paper is excellent. |
+|Writing Mechanics | Excellent style and language usage. Very effective sentence variety and word choice. Impeccable grammar, punctuation, spelling, and proofreading. |
+|APA Formatting | Title page includes page number, specific and informative title, author, course code, institution and date. All articles cited in the text are included in the reference list. There are no APA formatting mistakes throughout the paper or in the reference list (see the APA style checklist). |
+
+
+### APA Formatting Requirements:
+
+When APA formatting is required for your assignments, here is a checklist of elements you should include for a student paper in APA 7th edition.
+
+**General Formatting:**
+
+*   Font: Be consistent. Use Times New Roman 12-point font, Calibri 11-point, or Arial 11-point.
+*   Double-space between all text lines.
+*   Leave 1-inch (2.54cm) margins at the top, bottom, right and left side of the page.
+*   Indent the first line of every paragraph.
+*   Use the flush-left alignment style.
+*   The sequential order of the sections of my paper are: Title Page, Body of Paper, References.
+
+**Title Page (page 1):**
+
+*   Page number 1 is flush right in the header.
+*   The title of my paper summarizes the main idea of the paper and is simple and engaging. 
+*   The title is written in title case which means the first letter of any major words capitalized (4 words or greater). It is boldface, centered, and positioned in the upper half of the page.
+*   My name is double spaced under the title.  It is not bold, underlined, or abnormal font.
+*   The institutional affiliation is double spaced under my name.  It is not bold, underlined, or abnormal font.
+*   Please provide the course number and name for which the paper is being submitted (e.g., LDRS 591), the instructors name (e.g., Dr. Heather Strong), and the assignment submission date (e.g., August 20, 2020).
+
+**General Formatting for Subsequent Pages:**
+
+*   Each page header has the page number flush right, all on the same line.
+*   The paper title is repeated in full on the first page of the body of the paper. The title is written in title case, centered and bold. 
+*   The paper is organized with appropriate headings.
+
+
+
+| **APA 7th Headings** |                                                              |
+| -------------------- | ------------------------------------------------------------ |
+| Level                | Format                                                       |
+| 1                    | **Centered, Boldface, Title Case Heading**   Text starts a new paragraph. |
+| 2                    | **Flush left, Boldface, Title Case Heading**   Text starts a new paragraph. |
+| 3                    | ***Flush Left, Boldface Italic, Title Case Heading\***   Text starts a new paragraph. |
+| 4                    | **Indented, Boldface Title Case Heading Ending With a Period.** Paragraph text continues on the same line as the same paragraph. |
+| 5                    | ***Indented, Boldface Italic, Title Case Heading Ending With a Period.\*** Paragraph text continues on the same line as the same paragraph. |
+
+*   The introduction should not carry a heading label. 
+*   Paragraphs in the body of the paper are indented 5-7 spaces or one tab stop.
+*   Spacing between sentences is 1 space.
+*   Lists can be enumerated or bulleted.
+*   Within a single sentence for short lists use the  format, (a), (b), (c), etc.
+*   For a list of sentences or short paragraphs, use a list format: 1. 2. Bullets can be used if it better describes the list but not preferred, e.g. a lot of numbers are used in the list.
+
+**Writing Clearly and Concisely:**
+
+*   I have not used more words than are necessary to convey meaning.
+*   I have used direct, declarative sentences with simple, common words.
+*   I have not used paragraphs that run longer than one double spaced manuscript page.
+*   Each pronoun refers clearly to its antecedent and agrees with the antecedent in number (singular or plural) and gender.  Personal pronouns are used sparingly.
+*   I have only used “we” to refer only to myself and my coauthors.
+*   I have avoided using alliteration, rhyming, poetic expressions, and clichés. I have used metaphors sparingly.
+*   I used the active rather than the passive voice, and I have selected tense or mood carefully.
+*   I have used bias-free language.
+*   I have omitted the use of slang.
+*   For any numbers written in the text, I have spelled out zero through nine and the rest are Arabic numerals.
+*   I used the spell check on my word processor and read through the paper carefully to catch any typos, left out words, punctuation issues, and grammatical errors.
+
+**In-text Citations:**
+
+* Direct quotations include the author (or title if no author), the date, and specific part of the source (page #, paragraph # or section title). For example: (Strong, 2020, p.3).
+
+* Parenthetical citations use the author and date and they appear in parentheses for example: (Strong, 2020).
+
+* Narrative citations are incorporated into the text as part of a sentence. The authors name appears in the text and the date appears immediately after the name in parentheses. For example, Strong (2020), has suggested that it is very important to learn the rules of APA style in scholarly writing. 
+
+* All quotations < 40 words are enclosed in quotation marks.  The in-text citation is placed within parentheses and comes before the ending punctuation. For example: 
+
+  "The servant-leader is servant first…It begins with the natural feeling that one wants to serve, to serve first. Then conscious choice brings one to aspire to lead" (Greenleaf, 1977, p.7).
+
+* All quotations > 40 words are shown as an indented block quote with no additional beginning paragraph indenting.  The in-text citation is placed within parentheses and comes after the punctuation. For example: 
+
+  ​		Then conscious choice brings one to aspire to lead. He or she is sharply different from the person 		who is leader first, perhaps because of the need to assuage an unusual power drive or to acquire 		material possessions. For such it will be a later choice to serve – after leadership is established. The 		leader-first and the servant-first are two extreme types. Between them there are shadings and 		blends that are part of the infinite variety of human nature. (Greenleaf, 1977, p.7)
+
+* Put commas and periods within quotation marks, *except* when a parenthetical reference follows. For example:
+
+  He said, "I may forget your name, but I never forget a face."
+
+  History is stained with blood spilled in the name of "civilization."
+
+  + When a parenthetical reference follows the quote, punctuation comes after. For example,
+
+  Mullen, criticizing the apparent inaction, writes, "Donahue's policy was to do nothing" (p. 24).
+
+* Paraphrasing is a restatement of the original source in my own words.
+
+* Paraphrased in text citations include the author (or title if no author) and the date. It is optional to include the specific page, paragraph, or section of a source that is paraphrased.
+
+* For any sources with multiple authors: for one or two authors, include the authors names in every citation. For example: (Strong & Parsons, 2020)...
+
+* For a source with 3+ authors, include the name of only the first author and put "et al." in every citation. For example, (Strong et al., 2020)...
+
+* If the in-text citation is included in the sentence I am writing and I have multiple authors, the word and is spelled out. For example:  Jones, Smith, and Black (2010)…
+
+* If the in-text citation is included in a parentheses an ampersand is used to separate the next to last and last authors. For example: (Jones, Smith, & Black, 2010)...
+
+* When an author is repeated within a paragraph, with no other sources used in between, I can omit the date.  For a new paragraph, include all the elements of the in text citation per above.
+
+**References:**
+
+* The page title, References, is centered, 1 inch from the top of the page and starts a new page.  Standard font should be used in boldface.
+
+* All sources listed in the References have at least 1 corresponding in text citation.
+
+* References are listed in alphabetical order by the authors last name.
+
+* Every reference list entry has who, when, what, and where.
+
+* All lines are double spaced and for each entry the hanging indent is used. For example:
+
+  Parsons, J., & Taylor, L. (2011). Improving student engagement. *Current Issues In Education*, *14*(1), 101-12. 			http://cie.asu.edu/
+
+* Only initials are used for first and/or second names of authors.  There is a space between initials. For example: Strong, H. A.
+
+* If there are multiple authors, they are listed in the order they appear on the original source.
+
+* Authors in the references are separated by commas (even for 2 authors) and an ampersand is used before the last author.
+
+* Year of publication follows the authors of the article in parentheses.
+
+* Titles of books, journals, technical reports are given in italics, as are journal titles.
+
+* Titles of books, journal articles, web sites are in lower case except for the first word, first word after a colon and any proper nouns.
+
+* The title of a web page that is an article contained in a larger web site is not italicized.
+
+* Journal article titles and book article titles are not italicized.
+
+* Volume numbers are given in italics.
+
+* Issue numbers are enclosed in parenthesis and not formatted with italics.
+
+* Paging is given as a range (e.g. 45-56) without using p. or pp. except for newspapers or magazines without a volume and issue number.
+
+* Publication information (books) includes the publishers name (no location).
+
+* For electronic articles, a DOI is used at the end using the following format https://doi.org/XXXXXXXXXXXXX
+
+* For electronic articles, if there is no DOI, then use the publisher’s url.
+
+* For any citations ending with a URL all hyperlinking (blue, underline) is included and there is no period at the end of the hyperlink.
+
+* APA Style uses two kinds of capitalization to format reference titles: title case and sentence case. APA’s title case refers to a capitalization style in which most words are capitalized, and sentence case refers to a capitalization style in which most words are lowercase.
+
+* The titles of works that stand alone (such as a book or a report) are italicized in both the text and the reference list.
+
+* The titles of works that are part of a greater whole (such as an article, which is part of a journal, or a book chapter, which is part of a book) are enclosed in quotation marks and written in title case.
+
+**Source:** Information provided on this page has been adapted from [APA Style Errors Checklist](https://ocls.indwes.edu/APA/APAStyleChecklist.pdf).
+
+Participation/Group Work
+In this course you will be meeting weekly with a small group in class to work through course content. Some weeks you will be required to submit a document showing your work.
+
+Specific instructions for each week are provided below. Please click on the link for each week to view the instructions.
+
+Unit 1 Group Discussion
+In your learning pod, you are asked to discuss the following questions:
+
+Part 1: Begin by introducing yourself and explaining what your experience is with research. What excites you most about this class and what are you worried about?
+
+Next, discuss what you have learned about the differences between informal research (everyday problem solving) and scholarly inquiry (formal research).
+
+Part 2: Will be discussed in class.
+
+As a group, prepare a 1-page summary of each of your group discussion and post it on the Unit 1 Forum.
+
+Unit 2 Group Activity
+In your learning pod, you will do some research on the benefits of a popular health topic (your choice).
+
+Begin by searching for literature on your topic. Choose an article, or blog post, or video, or other internet source that you found on your topic. Determine if your source is credible or not by using the checklist below.
+
+Currency – Is the source current (<10 yrs) or out of date?
+Relevance - Does the information relate to your topic or answer your question? Who is the intended audience?
+Authority – Who is the author and who published the source?
+Accuracy - Where does the information come from? Is the information supported by evidence? Has the information been peer reviewed
+Purpose - What is the purpose of the information? to inform? teach? sell? entertain? persuade? Is the information fact? opinion? propaganda?
+As a group, prepare a short 1-page summary of your findings on the credibility of the source on your health topic. Share your findings with the class on the Unit 2 Forum.
+
+Resource: Use Evaluating Resource : the CRAAP TEST 
+
+Unit 3 Group Activity
+In your learning pod, you will begin by discussing the elements of APA style or scholarly writing that you struggle with and how you plan to improve on these elements before you submit your next assignment.
+
+Next, create a short presentation on a section of the APA manual. You can create a shared presentation using Google Slides or Google Docs. Please be creative!
+
+Instructions for this group activity will be provided in class.
+
+Please upload a shared link to your APA presentation in the Unit 3 Forum so that the rest of your classmates can view your presentation.
+
+Resource: APA Presentation (Exemplar)
+
+Unit 4, 5, 6, 7, 9 Group Activity
+The activities for Units 4, 5, 6, 7, 9 will be provided under the Assignment 3 tab.
+
+Unit 8 Group Activity
+In your learning pod, you will spend most of your time sharing your ideas for your action research project that you will be presenting in a group presentation. Make sure you all have time to share your project ideas. As a group you will just choose one project to develop together and present.
+
+Here are the instructions for developing your action research presentation:
+
+Think about some practical problems that you have faced in your professional life that you would like to change. Share the problems with your group and as a group choose one that you would like to address for your action research presentation. Discuss why it is a problem and discuss why this problem is important to you. Next, you will create an idea for action research project following the steps outlined below.
+
+Determine if an action research project is feasible. Remember, you want to use action research when you want to systematically address a practical problem in your work situation or community, and to advance your own professional development.
+Specify the problem you want to study. Identify the question you want to answer. The most important factor in action research is that you need to solve a practical problem. This problem is one that you face in your own practice or in your community.
+Identify the information that you need. This means that you need to decide who your participants will be, how many people you will study, how you will access these participants. Be specific.
+Describe how you will collect data. Your choices are to collect quantitative data (e.g., attendance data, test scores, or a short survey) or qualitative data (e.g., reflection journals or in-person interviews, focus groups) or both.
+How will you analyze the data that you collect? Will you use quantitative, numerical data that will be examined using descriptive analyses or qualitative, text-based data using content analyses exploring general themes.
+In action research, it is not enough to produce results from your data, you need to use those results to develop a plan for action. Describe how the results of this project will help enhance the lives of those involved.
+Next, describe how you are going to implement your plan.
+Finally, you also need to reflect on what you have learned from implementing your plan and discuss how you will share your results with others.
+Note: This learning activity will be a group presentation of one action research project idea. Post your presentation on the Unit 8 forum for peer-review.
+
+Resource: Action Research Presentation (Exemplar)
+
+Unit 10 Group Activity
+In your learning pod, take turns answering the following questions:
+
+Are there any aspects of the final literature review paper that you are struggling to understand? If so, share some of your struggles with the group so that you can support each other as you prepare your final literature review paper.
+
+What are the most significant concepts you have learned about high-quality research report?
+
+Explain why these ideas were significant for you.
+
+What new insights have you learned about the research process and how would those insights inform your decision making now?
+
+Why do you think evidence-based decision making is important for the transformational servant leader?
+
+### Participation/Group Work Grading Criteria {-}
+
+The group assignments will be graded in three parts. The following criteria will be used:
+
+| Part 1: Your instructors evaluation of the content.                                                                                                                                                                                                                                                                                               | Part 2: Your peer-evaluation of your contribution to the group work.                                                                                                                                                                                                                                                                           | Part 3: Your self-evaluation of your contribution to the group work.                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The activity shows in-depth thinking about the topic.<br/>As appropriate, sources are used to support statements made with proper citation.<br/>Demonstrates strong application and understanding, using clear, detailed examples.<br/>Uses information from the text logically with supportive evidence.<br/>No APA/spelling/grammatical errors. | Did you attend the group meetings regularly?<br/>Did you contribute meaningfully to the group discussions?<br/>Did you complete the group assignments on time?<br/>Did you prepare your work in a quality manner?<br/>Did you demonstrate a supportive attitude?<br/>Did you contribute significantly to the success of the group assignments? | Did you attend the group meetings regularly?<br/>Did you contribute meaningfully to the group discussions?<br/>Did you complete the group assignments on time?<br/>Did you prepare your work in a quality manner?<br/>Did you demonstrate a supportive attitude?<br/>Did you contribute significantly to the success of the group assignments? | 

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This package has been created with Moodle 4.1.4+ (Build: 20230728) (2022112804.08) http://moodle.org/, Book module version 2022112800 - https://github.com/skodak/moodle-mod_book -->
+<!-- One idea and implementation by Eloy Lafuente (stronk7) and Antonio Vicent (C) 2001-3001 -->
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="MANIFEST-35f22014bcc897cfea997393673bfa66" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsmd_v1p2 imsmd_v1p2p2.xsd">
+  <organizations default="MOODLE-30336-6492">
+    <organization identifier="MOODLE-30336-6492" structure="hierarchical">
+      <title>Unit 2: Accessing and Evaluating Scholarly Literature</title>
+        <item identifier="ITEM-30336-6492-1" isvisible="true" identifierref="RES-30336-6492-1">
+         <title>Overview</title>
+        </item>
+        <item identifier="ITEM-30336-6492-2" isvisible="true" identifierref="RES-30336-6492-2">
+         <title>Accessing Scholarly Literature</title>
+          <item identifier="ITEM-30336-6492-3" isvisible="true" identifierref="RES-30336-6492-3">
+           <title>Learning Activity</title>
+          </item>
+        </item>
+        <item identifier="ITEM-30336-6492-4" isvisible="true" identifierref="RES-30336-6492-4">
+         <title>Utilizing Scholarly Literature</title>
+          <item identifier="ITEM-30336-6492-5" isvisible="true" identifierref="RES-30336-6492-5">
+           <title>Learning Activity</title>
+          </item>
+        </item>
+        <item identifier="ITEM-30336-6492-6" isvisible="true" identifierref="RES-30336-6492-6">
+         <title>Evaluating Scholarly Literature</title>
+          <item identifier="ITEM-30336-6492-7" isvisible="true" identifierref="RES-30336-6492-7">
+           <title>Learning Activity</title>
+          </item>
+        </item>
+        <item identifier="ITEM-30336-6492-8" isvisible="true" identifierref="RES-30336-6492-8">
+         <title>Summary</title>
+          <item identifier="ITEM-30336-6492-9" isvisible="true" identifierref="RES-30336-6492-9">
+           <title>Checking Your Learning</title>
+          </item>
+        </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-30336-6492-1" type="webcontent" xml:base="1/" href="index.html">
+      <file href="1/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-2" type="webcontent" xml:base="2/" href="index.html">
+      <file href="2/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-3" type="webcontent" xml:base="3/" href="index.html">
+      <file href="3/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-4" type="webcontent" xml:base="4/" href="index.html">
+      <file href="4/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-5" type="webcontent" xml:base="5/" href="index.html">
+      <file href="5/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-6" type="webcontent" xml:base="6/" href="index.html">
+      <file href="6/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-7" type="webcontent" xml:base="7/" href="index.html">
+      <file href="7/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-8" type="webcontent" xml:base="8/" href="index.html">
+      <file href="8/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-9" type="webcontent" xml:base="9/" href="index.html">
+      <file href="9/index.html" />
+      <dependency identifierref="RES-30336-6492-css" />
+    </resource>
+    <resource identifier="RES-30336-6492-css" type="webcontent" xml:base="css/" href="styles.css">
+      <file href="css/styles.css" />
+    </resource>
+  </resources>
+</manifest>
