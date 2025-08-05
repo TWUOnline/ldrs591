@@ -1,0 +1,284 @@
+# Course Assessments
+
+Your course grade will be determined by the satisfactory completion of all requirements. Due dates are as follows:
+
+<table> <colgroup> <col style="width: 46%" /> <col style="width: 23%" /> <col style="width: 30%" /> </colgroup> <thead> <tr class="header"> <th><strong>Assignment</strong></th> <th><strong>% of Grade</strong></th> <th><strong>Due Date</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td>Discussion Forum Posts</td> <td>20%</td> <td>Weeks 1-5<br /> (Mondays &amp; Thursdays)</td> </tr> <tr class="even"> <td>[A1: Annotated Bibliography &amp; Critique](https://learn.twu.ca/mod/assign/view.php?id=1169688){target="_blank"}</td> <td>20%</td> <td>Unit 3 / Week 3</td> </tr> <tr class="odd"> <td>[A2: Developing Your Research Question](https://learn.twu.ca/mod/assign/view.php?id=1169689){target="_blank"}</td> <td>15%</td> <td>Unit 4 / Week 4</td> </tr> <tr class="even"> <td>[A3: Scoping Literature Review](https://learn.twu.ca/mod/assign/view.php?id=1169690){target="_blank"}</td> <td>30%</td> <td>Unit 6 / Week 6</td> </tr> <tr class="odd"> <td>[A4: Research Letter of Intent](https://learn.twu.ca/mod/assign/view.php?id=1169691){target="_blank"}</td> <td>15%</td> <td>Unit 6 / Week 6</td> </tr> <tr class="even"> <td><strong>Total</strong></td> <td><strong>100%</strong></td> <td> </td> </tr> </tbody> </table>
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[A1: Annotated Bibliography &amp; Critique](https://learn.twu.ca/mod/assign/view.php?id=1169688)
+-->
+
+# Weekly Discussion Forums (20%)
+
+Submit your Discussion Forum posts and replies below.
+
+## Discussion Grading Rubric
+
+| **Description** | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post | 1.5 |
+| 2 response posts | 1.5 |
+| At least 1 reference | 0.5 |
+| Posted on time | 0.5 |
+| **Total** | **4.0** |
+
+# Week 1 Discussion Forum
+
+## Instructions
+
+After completing the learning activities in this unit, respond to the prompt(s) below in this week’s discussion post. In your response, aim for **300-500 words** and incorporate **at least one reference** from course materials or relevant external sources. **Always write using APA 7 format.** Engage with your classmates by **responding to at least two posts**, offering constructive feedback or additional insights to further the discussion.
+
+## Prompts
+
+1. Begin by introducing yourself and explaining what your experience is with research. Next, discuss what you have learned about the differences between informal research (everyday problem solving) and scholarly inquiry (formal research).
+2. Review the Brown and Dueñas (2020) article and respond to the following questions:
+    - What research paradigm resonated with you the most?
+    - If you had to choose one, which one would you pick and why?
+3. Next, review the Wallace, J. R. (2007). *Servant leadership: A worldview perspective* and then respond to the following questions:
+    - What is your worldview (perspective)?
+    - How do you base decisions on this worldview?
+
+# Week 2 Discussion Forum
+
+## Instructions
+
+After completing the learning activities in this unit, respond to the prompt(s) below in this week’s discussion post. In your response, aim for **300-500 words** and incorporate **at least one reference** from course materials or relevant external sources. **Always write using APA 7 format.** Engage with your classmates by **responding to at least two posts**, offering constructive feedback or additional insights to further the discussion.
+
+## Prompts
+
+1. **Reflect on Methodologies**: Based on your understanding of the three research methodologies (quantitative, qualitative, and mixed methods), discuss which methodology you believe is most effective for studying leadership practices. Provide reasons for your choice, citing specific examples from the readings.
+2. **Literature Reviews**: Compare and contrast traditional literature reviews with systematic literature reviews. What are the key differences in their purposes and methodologies, and why do you think these differences matter in leadership research?
+
+# Week 3 Discussion Forum
+
+## Instructions
+
+After completing the learning activities in this unit, respond to the prompt(s) below in this week’s discussion post. In your response, aim for **300-500 words** and incorporate **at least one reference** from course materials or relevant external sources. **Always write using APA 7 format.** Engage with your classmates by **responding to at least two posts**, offering constructive feedback or additional insights to further the discussion.
+
+## Prompts
+
+In Unit 3, we focused on the critical steps involved in developing a research question within the context of leadership studies. As you reflect on the topics of establishing purpose, connecting personal leadership goals to servant leadership, and formulating effective research questions, please address:
+
+1. **Establishing Purpose**: Reflect on the importance of establishing a clear purpose in your research. How does understanding your personal and professional leadership goals shape the way you approach your research topic? Provide specific examples of how your values or experiences have influenced your research interests.
+2. **Servant Leadership Connection**: Discuss how servant leadership characteristics resonate with your research interests. Which specific servant leadership characteristics do you believe are most relevant to your research topic, and why? Explain how these characteristics align with your purpose and can enhance your inquiry.
+3. **Drafting a Research Question**: Based on your reflections, draft a potential research question that you would like to pursue for your capstone project. Ensure that your question is clear, relevant, and researchable. Briefly share the rationale behind your choice and discuss why this topic is significant to you.
+
+# Week 4 Discussion Forum
+
+## Instructions
+
+After completing the learning activities in this unit, respond to the prompt(s) below in this week’s discussion post. In your response, aim for **300-500 words** and incorporate **at least one reference** from course materials or relevant external sources. **Always write using APA 7 format.** Engage with your classmates by **responding to at least two posts**, offering constructive feedback or additional insights to further the discussion.
+
+## Prompts
+
+In Unit 4, we explored the process of accessing and evaluating scholarly literature, which is crucial for developing robust research practices in leadership studies. For this DQ you, will find and critically evaluate a scholarly article.
+
+1. Use search strategies to locate a **qualitative** article based on your topic of research interest. Share what key search terms, library, and databases you used to locate the article.
+2. Evaluate the credibility and reliability of the article you found based on authority, currency, purpose, content, publication type/process, and bias/special interests.
+
+# Week 5 Discussion Forum
+
+For this week’s Discussion, post a rough draft of your scoping review. Even if your draft is not complete, post what you have.
+
+Give at least 2 classmates constructive feedback to help them improve their work.
+
+Post your initial draft by Saturday at Midnight, and your follow up posts by Monday at Midnight.
+
+# Assignments (80%)
+
+Submit your completed Assignments below.
+
+# Assignment 1: Annotated Bibliography with Article Critique
+
+The purpose of this assignment is to create an annotated bibliography that reviews, summarizes, and critiques relevant literature on your chosen topic. Each annotation should assess the credibility and trustworthiness of the article, considering elements such as the research methodology used, author credentials, publication date, purpose, content, potential bias, and limitations.
+
+## Instructions
+
+1. Choose Your Topic
+    - Select a focused research topic that aligns with your interests and area of study.
+    - This topic will guide the selection of articles for your annotated bibliography.
+2. Locate and Select Relevant Literature
+    - Conduct a search for peer-reviewed, credible, and relevant sources related to your topic.
+    - Choose 5 articles to include in your bibliography. You must include at least one Quantitative Study, one Qualitative Study, One Mixed Methods Study, and one Systematic Literature Review.
+    - Begin your search by starting broadly. Using your keywords, search the TWU Library. Then search specific databases such as Academic Search Ultimate and Business Source Complete. Then use internet sources such as Google Scholar or the Directory of Open Access Journals to find credible sources.
+3. Structure of Each Annotation For each article, provide a full APA 7 reference citation, followed by a 150–300 word annotation that includes:
+    - Summary: Briefly summarize the main purpose, scope, and findings of the article.
+    - Article Type: Identify the type of article (e.g., qualitative, literature review, etc.) and note any relevant features, such as whether it is primary or secondary research.
+    - Author Credentials: Briefly describe the author’s qualifications, affiliations, or expertise in the topic area.
+    - Currency: Note the publication date and explain why it is appropriate for your topic. Assess whether the article is current enough to be relevant.
+    - Purpose and Content: Describe the purpose of the article and evaluate the quality and depth of content, including the clarity and thoroughness of the information presented.
+    - Bias and Limitations: Assess the presence of any noticeable bias in the article, such as the author’s stance or the publisher’s perspective. Note any methodological or other limitations, such as small sample sizes, lack of diversity in the study population, or outdated sources.
+4. Assess Trustworthiness and Credibility Include a brief critique of the article’s trustworthiness. Comment on why the article can be considered credible based on factors like:
+    - The reputation of the journal or publisher.
+    - Peer-review status.
+    - The methodological rigor and objectivity of the study.
+    - Whether the article is widely cited by other reputable sources (if known).
+5. Format and Presentation
+    - Follow APA 7th Edition formatting for all citations and organization of the bibliography.
+    - Alphabetize your bibliography entries by the last name of the first author.
+
+## Submission Requirements
+
+Submit a document that includes:
+
+- A title page and page numbers
+- Your annotated bibliography, with each article following the structure outlined above.
+
+## Assignment 1 Rubric
+
+| **Criteria** | **Description** | **Possible Points** |
+|------------------|---------------------------------------|---------------|
+| **Topic Selection and Relevance** | Selected topic is clearly focused, aligns well with field of study, and guides the annotated bibliography. | 5 |
+| **Selection of Sources** | Includes 5 high-quality, peer-reviewed sources with required diversity in study types (quantitative, qualitative, mixed methods, systematic review). | 10 |
+| **Annotations: Summary** | Provides concise, thorough summaries of purpose, scope, and findings for each article; demonstrates strong understanding of source content. | 20 |
+| **Annotations: Article Type and Methodology** | Correctly identifies article type and research methodology for each source, with clear distinctions between primary and secondary research. | 10 |
+| **Annotations: Credibility and Currency** | Thoroughly evaluates author credentials, publication date, and relevance of currency to the topic for each article. | 10 |
+| **Annotations: Purpose, Content, Bias, and Limitations** | Provides detailed and critical assessment of article purpose, content quality, any biases, and limitations; demonstrates insight and critical thinking. | 15 |
+| **Trustworthiness and Credibility Critique** | Offers strong critique on each article’s trustworthiness based on journal reputation, peer-review status, methodology rigor, and citation frequency if applicable. | 15 |
+| **APA 7 Formatting** | Consistently follows APA 7th Edition for citations, references, and bibliography organization; alphabetized correctly and adheres to all formatting standards. | 5 |
+| **Writing Quality and Presentation** | Writing is clear, professional, and free of errors; annotations are well-organized and concise with a coherent flow. | 10 |
+| **Total Points** | | **100** |
+
+# Assignment 2: Developing Your Research Question
+
+In this assignment, you will describe your leadership interests (personal and/or professional) and generate research questions amenable to scholarly inquiry.
+
+The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. MA Lead is founded in Greenleaf’s (1977) servant leadership which has 10 characteristics:
+
+1. Listening
+2. Empathy
+3. Healing
+4. Awareness
+5. Persuasion
+6. Conceptualization
+7. Foresight
+8. Stewardship
+9. Commitment to the growth of people
+10. Building community
+
+Take time review these characteristics, their meaning and significance in leadership practices. Then reflect on and articulate some of the salient leadership interests in your personal and professional life and practice. Here are some brainstorming questions to help guide you:
+
+- What problem do you see in your workplace that needs to be addressed?
+- What specific aspects of your leadership style do you find most challenging, and why?
+- What are your personal, academic, and professional goals?
+- Where you see the greatest need for change in the field you want to work in as a leader?
+- Consider what is working well in your field and how could you discover best practices? What is not working well? How can it be improved or changed?
+
+After identifying some salient leadership interests, consider which servant leadership characteristics are most relevant to your topic.
+
+## Instructions
+
+Write a **two-page paper (excluding title page and references)** describing your leadership interests (personal and/or professional). Describe which servant leadership characteristics are most relevant to your research interest (no more than two characteristics). Based on these leadership interests, generate a research question that will guide your scholarly inquiry.
+
+**Include the following sections in your paper in APA 7 format:**
+
+1. **Title Page**
+2. **Introduction**: In the opening paragraph, state the salient leadership interests in your personal and professional life and practice. Identify one problem or topic that you would like to investigate and provide a brief introduction to your topic.
+3. **Servant Leadership**: Write 2-3 paragraphs describing which servant leadership characteristics are **most** relevant to your research interest (no more than two competencies). Explain why they are relevant to your research interest.
+4. **Research Topic**: Next, include the following three statements to clarify what you want to address in your question. If you can complete these statements, you will have a narrow enough topic, with enough direction, to perform some great research.
+- I am researching \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (What? Topic)
+- because I want to find out \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (So What? Issue/question)
+- in order to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Now What? Application/Purpose).
+1. **Research Question & Rationale**: Write the research question you want to pursue for your capstone project. Write a 2-3 paragraph rationale for why you chose this question. Discuss why this topic is important to you.
+- Be sure your Research Question (RQ) is formatted as a question.
+- Check your RQ to be sure it is specific and that it can be answered through research. **Be aware that you will likely refine your research question by the end of this course.**
+1. **References**: Include an APA 7 formatted reference list.
+
+**APA 7: Be sure to use APA formatting for all in-text citations and references.**
+
+## Assignment 2 Rubric
+
+| **Criteria** | **Description** | **Possible Points** |
+|------------------------|---------------------------------------|----------|
+| **Introduction** | Clearly and concisely describes leadership interests with a strong, focused statement on the research topic. The topic introduction is compelling and engaging. | 15 |
+| **Servant Leadership** | Thoughtful analysis of relevant servant leadership characteristics, demonstrating a deep understanding of relevance to the research interest. | 20 |
+| **Research Topic Statements (What, So What, Now What)** | Each statement is precise, relevant, and clearly articulates topic, issue, and purpose, demonstrating readiness for scholarly inquiry. | 20 |
+| **Research Question (RQ) Development** | The research question is specific, researchable, and well-supported by rationale, providing a clear path for inquiry. | 20 |
+| **Personal/Professional Relevance** | Provides strong, reflective reasoning for topic selection and connects to personal/professional interests in a meaningful way. | 10 |
+| **References & APA 7 Compliance** | Reference list and in-text citations are complete, accurate, and consistently follow APA 7 format; formatting is excellent. | 10 |
+| **Overall Clarity, Organization, & Length** | Paper is well-organized, flows logically, and adheres to length requirements. Writing is clear, concise, and engaging. | 5 |
+| **Total Points** | | **100** |
+
+# Assignment 3: Scoping Literature Review
+
+In this assignment, you will conduct a scoping literature review to explore the breadth and depth of existing research relevant to your topic. Scoping reviews provide a broad understanding of the volume and type of evidence available, helping to assess the feasibility and potential direction for future in-depth research.
+
+## Instructions
+
+1. **Introduction**: Begin with a brief overview of your topic and the purpose of the scoping review. Briefly introduce the topic, explain its relevance in leadership research, and outline the purpose of the scoping review. Provide a summary of the review’s aims, including any specific topic you intend to explore. Some questions to help your write the introduction are:
+    - What was your research about? (Provide a general but engaging introduction that describes the context of your paper.)
+    - What generated your interest in this research?
+    - What problem does your research address?
+    - Why is your research important? How does your paper address the problem?
+    - What is your research question?
+
+> To conclude this section, provide a brief statement outlining the purpose of the scoping literature review. For example, you may use the sentence: The purpose of this scoping literature review is to present an overview of available literature about [insert topic] and determine whether this topic is suitable for more in-depth research.
+
+1. **Methods**: Summarize your search process, including keywords, databases, and selection criteria. Mention any inclusion or exclusion criteria applied.
+2. **Search Strategy**: Include your search strategy table showing how you found and narrowed sources. Include 1-2 paragraphs explaining the table.
+3. **Results**: Organize your findings by grouping the literature into major themes or categories that reflect trends, concepts, or focus areas within the literature. For each theme, summarize relevant findings and synthesize information from multiple sources, emphasizing:
+    - Common findings across studies,
+    - Unique insights from specific articles, and
+    - Contrasts or differences that highlight diverse perspectives in the literature.
+4. **Discussion**: Reflect on the major findings and insights from your review, noting any significant research gaps or areas of limited understanding within the existing literature. Briefly discuss potential directions for future research based on these observations.
+5. **Conclusion**: Conclude with a summary of your main findings, key insights, and any gaps in the literature. Reinforce the significance of your topic and suggest how future research could address identified gaps. Offer any final thoughts on the topic’s significance or potential practical applications in the field of leadership.
+6. **APA Compliance and Presentation**:
+    - Follow APA 7th Edition for title page, in-text citations, headings, and reference formatting.
+    - Ensure clear, concise, and well-organized writing, with each section of the paper contributing to a coherent and informative review.
+
+## Assignment Requirements
+
+- **Sources:** Select and analyze a minimum of 10 scholarly sources. You may use the five sources from your annotated bibliography if they are relevant.
+- **Length:** Maximum of 10 pages, excluding the title page and references.
+- **Format:** Follow APA 7th Edition guidelines for citations, references, and formatting.
+
+## Assignment 3 Rubric
+
+| **Criteria** | **Description** | **Possible Points** |
+|--------------|------------------------------------------------|----------|
+| **Introduction** | Provides a clear and engaging introduction that contextualizes the topic within leadership research. Effectively introduces the scoping review’s aims, addresses key questions, and presents a focused research question that guides the review. | 10 |
+| **Methods** | Describe the search strategy, including keywords, databases, and selection criteria. | 15 |
+| **Search Strategy** | Include your search strategy table showing how you found and narrowed sources. Include 1-2 paragraphs explaining the table. | 10 |
+| **Results** | Organizes findings into well-defined themes or categories that reflect key trends and concepts. Summarize relevant findings that reflect key trends and concepts. Note common findings across studies, unique insights from specific articles, and contrasts or differences | 25 |
+| **Discussion and Analysis** | Offers insightful analysis of your results, discussing how they enhance understanding of the leadership topic. Identifies significant research gaps, discusses limitations within the literature, and suggests meaningful directions for future research. | 20 |
+| **Conclusion** | Summarizes the scoping review’s main insights, emphasizing key findings and research gaps. Conveys the topic’s significance and its potential impact or application in leadership practice. | 5 |
+| **Format and APA 7 Compliance** | Follows APA 7th Edition formatting for title page, in-text citations, references, and headings. Presentation is clear, concise, and well-organized, with a logical flow between sections | 10 |
+| **Overall Writing Quality** | Writing is scholarly, concise, and free of grammatical errors. Ideas are clearly presented and contribute to an informative, cohesive review. | 5 |
+| **Total Points** | | **100** |
+
+# Assignment 4: Research Letter of Intent
+
+In this assignment you will demonstrate your scholarly inquiry learning by writing a research letter of intent (1 page excluding title page and references). The letter of intent is suitable for thesis track proposal or reframing in LDRS 697/698 as a systematic literature review.
+
+Before you begin LDRS 697/698, you must choose a capstone or thesis track. Your options are:
+
+- Capstone: Conduct an extensive Systematic Literature Review (secondary research).
+- Thesis Track: Conduct primary research.
+
+After choosing option 1 or 2, write a one-page (plus title page and references) letter of intent, explaining which option you choose. In the letter of intent, you will briefly describe the background of your research problem, your research question, and proposed methods. Be aware you must have approval from your professor to pursue the thesis track.
+
+## Instructions
+
+Write a one-page letter of intent including the following:
+
+1. **Background of the Research Problem:** Short paragraph, building an argument based on the literature and your personal/professional experience, regarding why this is an important research study. This can be a succinct summary of what you’re learned in your scoping literature review.
+2. **Research Question:** clearly state your revised research question.
+3. **Proposed Methods:** Include a short, detailed, succinct description of how you plan to gather and analyze data (thesis track: primary research) or capstone (systematic literature review), to answer your research question. Explain why the option you chose is best suited to answer your research question.
+4. **Conclusion:** Summarize why this study matters, your RQ, and the methodology you will use to answer this RQ.
+5. **Reference Page**
+
+**As always, be sure to use APA 7 formatting for all aspects of this paper, including Title Page, Tables, Citations, and Reference List.**
+
+## Assignment 4 Rubric
+
+| **Criteria** | **Description** | **Possible Points** |
+|---------------|-----------------------------------------------|----------|
+| **Background of the Research Problem** | Provides a clear, concise background that builds a compelling argument for the study’s importance. Draws effectively on both literature and personal/professional experience to establish relevance and context. | 25 |
+| **Research Question** | Presents a focused, specific, and researchable question that aligns directly with the research problem and chosen methodology. | 20 |
+| **Proposed Track** | Clearly explain your proposed track (primary research or systematic literature review) and why it is suitable for addressing the research question. Describes data gathering and analysis strategies effectively. | 25 |
+| **Conclusion** | Summarizes the study’s significance, the research question, and track. Offers a compelling final rationale for the study’s relevance and chosen track. | 10 |
+| **APA 7 Compliance & Formatting** | Adheres to APA 7th Edition format for title page, references, in-text citations, and overall structure. Paper is well-organized, clear, and professional in presentation. | 10 |
+| **Overall Writing Quality** | Writing is concise, scholarly, and free from errors. Communicates ideas clearly and maintains a professional tone throughout. | 10 |
+| **Total Points** | | **100** |

@@ -1,149 +1,238 @@
-# Understanding Mixed Methods Research Reports
-
 ## Overview {.unnumbered}
 
-Plano-Clark and Creswell assert that the decision to engage in qualitative or quantitative research is driven by whether the research problem calls for an explanation or an exploration (2015, p. 63). A third genre---mixed methods---has developed. Mixed methods is the conscious inclusion of both qualitative and quantitative methods and so doing, seeks to mitigate some of the inherent tensions and weaknesses in both. Unit 7 investigates mixed methods research design.
+This unit explores the fundamentals of APA 7 formatting, emphasizing its role in establishing professionalism, credibility, and ethical writing practices. From title pages to in-text citations and references, each component of APA style contributes to clarity and trust in academic and professional writing. By adhering to APA standards, you will learn to present your ideas in an organized, professional way that respects the work of others.
 
 ### Topics {.unnumbered}
 
-Unit 7 is divided into 3 topics:
+The APA Unit is divided in seven topics. See the [APA Unit Topics](https://learn.twu.ca/mod/book/view.php?id=1172203){target="_blank"} link at the bottom of this page for the course notes on the following topics:
 
-1. Introduction to Mixed-Methods Research
-2. Mixed-Methods Research Designs
-3. Using Mixed-Methods to Understand Leadership.
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[APA Unit Topics](https://learn.twu.ca/mod/book/view.php?id=1172203)
+-->
+1. The Purpose of APA 7
+2. Title Page Formatting
+3. Headings
+4. Citations
+5. References
+6. Spacing and Margins
+7. Unit Summary
 
 ### Learning Outcomes {.unnumbered}
 
-When you have completed this unit you should be able to:
+By the end of this unit, you will:
 
-1. Discuss how a mixed-methods approach can advance research.
-2. Evaluate the quality of mixed methods research report on servant leadership.
-3. Apply a mixed-methods approach to the study of servant leadership.
+1. Understand the importance of APA formatting in promoting professionalism, accountability, and ethical behavior.
+2. Develop skills in formatting title pages, headings, and references.
+3. Apply correct spacing, margins, and citation techniques to enhance document clarity and credibility.
 
-### Activity Checklist {.unnumbered}
+## Learning Activities
 
-::: {.callout-tip icon=false appearance="simple"}
+1. Designing Your Title Page
+2. [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289){target="_blank"}
 
-**Learning Activities**
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-- **Activity:** Read chapter 12 of your text. Watch a video.
-- **Activity:** Evaluate the use of the mixed methods approach in a servant leadership article.
-- **Activity:** Read an article and reflect in your learning journal.
-- **Assessment:** Contribute to the course discussions. See Assessment tab in Moodle for details.
+[Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289)
+-->
+3. [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290){target="_blank"}
 
-:::
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-### Resources {.unnumbered}
+[Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290)
+-->
+4. Citations
+5. Formatting References Puzzle
+6. Space and Margins Puzzle
 
-Here are the resources you will need to complete the unit:
+#
 
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
-- *E-Resources:* The articles in this unit can be found through the [TWU library](https://www.twu.ca/library){target="_blank"}.
+# The Purpose of APA 7
 
-## Introduction to Mixed-Methods Research
+In professional and academic writing, APA 7 formatting serves as a critical guide for consistency, clarity, and credibility. Established by the American Psychological Association (APA), APA format is widely used in fields such as psychology, education, and social sciences. But why is it important, and how does it relate to professionalism and leadership?
 
-This week, in Unit 7, I have prepared an audio message to introduce you to mixed methods research. You can listen to my audio message below.
+#### Why APA 7 Matters for Professionalism {.unnumbered}
 
-[*Listen: Welcome to Unit 7*](https://soundcloud.com/user-303479512){target="_blank"}
+Using APA style is not just about following rules; it demonstrates a commitment to precision and attention to detail. A well-structured, accurately formatted document reflects professionalism and respect for the work of others, as it prioritizes clear communication and proper citation of sources. By adhering to APA guidelines, writers convey their information clearly, minimize ambiguity, and ensure their audience can easily follow and verify their sources. This fosters trust and credibility, qualities that are essential for servant leadership and a professional reputation.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/398715627&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-303479512" title="hstrong" target="_blank" style="color: #cccccc; text-decoration: none;">hstrong</a> · <a href="https://soundcloud.com/user-303479512/welcome-to-unit-7-2" title="Welcome to Unit 7 (2)" target="_blank" style="color: #cccccc; text-decoration: none;">Welcome to Unit 7 (2)</a></div>
+#### Why APA 7 Matters for Leadership {.unnumbered}
 
+Effective leadership requires solid ideas and the ability to communicate those ideas effectively and responsibly. APA formatting supports leadership by providing a standardized way to present research, insights, and recommendations that others can easily understand. Leaders who use APA demonstrate ethical responsibility by giving proper credit to the work of others, thereby modeling respect for intellectual property and encouraging a culture of accountability. In this way, using APA 7 aligns with servant leadership principles by placing the needs of others first, and fostering a climate of trust and ethical behavior (Coetzer et al., 2017, McMahone, 2012). Furthermore, mastering APA style highlights a leader’s commitment to fostering accountability and a climate of ethical behavior.
 
-### Activity: Watch, Read, and Reflect
+Additionally, as servant leaders strive toward ethical practices, APA is a tool for exhibiting accountability by attributing ideas responsibly. This culture of accountability extends beyond APA adherence, setting a standard that encourages ethical, respectful communication and stewardship of knowledge. By promoting accurate citations, servant leaders cultivate an environment that respects the intellectual contributions of all, enhancing organizational integrity and ethical behavior (Coetzer et al., 2017, McMahone, 2012).
 
-::: {.callout-tip icon=false appearance="simple"}
+Throughout LDRS 591, your instructor will guide you in exploring key elements of APA 7 formatting to elevate your writing and support you in developing professional, clear, and ethically responsible written communications that create a culture of trust and accountability.
 
-📺 Begin this learning activity by watching the following video where John Creswell explains what mixed methods research is. In this video Dr. Creswell explains how the use of both qualitative and quantitative research methods can provide a more complete picture.
+# Title Page Formatting
 
-[*Watch: What is Mixed Methods Research?*](https://www.youtube.com/watch?v=II_OoioL0-E){target="_blank"}
+Creating a title page in APA 7 format for your assignments is more than just a formality; It is an important step in presenting your work professionally. A well-structured title page clearly displays essential information, such as your name, the course, your instructor’s name, and the assignment date, making it easy for readers to identify your work. It sets the tone for the rest of your paper by showing attention to detail, an appreciation for academic standards, and respect for guidelines. Additionally, following APA 7 title page requirements models accountability and professionalism, preparing you for the academic and professional standards expected in your field.
 
-{{< video https://www.youtube-nocookie.com/embed/II_OoioL0-E?si=Oi1b_bZFjQujeYca >}}
+### Activity: Learning Activity: Designing Your Title Page
 
-📖 Next, read chapter 12, "Mixed Methods Research," in Rosch, Kniffen, and Guthrie (2023).
+By the end of this activity, you will be able to create a correctly formatted APA 7 title page with all required components.
 
-✏️ Finally, in your reflective learning journal, discuss the following question:
+**Instructions:**
 
-1. What are some of the strengths and challenges of using a mixed-methods approach?
-2. What would you would look for in a high quality mixed-methods research report?
+1. Review title page elements at: [https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page](https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page){target="_blank"}
+    - Note the essential elements of an APA 7 title page:
+        - Title of the Paper: bolded and centered, three to four lines down from the top
+        - Author’s Name: first name, middle initial, last name
+        - Department and University Affiliation
+        - Course Name and Number
+        - Instructor’s Name
+        - Due Date: month, day, year
+2. Review the format requirements:
+    - Font: Times New Roman, 12-point (or another APA-approved font)
+    - Page Number: Set the page number in the top right corner
+    - Double-spacing and centered alignment
+3. Create Your Title Page:
+    - In a Word document, practice formatting your own title page using the template:
+        - Line 1 (centered, bold): Title of the Paper
+        - Line 2: Student Name
+        - Line 3: Department, University
+        - Line 4: Course Name and Number
+        - Line 5: Instructor’s Name
+        - Line 6: Due Date
+1. Apply Feedback and Compare:
+    - After creating your title page, pair up and compare your work with a partner’s.
+    - Check each other’s formatting for spacing, alignment, and correct placement of elements.
+    - Make any necessary adjustments based on feedback.
 
-*Note that your journal is not graded, but will help you in your assessment for this unit.*
+#
 
-:::
+# Headings
 
-## Mixed-Methods Research Designs
+Using headings in APA 7 for your assignments is essential for clear organization and readability. Headings guide readers through your paper’s structure, making it easy to follow your main points and understand how each section connects to your overall argument. This logical flow not only enhances your work’s professionalism but also demonstrates your ability to communicate ideas clearly and concisely. By adhering to APA’s structured heading levels, you are practicing skills in organization and clarity; Qualities valued in both academic and professional writing. Using headings also makes it easier for others to locate specific information quickly, which is especially helpful in collaborative or evaluative settings.
 
-A wide variety of mixed methods research designs have been used by researchers. It is common in mixed methods designs to see the researchers count (quantify) certain kinds of qualitative data. As well, you will encounter quantitative researchers reporting how their research participants perceived or were emotionally impacted (i.e. qualitative data) by the experimental treatment (Leedy & Ormrod, 2013, p. 97). As you look at mixed methods designs, notice how the following considerations help to differentiate the four variations of mixed methods that Plano-Clark and Creswell (2015) distinguish:
+### Activity: Learning Activity: [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289){target="_blank"}
 
-- What is the purpose of needing qualitative and quantitative data?
-- What is the sequence of qualitative and quantitative data collection?
-- What is the priority of the qualitative and quantitative data?
-- How do the two data sets inform each other?
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-For example in a **convergent parallel design,** only one data collection phase is used, during which quantitative and qualitative data collection and analysis are conducted separately yet concurrently. This design is used to develop a more complete understanding of a topic or phenomenon. In an **embedded (concurrent nested) design,** only one data collection phase is used, during which a predominant method (quantitative or qualitative) nests or embeds the other less priority method (qualitative or quantitative, respectively). This design is used o gain broader and in-depth perspectives on a topic. The **sequential explanatory design** involves the collection and analysis of quantitative data followed by the collection and analysis of qualitative data. This design is used to help explain, interpret or contextualize quantitative findings. The **sequential exploratory design** involves the collection and analysis of qualitative data followed by quantitative data collection and analysis. This designed is used to explore a phenomenon and to expand on qualitative findings.
+[Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289)
+-->
 
-### Activity: Watch, Read, and Reflect
+Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 1.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%201.docx){target="_blank"}.
 
-::: {.callout-tip icon=false appearance="simple"}
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-📺 Begin this learning activity by watching the following video on Mixed-Methods research designs.
+[Headings Part 1.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%201.docx)
+-->
 
-[*Watch: Types of Mixed Methods Research Designs ~GM Lectures*](https://www.youtube.com/watch?v=q4OFHOg3Azc){target="_blank"}
+### Activity: Learning Activity: [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290){target="_blank"}
 
-{{< video https://www.youtube-nocookie.com/embed/q4OFHOg3Azc?si=ZMnSvWj4uAuB8I7N >}}
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-📖 Next, read the article by Beck (2014). [Antecedents of servant leadership: A mixed methods study](https://doi.org/10.1177/1548051814529993){target="_blank"} to prepare yourself for the group activity in this unit.
+[Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290)
+-->
 
-✏️ After reading the article, reflect on the following questions in your learning journal:
+Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 2.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%202.docx){target="_blank"}.
 
-1. What type of mixed-methods design was used in the article?
-2. Do you think mixed-methods research can provide a more complete picture for research on servant leadership?
-3. Why or why not?
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-*Note that your journal is not graded, but will help you in your assessment for this unit.*
+[Headings Part 2.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%202.docx)
+-->
 
-:::
+#
 
-## Using Mixed-Methods to Understand Leadership
+# Citations
 
-Mixed methods studies have the potential to provide strengths that offset the weaknesses of both quantitative and qualitative research and provide a more complete and comprehensive understanding of the research problem than either quantitative or qualitative approaches alone. Molina-Azorín and Cameron (2015) have highlighted four ways that mixed methods research can benefit business research and this can be applied to leadership studies. For example mixed methods can be beneficial for leadership studies because:
+Imagine you have spent weeks working on a project at work; A presentation with detailed research and new ideas that you are excited to share with your team. Now, picture someone taking your presentation, removing your name, and presenting it as their own work without mentioning you. How would you feel?
 
-1. Collecting qualitative data can provide a deeper understanding of the leadership context.
-2. Attention to both process and outcome through the use of mixed methods can aid in building theory. For example qualitative findings can provide insight into what mechanisms contribute to a measured outcome.
-3. Complex organizations with different leadership roles would benefit from analyses that are integrated across micro and macro levels.
-4. The use of mixed methods can help bridge the academic-practitioner divide through enhancing the interpretation of results. For example, mixed methods can helps to explain findings or describe how causal processes work.
+Just as people expect acknowledgment for their own ideas and hard work, using citations in academic or professional writing gives credit to the original authors who inspired or informed our work. Citing sources shows respect for others’ contributions, demonstrating that you value their ideas enough to share them with others. This is not just about avoiding plagiarism; it is about building a culture of respect, trust, and professionalism. Properly formatted citations help ensure that others can verify and follow up on the sources you have used, creating a chain of knowledge that strengthens our shared understanding.
 
-### Activity: Reflect
+## Citations and Stewardship
 
-::: {.callout-tip icon=false appearance="simple"}
+Citing sources aligns closely with the concept of stewardship in servant leadership. Peter Block (1993) defines stewardship as "holding something in trust for another," (p. xx) a principle that underscores people’s responsibility to care for and respect others’ contributions. In servant leadership, stewardship means leaders hold knowledge, resources, and responsibilities in trust—not for personal gain, but for the benefit of the community and society.
 
-✏️ Begin this learning activity by writing a response to the following questions in your reflective learning journal:
+Applying this principle, citing sources in our work becomes an act of stewardship. You are acknowledging and preserving the intellectual contributions of others and using them in a way that respects their origin and purpose. Just as servant leaders use openness and persuasion over control, citations allow people to transparently share ideas, enabling others to trace, verify, and build upon those ideas for the collective good. This practice reflects a commitment to serve the academic and professional communities by fostering a culture of respect, integrity, and shared knowledge.
 
-1. Do you think mixed-methods is the best approach for research on leadership? Why or why not?
-2. How would you use a mixed methods approach to study servant leadership?
+## Citations and Indigenous Storytelling
 
-*Note that these questions relate to the assignment questions for this unit. See Assessment for more details.*
+In Indigenous storytelling, stewardship and proper acknowledgment are essential aspects of preserving and respecting knowledge. Land acknowledgments are an important practice in recognizing Indigenous stewardship and the original keepers of the land (Hanson, 2009). For example, you may notice the land acknowledgement on the [course syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"}:
 
-:::
+<!-- !!!
+The Moodle link above needs to be replaced.
 
-## Summary
+[course syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447)
+-->
 
-In general researchers conduct mixed methods studies when both quantitative and qualitative data together provide a better understanding of the research problem. The use of mixed method research provides a number of advantages, namely:
+"We acknowledge that Trinity Western University, Langley campus is located on the traditional ancestral unceded territory of the Stó:lō people."
 
-- Provides strengths that offset the weaknesses of both quantitative and qualitative research.
-- Provides a more complete and comprehensive understanding of the research problem than either quantitative or qualitative approaches alone.
-- Provides an approach for developing better, more context specific instruments.
-- Helps to explain findings or how causal processes work.
+This practice reflects the values of respect and responsibility toward those who have historically cared for and continue to care for the land.
 
-### Checking Your Learning {.unnumbered}
+Similarly, Indigenous oral traditions are rich with stories passed down through generations, where each storyteller holds a piece of collective memory and knowledge in trust, as noted by Elders and knowledge keepers. This stewardship of knowledge is not just about the storyteller; it is about honoring the voices and wisdom of those who came before (Hanson, 2009).
 
-::: {.callout-warning icon=false appearance="simple"}
+Just as citing sources in academic work gives credit to the original thinkers, land acknowledgments recognize Indigenous peoples as the rightful stewards of the land. This practice emphasizes respect and gratitude (Hanson, 2009), connecting to Peter Block’s (1993) idea of stewardship as "holding something in trust for another," (p. xx) recognizing the historical and ongoing relationship Indigenous Peoples have with the land. Additionally, just as citing a source respects the intellectual property of others, acknowledging original knowledge keepers of an Indigenous story honors those who have preserved this wisdom over generations.
 
-Now that you have completed the learning activities and assignments for this unit, check the list below to see if you can do the following:
+Citations in Western academia give credit, while in Indigenous traditions, "oral footnoting" attributes the story to a specific elder or ancestor, reflecting the storyteller’s responsibility to the collective memory (Hanson, 2009). This act of stewardship, both in academic and Indigenous contexts, upholds a culture of respect, ensuring that knowledge is shared ethically, responsibly, and for the benefit of future generations.
 
-1. Can you discuss how mixed-methods research can help advance leadership research?
-2. Can you evaluate the quality of mixed methods research report on servant leadership?
-3. Can you discuss how a mixed-methods approach can be applied to the study of servant leadership?
+### Activity: Learning Activity: Citations
 
-*Feel free to review topics more in depth or continue on to the next unit.*
+Practice formatting APA 7 in-text citations by solving a puzzle using the correct citation style for paraphrased and direct quotes. See [Citations Activity.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42916/Citations%20Activity.docx){target="_blank"}.
 
-:::
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[Citations Activity.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42916/Citations%20Activity.docx)
+-->
+
+#
+
+## References {.unnumbered}
+
+As Indigenous storytelling practices and academic citations embody stewardship and foster a culture of sharing knowledge responsibly and respectfully, so do references. Like using citations, including references is another way to practice servant leadership in written communication.
+
+A shift toward servant leadership in organizations today reflects a movement away from traditional, hierarchical structures to one rooted in ethical, compassionate, and inclusive leadership (Spears, 2010). This approach, defined by principles like stewardship, empathy, and commitment to the growth of others (Spears, 2010), aligns deeply with the practice of using APA references in academic and professional writing. APA referencing allows people to ethically credit original thinkers and contributors, building trust and transparency in their work. From a servant leadership perspective, using citations is an act of stewardship; It involves holding knowledge in trust for others, using it responsibly, and ensuring that ideas are shared openly for the benefit of the entire community.
+
+APA references also embody key servant leadership traits, such as commitment to the growth of others and building community. By providing accurate references, we not only acknowledge the efforts of others but also empower our readers to explore the original sources, deepening their understanding and engagement with the topic. This aligns with servant leadership’s dedication to individual growth and the creation of a collaborative, knowledge-sharing environment (Spears, 2010). In this way, references help build a community of learning, where ideas circulate ethically and openly.
+
+Further, servant leaders rely on awareness and foresight, seeing the broader impacts of their actions on others (Spears, 2010). By referencing sources, writers exercise these qualities, understanding that their work does not stand alone but is part of a larger discourse. This approach supports a responsible, forward-thinking culture where ideas are treated with respect and integrity, creating a positive and ethical academic and professional environment.
+
+### Activity: Learning Activity: References Formatting Puzzle
+
+Practice formatting references according to APA 7 guidelines by solving a puzzle that involves properly formatting citations for journals, books, and web sources. See [References Formatting Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42917/References%20Formatting%20Puzzle.docx){target="_blank"}.
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[References Formatting Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42917/References%20Formatting%20Puzzle.docx)
+-->
+
+###
+
+# Spacing and Margins {.unnumbered}
+
+### Activity: Learning Activity: Space and Margins Puzzle
+
+Practice identifying and correcting the spacing and margin errors in the provided document to meet APA 7 formatting standards. See [Space and Margin Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42918/Space%20and%20Margin%20Puzzle.docx){target="_blank"}.
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[Space and Margin Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42918/Space%20and%20Margin%20Puzzle.docx)
+-->
+
+#
+
+## Summary {.unnumbered}
+
+In this unit, you explored the essentials of APA 7 formatting and its impact on professionalism, accountability, and ethical communication. By mastering APA guidelines, you learned to present your work with clarity, structure, and respect for others’ intellectual contributions. Each element, from title pages to citations, reinforces a commitment to high standards and fosters trust within academic and professional communities.
+
+As you apply these formatting skills, remember that APA style is more than just a set of rules—it is a tool for clear, responsible, and credible communication. This foundation not only enhances your academic work but also prepares you to uphold the integrity and ethical standards valued in leadership and professional settings.
+
+## References {.unnumbered}
+
+Block, P. (1993). *Stewardship: Choosing service over self interest*. Berrett-Koehler Publishing.
+
+Coetzer, M., Bussin, M., & Geldenhuys, M. (2017). The functions of a servant leader. *Administrative Sciences*, *7*(1), 5. [https://doi.org/10.3390/admsci7010005](https://doi.org/10.3390/admsci7010005){target="_blank"}
+
+Hanson, E. (2009). *Oral traditions*. First Nations Studies Program, University of British Columbia. [https://indigenousfoundations.arts.ubc.ca/oral_traditions/](https://indigenousfoundations.arts.ubc.ca/oral_traditions/){target="_blank"}
+
+McMahone, M. (2012). Servant leadership as a teachable ethical concept. *American Journal of Business Education*, *5*(3), 339-46. [https://doi.org/10.19030/ajbe.v5i3.7006](https://doi.org/10.19030/ajbe.v5i3.7006){target="_blank"}

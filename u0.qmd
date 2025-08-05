@@ -1,0 +1,106 @@
+# Course Description
+
+LDRS591: Scholarly Inquiry provides learners with an overview of the process, critical analysis, and associated skills required for scholarship and research. This course is designed for learners who may have little research experience and will introduce scholarly inquiry and various research approaches used in the field of leadership. The aim of this course is to provide learners with the necessary skills to become critical consumers and discriminating users of research. This course does not aim to develop intermediate or advanced skills in quantitative or qualitative research methods. Rather, the course provides an introductory "toolkit" that will support the work on your applied Master of Arts (MA) in Leadership activities and in further professional work.
+
+**The syllabus includes key information about the course schedule, assignments, and policies. Please read the full [Course Syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"} located at the bottom of this Welcome page.**
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[Course Syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447)
+-->
+
+### Learning Outcomes {.unnumbered}
+
+By the end of this course, the learner will be able to:
+
+1. Evaluate potential research questions based upon problems in the leadership domain and distinguish among appropriate methods to address these questions.
+2. Conduct a thorough review of scholarly literature using library and internet search skills.
+3. Critique research studies using critical-analytic thinking skills.
+4. Develop scholarly writing that reflects higher-order thinking and analysis.
+5. Critically analyze scholarly literature.
+6. Appraise the research process based upon the values and ethical standards of servant leadership.
+7. Differentiate between and engage with types of scholarly approaches.
+
+**Please note:** This course is a pre-requisite for LDRS 697 and LDRS 698.
+
+Learning Resources
+
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association: The official guide to APA style* (7th ed.). American Psychological Association.
+- Boland, A., Cherry, M. G., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+- Additional articles will be assigned in specific units and will be available from the [TWU library](https://www.twu.ca/academics/library){target="_blank"}.
+
+## Course Activities/Requirements
+
+The course will follow an inquiry-based format. This involves exploring leadership issues collaboratively. Each unit will involve a variety of learning approaches. There will be regular opportunities for you to engage in the material through questions, small group discussion and a variety of scholarly articles that will allow you to apply key course concepts. You are expected to come to each unit prepared, having read weekly course materials in advance.
+
+## Course Evaluation
+
+The course grade will be determined by satisfactory completion of all requirements.
+
+<table> <colgroup> <col style="width: 46%" /> <col style="width: 23%" /> <col style="width: 30%" /> </colgroup> <thead> <tr class="header"> <th><strong>Assignment</strong></th> <th><strong>% of Grade</strong></th> <th><strong>Due Date</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td>Discussion Forum Posts</td> <td>20%</td> <td>Weeks 1-5<br /> (Mondays &amp; Thursdays)</td> </tr> <tr class="even"> <td>[A1: Annotated Bibliography &amp; Critique](https://learn.twu.ca/mod/assign/view.php?id=1169688){target="_blank"}</td> <td>20%</td> <td>Unit 3 / Week 3</td> </tr> <tr class="odd"> <td>[A2: Developing Your Research Question](https://learn.twu.ca/mod/assign/view.php?id=1169689){target="_blank"}</td> <td>15%</td> <td>Unit 4 / Week 4</td> </tr> <tr class="even"> <td>[A3: Scoping Literature Review](https://learn.twu.ca/mod/assign/view.php?id=1169690){target="_blank"}</td> <td>30%</td> <td>Unit 6 / Week 6</td> </tr> <tr class="odd"> <td>[A4: Research Letter of Intent](https://learn.twu.ca/mod/assign/view.php?id=1169691){target="_blank"}</td> <td>15%</td> <td>Unit 6 / Week 6</td> </tr> <tr class="even"> <td><strong>Total</strong></td> <td><strong>100%</strong></td> <td> </td> </tr> </tbody> </table>
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[A1: Annotated Bibliography &amp; Critique](https://learn.twu.ca/mod/assign/view.php?id=1169688)
+-->
+
+## Course Communication and Syllabus
+
+Please carefully read the [**Course Syllabus**](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"} located at the bottom of this Welcome page and keep up to date with [**Course Announcements**](https://learn.twu.ca/mod/forum/view.php?id=1089396){target="_blank"}. You may find the **Q&A Forum** useful for answering your questions.
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[**Course Syllabus**](https://learn.twu.ca/mod/resource/view.php?id=1171447)
+-->
+
+## Course Navigation
+
+This course is organized into the following sections/tabs in navigation bar across the top of the course page:
+
+1. **Course Introduction**
+    - This main home page has key course information.
+    - Please see the [course syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"} and carefully read through the information.
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[course syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447)
+-->
+2. **Weeks 1-6: Course Units**
+    - These six sections contain all the course units and resources you need to complete the course.
+    - Be sure to complete the learning activities as they will prepare you for the course assessments.
+3. **Assessments**
+    - In this section you will find the Discussion Forum and Assignment instructions and the Dropboxes to submit your assessments for this course.
+4. **Reflective Journal**
+    - Throughout this course, you will engage in reflective journal writing. A reflective journal is simply a record of your thoughts. There is no correct way to create this journal; rather, it reflects the way you think and the way you respond to learning. Journals can include traditional handwritten notes, Word documents, mind maps, pictures, stream-of-consciousness writing, audio recordings, important quotes, sketches, or drawings—use any combination that suits you. Experiment and have fun.
+    - The purpose of journalling is to make you an active participant in your learning experiences as you engage with your instructor and your fellow students in the various activities throughout the course’s readings, activities, and discussions. Reflecting upon these learning events will help you gain a deeper understanding of the course materials and help integrate your learning into applied practice in everyday life and work.
+    - Throughout the course, you will be reminded to write in your journal to ensure you are actively learning the material. To assist you, the course provides you with questions you can ask yourself to get your creative energies flowing. Reflective journalling is an activity you can and should complete on a regular or daily basis, even outside of our scheduled course activities.
+    - This journal is not submitted or graded, but is an opportunity for you to reflect on, and engage with, the course content. The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
+
+## Academic Integrity and TWU Policy
+
+As scholars pursuing higher education, academic integrity is a core value of the entire TWU community. Students are invited into this scholarly culture and required to abide by the principles of sound academic scholarship at TWU. This includes, but is not limited to, avoiding all forms of plagiarism and cheating in scholarly work. TWU has a strict policy on plagiarism (see academic calendar). Learning what constitutes plagiarism and avoiding it is the student’s responsibility.
+
+It will be assumed that you have read, understand, and agree to the information provided at the ‘Academic Dishonesty Policy’ button below. If you have any questions at all, please contact your instructor.
+
+See the [**Course Syllabus**](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"} below for important policies to keep in mind as you take this course. Also see the TWU website for [**Student Policies**](https://www.twu.ca/about-us/policies-guidelines/student-policies){target="_blank"}.
+
+<!-- !!!
+The Moodle link above needs to be replaced.
+
+[**Course Syllabus**](https://learn.twu.ca/mod/resource/view.php?id=1171447)
+-->
+
+# Student Support Services
+
+## Writing Centre Sessions
+
+Please note that you may be required to use the support of our writing centre coaches for this course. Plan to book your appointments well in advance, so that the coaches have time to work with you on each of your assignments. The Writing Centre is available to assist all students with their academic writing assignments in any subject at any stage of the writing process. This is a free service. Online Writing Sessions are available, for more information visit the [Learning Commons](https://create.twu.ca/learningcommons/){target="_blank"} website or contact [writingcentre@twu.ca](mailto:writingcentre@twu.ca){target="_blank"}
+
+## TWU Library
+
+Visit the [TWU library](https://www.twu.ca/academics/library){target="_blank"} for readings and your research.

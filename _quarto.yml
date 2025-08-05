@@ -16,6 +16,7 @@ book:
   search: true
   chapters:
     - index.qmd
+    - u0.qmd
     - u1.qmd
     - u2.qmd
     - u3.qmd
@@ -24,6 +25,7 @@ book:
     - u6.qmd
     - u7.qmd
     - u8.qmd
+    - assessments.qmd
 # Note: If you do not have any Zotero references, you should disable the 'references.qmd' file or else it will cause an error when rendering.    
 #    - references.qmd
 
