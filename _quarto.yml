@@ -1,12 +1,12 @@
-# version 1.4
+# version 3.3
 
 project:
   type: book
   output-dir: docs
 
-# Changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
+# Info on changing metadata labels: https://quarto.org/docs/authoring/title-blocks.html#metadata-labels
 published-title: "Last Modified"
-#author-title: "Authors"
+author-title: "Authors"
 
 book:
   title: "LDRS 591"
@@ -33,16 +33,25 @@ book:
 bibliography: https://twuonline.github.io/course-materials/quarto/references.bib
 csl: https://twuonline.github.io/course-materials/quarto/apa.csl
 link-bibliography: true
-link-citations: true
+link-citations: false
+
+# Lua Filters
+filters:
+  - at: pre-ast
+    path: yml-assets/pre.lua
+  - at: post-render
+    path: yml-assets/post.lua
 
 # Add templete for block
 title-block-banner: true
-# Formats
+
+# ------- Format Specific Settings -------
+
 format:
 # Format - HTML
   html:
     template-partials:
-      header-assets/title-block.html
+      yml-assets/title-block.html
       
     sidebar:
       style: "docked"
@@ -52,22 +61,24 @@ format:
     toc: true
     toc-title: On This Page
     theme: cosmo
+    # The line below  should only be enabled to locally test css before moving it to the main css file in course materials.
+    #theme: [cosmo, yml-assets/test.scss]
     include-in-header:
     - text: |
         <script type="application/javascript" src="https://twuonline.github.io/course-materials/quarto/twu_global_header.js"></script>
         <link rel = "shortcut icon" href = "https://twuonline.github.io/course-materials/quarto/favicon.ico" />
         
-# Format - PDF
-  pdf:
-    documentclass: scrreprt
+# # Format - PDF
+#   pdf:
+#     documentclass: scrreprt
+
 # Format - Doc
   docx:
     toc: false
     number-sections: true
     highlight-style: github
-    cite-method: biblatex
+  #   cite-method: biblatex
 # Fig captions
 fig-cap-location: top
 lightbox:
   desc-position: top
-
