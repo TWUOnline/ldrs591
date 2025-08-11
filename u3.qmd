@@ -30,7 +30,7 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 1. Watch "How to Use Your Interests to Inform Your Literature Review" about asking significant questions.
-2. Read Chapter 2 in *Introduction to Research in Leadership* (Rosch et al, 2023).
+2. Read Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
 3. Reflective Journal (optional)
 4. Crafting a Draft Research Question
 
@@ -38,21 +38,21 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete the unit:
 
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
 
 #
 
 # Establishing Purpose in Leadership Research
 
-It is important to establish a purpose in leadership research. LDRS 591, LDRS 697, and LDRS 698 are not just about completing an assignment to graduate from the Master of Arts (MA) in Leadership program. Instead, these courses are about developing scholarly inquiry skills to inform and strengthen your personal and professional leadership practices. According to Rosch et al. (2023), the purpose of research in leadership goes beyond answering questions—it aims to inform leadership practices, challenge assumptions, and inspire positive change within organizations and communities.
+It is important to establish a purpose in leadership research. LDRS 591, LDRS 697, and LDRS 698 are not just about completing an assignment to graduate from the Master of Arts (MA) in Leadership program. Instead, these courses are about developing scholarly inquiry skills to inform and strengthen your personal and professional leadership practices. According to Rosch et al. [-@roschIntroductionResearchLeadership2023], the purpose of research in leadership goes beyond answering questions—it aims to inform leadership practices, challenge assumptions, and inspire positive change within organizations and communities.
 
-Leadership research is also an opportunity to live out the call to steward the gifts and knowledge God has given you. Scripture reminds that "whatever you do, work heartily, as for the Lord and not for men" (Colossians 3:23, ESV). Research, then can be a way to seek wisdom and truth that glorifies God and serves others. Leaders are called to align their efforts with God’s purposes, fostering environments of justice, love, and service within their spheres of influence.
+Leadership research is also an opportunity to live out the call to steward the gifts and knowledge God has given you. Scripture reminds that "whatever you do, work heartily, as for the Lord and not for men" [@HolyBibleEnglish2016, Colossians 3:23]. Research, then can be a way to seek wisdom and truth that glorifies God and serves others. Leaders are called to align their efforts with God’s purposes, fostering environments of justice, love, and service within their spheres of influence.
 
-As you begin thinking about a research topic that interests you, it is important to be aware of your broad goals as a leader. On a personal level, consider how your research might reflect your calling and contribute to God’s work in the world. Additionally, it is important to align your academic and professional goals to get the most out of your research. Cherry et al. (2024) emphasize that research questions should align with both scholarly interests and practical applications, as this alignment ensures sustained motivation and relevance. For Christian leaders, this alignment extends to spiritual principles, ensuring that your research honors God, benefits others, and supports the pursuit of truth.
+As you begin thinking about a research topic that interests you, it is important to be aware of your broad goals as a leader. On a personal level, consider how your research might reflect your calling and contribute to God’s work in the world. Additionally, it is important to align your academic and professional goals to get the most out of your research. Cherry et al. [-@cherryDoingSystematicReview2023] emphasize that research questions should align with both scholarly interests and practical applications, as this alignment ensures sustained motivation and relevance. For Christian leaders, this alignment extends to spiritual principles, ensuring that your research honors God, benefits others, and supports the pursuit of truth.
 
 ### Activity: Learning Activity
 
-📺 **Watch** "How to Use Your Interests to Inform Your Literature Review" by [Leigh A Hall](https://www.youtube.com/@LeighAHall){target="_blank"} (2019) about asking significant questions.
+📺 **Watch** "How to Use Your Interests to Inform Your Literature Review" by [Leigh A Hall](https://www.youtube.com/@LeighAHall){target="_blank"} [-@hallHowUseYour2019] about asking significant questions.
 
 ![https://img.youtube.com/vi/2pC91y3pVTM/maxresdefault.jpg](assets/u3/image1.jpeg)
 
@@ -64,7 +64,7 @@ If you can fill out these statements, then you likely have a narrow enough topic
 2. because I want to find out \_\_\_\_\_\_\_\_ (So What: Issue/Question),
 3. in order to \_\_\_\_\_\_\_\_ (Now What: Application/Purpose).
 
-📖 **Read** Chapter 2 in *Introduction to Research in Leadership* (Rosch et al., 2023), "Beginning the Process of Research in Leadership." Pay close attention to the "Tips for Finding Your Research Purpose" on page 34.
+📖 **Read** Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023], "Beginning the Process of Research in Leadership." Pay close attention to the "Tips for Finding Your Research Purpose" on page 34.
 
 1. ✏️ **Reflect.** Then respond to the following questions in your Reflective Journal about how your research topic aligns with your broad goals as a leader: How can my research reflect my faith/religious beliefs and contribute to advancing God’s purposes in leadership?
     - Consider how your work could serve others, glorify God, and promote values like integrity, humility, and love in leadership practices.
@@ -84,14 +84,14 @@ These questions encourage reflection on how a research topic can serve your goal
 
 Based on your reflection, consider the following steps to define your research purpose:
 
-1. **Connect with Current Issues**: Cherry et al. (2024) recommend examining pressing issues within the field, such as equity in leadership or adaptive leadership in crisis situations.
+1. **Connect with Current Issues**: Cherry et al. [-@cherryDoingSystematicReview2023] recommend examining pressing issues within the field, such as equity in leadership or adaptive leadership in crisis situations.
 2. **Reflect on Personal and Professional Goals**: Identify what motivates you in this research area—are you driven by a desire to promote ethical practices, develop inclusive cultures, or enhance organizational performance?
 3. **Seek Feedback**: Discuss your ideas with peers, mentors, or practitioners to see if your topic resonates or to get suggestions for refining your purpose.
 4. **Write Your Purpose**: The purpose of my research is to ….
 
 # Connecting Your Leadership Goals and Purpose to Servant Leadership
 
-The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. MA Lead is founded in Greenleaf’s (1977) servant leadership which has ten characteristics:
+The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. MA Lead is founded in Greenleaf’s [-@greenleafServantLeadershipJourney1977] servant leadership which has ten characteristics:
 
 1. Listening
 2. Empathy
@@ -104,7 +104,7 @@ The Master of Arts in Leadership program values the application of best practice
 9. Commitment to the growth of people
 10. Building community
 
-Greenleaf’s (1977) servant leadership characteristics provide a foundational framework that supports skills and attributes necessary for effective leadership. The above characteristics were addressed throughout your course work, while developing your understanding of servant leadership.
+Greenleaf’s [-@greenleafServantLeadershipJourney1977] servant leadership characteristics provide a foundational framework that supports skills and attributes necessary for effective leadership. The above characteristics were addressed throughout your course work, while developing your understanding of servant leadership.
 
 For example, in Strategic Leadership, servant leadership emphasizes foresight and conceptualization, which are essential for effective strategic planning. Leaders who adopt this model prioritize long-term goals that benefit all stakeholders, not just the organization. This inclusive approach encourages decision-making that reflects both ethical considerations and community well-being.
 
@@ -134,9 +134,9 @@ If you can fill out these statements, then you likely have a narrow enough topic
 
 Now that you have identified your research purpose and goals and connected them to servant leadership characteristics, you will have a research topic of interest. It is important to note that a topic of interest is a broad research idea, but you must still develop a clearly focused research question that you are interested in exploring.
 
-Developing a research question is a critical step in the research process since it serves as a bridge between the broader purpose of the study and the specific inquiry that guides data collection and analysis. According to Rosch et al. (2023), researchers usually have a central research question that guides their work and is inherently more concrete than the overarching purpose they aim to address. While the purpose articulates the research’s general goals and intentions, a well-crafted research question provides clarity on the specific aspects of the topic that will be explored. A research question not only guides the research design but also help readers understand the investigation’s scope and the methods that will be employed to gather and analyze data.
+Developing a research question is a critical step in the research process since it serves as a bridge between the broader purpose of the study and the specific inquiry that guides data collection and analysis. According to Rosch et al. [-@roschIntroductionResearchLeadership2023], researchers usually have a central research question that guides their work and is inherently more concrete than the overarching purpose they aim to address. While the purpose articulates the research’s general goals and intentions, a well-crafted research question provides clarity on the specific aspects of the topic that will be explored. A research question not only guides the research design but also help readers understand the investigation’s scope and the methods that will be employed to gather and analyze data.
 
-Crafting effective research questions can be one of the most challenging aspects of conducting a research study (Rosch et al., 2023). It requires a deep understanding of the topic, critical thinking, and the ability to articulate specific inquiries that can be systematically investigated. Rosch et al. (2023) highlight that this process is iterative; researchers often refine their questions multiple times as they engage with the literature, gather preliminary data, or reflect on their evolving understanding of the topic. This iterative nature allows researchers to adjust their focus based on insights gained during the initial stages of their inquiry, leading to more robust and meaningful research outcomes. By approaching research question development as a dynamic and flexible process, researchers can enhance the relevance and impact of their studies, paving the way for insightful conclusions and contributions to their field.
+Crafting effective research questions can be one of the most challenging aspects of conducting a research study [@roschIntroductionResearchLeadership2023]. It requires a deep understanding of the topic, critical thinking, and the ability to articulate specific inquiries that can be systematically investigated. Rosch et al. [-@roschIntroductionResearchLeadership2023] highlight that this process is iterative; researchers often refine their questions multiple times as they engage with the literature, gather preliminary data, or reflect on their evolving understanding of the topic. This iterative nature allows researchers to adjust their focus based on insights gained during the initial stages of their inquiry, leading to more robust and meaningful research outcomes. By approaching research question development as a dynamic and flexible process, researchers can enhance the relevance and impact of their studies, paving the way for insightful conclusions and contributions to their field.
 
 As you begin drafting your research question, be sure it is:
 
@@ -147,7 +147,7 @@ As you begin drafting your research question, be sure it is:
 ## Developing Your Questions
 
 1. **Start with "What," "How," or "Why:"** These words foster exploratory questions that allow for deeper understanding.
-2. **Align with Your Purpose**: Cherry et al. (2024) highlight that research questions should flow naturally from the study’s purpose.
+2. **Align with Your Purpose**: Cherry et al. [-@cherryDoingSystematicReview2023] highlight that research questions should flow naturally from the study’s purpose.
 
 ## Example Questions
 
@@ -176,14 +176,14 @@ Respond to the following in your Reflective Journal:
 
 ## Summary {.unnumbered}
 
-This unit focused on developing effective research questions in leadership studies, primarily drawing from Rosch et al. (2023) and Cherry et al. (2024). It emphasized the importance of establishing a clear research purpose that aligns with personal and professional leadership goals and guides inquiry. You also reflected on your leadership values, experiences, and broader trends to identify relevant topics while connecting servant leadership characteristics to leadership practices.
+This unit focused on developing effective research questions in leadership studies, primarily drawing from Rosch et al. [-@roschIntroductionResearchLeadership2023] and Cherry et al. [-@cherryDoingSystematicReview2023]. It emphasized the importance of establishing a clear research purpose that aligns with personal and professional leadership goals and guides inquiry. You also reflected on your leadership values, experiences, and broader trends to identify relevant topics while connecting servant leadership characteristics to leadership practices.
 
 The unit outlined a structured approach to crafting focused research questions, highlighting clarity, relevance, and feasibility of research. Through reflective activities, you articulated your research purpose, brainstormed themes, drafted questions, and evaluated them, ensuring you are well-prepared to explore meaningful leadership issues.
 
 ## References {.unnumbered}
 
-Cherry, M. G., Boland, A., & Dickson, R. (2024). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+<!-- Cherry, M. G., Boland, A., & Dickson, R. (2024). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
 
 Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
 
-Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing. -->

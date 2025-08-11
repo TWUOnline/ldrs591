@@ -4,7 +4,7 @@ So, I turned my mind to understand, to investigate and to search out wisdom… (
 
 Scholarly research has the power to influence policies, inform best practices, and contribute to the flourishing of communities. As a leader, your role is not only to consume knowledge, but to apply it wisely and judiciously. These two adverbs, wisely and judiciously, should not be overlooked. In leadership practice, decisions grounded in credible research must be made with discernment, humility, and integrity.
 
-Plano Clark and Creswell (2010) remind us that we read research "to learn new knowledge about topics, to become informed on policy debates, and to find suggestions for improving your practice" (p. 15). Throughout this course, you have learned how to engage with research in ways that reflect these goals.
+Plano Clark and Creswell [-@clarkUnderstandingResearchConsumers2014] remind us that we read research "to learn new knowledge about topics, to become informed on policy debates, and to find suggestions for improving your practice" (p. 15). Throughout this course, you have learned how to engage with research in ways that reflect these goals.
 
 Now, as you conclude LDRS 591, you will synthesize what you have learned and apply it to your own scholarly journey. You have explored different types of research, developed a research question, accessed and evaluated scholarly literature, and conducted a scoping review to refine and narrow your topic. In this final unit, you will draw these elements together by writing a Letter of Intent. This letter will outline your proposed research direction and demonstrate your readiness to transition into either the Capstone (Systematic Literature Review) or Thesis track in the MA in Leadership program.
 
@@ -42,17 +42,17 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 Here are the resources you will need to complete the unit:
 
-Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
 
 # Understanding the Ethical Responsibilities of Leadership Research
 
 Leadership research is not conducted in a vacuum; it occurs within real communities, organizations, and systems, and it often influences policies, practices, and people. For this reason, ethical responsibility is central to scholarly inquiry in leadership studies. Researchers are not only accountable for methodological rigor but also for the social, cultural, and relational impacts of their work.
 
-Ethical leadership research requires careful consideration of how knowledge is gathered, interpreted, and applied. This includes respecting the dignity, rights, and perspectives of participants and communities, ensuring informed consent, maintaining confidentiality, and minimizing harm. In particular, researchers must be vigilant about how power dynamics, personal biases, and organizational interests may influence the research process and outcomes (Israel & Hay, 2006).
+Ethical leadership research requires careful consideration of how knowledge is gathered, interpreted, and applied. This includes respecting the dignity, rights, and perspectives of participants and communities, ensuring informed consent, maintaining confidentiality, and minimizing harm. In particular, researchers must be vigilant about how power dynamics, personal biases, and organizational interests may influence the research process and outcomes [@israelResearchEthicsSocial2006].
 
-From a Christian worldview, ethical research reflects stewardship, humility, and justice. Proverbs 2:9–10 speaks of the value of wisdom in guiding just and fair actions: "Then you will understand what is right and just and fair; every good path. For wisdom will enter your heart, and knowledge will be pleasant to your soul." As servant leaders, scholars are called to use research as a means of service by seeking truth, advancing equity, and contributing to the flourishing of others (Greenleaf, 1977).
+From a Christian worldview, ethical research reflects stewardship, humility, and justice. Proverbs 2:9–10 speaks of the value of wisdom in guiding just and fair actions: "Then you will understand what is right and just and fair; every good path. For wisdom will enter your heart, and knowledge will be pleasant to your soul". As servant leaders, scholars are called to use research as a means of service by seeking truth, advancing equity, and contributing to the flourishing of others [@greenleafServantLeadershipJourney1977].
 
-Indigenous perspectives also enrich our understanding of research ethics. Indigenous scholars emphasize relational accountability, meaning that researchers are responsible not only for what they learn but also for how they relate to the people and knowledge systems involved (Wilson, 2008). Knowledge is not seen as a commodity to be extracted but as something to be shared with respect, reciprocity, and permission.
+Indigenous perspectives also enrich our understanding of research ethics. Indigenous scholars emphasize relational accountability, meaning that researchers are responsible not only for what they learn but also for how they relate to the people and knowledge systems involved [@wilsonResearchCeremonyIndigenous2008]. Knowledge is not seen as a commodity to be extracted but as something to be shared with respect, reciprocity, and permission.
 
 In the context of the MA in Leadership, understanding these ethical responsibilities will guide your decisions as you design your research question, choose your sources, and determine how to represent and apply knowledge. Whether you pursue a capstone or thesis track, your research should demonstrate integrity, cultural awareness, and a commitment to the common good.
 
@@ -156,7 +156,7 @@ If you answered "no" or are unsure about any of these, revisit the unit resource
 
 ## References {.unnumbered}
 
-Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
+<!-- Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
 
 Israel, M., & Hay, I. (2006). *Research ethics for social scientists: Between ethical conduct and regulatory compliance*. SAGE Publications.
 
@@ -167,4 +167,4 @@ Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research
 Wilson, S. (2008). *Research is ceremony: Indigenous research methods*. Fernwood Publishing.
 
 The Bible. (2011). *New International Version*. Zondervan. (Original work published ca. 600 BCE).
-**Note:** For Ecclesiastes 7:25 and Proverbs 2:9–10.
+**Note:** For Ecclesiastes 7:25 and Proverbs 2:9–10. -->

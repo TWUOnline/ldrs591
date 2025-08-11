@@ -29,8 +29,8 @@ When you have completed this unit, you should be able to:
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
 - Watch "Preparing Research Questions for a Database Search" to learn how to access scholarly literature and follow the directions about searching for books in the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
-- Read Chapters 5 and 8 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
-- Read Chapters 2, 13, and 14 in *Introduction to Research in Leadership* (Rosch et al., 2023).
+- Read Chapters 5 and 8 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
+- Read Chapters 2, 13, and 14 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
 - Watch "Evaluating Journal Articles" about how to develop research skills.
 - Assessment: Contribute to the Course Discussions. See [Assessment tab](https://learn.twu.ca/course/view.php?id=33799&section=8#tabs-tree-start){target="_blank"} in Moodle for details.
 
@@ -44,9 +44,9 @@ The Moodle link above needs to be replaced.
 
 Here are the resources you will need to complete the unit:
 
-- Cherry, M. G., Boland, A., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership.* Information Age Publishing.
-- Video tutorials found at: [https://libguides.twu.ca/library_research/all_video_tutorials](https://libguides.twu.ca/library_research/all_video_tutorials){target="_blank"}
+- Cherry, M. G., Boland, A., & Dickson, R. [-@cherryDoingSystematicReview2023]. *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership.* Information Age Publishing.
+- Video tutorials found at: [https://libguides.twu.ca/library_research/all_video_tutorials](https://libguides.twu.ca/library_research/all_video_tutorials){target="_blank"} [@trinitywesternuniversityAssessingOnlineResources2016].
 
 #
 
@@ -166,7 +166,7 @@ Table 4.1
 
 You may use this table throughout your literature search process. It will be a helpful reference when writing your assignment and can also be included as an appendix if your instructor requires evidence of your search strategy. [Click here for a literature search table template](file:///C:\Users\jodi.mcbride\OneDrive%20-%20Trinity%20Western%20University\Documents\591%20Curriculum%20Revision\New%20Units\Literature%20Search%20Tracking%20Template.docx){target="_blank"}.
 
-You can also manage your references using an online reference manager that will help you collect, organize, cite, and share your references according to the referencing style you will be using. There are several free, online reference managers available such as [Zotero](https://www.zotero.org/){target="_blank"}, [RefWorks](https://www.refworks.com/refworks2/help/Welcome.htm){target="_blank"} and [EndNote](http://endnote.com/){target="_blank"}. TWU library has a research guide that describes [how to use EndNote](http://libguides.twu.ca/EndNote/){target="_blank"}. The library guide will help you sign up for a free EndNote account and will teach you to use EndNote to download and store your citations in folders, input citations into Word documents, and create reference lists.
+You can also manage your references using an online reference manager that will help you collect, organize, cite, and share your references according to the referencing style you will be using. There are several free, online reference managers available such as [Zotero](https://www.zotero.org/){target="_blank"}, [RefWorks](https://www.refworks.com/refworks2/help/Welcome.htm){target="_blank"} and [EndNote](http://endnote.com/){target="_blank"}. TWU library has a research guide that describes [how to use EndNote](http://libguides.twu.ca/EndNote/){target="_blank"}[-@badkeUsingEndNoteWeb]. The library guide will help you sign up for a free EndNote account and will teach you to use EndNote to download and store your citations in folders, input citations into Word documents, and create reference lists.
 
 ## Review Scholarly Literature
 
@@ -234,15 +234,15 @@ To critically evaluate a source for quality and credibility, consider the follow
 - **Purpose**: What is the author’s intention? Is the information the author’s opinion or is the author communicating evidence-based results? Who is the author’s intended audience: the academic community or consumers? Is the author’s point of view objective and impartial? Is the article or book’s language free of emotion or bias?
 - **Content**: What kind of information is provided in the article or book? Is it a research article, popular book, or an opinion piece on a blog? If it is a research article, what methodology is used (quantitative, qualitative, etc.). Is the information provided backed up with references or sources? What is the length and quality of the reference list?
 - **Publication type and process**: Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is the source published from a government agency? Is the source self-published?
-- **Bias and special interests**: According to Cherry et al. (2024), bias occurs in many forms, including language bias and publication bias. For example, "language bias occurs because studies that report positive findings are mostly likely to be published in English-language journals" (Cherry, et al., 2024, p. 53) and studies reporting negative or null findings are most likely to be published in non-English language journals. Publication bias occurs when studies reporting positive findings are more likely published in peer-reviewed academic journals. See Chapter 3 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024) for more detail.
+- **Bias and special interests**: According to Cherry et al. [-@cherryDoingSystematicReview2023], bias occurs in many forms, including language bias and publication bias. For example, "language bias occurs because studies that report positive findings are mostly likely to be published in English-language journals" [@cherryDoingSystematicReview2023, p. 53] and studies reporting negative or null findings are most likely to be published in non-English language journals. Publication bias occurs when studies reporting positive findings are more likely published in peer-reviewed academic journals. See Chapter 3 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023] for more detail.
 
 ### Activity: Learning Activity
 
-📺 **Watch** "How to Evaluate Sources" from the [Stanford University Libraries](https://www.youtube.com/watch?v=bZ122WakNDY){target="_blank"} (2017) to learn more about how to evaluate your sources.
+📺 **Watch** "How to Evaluate Sources" from the [Stanford University Libraries](https://www.youtube.com/watch?v=bZ122WakNDY){target="_blank"} [-@stanforduniversitylibrariesHowEvaluateSources2017] to learn more about how to evaluate your sources.
 
 ![https://img.youtube.com/vi/bZ122WakNDY/maxresdefault.jpg](assets/u4/image1.jpeg)
 
-📖 **Read** Chapter 8: "Quality Assessment: Where Do I Begin?" in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
+📖 **Read** Chapter 8: "Quality Assessment: Where Do I Begin?" in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
 
 📺 **Watch** the following videos:
 
@@ -274,6 +274,6 @@ Now that you have completed the learning activities and assignments for this uni
 
 ## References {.unnumbered}
 
-Cherry, M. G., Boland, A., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+<!-- Cherry, M. G., Boland, A., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
 
-Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing. -->

@@ -26,9 +26,9 @@ By the end of this course, the learner will be able to:
 
 Learning Resources
 
-- American Psychological Association. (2020). *Publication manual of the American Psychological Association: The official guide to APA style* (7th ed.). American Psychological Association.
-- Boland, A., Cherry, M. G., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research in leadership*. Information Age Publishing.
+//todo #47 - American Psychological Association. [-@americanpsychologicalassociationPublicationManualAmerican2020]. *Publication manual of the American Psychological Association: The official guide to APA style* (7th ed.). American Psychological Association.
+- Boland, A., Cherry, M. G., & Dickson, R. [-@cherryDoingSystematicReview2023]. *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
 - Additional articles will be assigned in specific units and will be available from the [TWU library](https://www.twu.ca/academics/library){target="_blank"}.
 
 ## Course Activities/Requirements
