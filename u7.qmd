@@ -149,7 +149,7 @@ Just as people expect acknowledgment for their own ideas and hard work, using ci
 
 ## Citations and Stewardship
 
-Citing sources aligns closely with the concept of stewardship in servant leadership. Peter Block (1993) defines stewardship as "holding something in trust for another," (p. xx) a principle that underscores people’s responsibility to care for and respect others’ contributions. In servant leadership, stewardship means leaders hold knowledge, resources, and responsibilities in trust—not for personal gain, but for the benefit of the community and society.
+Citing sources aligns closely with the concept of stewardship in servant leadership. Peter Block [-@blockStewardshipChoosingService2013] defines stewardship as "holding something in trust for another," (p. xx) a principle that underscores people’s responsibility to care for and respect others’ contributions. In servant leadership, stewardship means leaders hold knowledge, resources, and responsibilities in trust—not for personal gain, but for the benefit of the community and society.
 
 Applying this principle, citing sources in our work becomes an act of stewardship. You are acknowledging and preserving the intellectual contributions of others and using them in a way that respects their origin and purpose. Just as servant leaders use openness and persuasion over control, citations allow people to transparently share ideas, enabling others to trace, verify, and build upon those ideas for the collective good. This practice reflects a commitment to serve the academic and professional communities by fostering a culture of respect, integrity, and shared knowledge.
 
@@ -169,7 +169,7 @@ This practice reflects the values of respect and responsibility toward those who
 
 Similarly, Indigenous oral traditions are rich with stories passed down through generations, where each storyteller holds a piece of collective memory and knowledge in trust, as noted by Elders and knowledge keepers. This stewardship of knowledge is not just about the storyteller; it is about honoring the voices and wisdom of those who came before [@hansonOralTraditions2009].
 
-Just as citing sources in academic work gives credit to the original thinkers, land acknowledgments recognize Indigenous peoples as the rightful stewards of the land. This practice emphasizes respect and gratitude [@hansonOralTraditions2009], connecting to Peter Block’s (1993) idea of stewardship as "holding something in trust for another," (p. xx) recognizing the historical and ongoing relationship Indigenous Peoples have with the land. Additionally, just as citing a source respects the intellectual property of others, acknowledging original knowledge keepers of an Indigenous story honors those who have preserved this wisdom over generations.
+Just as citing sources in academic work gives credit to the original thinkers, land acknowledgments recognize Indigenous peoples as the rightful stewards of the land. This practice emphasizes respect and gratitude [@hansonOralTraditions2009], connecting to Peter Block’s [-@blockStewardshipChoosingService2013] idea of stewardship as "holding something in trust for another," (p. xx) recognizing the historical and ongoing relationship Indigenous Peoples have with the land. Additionally, just as citing a source respects the intellectual property of others, acknowledging original knowledge keepers of an Indigenous story honors those who have preserved this wisdom over generations.
 
 Citations in Western academia give credit, while in Indigenous traditions, "oral footnoting" attributes the story to a specific elder or ancestor, reflecting the storyteller’s responsibility to the collective memory [@hansonOralTraditions2009]. This act of stewardship, both in academic and Indigenous contexts, upholds a culture of respect, ensuring that knowledge is shared ethically, responsibly, and for the benefit of future generations.
 
@@ -229,7 +229,7 @@ As you apply these formatting skills, remember that APA style is more than just 
 
 ## References {.unnumbered}
 
-<!-- Block, P. (1993). *Stewardship: Choosing service over self interest*. Berrett-Koehler Publishing.
+<!-- Block, P. (2013). Stewardship: Choosing service over self-interest (2nd ed.). Berrett-Koehler Publishers.
 
 Coetzer, M., Bussin, M., & Geldenhuys, M. (2017). The functions of a servant leader. *Administrative Sciences*, *7*(1), 5. [https://doi.org/10.3390/admsci7010005](https://doi.org/10.3390/admsci7010005){target="_blank"}
 

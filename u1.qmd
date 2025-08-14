@@ -101,7 +101,7 @@ How does the research process differ from managerial activities such as decision
 
 ## Boyer’s Model of Scholarship
 
-The MA in Leadership program is focused on applied scholarship. In defining this, Boyer’s four-part Model of Scholarship (1997) is useful. Boyer’s typology identifies four domains of scholarship: discovery, integration, application, and teaching. Marta Nibert [-@nibertBoyersModelScholarship] discusses the model in her paper titled "Boyer’s Model of Scholarship."
+The MA in Leadership program is focused on applied scholarship. In defining this, Boyer’s four-part Model of Scholarship (1997, as cited in @nibertBoyersModelScholarship) is useful. Boyer’s typology identifies four domains of scholarship: discovery, integration, application, and teaching. Marta Nibert [-@nibertBoyersModelScholarship] discusses the model in her paper titled "Boyer’s Model of Scholarship."
 
 In the section titled "Application," Nibert [-@nibertBoyersModelScholarship] notes that the scholarship of application:
 
@@ -260,7 +260,7 @@ Review the unit topics more in depth as needed or continue to the next unit.
 >
 > Nibert, M. (n.d.). *Boyer’s model of scholarship.* Expectations of Faculty in Higher Education. [https://www.facultyguidebook.com/BoyerModel.pdf.](https://www.facultyguidebook.com/BoyerModel.pdf.){target="_blank"}
 >
-> Patton, M. (2001). *Qualitative research and evaluation methods*. Sage.
+Patton, M. Q. (2002). Qualitative research and evaluation methods (3rd ed.). Sage Publications.
 >
 > Penner, D. (2017). INQUIRY 1SS3: Inquiry in the social sciences [Syllabus]. McMaster University. Retrieved from [https://facsocsci.mcmaster.ca/courses/inquiry-thinking-and-research-skills/fall-2022-socsci-2ss3-c02-penner/%40%40display-file/outline_file/SOCSCI%25202SS3%2520C02%2520Penner%2520Fall%25202022.pdf.](https://facsocsci.mcmaster.ca/courses/inquiry-thinking-and-research-skills/fall-2022-socsci-2ss3-c02-penner/%40%40display-file/outline_file/SOCSCI%25202SS3%2520C02%2520Penner%2520Fall%25202022.pdf.){target="_blank"}
 >

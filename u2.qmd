@@ -177,11 +177,11 @@ By definition, a literature review examines and evaluates published work related
 
 Rosch et al. [-@roschIntroductionResearchLeadership2023] highlight that a traditional literature review is often narrative and subjective, summarizing existing research without adhering to a strict methodology. Traditional reviews may lack comprehensive search strategies and systematic analysis, leading to potential biases in how studies are selected and interpreted.
 
-Additionally, Cooper (1988) identified the primary functions of literature reviews as summarising, classifying, and critically evaluating, which help inform researchers about what has been done and what remains to be explored about a particular topic.
+Additionally, Cherry et al. [-@cherryDoingSystematicReview2023] identified the primary functions of literature reviews as summarising, classifying, and critically evaluating, which help inform researchers about what has been done and what remains to be explored about a particular topic.
 
 Rosch et al. [-@roschIntroductionResearchLeadership2023] emphasize that literature reviews play a crucial role in research, particularly in fields like leadership, by offering insights into theoretical frameworks, methodologies, and practical implications. Literature reviews help researchers situate their work within the broader academic discourse and can guide future research directions.
 
-Additionally, peer-reviewed studies consistently highlight the importance of literature reviews in establishing a foundation for new research by summarizing existing work, identifying gaps, and guiding future inquiry (Cooper, 1988). Literature reviews play a crucial role in research, particularly in fields like leadership, by offering insights into theoretical frameworks, methodologies, and practical implications [@roschIntroductionResearchLeadership2023]. This flexibility can lead to biases in how studies are selected and interpreted, particularly when search strategies and analyses are not comprehensive.
+Additionally, peer-reviewed studies consistently highlight the importance of literature reviews in establishing a foundation for new research by summarizing existing work, identifying gaps, and guiding future inquiry [@cherryDoingSystematicReview2023]. Literature reviews play a crucial role in research, particularly in fields like leadership, by offering insights into theoretical frameworks, methodologies, and practical implications [@roschIntroductionResearchLeadership2023]. This flexibility can lead to biases in how studies are selected and interpreted, particularly when search strategies and analyses are not comprehensive.
 
 From a Christian perspective, engaging with literature reviews reflects the biblical call to stewardship and the pursuit of truth. By thoughtfully analyzing and synthesizing previous research, scholars fulfill their responsibility to use knowledge wisely, align their work with ethical principles, and serve the greater good—Colossians 3:23: "Whatever you do, work heartily, as for the Lord and not for men." The narrative nature of traditional literature reviews aligns with this stewardship by encouraging researchers to thoughtfully engage with existing knowledge while remaining diligent and accountable in their efforts—Proverbs 21:5: "The plans of the diligent lead surely to abundance."
 
@@ -283,8 +283,6 @@ Now that you have completed the learning activities and assignments for this uni
 ## References {.unnumbered}
 
 <!-- Cherry, M. G., Boland, A., & Dickson, R. (2023). *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
-
-Cooper, H. (1988). *Organizing knowledge: A guide to libraries and information services*. Jossey-Bass.
 
 Battiste, M. (2005). Indigenous knowledge: Foundations for First Nations. *WINHEC: International Journal of Indigenous Education Scholarship*, 1, 1-17. [https://journals.uvic.ca/index.php/winhec/article/view/19251.](https://journals.uvic.ca/index.php/winhec/article/view/19251.){target="_blank"}
 
