@@ -55,15 +55,15 @@ For example, when Indigenous scholars ask questions, they often consider their i
 
 According to Plano-Clark and Creswell [-@clarkUnderstandingResearchConsumers2014], "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different than informal research.
 
-📺 **Watch** the following video "Research as Inquiry" from Bertrand Library at Bucknell University [-@bertrandlibraryatbucknelluniversityResearchInquiry2023] that gives an overview of research as inquiry:
+**Watch** the following video "Research as Inquiry" from Bertrand Library at Bucknell University [-@bertrandlibraryatbucknelluniversityResearchInquiry2023] that gives an overview of research as inquiry:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/ufAJV76HW6g >}}
 :::
 
-📖 **Read** Chapters 1 and 2 in in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
+**Read** Chapters 1 and 2 in in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
 
-✏️ Start a **Reflective Journal**. This journal is not submitted or graded, but is an opportunity for you to reflect on, and engage with, the course content. The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
+Start a **Reflective Journal**. This journal is not submitted or graded, but is an opportunity for you to reflect on, and engage with, the course content. The questions posed will often help you prepare for your assignments and are designed to help you successfully achieve the learning outcomes for each unit.
 
 Next, write about the following in your Reflective Journal:
 
@@ -147,13 +147,13 @@ Most program students choose the capstone track, in which they conduct secondary
 
 ::: {.learning-activity}
 
-📺 **Watch** the following video "Introduction to Research Design" from Research & Doctoral Services at Walden University [-@waldenuniversityIntroductionResearchDesign2015] where Dr. Patton introduces the concept of research as a scholar-practitioner:
+**Watch** the following video "Introduction to Research Design" from Research & Doctoral Services at Walden University [-@waldenuniversityIntroductionResearchDesign2015] where Dr. Patton introduces the concept of research as a scholar-practitioner:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/GYywR7SA03E >}}
 :::
 
-✏️ **Respond** to the following in your Reflective Journal:
+**Respond** to the following in your Reflective Journal:
 
 - Describe at least one example of a decision you have made as a leader.
 - Consider the factors that went into that decision making process (e.g., values, research, policy, past experience, expert opinion).
@@ -176,7 +176,7 @@ The philosophical category of metaphysics is concerned with what is real, and wh
 
 Every person bases their own thoughts, decisions, and actions on what is called a worldview. A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" [@geislerWorldsApartHandbook2003]. It is like a pair of glasses that you wear when you are observing things about yourself, other people, and the world in which you live.
 
-📺 **Watch** the following short video "What’s Your Worldview? (Quiz)" by the Impact 360 Institute [-@impact360instituteWhatsYourWorldview2014] that explains the concept of worldview:
+**Watch** the following short video "What’s Your Worldview? (Quiz)" by the Impact 360 Institute [-@impact360instituteWhatsYourWorldview2014] that explains the concept of worldview:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/VXnSE0uvwzM >}}
@@ -201,7 +201,7 @@ Research Paradigms
 *Source*: [https://link.springer.com/article/10.1007/s40670-019-00898-9](https://link.springer.com/article/10.1007/s40670-019-00898-9){target="_blank"} [@brownMedicalScienceEducators2020]
 :::
 
-📺 **Watch** the following helpful video "Ontology, Epistemology, Methodology and Methods in Research Simplified!" by Laura Killam [-@nursekillamOntologyEpistemologyMethodology2015] that explains Paradigms, Ontology and Epistemology:
+**Watch** the following helpful video "Ontology, Epistemology, Methodology and Methods in Research Simplified!" by Laura Killam [-@nursekillamOntologyEpistemologyMethodology2015] that explains Paradigms, Ontology and Epistemology:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/hCOsY5rkRs8 >}}
@@ -231,17 +231,17 @@ As Menzies [-@menziesReflectionsResearchIndigenous2001] explains, incorporating 
 
 ::: {.learning-activity}
 
-📺 **Watch** the following video where Gary Gramenz [-@gramenzPhilosophicalFoundationsResearch2013] explains "Philosophical Foundations for Research Methodology":
+**Watch** the following video where Gary Gramenz [-@gramenzPhilosophicalFoundationsResearch2013] explains "Philosophical Foundations for Research Methodology":
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/j758XBXD4r4 >}}
 :::
 
-📖 **Read** "[Servant Leadership: A Worldview Perspective](https://www.regent.edu/acad/global/publications/ijls/new/vol2iss2/Wallace/WallaceV2Is2.pdf){target="_blank"}" [@wallaceServantLeadershipWorldview2007].
+**Read** "[Servant Leadership: A Worldview Perspective](https://www.regent.edu/acad/global/publications/ijls/new/vol2iss2/Wallace/WallaceV2Is2.pdf){target="_blank"}" [@wallaceServantLeadershipWorldview2007].
 
-📖 **Read** "[A Medical Science Educator’s Guide to Selecting a Research Paradigm: Building a Basis for Better Research](https://www.researchgate.net/publication/338202096_A_Medical_Science_Educator%27s_Guide_to_Selecting_a_Research_Paradigm_Building_a_Basis_for_Better_Research){target="_blank"}" [@brownMedicalScienceEducators2020].
+**Read** "[A Medical Science Educator’s Guide to Selecting a Research Paradigm: Building a Basis for Better Research](https://www.researchgate.net/publication/338202096_A_Medical_Science_Educator%27s_Guide_to_Selecting_a_Research_Paradigm_Building_a_Basis_for_Better_Research){target="_blank"}" [@brownMedicalScienceEducators2020].
 
-✏️ **Reflect** on your own worldview. Then answer the following in your Reflective Journal:
+**Reflect** on your own worldview. Then answer the following in your Reflective Journal:
 
 - What motivates you? What are you driven by? (e.g. funding, social justice, the common good)
 - Do you believe there is "one verifiable reality," or that "multiple socially constructed realities" exist?

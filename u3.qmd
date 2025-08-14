@@ -53,7 +53,7 @@ As you begin thinking about a research topic that interests you, it is important
 
 ::: learning-activity
 
-📺 **Watch** "How to Use Your Interests to Inform Your Literature Review" by Leigh A Hall [-@hallHowUseYour2019] about asking significant questions.
+**Watch** "How to Use Your Interests to Inform Your Literature Review" by Leigh A Hall [-@hallHowUseYour2019] about asking significant questions.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/2pC91y3pVTM >}}
@@ -67,9 +67,9 @@ If you can fill out these statements, then you likely have a narrow enough topic
 2. because I want to find out \_\_\_\_\_\_\_\_ (So What: Issue/Question),
 3. in order to \_\_\_\_\_\_\_\_ (Now What: Application/Purpose).
 
-📖 **Read** Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023], "Beginning the Process of Research in Leadership." Pay close attention to the "Tips for Finding Your Research Purpose" on page 34.
+**Read** Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023], "Beginning the Process of Research in Leadership." Pay close attention to the "Tips for Finding Your Research Purpose" on page 34.
 
-1. ✏️ **Reflect.** Then respond to the following questions in your Reflective Journal about how your research topic aligns with your broad goals as a leader: How can my research reflect my faith/religious beliefs and contribute to advancing God’s purposes in leadership?
+1. **Reflect.** Then respond to the following questions in your Reflective Journal about how your research topic aligns with your broad goals as a leader: How can my research reflect my faith/religious beliefs and contribute to advancing God’s purposes in leadership?
     - Consider how your work could serve others, glorify God, and promote values like integrity, humility, and love in leadership practices.
 2. What are the key values or principles I strive to uphold as a leader, and how might they shape my research interests?
     - Reflecting on your values can guide you toward topics that resonate with your personal leadership philosophy, such as ethical decision-making or fostering inclusive environments.

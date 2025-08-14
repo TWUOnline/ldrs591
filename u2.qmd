@@ -148,7 +148,7 @@ In summary, mixed methods research is a powerful approach in leadership studies,
 ### Activity: Comparing Research Approaches
 
 ::: learning-activity
-📺 **Watch** the following videos:
+**Watch** the following videos:
 
 - "Qualitative & Quantitative Research – An Introduction" by Tine Juhl [-@juhlQualitativeQuantitativeResearch2017].
 
@@ -162,7 +162,7 @@ In summary, mixed methods research is a powerful approach in leadership studies,
 {{< video https://www.youtube-nocookie.com/embed/II_OoioL0-E >}}
 :::
 
-✏️ **Reflect.** After reading the chapters assigned, write about the following in your Reflective Journal.
+**Reflect.** After reading the chapters assigned, write about the following in your Reflective Journal.
 
 -   Discuss the differences between qualitative, quantitative, and mixed methods research reports.
 -   What are the potential challenges for studying servant leadership using a quantitative research approach?
@@ -296,13 +296,13 @@ This aligns with servant leadership principles by fostering informed decision-ma
 ### Activity: Scoping vs. Systematic Review
 
 :::: learning-activity
-📺 **Watch** the following video "Systematic vs. Scoping Review: What’s the Difference?" by Carrie Prices [-@priceSystematicVsScoping2021].
+**Watch** the following video "Systematic vs. Scoping Review: What’s the Difference?" by Carrie Prices [-@priceSystematicVsScoping2021].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/YVckIl8_ZCg >}}
 :::
 
-📖 **Read** Chapters 5-10 and 12 in Introduction to Research in Leadership [@roschIntroductionResearchLeadership2023].
+**Read** Chapters 5-10 and 12 in Introduction to Research in Leadership [@roschIntroductionResearchLeadership2023].
 
 ✏️**Respond** to the following in your Reflective Journal:
 

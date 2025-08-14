@@ -126,13 +126,13 @@ Respond to following questions in your Reflective Journal to help you assess the
 
 ::: learning-activity
 
-📺 **Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):
+**Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/65L-kq6jVjc >}}
 :::
 
-📖 **Review** the following sample general Research Questions (RQ) and corresponding revised specific Research Questions. Seeing how they differ will help you learn why a clear, focused research question is essential for a successful systematic review.
+**Review** the following sample general Research Questions (RQ) and corresponding revised specific Research Questions. Seeing how they differ will help you learn why a clear, focused research question is essential for a successful systematic review.
 
 1. **General Question**: What factors influence patient satisfaction in healthcare settings? 
 2. **Revised Specific RQ**: How do communication strategies used by primary care physicians impact patient satisfaction in urban outpatient clinics?
@@ -141,7 +141,7 @@ Respond to following questions in your Reflective Journal to help you assess the
 5.  **General Question**: What drives employee engagement in organizations? 
 6.  **Revised Specific RQ**: What is the impact of flexible work policies on employee engagement in technology startups with under 500 employees?
 
-✏️ Use the checklist below to **critique** and revise your initial draft research question:
+Use the checklist below to **critique** and revise your initial draft research question:
 
 +-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Item**                                  | **Description**                                                                                                                                                                                                                                                                                                             |

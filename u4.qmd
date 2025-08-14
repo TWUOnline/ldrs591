@@ -87,14 +87,14 @@ In summary, understanding how scholarly research is reviewed, published, and ran
 ### Activity: Research Skills for Lifelong Leadership Learning
 
 ::: learning-activity
-📖 **Read** Chapters 13 and 14 in *Introduction to Research in Leadership* (Rosch et al., 2023). These two chapters specifically discuss "becoming a critical scholar" and "a lifetime of learning in leadership."
+**Read** Chapters 13 and 14 in *Introduction to Research in Leadership* (Rosch et al., 2023). These two chapters specifically discuss "becoming a critical scholar" and "a lifetime of learning in leadership."
 
-📺 **Watch** the tutorial video on the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
+**Watch** the tutorial video on the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
 
 -   Click on the library link "How to search for articles." Begin by selecting one of video tutorials in the section on multi-disciplinary databases such as "Academic Search Complete".
 -   Watch the video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
 
-📖 Keeping in mind your specific research topic, use the Academic Search Ultimate database at the TWU library to locate a good example of a journal article**.**
+Keeping in mind your specific research topic, use the Academic Search Ultimate database at the TWU library to locate a good example of a journal article**.**
 
 To do this you will need to:
 
@@ -115,7 +115,7 @@ To do this you will need to:
 6.  Watch the "Book Searching Tutorial" video to get an idea of how to search for a topic found in an e-book.
 7.  Keeping in mind the research topic you identified, use the library catalog to locate a good example of an e-book.
 
-✏️ **Respond** to the following in your Reflective Journal.
+**Respond** to the following in your Reflective Journal.
 
 -   Reflect on your experience searching for a journal article and an e-book related to your topic**.** What search terms did you use? Which databases did you try? What worked well, and what challenges did you encounter?
 
@@ -188,11 +188,11 @@ If you are having difficulty finding research articles and books on your topic, 
 
 ::: learning-activity
 
-📖 **Read** Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
+**Read** Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
 
-📺 Go to the [TWU Library](https://libguides.twu.ca/library_research/home){target="_blank"} and click "How to Develop Research Skills." Begin by watching all the video tutorials under the section "Upgrading Your Research Skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.
+Go to the [TWU Library](https://libguides.twu.ca/library_research/home){target="_blank"} and click "How to Develop Research Skills." Begin by watching all the video tutorials under the section "Upgrading Your Research Skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.
 
-✏️ **Respond** to the following in your Reflective Journal:
+**Respond** to the following in your Reflective Journal:
 
 -   Briefly describe your experiences with upgrading your research skills.
 -   What did you find worked well, what did not?
@@ -233,15 +233,15 @@ To critically evaluate a source for quality and credibility, consider the follow
 
 ::: learning-activity
 
-📺 **Watch** "How to Evaluate Sources" from the Stanford University Libraries [-@stanforduniversitylibrariesHowEvaluateSources2017] to learn more about how to evaluate your sources.
+**Watch** "How to Evaluate Sources" from the Stanford University Libraries [-@stanforduniversitylibrariesHowEvaluateSources2017] to learn more about how to evaluate your sources.
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/bZ122WakNDY >}}
 :::
 
-📖 **Read** Chapter 8: "Quality Assessment: Where Do I Begin?" in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
+**Read** Chapter 8: "Quality Assessment: Where Do I Begin?" in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
 
-📺 **Watch** the following videos:
+**Watch** the following videos:
 
 -   "Assessing Online Resources" from the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} 
 -   "Evaluating a Journal Article" from the [JCU Library](https://www.youtube.com/@jculibrary1){target="_blank"} (2017)
@@ -250,7 +250,7 @@ To critically evaluate a source for quality and credibility, consider the follow
 {{< video https://www.youtube-nocookie.com/embed/z6dOGkpI6H4 >}}
 :::
 
-✏️ Respond to the following in your Reflective Journal:
+Respond to the following in your Reflective Journal:
 
 -   Briefly describe how you found your online sources and whether you think they will be helpful resources for your topic.
 -   What sources of information will you use the most to conduct research on your topic?
