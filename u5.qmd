@@ -51,7 +51,7 @@ Christian values encourage addressing these gaps with a heart for justice and se
 
 For example, let’s say your topic is about the integration of social emotional learning in K-12 schools, and your research question is: How are SEL frameworks implemented across diverse socioeconomic K-12 school contexts? You would then conduct a scoping review to map existing studies on the integration of social-emotional learning (SEL) frameworks in K-12 schools, highlight gaps in research on effective implementation strategies across diverse socioeconomic contexts, and identify the need for longitudinal studies to evaluate the impact of SEL on academic outcomes and student well-being. From a Christian lens, this review could consider how SEL frameworks foster virtues such as compassion, humility, and resilience, aligning with a biblical vision of holistic development (Colossians 3:12). Through an Indigenous lens, the review could explore how SEL frameworks honor relationality, community values, and the inclusion of culturally responsive approaches that respect Indigenous ways of knowing and being [@ormistonReconceptualizingResearchIndigenous2010].
 
-Additionally, scoping review methodology, initially proposed by Arksey and O’Malley (2007) and later refined by Levac et al. (2010), includes defining research questions, identifying research studies, and summarizing findings. This process can be seen as a prayerful and intentional discernment of priorities, aligning with the biblical call to seek wisdom and understanding (Proverbs 2:3-5). Integrating Indigenous principles, researchers are reminded to engage respectfully with knowledge systems, ensuring that their methods honor the voices and traditions of the communities represented [@ormistonReconceptualizingResearchIndigenous2010].
+Additionally, scoping review methodology, initially proposed by Arksey and O’Malley [-@arkseyScopingStudiesMethodological2007] and later refined by Levac et al. [-@levacScopingStudiesAdvancing2010], includes defining research questions, identifying research studies, and summarizing findings. This process can be seen as a prayerful and intentional discernment of priorities, aligning with the biblical call to seek wisdom and understanding (Proverbs 2:3-5). Integrating Indigenous principles, researchers are reminded to engage respectfully with knowledge systems, ensuring that their methods honor the voices and traditions of the communities represented [@ormistonReconceptualizingResearchIndigenous2010].
 
 At this stage in the process, you have designed an initial research question, identified relevant studies related to your question, and conducted a scoping review to summarize the findings. Now it is time to revise and narrow your research question based on the findings of your scoping review. This step is crucial because it ensures that your research question aligns with the current state of knowledge, addresses identified gaps and remains feasible within the available evidence and resources.
 
@@ -105,7 +105,7 @@ After conducting your scoping review, respond to following questions in your Ref
 
 ## Step 3: Assessing Feasibility
 
-Assessing the feasibility of a research question involves evaluating whether the question can be practically addressed given the available resources, literature, data, and time constraints for a systematic review. A scoping review is instrumental in this process, as it provides a comprehensive overview of the existing evidence and identifies areas with sufficient data to support research efforts (Pham et al., 2014).
+Assessing the feasibility of a research question involves evaluating whether the question can be practically addressed given the available resources, literature, data, and time constraints for a systematic review. A scoping review is instrumental in this process, as it provides a comprehensive overview of the existing evidence and identifies areas with sufficient data to support research efforts [@phamScopingReviewScoping2014].
 
 By understanding the scope and availability of data, researchers can determine whether their question is too broad, too narrow, or misaligned with existing literature. For example, if the scoping review reveals a lack of empirical studies on a specific intervention, researchers might refine their question to focus on related interventions with more robust evidence. Alternatively, if the review uncovers abundant but heterogeneous data, the research question can be tailored to focus on a specific subset of studies or outcomes that are most relevant.
 
@@ -127,7 +127,7 @@ Respond to following questions in your Reflective Journal to help you assess the
 
 ::: learning-activity
 
-**Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):
+**Watch** "How to Write a Research Question for Your Literature Review" [@hallHowWriteResearch2019]:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/65L-kq6jVjc >}}
