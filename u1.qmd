@@ -131,9 +131,15 @@ Boshier contends that Boyer’s four domains were conceived holistically as elem
 Boyer’s Model of Scholarship
 :::
 
+::: text-source
+*Source:* Adapted from Nibert, M. (n.d.). *Boyer’s model of scholarship.* Expectations of Faculty in Higher Education.
+:::
+
 LDRS 591 is designed to help you understand types of research, identify a research topic, develop a research question, and decide whether you will pursue a thesis track in your MA Leadership studies. Should you choose the thesis track, you will engage in Scholarship of Discovery, meaning you will conduct primary research.
 
+::: note
 *Note:* Choosing the thesis track requires approval from the Department of Leadership Program Director.
+:::
 
 Most program students choose the capstone track, in which they conduct secondary research.
 
@@ -217,7 +223,9 @@ Another example of a worldview is an Indigenous worldview, which grounds reality
 
 As Menzies [-@menziesReflectionsResearchIndigenous2001] explains, incorporating Indigenous perspectives into research requires rethinking the researcher’s role, emphasizing reciprocity, mutual respect, and the co-creation of knowledge with the communities involved.
 
+::: note
 *Note:* It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around you—your worldview—influences how you approach all of life, including how you approach research and how you use research to inform your decision-making process.
+:::
 
 ### Activity: Exploring Your Worldview
 

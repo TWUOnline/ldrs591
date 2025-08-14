@@ -67,7 +67,7 @@ The research report is then submitted to a professional journal for publication 
 
 Table 4.1 below summarizes the relative advantages and disadvantages of each genre of scholarly literature. See Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024) for more details about types of evidence available to you:
 
-**Table 3.1 Advantages and Disadvantages of Scholarly Literature Genres**
+**Table 4.1 Advantages and Disadvantages of Scholarly Literature Genres**
 
 | **Genre** | **Advantages** | **Disadvantages** | **Utility** |
 |------------------|-------------------|------------------|------------------|
@@ -147,7 +147,7 @@ After you have determined which sources you will be accessing, you need to condu
 7.  **Key Findings/Themes**: Briefly summarize what you learned from the articles you found. Look for repeated concepts or themes that could inform your literature review.
 8.  **Notes**: Add any reflections or additional thoughts, such as challenges faced, questions that emerged, or next steps.
 
-Table 4.1 Literature Search Table Template
+Table 4.2 Literature Search Table Template
 
 | **Search Date** | **Database/Source** | **Keywords Used** | **Filters Applied** | **Number of Results** | **Relevant Articles** | **Key Findings/Themes** | **Notes** |
 |---------|---------|---------|---------|---------|---------|---------|---------|
