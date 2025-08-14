@@ -133,12 +133,13 @@ Respond to following questions in your Reflective Journal to help you assess the
 :::
 
 📖 **Review** the following sample general Research Questions (RQ) and corresponding revised specific Research Questions. Seeing how they differ will help you learn why a clear, focused research question is essential for a successful systematic review.
-    1.  **General Question**: What factors influence patient satisfaction in healthcare settings? 
-    2.  **Revised Specific RQ**: How do communication strategies used by primary care physicians impact patient satisfaction in urban outpatient clinics?
-    3.  **General Question**: What are the effects of technology on student learning? 
-    4.  **Revised Specific RQ**: How does the use of gamified learning platforms affect math achievement among middle school students in rural schools?
-    5.  **General Question**: What drives employee engagement in organizations? 
-    6.  **Revised Specific RQ**: What is the impact of flexible work policies on employee engagement in technology startups with under 500 employees?
+
+1. **General Question**: What factors influence patient satisfaction in healthcare settings? 
+2. **Revised Specific RQ**: How do communication strategies used by primary care physicians impact patient satisfaction in urban outpatient clinics?
+3.  **General Question**: What are the effects of technology on student learning? 
+4.  **Revised Specific RQ**: How does the use of gamified learning platforms affect math achievement among middle school students in rural schools?
+5.  **General Question**: What drives employee engagement in organizations? 
+6.  **Revised Specific RQ**: What is the impact of flexible work policies on employee engagement in technology startups with under 500 employees?
 
 ✏️ Use the checklist below to **critique** and revise your initial draft research question:
 
