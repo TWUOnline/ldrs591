@@ -14,7 +14,7 @@ The Moodle link above needs to be replaced.
 [Course Syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447)
 -->
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 By the end of this course, the learner will be able to:
 
