@@ -108,13 +108,9 @@ Using headings in APA 7 for your assignments is essential for clear organization
 ### Activity: Headings Part 1
 
 ::: learning-activity
-<!-- !!!
-The Moodle link above needs to be replaced.
 
-[Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289)
--->
-
-Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 1.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%201.docx){target="_blank"}.
+- [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289){target="_blank"}
+- Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 1.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%201.docx){target="_blank"}.
 
 <!-- !!!
 The Moodle link above needs to be replaced.
@@ -128,13 +124,8 @@ The Moodle link above needs to be replaced.
 
 ::: learning-activity
 
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290)
--->
-
-Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 2.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%202.docx){target="_blank"}.
+- [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290){target="_blank"}
+- Practice identifying and applying the correct heading levels in an APA 7-style research paper. See [Headings Part 2.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%202.docx){target="_blank"}.
 
 <!-- !!!
 The Moodle link above needs to be replaced.
