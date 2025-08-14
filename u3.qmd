@@ -1,48 +1,47 @@
+# Developing a Research Purpose & Question in Leadership Research 
+
 ## Overview {.unnumbered}
 
 Unit 3 focuses on the essential steps for developing a robust research question within the context of leadership studies. It is divided into three key topics: establishing a clear purpose in leadership research, connecting personal leadership goals to servant leadership principles, and formulating effective research questions. The unit emphasizes understanding the significance of leadership research, aligning personal and professional objectives with servant leadership, and employing strategies to create clear, relevant, and researchable questions. Through reflective activities, you will identify your research interests, brainstorm themes, and craft questions that will guide your inquiries and contribute to the leadership field.
 
 ### Topics {.unnumbered}
 
-Unit 3 is divided into four topics. See the [**Unit 3 Topics**](https://learn.twu.ca/mod/book/view.php?id=1174788){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[**Unit 3 Topics**](https://learn.twu.ca/mod/book/view.php?id=1174788)
--->
 1. Establishing Purpose in Leadership Research
 2. Connecting Your Leadership Goals and Purpose to Servant Leadership
 3. Developing a Research Question
-4. Unit Summary
 
-## Unit Outcomes
+### Unit Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 1. Understand the purpose and significance of leadership research.
 2. Identify a topic of interest in leadership studies.
 3. Learn strategies to clarify your research purpose.
 4. Develop strong, researchable questions that guide effective inquiry.
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
+Here is a list of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-1. Watch "How to Use Your Interests to Inform Your Literature Review" about asking significant questions.
-2. Read Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
-3. Reflective Journal (optional)
-4. Crafting a Draft Research Question
+::: {.learning-activity}
+
+- Watch "How to Use Your Interests to Inform Your Literature Review" about asking significant questions.
+- Read Chapter 2 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
+- Reflective Journal (optional)
+- Crafting a Draft Research Question
+
+:::
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete the unit:
 
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
+- **Textbook:** Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
+- Other resources will be provided online throughout this unit.
 
-#
-
-# Establishing Purpose in Leadership Research
+## Establishing Purpose in Leadership Research
 
 It is important to establish a purpose in leadership research. LDRS 591, LDRS 697, and LDRS 698 are not just about completing an assignment to graduate from the Master of Arts (MA) in Leadership program. Instead, these courses are about developing scholarly inquiry skills to inform and strengthen your personal and professional leadership practices. According to Rosch et al. [-@roschIntroductionResearchLeadership2023], the purpose of research in leadership goes beyond answering questions—it aims to inform leadership practices, challenge assumptions, and inspire positive change within organizations and communities.
 
@@ -50,11 +49,15 @@ Leadership research is also an opportunity to live out the call to steward the g
 
 As you begin thinking about a research topic that interests you, it is important to be aware of your broad goals as a leader. On a personal level, consider how your research might reflect your calling and contribute to God’s work in the world. Additionally, it is important to align your academic and professional goals to get the most out of your research. Cherry et al. [-@cherryDoingSystematicReview2023] emphasize that research questions should align with both scholarly interests and practical applications, as this alignment ensures sustained motivation and relevance. For Christian leaders, this alignment extends to spiritual principles, ensuring that your research honors God, benefits others, and supports the pursuit of truth.
 
-### Activity: Learning Activity
+### Activity: Defining Your Research Purpose:
 
-📺 **Watch** "How to Use Your Interests to Inform Your Literature Review" by [Leigh A Hall](https://www.youtube.com/@LeighAHall){target="_blank"} [-@hallHowUseYour2019] about asking significant questions.
+::: learning-activity
 
-![https://img.youtube.com/vi/2pC91y3pVTM/maxresdefault.jpg](assets/u3/image1.jpeg)
+📺 **Watch** "How to Use Your Interests to Inform Your Literature Review" by Leigh A Hall [-@hallHowUseYour2019] about asking significant questions.
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/2pC91y3pVTM >}}
+:::
 
 Try using the following three statements to help you get clarity about what exactly you want to investigate.
 
@@ -89,7 +92,9 @@ Based on your reflection, consider the following steps to define your research p
 3. **Seek Feedback**: Discuss your ideas with peers, mentors, or practitioners to see if your topic resonates or to get suggestions for refining your purpose.
 4. **Write Your Purpose**: The purpose of my research is to ….
 
-# Connecting Your Leadership Goals and Purpose to Servant Leadership
+:::
+
+## Connecting Your Leadership Goals and Purpose to Servant Leadership
 
 The Master of Arts in Leadership program values the application of best practices to your personal and professional practice. MA Lead is founded in Greenleaf’s [-@greenleafServantLeadershipJourney1977] servant leadership which has ten characteristics:
 
@@ -128,9 +133,7 @@ If you can fill out these statements, then you likely have a narrow enough topic
 2. because I want to find out \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (So What: Issue/question),
 3. in order to \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Now What: Application/Purpose).
 
-#
-
-# Developing a Research Question
+## Developing a Research Question
 
 Now that you have identified your research purpose and goals and connected them to servant leadership characteristics, you will have a research topic of interest. It is important to note that a topic of interest is a broad research idea, but you must still develop a clearly focused research question that you are interested in exploring.
 
@@ -144,18 +147,20 @@ As you begin drafting your research question, be sure it is:
 - **Relevant**: Ensure that the question addresses a significant aspect of leadership.
 - **Researchable**: The question should be feasible to investigate given the time and resource constraints.
 
-## Developing Your Questions
+####  Developing Your Questions {.unnumbered}
 
 1. **Start with "What," "How," or "Why:"** These words foster exploratory questions that allow for deeper understanding.
 2. **Align with Your Purpose**: Cherry et al. [-@cherryDoingSystematicReview2023] highlight that research questions should flow naturally from the study’s purpose.
 
-## Example Questions
+#### Example Questions {.unnumbered}
 
 - Why does empathy enhance team collaboration in Canadian emergency rooms?
 - What impact do K-12 leaders’ commitment to the growth of people have on employee engagement?
 - How does a business leaders’ foresight impact strategic planning in organizations facing change or crisis?
 
 ### Activity: Activity: Crafting a Draft Research Question
+
+::: learning-activity
 
 Respond to the following in your Reflective Journal:
 
@@ -173,6 +178,8 @@ Respond to the following in your Reflective Journal:
         - **Relevant:** Does it address a significant aspect of leadership?
         - **Researchable:** Is it feasible to investigate given your time and resource constraints?
     - Revise any questions that do not meet these criteria.
+
+:::
 
 ## Summary {.unnumbered}
 

@@ -1,45 +1,43 @@
+# Using a Scoping Review to Refine and Narrow Research Questions
+
 ## Overview {.unnumbered}
 
 After drafting initial research questions, researchers often find their inquiries are too broad for effective study. This unit focuses on refining and narrowing research questions based on preliminary research and scoping reviews. A well-defined question is essential for guiding research design, data collection, and analysis.
 
 ### Topics {.unnumbered}
 
-Unit 5 is divided into three topics. See the [Unit 5 Topics](https://learn.twu.ca/mod/book/view.php?id=1179166){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
+1.  Scoping Review and Refining Research Questions
+2.  Steps to Refining Your Research Question based on Your Scoping Review
 
-[Unit 5 Topics](https://learn.twu.ca/mod/book/view.php?id=1179166)
--->
-1. Scoping Review and Refining Research Questions
-2. Steps to Refining Your Research Question based on Your Scoping Review
-3. Unit Summary
+### Unit Learning Outcomes {.unnumbered}
 
-## Unit Outcomes
+When you have completed this unit, you will be able to:
 
-When you have completed this unit, you should be able to:
+1.  Understand how scoping reviews help you refine research questions.
+2.  Learn strategies to narrow down broad research inquiries.
+3.  Develop focused and researchable questions aligned with leadership studies.
 
-1. Understand how scoping reviews help you refine research questions.
-2. Learn strategies to narrow down broad research inquiries.
-3. Develop focused and researchable questions aligned with leadership studies.
+### Learning Activities {.unnumbered}
 
-## Learning Activities
+Here is a list of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
-- Reflective Journal (optional)
-- Watch "How to Write a Research Question for Your Literature Review."
-- Review your sample broad and revised draft research questions and use the checklist provided to critique and revise your initial research question.
+::: learning-activity
+-   Reflective Journal (optional)
+-   Watch "How to Write a Research Question for Your Literature Review."
+-   Review your sample broad and revised draft research questions and use the checklist provided to critique and revise your initial research question.
+:::
 
 ### Resources {.unnumbered}
 
-- Video: "How to Write a Research Question for Your Literature Review"
+-   Video: "How to Write a Research Question for Your Literature Review"
+-   "[The Seven Sacred Teachings](https://www.nwpolytech.ca/services/indigenous/sacred_teachings.html){target="_blank"}" [@northwesternpolytechnicSevenSacredTeachings]"[Re-Conceptualizing Research: An Indigenous Perspective](https://fpcfr.com/index.php/FPCFR/article/view/173/142){target="_blank"}" [@ormistonReconceptualizingResearchIndigenous2010]
+-   Other resources will be provided online throughout this unit.
 
-> ![https://img.youtube.com/vi/65L-kq6jVjc/maxresdefault.jpg](assets/u5/image1.jpeg)
+<!-- > ![https://img.youtube.com/vi/65L-kq6jVjc/maxresdefault.jpg](assets/u5/image1.jpeg) -->
 
-- "[The Seven Sacred Teachings](https://www.nwpolytech.ca/services/indigenous/sacred_teachings.html){target="_blank"}" [@northwesternpolytechnicSevenSacredTeachings]"[Re-Conceptualizing Research: An Indigenous Perspective](https://fpcfr.com/index.php/FPCFR/article/view/173/142){target="_blank"}" [@ormistonReconceptualizingResearchIndigenous2010]
-
-# Scoping Review and Refining Research Questions
+## Scoping Review and Refining Research Questions
 
 Remember from Unit 2, that a scoping review is a preliminary assessment of the available literature on a broad topic [@cherryDoingSystematicReview2023]. Scoping reviews serve to map existing literature and highlight gaps, which can directly inform the specificity and relevance of a research question [@cherryDoingSystematicReview2023]. Conducting a scoping review is an effective strategy to refine and narrow a research question, especially in the initial research stages. From a Christian perspective, this process reflects the values wisdom and stewardship. In the Bible, Proverbs 4:5 states, "Get wisdom, get understanding," and 1 Peter 4:1-11 says, "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace." By thoroughly examining existing knowledge, researchers exercise wisdom in focusing their efforts where they can best serve others and address real-world challenges.
 
@@ -53,15 +51,19 @@ Christian values encourage addressing these gaps with a heart for justice and se
 
 For example, let’s say your topic is about the integration of social emotional learning in K-12 schools, and your research question is: How are SEL frameworks implemented across diverse socioeconomic K-12 school contexts? You would then conduct a scoping review to map existing studies on the integration of social-emotional learning (SEL) frameworks in K-12 schools, highlight gaps in research on effective implementation strategies across diverse socioeconomic contexts, and identify the need for longitudinal studies to evaluate the impact of SEL on academic outcomes and student well-being. From a Christian lens, this review could consider how SEL frameworks foster virtues such as compassion, humility, and resilience, aligning with a biblical vision of holistic development (Colossians 3:12). Through an Indigenous lens, the review could explore how SEL frameworks honor relationality, community values, and the inclusion of culturally responsive approaches that respect Indigenous ways of knowing and being [@ormistonReconceptualizingResearchIndigenous2010].
 
+<<<<<<< Updated upstream
 Additionally, scoping review methodology, initially proposed by Arksey and O’Malley [-@arkseyScopingStudiesMethodological2007] and later refined by Levac et al. (2010), includes defining research questions, identifying research studies, and summarizing findings. This process can be seen as a prayerful and intentional discernment of priorities, aligning with the biblical call to seek wisdom and understanding (Proverbs 2:3-5). Integrating Indigenous principles, researchers are reminded to engage respectfully with knowledge systems, ensuring that their methods honor the voices and traditions of the communities represented [@ormistonReconceptualizingResearchIndigenous2010].
+=======
+Additionally, scoping review methodology, initially proposed by Arksey and O’Malley (2007) and later refined by Levac et al. (2010), includes defining research questions, identifying research studies, and summarizing findings. This process can be seen as a prayerful and intentional discernment of priorities, aligning with the biblical call to seek wisdom and understanding (Proverbs 2:3-5). Integrating Indigenous principles, researchers are reminded to engage respectfully with knowledge systems, ensuring that their methods honor the voices and traditions of the communities represented [@ormistonReconceptualizingResearchIndigenous2010].
+>>>>>>> Stashed changes
 
 At this stage in the process, you have designed an initial research question, identified relevant studies related to your question, and conducted a scoping review to summarize the findings. Now it is time to revise and narrow your research question based on the findings of your scoping review. This step is crucial because it ensures that your research question aligns with the current state of knowledge, addresses identified gaps and remains feasible within the available evidence and resources.
 
 A Christian perspective calls for humility and purpose in this refinement, recognizing the opportunity to glorify God through meaningful contributions to the field (Colossians 3:23). Similarly, wisdom, one of seven Indigenous sacred teachings, is using one’s gifts to build peaceful and healthy communities [@northwesternpolytechnicSevenSacredTeachings]. A well-refined question not only sharpens your study’s focus but also enhances its relevance and potential to contribute meaningful insights to the field and your community.
 
-# Steps to Refining Your Research Question Based on your Scoping Review
+## Steps to Refining Your Research Question Based on your Scoping Review
 
-## Step 1: Clarify Key Concepts (Terminology and Definitions)
+**Step 1: Clarify Key Concepts (Terminology and Definitions)**
 
 A scoping review is instrumental in clarifying key concepts by helping researchers navigate the terms and definitions prevalent in a field. This is achieved by systematically examining existing literature to identify how terms are used and understood within various contexts. By doing so, researchers can align their research question with the established discourse, ensuring consistency and relevance [@guptaHowWriteScoping2023].
 
@@ -73,16 +75,19 @@ Additionally, as researchers conduct a scoping review, they may encounter terms 
 
 By clarifying key concepts and integrating relevant terminology, researchers set a solid foundation for their study and avoid ambiguity that could hinder the interpretation of findings. This process ensures that their work contributes meaningfully to the academic discourse and is accessible to stakeholders within the field.
 
-### Activity: Learning Activity
+### Activity: Clarifying Key Concepts in Your Scoping Review
 
+::: learning-activity
 After reviewing your scoping review, respond to the following questions in your Reflective Journal to help you clarify key concepts:
 
-1. What are the most used terms in the literature related to your research topic, and how are they defined by different authors?
-2. Are there variations in the usage or interpretation of key terms across different studies or contexts? If so, what might explain these variations?
-3. Do the definitions of key concepts align with your intended research focus, or do you need to adopt a specific definition or framework?
-4. Select 2-3 important terms from the articles you have read that relate to your research topic. For each term, choose a definition from the literature, being sure to cite that definition. (You will include this in your upcoming assignment.)
+1.  What are the most used terms in the literature related to your research topic, and how are they defined by different authors?
+2.  Are there variations in the usage or interpretation of key terms across different studies or contexts? If so, what might explain these variations?
+3.  Do the definitions of key concepts align with your intended research focus, or do you need to adopt a specific definition or framework?
+4.  Select 2-3 important terms from the articles you have read that relate to your research topic. For each term, choose a definition from the literature, being sure to cite that definition. (You will include this in your upcoming assignment.)
+5.  
+:::
 
-## Step 2: Highlighting Gaps
+**Step 2: Highlighting Gaps**
 
 A key outcome of a scoping review is its ability to identify gaps in existing literature, which provides a foundation for shaping meaningful and impactful research questions. By systematically mapping the current body of knowledge, scoping reviews reveal areas that are under-researched, inconsistently studied, or where evidence is outdated or conflicting [@phamScopingReviewScoping2014]. This process allows researchers to pinpoint voids in knowledge that require further investigation.
 
@@ -90,15 +95,17 @@ For example, a scoping review on digital literacy in K-12 education might reveal
 
 By highlighting these gaps, scoping reviews ensure that new research contributes to advancing the field rather than duplicating existing work, while also addressing practical or theoretical needs that have not yet been explored.
 
-### Activity: Learning Activity
+### Activity: Highlighting Gaps
 
+::: learning-activity
 After conducting your scoping review, respond to following questions in your Reflective Journal to help you systematically examine your findings to uncover gaps and focus your research efforts on areas with the most potential for contribution in your field:
 
-1. Which areas related to my research topic have few or no studies addressing them?
-2. Are there specific populations, settings, or contexts that are under-represented in existing literature?
-3. Are there inconsistencies or contradictions in the findings across studies that indicate areas requiring further investigation?
-4. What trends or emerging themes in the literature suggest areas where research has not yet kept pace with practical or theoretical developments?
-5. What insights from the literature stand out?
+1.  Which areas related to my research topic have few or no studies addressing them?
+2.  Are there specific populations, settings, or contexts that are under-represented in existing literature?
+3.  Are there inconsistencies or contradictions in the findings across studies that indicate areas requiring further investigation?
+4.  What trends or emerging themes in the literature suggest areas where research has not yet kept pace with practical or theoretical developments?
+5.  What insights from the literature stand out?
+:::
 
 ## Step 3: Assessing Feasibility
 
@@ -108,34 +115,67 @@ By understanding the scope and availability of data, researchers can determine w
 
 This process ensures that research questions are both actionable and meaningful. Aligning the question with available evidence allows researchers to design studies that are achievable within the scope of their resources, while also contributing valuable insights to the field. Assessing feasibility minimizes wasted effort and increases the likelihood of producing impactful research.
 
-### Activity: Learning Activity
+### Activity: Assessing Feasibility
 
+::: learning-activity
 Respond to following questions in your Reflective Journal to help you assess the feasibility of your research question:
 
-1. Does the existing literature provide sufficient data to address my research question, or are there significant gaps that may hinder my ability to investigate it?
-2. Is my research question specific enough to be addressed within the available time, resources, and scope of my study?
-3. Does my research question target a manageable scope of literature, avoiding being too broad or too narrow for a systematic review?
+1.  Does the existing literature provide sufficient data to address my research question, or are there significant gaps that may hinder my ability to investigate it?
+2.  Is my research question specific enough to be addressed within the available time, resources, and scope of my study?
+3.  Does my research question target a manageable scope of literature, avoiding being too broad or too narrow for a systematic review?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
+:::
 
 ### Activity: Learning Activity
 
-1. **Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):![https://img.youtube.com/vi/65L-kq6jVjc/maxresdefault.jpg](assets/u5/image1.jpeg)
-2. Review the following sample general Research Questions (RQ) and corresponding revised specific Research Questions. Seeing how they differ will help you learn why a clear, focused research question is essential for a successful systematic review.
-    1. **General Question**: What factors influence patient satisfaction in healthcare settings?
-        **Revised Specific RQ**: How do communication strategies used by primary care physicians impact patient satisfaction in urban outpatient clinics?
+::: learning-activity
 
-    2. **General Question**: What are the effects of technology on student learning?
-        **Revised Specific RQ**: How does the use of gamified learning platforms affect math achievement among middle school students in rural schools?
+**Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):
 
-    3. **General Question**: What drives employee engagement in organizations?
-        **Revised Specific RQ**: What is the impact of flexible work policies on employee engagement in technology startups with under 500 employees?
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/65L-kq6jVjc >}}
+:::
 
-3. Use the checklist below to critique and revise your initial draft research question:
+**Review** the following sample general Research Questions (RQ) and corresponding revised specific Research Questions. Seeing how they differ will help you learn why a clear, focused research question is essential for a successful systematic review.
+    1.  **General Question**: What factors influence patient satisfaction in healthcare settings? **Revised Specific RQ**: How do communication strategies used by primary care physicians impact patient satisfaction in urban outpatient clinics?
 
-<table> <colgroup> <col style="width: 29%" /> <col style="width: 70%" /> </colgroup> <thead> <tr class="header"> <th><strong>Item</strong></th> <th><strong>Description</strong></th> </tr> </thead> <tbody> <tr class="odd"> <td><strong>Identify Specific Aspects of Interest</strong></td> <td>From your review, highlight specific elements that intrigue you. For example, if your broad topic is "leadership in education," narrow it to aspects such as "the influence of transformational leadership on student engagement."</td> </tr> <tr class="even"> <td><strong>Clarify Key Concepts</strong></td> <td>Identify and define the most important concepts and terms in your scoping review. Provide definitions based on how these terms are used in the literature. Cite your sources to show how different authors define or apply these terms and note any variations in usage that may influence your understanding of the topic.</td> </tr> <tr class="odd"> <td><strong>Identify Gaps</strong></td> <td>What areas of your topic are under-researched, inconsistently studied, or where evidence is outdated or conflicting.</td> </tr> <tr class="even"> <td><strong>Utilize the "Five Ws" Technique</strong></td> <td>Answer the following questions to refine your focus: <ol type="1"> <li><strong>Who</strong>: Who are the subjects/participants of your research? (e.g., educators, students)</li> <li><strong>What</strong>: What specific behaviors or phenomena are you studying? (e.g., building community, engagement strategies, digital literacy)</li> <li><strong>Where</strong>: In what context will your research occur? (e.g., high schools, online learning environments)</li> <li><strong>When</strong>: Are you focusing on a specific timeframe? (e.g., during the transition to remote learning)</li> <li><strong>Why</strong>: Why is this question significant in leadership studies?</li> </ol></td> </tr> <tr class="odd"> <td><strong>Check for Clarity and Specificity</strong></td> <td>Ensure your refined question is clear, specific, and straightforward. Avoid vague language, and make sure the research question is easily understandable.</td> </tr> <tr class="even"> <td><strong>Evaluate Relevance</strong></td> <td>Confirm that your revised research question addresses a significant, specific, aspect of leadership and aligns with your research purpose. Ensure your research has the potential to contribute meaningfully to the field.</td> </tr> <tr class="odd"> <td><strong>Assess Feasibility of Research</strong></td> <td>Ensure your research question is feasible to investigate within your given time and resource constraints. Consider data and literature availability.</td> </tr> <tr class="even"> <td><strong>Iterate and Seek Feedback</strong></td> <td>Share your refined question with peers, mentors, or faculty. Gather constructive feedback to further clarify and strengthen your inquiry.</td> </tr> </tbody> </table>
+    2.  **General Question**: What are the effects of technology on student learning? **Revised Specific RQ**: How does the use of gamified learning platforms affect math achievement among middle school students in rural schools?
 
-#
+    3.  **General Question**: What drives employee engagement in organizations? **Revised Specific RQ**: What is the impact of flexible work policies on employee engagement in technology startups with under 500 employees?
+
+Use the checklist below to **critique** and revise your initial draft research question:
+
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Item**                                  | **Description**                                                                                                                                                                                                                                                                                                             |
++===========================================+=============================================================================================================================================================================================================================================================================================================================+
+| **Identify Specific Aspects of Interest** | From your review, highlight specific elements that intrigue you. For example, if your broad topic is "leadership in education," narrow it to aspects such as "the influence of transformational leadership on student engagement."                                                                                          |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Clarify Key Concepts**                  | Identify and define the most important concepts and terms in your scoping review. Provide definitions based on how these terms are used in the literature. Cite your sources to show how different authors define or apply these terms and note any variations in usage that may influence your understanding of the topic. |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Identify Gaps**                         | What areas of your topic are under-researched, inconsistently studied, or where evidence is outdated or conflicting.                                                                                                                                                                                                        |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Utilize the "Five Ws" Technique**       | Answer the following questions to refine your focus:                                                                                                                                                                                                                                                                        |
+|                                           |                                                                                                                                                                                                                                                                                                                             |
+|                                           | 1.  **Who**: Who are the subjects/participants of your research? (e.g., educators, students)                                                                                                                                                                                                                                |
+|                                           |                                                                                                                                                                                                                                                                                                                             |
+|                                           | 2.  **What**: What specific behaviors or phenomena are you studying? (e.g., building community, engagement strategies, digital literacy)                                                                                                                                                                                    |
+|                                           |                                                                                                                                                                                                                                                                                                                             |
+|                                           | 3.  **Where**: In what context will your research occur? (e.g., high schools, online learning environments)                                                                                                                                                                                                                 |
+|                                           |                                                                                                                                                                                                                                                                                                                             |
+|                                           | 4.  **When**: Are you focusing on a specific timeframe? (e.g., during the transition to remote learning)                                                                                                                                                                                                                    |
+|                                           |                                                                                                                                                                                                                                                                                                                             |
+|                                           | 5.  **Why**: Why is this question significant in leadership studies?                                                                                                                                                                                                                                                        |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Check for Clarity and Specificity**     | Ensure your refined question is clear, specific, and straightforward. Avoid vague language, and make sure the research question is easily understandable.                                                                                                                                                                   |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Evaluate Relevance**                    | Confirm that your revised research question addresses a significant, specific, aspect of leadership and aligns with your research purpose. Ensure your research has the potential to contribute meaningfully to the field.                                                                                                  |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Assess Feasibility of Research**        | Ensure your research question is feasible to investigate within your given time and resource constraints. Consider data and literature availability.                                                                                                                                                                        |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Iterate and Seek Feedback**             | Share your refined question with peers, mentors, or faculty. Gather constructive feedback to further clarify and strengthen your inquiry.                                                                                                                                                                                   |
++-------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::
 
 ## Summary {.unnumbered}
 
@@ -147,13 +187,14 @@ Practical strategies for narrowing your research question included clarifying de
 
 You should now be able to develop a focused research question that is feasible, relevant, and contributes meaningful insights to your field of study.
 
-## Check Your Learning
+::: check
+1.  How does incorporating Indigenous or Christian perspectives influence the way you refine your research question?
+2.  What are the key elements of assessing the feasibility of a research question, and how can a scoping review assist in this process?
+3.  What steps can you take to ensure that your research question is narrowly focused and set in context of current knowledge identified in your scoping review?
+:::
 
-1. How does incorporating Indigenous or Christian perspectives influence the way you refine your research question?
-2. What are the key elements of assessing the feasibility of a research question, and how can a scoping review assist in this process?
-3. What steps can you take to ensure that your research question is narrowly focused and set in context of current knowledge identified in your scoping review?
+## References {.unnumbered}
 
-#### References {.unnumbered}
 <!-- 
 Gupta, A., Singh, A., Aneja, K., Aggarwal, V., Wadhwa, J., & Abraham, D. (2023). How to write a scoping review? – A comprehensive guide. *Endodontology*, *35*(1), 9–14. [https://doi.org/10.4103/endo.endo_123_22](https://doi.org/10.4103/endo.endo_123_22){target="_blank"}
 

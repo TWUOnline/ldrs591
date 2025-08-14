@@ -1,56 +1,47 @@
+# Accessing and Evaluating Scholarly Literature
+
 ## Overview {.unnumbered}
 
 In this unit, you will focus on gaining familiarity with various genres of scholarly literature and getting a sense of how these genres contribute to your own scholarly endeavours. Through first-hand experience you will begin locating, organizing, and evaluating relevant scholarly literature. Two of the major assignments in this course hinge on your ability to conduct an annotated bibliography and critique. Although these assignments are not due until the later in the course, your work in this unit is the foundation for those assignments. The learning activities in this unit will walk you through practical readings and video tutorials on how to access and evaluate scholarly literature.
 
 ### Topics {.unnumbered}
 
-Unit 4 is divided into four topics. See the [**Unit 4 Topics**](https://learn.twu.ca/mod/book/view.php?id=1176252){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
+1.  Accessing Scholarly Literature
+2.  Utilizing Scholarly Literature
+3.  Evaluating Scholarly Literature
 
-[**Unit 4 Topics**](https://learn.twu.ca/mod/book/view.php?id=1176252)
--->
-1. Accessing Scholarly Literature
-2. Utilizing Scholarly Literature
-3. Evaluating Scholarly Literature
-4. Unit Summary
+### Unit Learning Outcomes {.unnumbered}
 
-### Learning Outcomes {.unnumbered}
+When you have completed this unit, you will be able to:
 
-When you have completed this unit, you should be able to:
+1.  Employ different search strategies to locate different sources of scholarly literature.
+2.  Evaluate the credibility and reliability of sources of scholarly literature.
+3.  Document key sources related to your research topic area.
 
-1. Employ different search strategies to locate different sources of scholarly literature.
-2. Evaluate the credibility and reliability of sources of scholarly literature.
-3. Document key sources related to your research topic area.
+### Learning Activities {.unnumbered}
 
-## Learning Activities
+Here is a list of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
-- Watch "Preparing Research Questions for a Database Search" to learn how to access scholarly literature and follow the directions about searching for books in the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
-- Read Chapters 5 and 8 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
-- Read Chapters 2, 13, and 14 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
-- Watch "Evaluating Journal Articles" about how to develop research skills.
-- Assessment: Contribute to the Course Discussions. See [Assessment tab](https://learn.twu.ca/course/view.php?id=33799&section=8#tabs-tree-start){target="_blank"} in Moodle for details.
-
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[Assessment tab](https://learn.twu.ca/course/view.php?id=33799&section=8#tabs-tree-start)
--->
+::: learning-activity
+-   Watch "Preparing Research Questions for a Database Search" to learn how to access scholarly literature and follow the directions about searching for books in the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
+-   Read Chapters 5 and 8 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
+-   Read Chapters 2, 13, and 14 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
+-   Watch "Evaluating Journal Articles" about how to develop research skills.
+-   Assessment: Contribute to the Course Discussions. See the Assessment tab in Moodle for details.
+:::
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete the unit:
 
-- Cherry, M. G., Boland, A., & Dickson, R. [-@cherryDoingSystematicReview2023]. *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership.* Information Age Publishing.
-- Video tutorials found at: [https://libguides.twu.ca/library_research/all_video_tutorials](https://libguides.twu.ca/library_research/all_video_tutorials){target="_blank"} [@trinitywesternuniversityAssessingOnlineResources2016].
+-   **Textbook:** Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership.* Information Age Publishing.
+-   Cherry, M. G., Boland, A., & Dickson, R. [-@cherryDoingSystematicReview2023]. *Doing a systematic review: A student’s guide* (3rd ed.). SAGE Publications.
+-   Video tutorials found at: [https://libguides.twu.ca/library_research/all_video_tutorials](https://libguides.twu.ca/library_research/all_video_tutorials){target="_blank"} [@trinitywesternuniversityAssessingOnlineResources2016].
+-   Other resources will be provided online throughout this unit.
 
-#
-
-# Accessing Scholarly Literature
+## Accessing Scholarly Literature
 
 This topic will help you gain familiarity with various genres of scholarly literature and help you get a sense of what scholarly sources of information are available, given your own research interests. In this topic, you will also gain first-hand experience in locating, organizing, and evaluating relevant scholarly literature.
 
@@ -79,7 +70,7 @@ Table 4.1 below summarizes the relative advantages and disadvantages of each gen
 **Table 3.1 Advantages and Disadvantages of Scholarly Literature Genres**
 
 | **Genre** | **Advantages** | **Disadvantages** | **Utility** |
-|-------------------|--------------------|------------------|----------------|
+|------------------|-------------------|------------------|------------------|
 | **Summaries** (encyclopedias and handbooks) | Generally highest quality | Tend to be dated | Establish a general working knowledge of the field. |
 | **Books** | Generally high quality | Can be dated | Establish mainstream thought. Most foundational literature is found in books. |
 | **Journal Articles** | Generally high quality and provide a clear description of actual research. Generally more current than books or summaries. | Generally, will not give a full development of application and implications. | Best available balance between quality and currency |
@@ -93,98 +84,96 @@ Peer review is the process used by publishers and editors of academic and schola
 
 In summary, understanding how scholarly research is reviewed, published, and ranked is essential for becoming an informed and responsible consumer of research. Tools like peer review and impact factor help you evaluate the credibility, quality, and relevance of academic sources. By using these tools effectively, you can select strong, trustworthy research to support your leadership decisions, academic writing, and future projects.
 
-##
+### Activity: Research Skills for Lifelong Leadership Learning
 
-### Activity
-
+::: learning-activity
 📖 **Read** Chapters 13 and 14 in *Introduction to Research in Leadership* (Rosch et al., 2023). These two chapters specifically discuss "becoming a critical scholar" and "a lifetime of learning in leadership."
 
 📺 **Watch** the tutorial video on the [TWU Library](https://www.twu.ca/academics/library){target="_blank"}.
 
-- Click on the library link "How to search for articles." Begin by selecting one of video tutorials in the section on multi-disciplinary databases such as "Academic Search Complete".
-- Watch the video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
+-   Click on the library link "How to search for articles." Begin by selecting one of video tutorials in the section on multi-disciplinary databases such as "Academic Search Complete".
+-   Watch the video tutorial to get an idea of how to search for a topic in a multi-disciplinary database.
 
 📖 Keeping in mind your specific research topic, use the Academic Search Ultimate database at the TWU library to locate a good example of a journal article**.**
 
 To do this you will need to:
 
-1. Go to the [TWU Library home page](https://www.twu.ca/academics/library){target="_blank"}.
-2. Click the databases tab and then click the articles and databases link which brings you to a different screen.
-3. In the Database Research Guide screen, you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
-4. Select a relevant database such as "Leadership."
-5. You will be asked to sign in as a student with your pass ID and password to access the online database.
-6. Once you have signed in, you will be able to type your topic or question in the search window of the selected database.
+1.  Go to the [TWU Library home page](https://www.twu.ca/academics/library){target="_blank"}.
+2.  Click the databases tab and then click the articles and databases link which brings you to a different screen.
+3.  In the Database Research Guide screen, you will need to select "A-B" from the A-Z list of databases at the bottom of this page.
+4.  Select a relevant database such as "Leadership."
+5.  You will be asked to sign in as a student with your pass ID and password to access the online database.
+6.  Once you have signed in, you will be able to type your topic or question in the search window of the selected database.
 
 **Searching for Books**
 
-1. Go to the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} and click "Research Guides."
-2. At the top right, click "Research Help."
-3. Choose "Research Tutorials."
-4. On the left side of the screen, click "How to Search for Books."
-5. Scroll to the bottom of the screen and click "Using EBSCOhost eBooks."
-6. Watch the "Book Searching Tutorial" video to get an idea of how to search for a topic found in an e-book.
-7. Keeping in mind the research topic you identified, use the library catalog to locate a good example of an e-book.
+1.  Go to the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} and click "Research Guides."
+2.  At the top right, click "Research Help."
+3.  Choose "Research Tutorials."
+4.  On the left side of the screen, click "How to Search for Books."
+5.  Scroll to the bottom of the screen and click "Using EBSCOhost eBooks."
+6.  Watch the "Book Searching Tutorial" video to get an idea of how to search for a topic found in an e-book.
+7.  Keeping in mind the research topic you identified, use the library catalog to locate a good example of an e-book.
 
 ✏️ **Respond** to the following in your Reflective Journal.
 
-- Reflect on your experience searching for a journal article and an e-book related to your topic**.** What search terms did you use? Which databases did you try? What worked well, and what challenges did you encounter?
+-   Reflect on your experience searching for a journal article and an e-book related to your topic**.** What search terms did you use? Which databases did you try? What worked well, and what challenges did you encounter?
 
 > This reflection is a chance to practice describing your search process, which you will need to include in your upcoming assignment. Use this opportunity to think critically about how you locate scholarly sources and how you might improve your search strategies moving forward.
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
 
 Finally, the library is a great resource with support opportunities such as one-to-ones and workshops. [Click here for library support or to book an appointment for research help.](https://libguides.twu.ca/help?_gl=1*1npsrd0*_ga*MTc4MzI2NDA1OS4xNzM3ODYyMDE0*_ga_NZ4GVM10JT*czE3NTI1MTYzNTAkbzEzMCRnMSR0MTc1MjUxNjM2MSRqNDkkbDAkaDA.){target="_blank"}
+:::
 
-#
-
-# Utilizing Scholarly Literature
+## Utilizing Scholarly Literature
 
 After you have determined which sources you will be accessing, you need to conduct a search and then keep track of your literature search and results. Table 4.1 is an example of how to track your literature search. It is designed to help you document and reflect on your research process as you search for scholarly sources. Keeping detailed notes about where, how, and what you search will help you:
 
-- Stay organized and efficient in your research process
-- Avoid repeating unsuccessful search strategies
-- Reflect on your approach to improve future searches
-- Identify the most relevant and useful databases and search terms
-- Practice a skill that will support your Scoping Review assignment (e.g., documenting your search process for a systematic literature review)
+-   Stay organized and efficient in your research process
+-   Avoid repeating unsuccessful search strategies
+-   Reflect on your approach to improve future searches
+-   Identify the most relevant and useful databases and search terms
+-   Practice a skill that will support your Scoping Review assignment (e.g., documenting your search process for a systematic literature review)
 
 **How to use the table:**
 
-1. **Search Date**: Record the date you conducted the search.
-2. **Database/Source**: Write the name of the database, journal site, or search engine you used (e.g., ERIC, JSTOR, Google Scholar).
-3. **Keywords Used**: List the main keywords or phrases you entered in your search. Include combinations or Boolean operators if used (e.g., "transformative learning" AND "early childhood education").
-4. **Filters Applied**: Note any filters you used, such as date range, peer-reviewed only, or full text available.
-5. **Number of Results**: Record how many total search results were returned.
-6. **Relevant Articles**: Indicate how many of those results were useful or relevant to your topic.
-7. **Key Findings/Themes**: Briefly summarize what you learned from the articles you found. Look for repeated concepts or themes that could inform your literature review.
-8. **Notes**: Add any reflections or additional thoughts, such as challenges faced, questions that emerged, or next steps.
+1.  **Search Date**: Record the date you conducted the search.
+2.  **Database/Source**: Write the name of the database, journal site, or search engine you used (e.g., ERIC, JSTOR, Google Scholar).
+3.  **Keywords Used**: List the main keywords or phrases you entered in your search. Include combinations or Boolean operators if used (e.g., "transformative learning" AND "early childhood education").
+4.  **Filters Applied**: Note any filters you used, such as date range, peer-reviewed only, or full text available.
+5.  **Number of Results**: Record how many total search results were returned.
+6.  **Relevant Articles**: Indicate how many of those results were useful or relevant to your topic.
+7.  **Key Findings/Themes**: Briefly summarize what you learned from the articles you found. Look for repeated concepts or themes that could inform your literature review.
+8.  **Notes**: Add any reflections or additional thoughts, such as challenges faced, questions that emerged, or next steps.
 
-Table 4.1
+Table 4.1 Literature Search Table Template
 
 | **Search Date** | **Database/Source** | **Keywords Used** | **Filters Applied** | **Number of Results** | **Relevant Articles** | **Key Findings/Themes** | **Notes** |
-|------|-----------|-------------|---------|-------|-------|------------|----------|
-| | e.g., ERIC, JSTOR | "Barriers early childhood educators," "transformative learning" | e.g., 2010-present, peer-reviewed | 50 | 5 | e.g., Barriers include lack of resources, resistance to change | Add additional notes or reflections here |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+|  | e.g., ERIC, JSTOR | "Barriers early childhood educators," "transformative learning" | e.g., 2010-present, peer-reviewed | 50 | 5 | e.g., Barriers include lack of resources, resistance to change | Add additional notes or reflections here |
 
 You may use this table throughout your literature search process. It will be a helpful reference when writing your assignment and can also be included as an appendix if your instructor requires evidence of your search strategy. [Click here for a literature search table template](file:///C:\Users\jodi.mcbride\OneDrive%20-%20Trinity%20Western%20University\Documents\591%20Curriculum%20Revision\New%20Units\Literature%20Search%20Tracking%20Template.docx){target="_blank"}.
 
 You can also manage your references using an online reference manager that will help you collect, organize, cite, and share your references according to the referencing style you will be using. There are several free, online reference managers available such as [Zotero](https://www.zotero.org/){target="_blank"}, [RefWorks](https://www.refworks.com/refworks2/help/Welcome.htm){target="_blank"} and [EndNote](http://endnote.com/){target="_blank"}. TWU library has a research guide that describes [how to use EndNote](http://libguides.twu.ca/EndNote/){target="_blank"}[-@badkeUsingEndNoteWeb]. The library guide will help you sign up for a free EndNote account and will teach you to use EndNote to download and store your citations in folders, input citations into Word documents, and create reference lists.
 
-## Review Scholarly Literature
+### Review Scholarly Literature {.unnumbered}
 
 After you have retrieved and organized the results from your database searches you will begin reviewing them. To save time, you do not need to read every article in their entirety.
 
 Instead follow these steps:
 
-1. Review the titles and abstracts.
-2. For articles that seem related to your research topic, read the introduction, discussion, and conclusion sections. Then, examine the reference list.
-3. If the article still seems worthwhile, read the entire article.
+1.  Review the titles and abstracts.
+2.  For articles that seem related to your research topic, read the introduction, discussion, and conclusion sections. Then, examine the reference list.
+3.  If the article still seems worthwhile, read the entire article.
 
 As you work through this process you will develop a collection of literature relevant to your study. Keep these sources organized by using a summary or abstract chart. The chart below is an example of how to keep your sources organized. There is no single correct way to do this, but you will need to develop some sort of system that works for you.
 
 | **Reference** | **Research Problem** | **Purpose, Research Question, or Hypothesis** | **Data Collection/Procedure** | **Results/Findings** |
-|-----------|------------|---------------|--------------------|-----------------|
+|--------------|--------------|--------------|----------------|--------------|
 | Author(s), Year, Title, Source | Briefly state the issue the study addresses | Briefly summarize the study’s purpose, research question, or hypothesis | Outline the methods used (e.g., interviews, surveys, sample size) | Summarize main results or findings relevant to your research |
 
-## Reviewing Literature is an Iterative Process
+### Reviewing Literature is an Iterative Process {.unnumbered}
 
 Be aware that the research process is not always linear. You may have a great research topic or question in mind, but as you begin your initial database and library searches you may find yourself changing or refining your topic. This is a normal part of the process.
 
@@ -192,10 +181,12 @@ Sometimes you will not find any information about your topic because the topic i
 
 If you are having difficulty finding research articles and books on your topic, re-examine your key search terms using strategies such as:
 
-1. Look up synonyms for your keywords.
-2. Find and use key terms found in the literature you do have.
+1.  Look up synonyms for your keywords.
+2.  Find and use key terms found in the literature you do have.
 
-### Activity: Learning Activity
+### Activity: Applying Boolean Searches and Review Techniques
+
+::: learning-activity
 
 📖 **Read** Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
 
@@ -203,13 +194,15 @@ If you are having difficulty finding research articles and books on your topic, 
 
 ✏️ **Respond** to the following in your Reflective Journal:
 
-- Briefly describe your experiences with upgrading your research skills.
-- What did you find worked well, what did not?
-- What Boolean searches did you use, what inclusion or exclusion criteria did you select?
+-   Briefly describe your experiences with upgrading your research skills.
+-   What did you find worked well, what did not?
+-   What Boolean searches did you use, what inclusion or exclusion criteria did you select?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
 
-# Evaluating Scholarly Literature
+:::
+
+## Evaluating Scholarly Literature
 
 Once you identify several articles and/or books related to your research topic and skimmed them for relevance, the next step is to evaluate your information sources. Unfortunately, not all information you find will be credible and reliable. Just because you find articles and books at the library does not mean that the information will be accurate or high quality.
 
@@ -229,48 +222,57 @@ The importance of being a critical scholar lies in ensuring that research does n
 
 To critically evaluate a source for quality and credibility, consider the following:
 
-- **Authority**: Who is the author? What are the author’s credentials, such as their educational background, past writing experience, and expertise on the topic? Is the author’s name cited in other sources or reference lists? A simple google search will help you explore these questions.
-- **Currency**: When was the source published? Is the source current or out of date for your topic? Remember the general rule is to use sources that have been published within the past ten years.
-- **Purpose**: What is the author’s intention? Is the information the author’s opinion or is the author communicating evidence-based results? Who is the author’s intended audience: the academic community or consumers? Is the author’s point of view objective and impartial? Is the article or book’s language free of emotion or bias?
-- **Content**: What kind of information is provided in the article or book? Is it a research article, popular book, or an opinion piece on a blog? If it is a research article, what methodology is used (quantitative, qualitative, etc.). Is the information provided backed up with references or sources? What is the length and quality of the reference list?
-- **Publication type and process**: Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is the source published from a government agency? Is the source self-published?
-- **Bias and special interests**: According to Cherry et al. [-@cherryDoingSystematicReview2023], bias occurs in many forms, including language bias and publication bias. For example, "language bias occurs because studies that report positive findings are mostly likely to be published in English-language journals" [@cherryDoingSystematicReview2023, p. 53] and studies reporting negative or null findings are most likely to be published in non-English language journals. Publication bias occurs when studies reporting positive findings are more likely published in peer-reviewed academic journals. See Chapter 3 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023] for more detail.
+-   **Authority**: Who is the author? What are the author’s credentials, such as their educational background, past writing experience, and expertise on the topic? Is the author’s name cited in other sources or reference lists? A simple google search will help you explore these questions.
+-   **Currency**: When was the source published? Is the source current or out of date for your topic? Remember the general rule is to use sources that have been published within the past ten years.
+-   **Purpose**: What is the author’s intention? Is the information the author’s opinion or is the author communicating evidence-based results? Who is the author’s intended audience: the academic community or consumers? Is the author’s point of view objective and impartial? Is the article or book’s language free of emotion or bias?
+-   **Content**: What kind of information is provided in the article or book? Is it a research article, popular book, or an opinion piece on a blog? If it is a research article, what methodology is used (quantitative, qualitative, etc.). Is the information provided backed up with references or sources? What is the length and quality of the reference list?
+-   **Publication type and process**: Who published the source? Was the source peer-reviewed? Is the publisher a university press or a large reputable publisher? Is the source published from a government agency? Is the source self-published?
+-   **Bias and special interests**: According to Cherry et al. [-@cherryDoingSystematicReview2023], bias occurs in many forms, including language bias and publication bias. For example, "language bias occurs because studies that report positive findings are mostly likely to be published in English-language journals" [@cherryDoingSystematicReview2023, p. 53] and studies reporting negative or null findings are most likely to be published in non-English language journals. Publication bias occurs when studies reporting positive findings are more likely published in peer-reviewed academic journals. See Chapter 3 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023] for more detail.
 
-### Activity: Learning Activity
+### Activity: Evaluating Sources for Credibility and Quality
 
-📺 **Watch** "How to Evaluate Sources" from the [Stanford University Libraries](https://www.youtube.com/watch?v=bZ122WakNDY){target="_blank"} [-@stanforduniversitylibrariesHowEvaluateSources2017] to learn more about how to evaluate your sources.
+::: learning-activity
 
-![https://img.youtube.com/vi/bZ122WakNDY/maxresdefault.jpg](assets/u4/image1.jpeg)
+📺 **Watch** "How to Evaluate Sources" from the Stanford University Libraries [-@stanforduniversitylibrariesHowEvaluateSources2017] to learn more about how to evaluate your sources.
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/bZ122WakNDY >}}
+:::
 
 📖 **Read** Chapter 8: "Quality Assessment: Where Do I Begin?" in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
 
 📺 **Watch** the following videos:
 
-- "Assessing Online Resources" from the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} "Evaluating a Journal Article" from the [JCU Library](https://www.youtube.com/@jculibrary1){target="_blank"} (2017)
+-   "Assessing Online Resources" from the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} 
+-   "Evaluating a Journal Article" from the [JCU Library](https://www.youtube.com/@jculibrary1){target="_blank"} (2017)
 
-> ![https://img.youtube.com/vi/z6dOGkpI6H4/maxresdefault.jpg](assets/u4/image2.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/z6dOGkpI6H4 >}}
+:::
 
 ✏️ Respond to the following in your Reflective Journal:
 
-- Briefly describe how you found your online sources and whether you think they will be helpful resources for your topic.
-- What sources of information will you use the most to conduct research on your topic?
-- How will you evaluate these sources to make sure they are credible and reliable sources of information?
+-   Briefly describe how you found your online sources and whether you think they will be helpful resources for your topic.
+-   What sources of information will you use the most to conduct research on your topic?
+-   How will you evaluate these sources to make sure they are credible and reliable sources of information?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
 
-#
+:::
 
 ## Summary {.unnumbered}
 
 In this unit, you learned how to access and evaluate scholarly literature, including books, journal articles, and grey literature. You explored different genres of academic sources and developed strategies for organizing your literature searches. You also considered the value of Indigenous knowledge and the importance of including diverse perspectives in your research. Practical tools such as search tracking tables, reference managers, and summary charts were introduced to support your research process. Most importantly, you were introduced to the concept of becoming a critical scholar; someone who engages with research reflectively and ethically to inform leadership decisions, promote justice, and serve the common good. These foundational skills will support your success in upcoming research and course assignments.
 
-## Checking Your Learning {.unnumbered}
+::: check
 
 Now that you have completed the learning activities and assignments for this unit, check the list below to ensure you can do the following:
 
-1. Can you identify a research topic of interest?
-2. Can you employ different search strategies to locate different sources of scholarly literature?
-3. Can you evaluate the credibility and reliability of sources of scholarly literature?
+1.  Can you identify a research topic of interest?
+2.  Can you employ different search strategies to locate different sources of scholarly literature?
+3.  Can you evaluate the credibility and reliability of sources of scholarly literature?
+
+:::
 
 ## References {.unnumbered}
 

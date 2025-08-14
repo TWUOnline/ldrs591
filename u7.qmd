@@ -1,25 +1,21 @@
+# APA Resources and Activities 
+
 ## Overview {.unnumbered}
 
 This unit explores the fundamentals of APA 7 formatting, emphasizing its role in establishing professionalism, credibility, and ethical writing practices. From title pages to in-text citations and references, each component of APA style contributes to clarity and trust in academic and professional writing. By adhering to APA standards, you will learn to present your ideas in an organized, professional way that respects the work of others.
 
 ### Topics {.unnumbered}
 
-The APA Unit is divided in seven topics. See the [APA Unit Topics](https://learn.twu.ca/mod/book/view.php?id=1172203){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[APA Unit Topics](https://learn.twu.ca/mod/book/view.php?id=1172203)
--->
 1. The Purpose of APA 7
 2. Title Page Formatting
 3. Headings
 4. Citations
 5. References
 6. Spacing and Margins
-7. Unit Summary
 
-### Learning Outcomes {.unnumbered}
+### Unit Learning Outcomes {.unnumbered}
 
 By the end of this unit, you will:
 
@@ -27,30 +23,32 @@ By the end of this unit, you will:
 2. Develop skills in formatting title pages, headings, and references.
 3. Apply correct spacing, margins, and citation techniques to enhance document clarity and credibility.
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
-1. Designing Your Title Page
-2. [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289){target="_blank"}
+::: {.learning-activity}
+
+- Designing Your Title Page
+- Headings Part 1
+- Headings Part 2
+- Citations
+- Formatting References Puzzle
+- Space and Margins Puzzle
+
+:::
 
 <!-- !!!
 The Moodle link above needs to be replaced.
 
 [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289)
 -->
-3. [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290){target="_blank"}
 
 <!-- !!!
 The Moodle link above needs to be replaced.
 
 [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290)
 -->
-4. Citations
-5. Formatting References Puzzle
-6. Space and Margins Puzzle
 
-#
-
-# The Purpose of APA 7
+## The Purpose of APA 7
 
 In professional and academic writing, APA 7 formatting serves as a critical guide for consistency, clarity, and credibility. Established by the American Psychological Association (APA), APA format is widely used in fields such as psychology, education, and social sciences. But why is it important, and how does it relate to professionalism and leadership?
 
@@ -66,15 +64,15 @@ Additionally, as servant leaders strive toward ethical practices, APA is a tool 
 
 Throughout LDRS 591, your instructor will guide you in exploring key elements of APA 7 formatting to elevate your writing and support you in developing professional, clear, and ethically responsible written communications that create a culture of trust and accountability.
 
-# Title Page Formatting
+## Title Page Formatting
 
 Creating a title page in APA 7 format for your assignments is more than just a formality; It is an important step in presenting your work professionally. A well-structured title page clearly displays essential information, such as your name, the course, your instructor’s name, and the assignment date, making it easy for readers to identify your work. It sets the tone for the rest of your paper by showing attention to detail, an appreciation for academic standards, and respect for guidelines. Additionally, following APA 7 title page requirements models accountability and professionalism, preparing you for the academic and professional standards expected in your field.
 
-### Activity: Learning Activity: Designing Your Title Page
+### Activity: Designing Your Title Page
+
+::: learning-activity
 
 By the end of this activity, you will be able to create a correctly formatted APA 7 title page with all required components.
-
-**Instructions:**
 
 1. Review title page elements at: [https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page](https://apastyle.apa.org/style-grammar-guidelines/paper-format/title-page){target="_blank"}
     - Note the essential elements of an APA 7 title page:
@@ -96,19 +94,20 @@ By the end of this activity, you will be able to create a correctly formatted AP
         - Line 4: Course Name and Number
         - Line 5: Instructor’s Name
         - Line 6: Due Date
-1. Apply Feedback and Compare:
+4. Apply Feedback and Compare:
     - After creating your title page, pair up and compare your work with a partner’s.
     - Check each other’s formatting for spacing, alignment, and correct placement of elements.
     - Make any necessary adjustments based on feedback.
 
-#
+:::
 
-# Headings
+## Headings
 
 Using headings in APA 7 for your assignments is essential for clear organization and readability. Headings guide readers through your paper’s structure, making it easy to follow your main points and understand how each section connects to your overall argument. This logical flow not only enhances your work’s professionalism but also demonstrates your ability to communicate ideas clearly and concisely. By adhering to APA’s structured heading levels, you are practicing skills in organization and clarity; Qualities valued in both academic and professional writing. Using headings also makes it easier for others to locate specific information quickly, which is especially helpful in collaborative or evaluative settings.
 
-### Activity: Learning Activity: [Headings Part 1](https://learn.twu.ca/mod/resource/view.php?id=1176289){target="_blank"}
+### Activity: Headings Part 1
 
+::: learning-activity
 <!-- !!!
 The Moodle link above needs to be replaced.
 
@@ -123,7 +122,11 @@ The Moodle link above needs to be replaced.
 [Headings Part 1.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%201.docx)
 -->
 
-### Activity: Learning Activity: [Headings Part 2](https://learn.twu.ca/mod/resource/view.php?id=1176290){target="_blank"}
+:::
+
+### Activity: Headings Part 2
+
+::: learning-activity
 
 <!-- !!!
 The Moodle link above needs to be replaced.
@@ -139,21 +142,21 @@ The Moodle link above needs to be replaced.
 [Headings Part 2.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42915/Headings%20Part%202.docx)
 -->
 
-#
+:::
 
-# Citations
+## Citations
 
 Imagine you have spent weeks working on a project at work; A presentation with detailed research and new ideas that you are excited to share with your team. Now, picture someone taking your presentation, removing your name, and presenting it as their own work without mentioning you. How would you feel?
 
 Just as people expect acknowledgment for their own ideas and hard work, using citations in academic or professional writing gives credit to the original authors who inspired or informed our work. Citing sources shows respect for others’ contributions, demonstrating that you value their ideas enough to share them with others. This is not just about avoiding plagiarism; it is about building a culture of respect, trust, and professionalism. Properly formatted citations help ensure that others can verify and follow up on the sources you have used, creating a chain of knowledge that strengthens our shared understanding.
 
-## Citations and Stewardship
+### Citations and Stewardship {.unnumbered}
 
 Citing sources aligns closely with the concept of stewardship in servant leadership. Peter Block [-@blockStewardshipChoosingService2013] defines stewardship as "holding something in trust for another," (p. xx) a principle that underscores people’s responsibility to care for and respect others’ contributions. In servant leadership, stewardship means leaders hold knowledge, resources, and responsibilities in trust—not for personal gain, but for the benefit of the community and society.
 
 Applying this principle, citing sources in our work becomes an act of stewardship. You are acknowledging and preserving the intellectual contributions of others and using them in a way that respects their origin and purpose. Just as servant leaders use openness and persuasion over control, citations allow people to transparently share ideas, enabling others to trace, verify, and build upon those ideas for the collective good. This practice reflects a commitment to serve the academic and professional communities by fostering a culture of respect, integrity, and shared knowledge.
 
-## Citations and Indigenous Storytelling
+### Citations and Indigenous Storytelling {.unnumbered}
 
 In Indigenous storytelling, stewardship and proper acknowledgment are essential aspects of preserving and respecting knowledge. Land acknowledgments are an important practice in recognizing Indigenous stewardship and the original keepers of the land [@hansonOralTraditions2009]. For example, you may notice the land acknowledgement on the [course syllabus](https://learn.twu.ca/mod/resource/view.php?id=1171447){target="_blank"}:
 
@@ -173,7 +176,9 @@ Just as citing sources in academic work gives credit to the original thinkers, l
 
 Citations in Western academia give credit, while in Indigenous traditions, "oral footnoting" attributes the story to a specific elder or ancestor, reflecting the storyteller’s responsibility to the collective memory [@hansonOralTraditions2009]. This act of stewardship, both in academic and Indigenous contexts, upholds a culture of respect, ensuring that knowledge is shared ethically, responsibly, and for the benefit of future generations.
 
-### Activity: Learning Activity: Citations
+### Activity: Citations
+
+::: learning-activity
 
 Practice formatting APA 7 in-text citations by solving a puzzle using the correct citation style for paraphrased and direct quotes. See [Citations Activity.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42916/Citations%20Activity.docx){target="_blank"}.
 
@@ -183,9 +188,9 @@ The Moodle link above needs to be replaced.
 [Citations Activity.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42916/Citations%20Activity.docx)
 -->
 
-#
+:::
 
-## References {.unnumbered}
+## References
 
 As Indigenous storytelling practices and academic citations embody stewardship and foster a culture of sharing knowledge responsibly and respectfully, so do references. Like using citations, including references is another way to practice servant leadership in written communication.
 
@@ -195,7 +200,9 @@ APA references also embody key servant leadership traits, such as commitment to 
 
 Further, servant leaders rely on awareness and foresight, seeing the broader impacts of their actions on others [@spearsCharacterServantLeadership2010]. By referencing sources, writers exercise these qualities, understanding that their work does not stand alone but is part of a larger discourse. This approach supports a responsible, forward-thinking culture where ideas are treated with respect and integrity, creating a positive and ethical academic and professional environment.
 
-### Activity: Learning Activity: References Formatting Puzzle
+### Activity: References Formatting Puzzle
+
+::: learning-activity
 
 Practice formatting references according to APA 7 guidelines by solving a puzzle that involves properly formatting citations for journals, books, and web sources. See [References Formatting Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42917/References%20Formatting%20Puzzle.docx){target="_blank"}.
 
@@ -205,11 +212,13 @@ The Moodle link above needs to be replaced.
 [References Formatting Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42917/References%20Formatting%20Puzzle.docx)
 -->
 
-###
+:::
 
-# Spacing and Margins {.unnumbered}
+## Spacing and Margins
 
-### Activity: Learning Activity: Space and Margins Puzzle
+### Activity: Space and Margins Puzzle
+
+::: learning-activity
 
 Practice identifying and correcting the spacing and margin errors in the provided document to meet APA 7 formatting standards. See [Space and Margin Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42918/Space%20and%20Margin%20Puzzle.docx){target="_blank"}.
 
@@ -219,7 +228,7 @@ The Moodle link above needs to be replaced.
 [Space and Margin Puzzle.docx](https://learn.twu.ca/pluginfile.php/1424895/mod_book/chapter/42918/Space%20and%20Margin%20Puzzle.docx)
 -->
 
-#
+:::
 
 ## Summary {.unnumbered}
 

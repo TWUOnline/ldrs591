@@ -1,62 +1,61 @@
+# Understanding Types of Scholarly Literature
+
 ## Overview {.unnumbered}
 
 Before you can effectively critique scholarly research, it is essential to first understand what scholarly literature is and why it matters. In graduate-level leadership studies, being able to engage with research critically is not just an academic exercise, but a vital leadership skill. Leaders must be able to evaluate research-based evidence, apply it thoughtfully in practice, and contribute to informed decision-making in their organizations and communities.
 
 In this unit, you will be introduced to several common research methodologies that are frequently used in leadership and social sciences research:
 
-- Quantitative Research
-- Qualitative Research
-- Mixed Methods Research
-- Literature Reviews
-- Systematic Literature Reviews
-- Scoping Reviews
+-   Quantitative Research
+-   Qualitative Research
+-   Mixed Methods Research
+-   Literature Reviews
+-   Systematic Literature Reviews
+-   Scoping Reviews
 
 Understanding these research approaches will equip you to read academic studies with greater confidence, recognize the strengths and limitations of different methodologies, and assess the credibility of research findings. This knowledge is also essential for your upcoming assignments, particularly your systematic literature review, which is a major project in LDRS 697 and 698. Through this unit, you will begin building the foundational skills necessary to complete that review, as well as to become a more informed consumer of research throughout your leadership practice.
 
 ### Topics {.unnumbered}
 
-Unit 2 is divided into six topics. See the [**Unit 2 Topics**](https://learn.twu.ca/mod/book/view.php?id=1172206){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
+1.  Quantitative Research
+2.  Qualitative Research Design
+3.  Mixed Methods
+4.  Literature Review vs. Systematic Literature Review
+5.  Scoping Review
 
-[**Unit 2 Topics**](https://learn.twu.ca/mod/book/view.php?id=1172206)
--->
-1. Introduction to Quantitative Research
-2. Introduction to Qualitative Research Design
-3. Introduction to Mixed Methods
-4. Introduction to Literature Review vs. Systematic Literature Review
-5. Introduction to Scoping Review
-6. Unit Summary
+### Unit Learning Outcomes {.unnumbered}
 
-## Unit Outcomes
+When you have completed this unit, you will be able to:
 
-When you have completed this unit, you should be able to:
+1.  Describe the differences between a quantitative, qualitative, and mixed methods research report.
+2.  Identify the key differences between traditional literature reviews and systematic literature reviews, including their purposes and methodologies.
+3.  Explain the purpose of conducting a scoping review and how it can inform the development of research questions.
 
-1. Describe the differences between a quantitative, qualitative, and mixed methods research report.
-2. Identify the key differences between traditional literature reviews and systematic literature reviews, including their purposes and methodologies.
-3. Explain the purpose of conducting a scoping review and how it can inform the development of research questions.
+### Learning Activities {.unnumbered}
 
-## Learning Activities
+Here is a list of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
-
-- Watch the video: "Qualitative & Quantitative Research–An Introduction."
-- Read Chapters 5-10 and 12 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
-- Choose a peer reviewed article about transformational servant leadership. Review the article and identify the research methodology used.
+::: learning-activity
+-   Watch the video: "Qualitative & Quantitative Research–An Introduction."
+-   Read Chapters 5-10 and 12 in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
+-   Choose a peer reviewed article about transformational servant leadership. Review the article and identify the research methodology used.
+:::
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete this unit:
 
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
-- The articles in this unit can be found through the [TWU library](https://www.twu.ca/academics/library){target="_blank"}.
+-   **Textbook:** Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
+-   The articles in this unit can be found through the [TWU library](https://www.twu.ca/academics/library){target="_blank"}.
+-   Other resources will be provided online throughout this unit.
 
-# Quantitative Research
+## Quantitative Research
 
 The purpose of reviewing these materials is to become informed consumers of research, rather than to develop expertise as researchers. This unit gives a brief introduction to the quantitative and qualitative research methodologies.
 
-Plano-Clark and Creswell (2015) assert that quantitative and qualitative research approaches are suited to various kinds of research questions: a quantitative research approach is indicated when the research problem requires explanation**,** while a qualitative research approach is indicated when the research problem requires exploration**.**
+Plano-Clark and Creswell (2015) assert that quantitative and qualitative research approaches are suited to various kinds of research questions: a quantitative research approach is indicated when the research problem requires explanation, while a qualitative research approach is indicated when the research problem requires exploration.
 
 From a Christian perspective, becoming an informed consumer of research is deeply connected to the biblical call to seek truth, act justly, and serve others. Research is not merely a technical exercise or a pursuit of knowledge for its own sake; it is a means to align our actions and understanding with God’s purposes. Colossians 3:23 states, "Whatever you do, work heartily, as for the Lord and not for men," and reminds people that diligence and integrity in all tasks, including engaging with research, are forms of worship and service to God [@BibleNewInternational2011].
 
@@ -70,7 +69,7 @@ Leaders often face complex situations that require thoughtful decisions grounded
 
 Learning to evaluate research equips you to make well-informed choices, apply findings responsibly in your organization, and lead with integrity and confidence. This skill will support you throughout this course and in your leadership practice, particularly as you work toward completing your systematic literature review project.
 
-# Quantitative Methodology
+### Quantitative Methodology {.unnumbered}
 
 Leedy and Ormrod [-@leedyPracticalResearchPlanning2010] assert that quantitative research has three purposes: to explain and predict, to confirm and validate, and to test theory. Rosch et al [-@roschIntroductionResearchLeadership2023] stated quantitative research is a process of describing relationships with numbers: "The central presumption of quantitative research is that concepts can be represented by numbers" [@roschIntroductionResearchLeadership2023, p. 81].
 
@@ -80,9 +79,9 @@ Quantitative research aligns with the Christian commitment to stewardship and tr
 
 In summary, quantitative research is a vital approach in the study of leadership, offering a systematic way to collect and analyze data, test theories, and derive insights that can inform leadership practices and strategies. Through structured methodologies and statistical rigor, it provides a foundation for understanding complex relationships and informing decision-making.
 
-# Qualitative Research
+## Qualitative Research
 
-## Qualitative Methodology
+### Qualitative Methodology {.unnumbered}
 
 In contrast to quantitative research, qualitative research has three distinct purposes: to describe and explain, to explore and interpret, and to build theory [@leedyPracticalResearchPlanning2010]. These differing research purposes find expression in differing research processes, the kinds of data gathered, the approaches to data analysis, and finally in the ways findings are communicated.
 
@@ -98,15 +97,43 @@ In summary, qualitative research provides a rich and detailed understanding of h
 
 The differing designs of quantitative and qualitative research lead to marked differences in how data are analyzed. Quantitative data is approached primarily through deductive reasoning, employing statistical analyses applied to numerical data, with stress on objectivity. In contrast, qualitative data is approached primarily through inductive reasoning with the goal being to uncover themes and categories, with acknowledgement of potential researcher bias and subjectivity. Typically, quantitative research findings are reported in a formal, scientific style with full display of numbers and statistics, while qualitative research findings are typically reported in a narrative form [@leedyPracticalResearchPlanning2010]. Table 2.1 shows the similarities and difference between quantitative and qualitative research.
 
-**Table 2.1. Comparison of Quantitative and Qualitative Research Approaches**
+Table 2.1. Comparison of Quantitative and Qualitative Research Approaches
 
-<table> <colgroup> <col style="width: 18%" /> <col style="width: 40%" /> <col style="width: 40%" /> </colgroup> <thead> <tr class="header"> <th><blockquote> </blockquote></th> <th><blockquote> <strong>Quantitative</strong> </blockquote></th> <th><blockquote> <strong>Qualitative</strong> </blockquote></th> </tr> </thead> <tbody> <tr class="odd"> <td><blockquote> <strong>General framework</strong> </blockquote></td> <td><blockquote> Seek to confirm hypotheses about phenomena Instruments use more rigid style of eliciting and categorizing responses to questions Use highly structured methods such as questionnaires, surveys, and structured observation </blockquote></td> <td><blockquote> Seek to explore phenomena Instruments use more flexible, iterative style of eliciting and categorizing responses to questions Use semi-structured methods such as in-depth interviews, focus groups, and participant observation </blockquote></td> </tr> <tr class="even"> <td><blockquote> <strong>Analytical objectives</strong> </blockquote></td> <td><blockquote> To quantify variation To predict causal relationships To describe characteristics of a population </blockquote></td> <td><blockquote> To describe variation To describe and explain relationships To describe individual experiences To describe group norms </blockquote></td> </tr> <tr class="odd"> <td><blockquote> <strong>Question format</strong> </blockquote></td> <td><blockquote> Closed-ended </blockquote></td> <td><blockquote> Open-ended </blockquote></td> </tr> <tr class="even"> <td><blockquote> <strong>Data format</strong> </blockquote></td> <td><blockquote> Numerical (obtained by assigning numerical values to responses) </blockquote></td> <td><blockquote> Textual (obtained from visual artifacts, audiotapes, videotapes, and field notes) </blockquote></td> </tr> <tr class="odd"> <td><blockquote> <strong>Flexibility in study design</strong> </blockquote></td> <td><blockquote> Study design is stable from beginning to end Participant responses do not influence or determine how and which questions researchers ask next Study design is subject to statistical assumptions and conditions </blockquote></td> <td><blockquote> Some aspects of the study are flexible Participant responses affect how and which questions researchers ask next Study design is iterative; data collection and research questions are adjusted according to what is learned </blockquote></td> </tr> </tbody> </table>
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+|                                 | **Quantitative**                                                                                     | **Qualitative**                                                                                                 |
++=================================+======================================================================================================+=================================================================================================================+
+| **General framework**           | -   Seek to confirm hypotheses about phenomena                                                       | -   Seek to explore phenomena                                                                                   |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   Instruments use more rigid style of eliciting and categorizing responses to questions            | -   Instruments use more flexible, iterative style of eliciting and categorizing responses to questions         |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   Use highly structured methods such as questionnaires, surveys, and structured observation        | -   Use semi-structured methods such as in-depth interviews, focus groups, and participant observation          |
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Analytical objectives**       | -   To quantify variation                                                                            | -   To describe variation                                                                                       |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   To predict causal relationships                                                                  | -   To describe and explain relationships                                                                       |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   To describe characteristics of a population                                                      | -   To describe individual experiences                                                                          |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 |                                                                                                      | -   To describe group norms                                                                                     |
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Question format**             | Closed-ended                                                                                         | Open-ended                                                                                                      |
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Data format**                 | Numerical (obtained by assigning numerical values to responses)                                      | Textual (obtained from visual artifacts, audiotapes, videotapes, and field notes)                               |
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Flexibility in study design** | -   Study design is stable from beginning to end                                                     | -   Some aspects of the study are flexible                                                                      |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   Participant responses do not influence or determine how and which questions researchers ask next | -   Participant responses affect how and which questions researchers ask next                                   |
+|                                 |                                                                                                      |                                                                                                                 |
+|                                 | -   Study design is subject to statistical assumptions and conditions                                | -   Study design is iterative; data collection and research questions are adjusted according to what is learned |
++---------------------------------+------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 
-*Qualitative Research Methods: A Data Collector’s Field Guide* [@mackQualitativeResearchMethods2009]. [https://www.researchgate.net/publication/215666086_Qualitative_Research_Methods_A_Data_Collector’s_Field_Guide](https://www.researchgate.net/publication/215666086_Qualitative_Research_Methods_A_Data_Collector’s_Field_Guide){target="_blank"}
+::: text-source
+*Source:* [*Qualitative Research Methods: A Data Collector’s Field Guide*](https://www.researchgate.net/publication/215666086_Qualitative_Research_Methods_A_Data_Collector’s_Field_Guide){target="_blank"} [@mackQualitativeResearchMethods2009].
+:::
 
-# Mixed Methods Research
+## Mixed Methods Research
 
-## Mixed Methods Methodology
+### Mixed Methods Methodology {.unnumbered}
 
 Mixed methods research combines quantitative and qualitative approaches to provide a comprehensive understanding of complex phenomena. Rosch et al. [-@roschIntroductionResearchLeadership2023] describe mixed methods as a strategy that leverages the strengths of both methodologies, allowing researchers to explore questions from multiple perspectives.
 
@@ -118,58 +145,74 @@ Rosch et al. [-@roschIntroductionResearchLeadership2023] also highlight the impo
 
 In summary, mixed methods research is a powerful approach in leadership studies, facilitating a multifaceted exploration of issues and contributing to a richer understanding of organizational dynamics and human behavior.
 
-### Activity: Learning Activity
+### Activity: Comparing Research Approaches
 
+::: learning-activity
 📺 **Watch** the following videos:
 
-- "Qualitative & Quantitative Research – An Introduction" by [Tine Juhl](https://www.youtube.com/@TineJuhl){target="_blank"} [-@juhlQualitativeQuantitativeResearch2017].
+- "Qualitative & Quantitative Research – An Introduction" by Tine Juhl [-@juhlQualitativeQuantitativeResearch2017].
 
-> ![https://img.youtube.com/vi/RYmLE8UqCXU/0.jpg](assets/u2/image1.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/RYmLE8UqCXU >}}
+:::
 
-- "What is Mixed Methods Research?" by [Michigan Medicine](https://www.youtube.com/user/umhealthsystem/umhealthsystem){target="_blank"} [-@michiganmedicineWhatMixedMethods2023].
+- "What is Mixed Methods Research?" by Michigan Medicine.
 
-![https://img.youtube.com/vi/1OaNiTlpyX8/maxresdefault.jpg](assets/u2/image2.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/II_OoioL0-E >}}
+:::
 
 ✏️ **Reflect.** After reading the chapters assigned, write about the following in your Reflective Journal.
 
-- Discuss the differences between qualitative, quantitative, and mixed methods research reports.
-- What are the potential challenges for studying servant leadership using a quantitative research approach?
-- From a Christian perspective, how can your research serve others and reflect ethical stewardship of knowledge?
-- How might Indigenous approaches to relational inquiry (e.g., storytelling, community consultations) inform your understanding of qualitative research?
+-   Discuss the differences between qualitative, quantitative, and mixed methods research reports.
+-   What are the potential challenges for studying servant leadership using a quantitative research approach?
+-   From a Christian perspective, how can your research serve others and reflect ethical stewardship of knowledge?
+-   How might Indigenous approaches to relational inquiry (e.g., storytelling, community consultations) inform your understanding of qualitative research?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
+:::
 
 ### Activity: Identifying Research Methodologies in Practice
 
-1. Read the following three articles:
-    - **Qualitative Article:** Canavesi & Martini (2021) – [Spirituality and leader–follower relationships](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Canavesi%20SL%20Qualitative.pdf){target="_blank"}
-    - **Quantitative Article:** Murari & Gupta (2012) – [Impact of Servant Leadership on Employee Empowerment](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Gupta%20Quant.pdf){target="_blank"}
-    - **Mixed-Methods Article:** Kendall (2025) [– Exploring gameplay to support leadership skills in nursing](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Kendall%20mixed%20methods%20nursing.pdf){target="_blank"}
-2. Complete the chart below for each article. Be ready to explain how you determined the methodology used. [Click here for a Word template of the chart](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/New%20Support%20Documents/Unit%202%20ID%20types%20of%20research%20learning%20actvity%20chart.docx){target="_blank"}.
+::: learning-activity
+1.  Read the following three articles:
+    -   **Qualitative Article:** Canavesi & Martini (2021) – [Spirituality and leader–follower relationships](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Canavesi%20SL%20Qualitative.pdf){target="_blank"}
+    -   **Quantitative Article:** Murari & Gupta (2012) – [Impact of Servant Leadership on Employee Empowerment](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Gupta%20Quant.pdf){target="_blank"}
+    -   **Mixed-Methods Article:** Kendall (2025) [– Exploring gameplay to support leadership skills in nursing](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Kendall%20mixed%20methods%20nursing.pdf){target="_blank"}
+2.  Complete the chart below for each article. Be ready to explain how you determined the methodology used. [Click here for a Word template of the chart](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/New%20Support%20Documents/Unit%202%20ID%20types%20of%20research%20learning%20actvity%20chart.docx){target="_blank"}.
 
-#### Comparison Chart {.unnumbered}
+**Comparison Chart**
 
-| **Criteria** | **Canavesi & Martini (2021)** | **Murari & Gupta (2012)** | **Kendall (2025)** |
-|----------------------------------|---------------|-------------|----------|
-| **Research Purpose** | | | |
-| **Primary Data Collection Method(s)** | | | |
-| **Sample Size and Type** | | | |
-| **Data Analysis Approach** | | | |
-| **Language Cues (e.g., thematic, statistical)** | | | |
-| **Declared Methodology** | | | |
-| **Your Conclusion on Type of Study** (Qualitative / Quantitative / Mixed) | | | |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Criteria**                                                              | **Canavesi & Martini (2021)** | **Murari & Gupta (2012)** | **Kendall (2025)** |
++===========================================================================+===============================+===========================+====================+
+| **Research Purpose**                                                      |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Primary Data Collection Method(s)**                                     |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Sample Size and Type**                                                  |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Data Analysis Approach**                                                |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Language Cues (e.g., thematic, statistical)**                           |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Declared Methodology**                                                  |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
+| **Your Conclusion on Type of Study** (Qualitative / Quantitative / Mixed) |                               |                           |                    |
++---------------------------------------------------------------------------+-------------------------------+---------------------------+--------------------+
 
-#### Reflection Questions {.unnumbered}
+**Reflection Questions:**
 
-- What features helped you identify the methodology?
-- How do the strengths and limitations of each approach show up in the findings?
-- Which method would be most appropriate for your own research interests? Why?
+-   What features helped you identify the methodology?
+-   How do the strengths and limitations of each approach show up in the findings?
+-   Which method would be most appropriate for your own research interests? Why?
+:::
 
-# Literature Reviews vs Systematic Literature Reviews
+## Literature Reviews vs Systematic Literature Reviews
 
 Literature reviews serve as foundational tools for understanding the breadth and depth of existing research on a topic. They help scholars identify gaps in knowledge, establish a framework for future inquiry, and situate their work within broader academic conversations. This section explores traditional literature reviews, systematic literature reviews (SLRs), and scoping reviews, highlighting their differences and uses.
 
-## Literature Review
+### Literature Review {.unnumbered}
 
 Whether or not you realize it, you may have read literature reviews in your studies to date.
 
@@ -187,7 +230,7 @@ From a Christian perspective, engaging with literature reviews reflects the bibl
 
 Moreover, literature reviews can be understood as a form of storytelling, resonating with Indigenous methodologies that value relationality and interconnectedness [@battisteIndigenousKnowledgeFoundations2005; @menziesReflectionsResearchIndigenous2001]. For Indigenous scholars, storytelling is an essential practice for weaving together diverse knowledge sources, preserving their integrity, and situating them within a broader relational context. Traditional literature reviews parallel this practice by connecting past knowledge to current and future inquiry, ensuring that the voices and perspectives within the research are acknowledged and respected.
 
-## Systematic Literature Review
+### Systematic Literature Review {.unnumbered}
 
 While traditional literature reviews provide a flexible narrative overview, more structured approaches, such as systematic literature reviews (SLRs), emphasize rigor and reproducibility.
 
@@ -201,20 +244,27 @@ While both traditional literature reviews and SLRs aim to synthesize existing re
 
 Table 2.2 captures the key differences and similarities between literature reviews and systematic literature reviews. Additionally, [click here for a sample SLR](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/697/A%20Systematic%20Literature%20Review%20of%20Servant%20Leadership%20Theory%20in%20Organizational%20Contexts.pdf){target="_blank"}.
 
-**Table 2.2 Differences between Literature Reviews and SLRs**
+Table 2.2 Differences between Literature Reviews and SLRs
 
-| **Feature** | **Literature Review** | **Systematic Literature Review** |
-|------------|---------------------|---------------------------------------|
-| **Purpose** | Summarizes existing research | Provides a comprehensive and objective research synthesis |
-| **Methodology** | Narrative and subjective | Structured, reproducible, and systematic |
-| **Search Strategy** | May be selective and not exhaustive | Comprehensive and predefined search strategy |
-| **Inclusion Criteria** | Often vague or informal | Clearly defined and strictly applied |
-| **Data Analysis** | Qualitative and descriptive | Quantitative and qualitative synthesis |
-| **Bias** | Higher potential for bias | Minimizes bias through systematic protocols |
-| **Outcome** | Provides context and identifies trends | Aims to answer specific research questions with rigor |
-| **Reproducibility** | Difficult to replicate | Designed to be replicable |
-
-##
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Feature**            | **Literature Review**                  | **Systematic Literature Review**                          |
++========================+========================================+===========================================================+
+| **Purpose**            | Summarizes existing research           | Provides a comprehensive and objective research synthesis |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Methodology**        | Narrative and subjective               | Structured, reproducible, and systematic                  |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Search Strategy**    | May be selective and not exhaustive    | Comprehensive and predefined search strategy              |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Inclusion Criteria** | Often vague or informal                | Clearly defined and strictly applied                      |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Data Analysis**      | Qualitative and descriptive            | Quantitative and qualitative synthesis                    |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Bias**               | Higher potential for bias              | Minimizes bias through systematic protocols               |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Outcome**            | Provides context and identifies trends | Aims to answer specific research questions with rigor     |
++------------------------+----------------------------------------+-----------------------------------------------------------+
+| **Reproducibility**    | Difficult to replicate                 | Designed to be replicable                                 |
++------------------------+----------------------------------------+-----------------------------------------------------------+
 
 ## Scoping Review
 
@@ -224,42 +274,48 @@ More specifically, a scoping review is a distinct type of evidence synthesis met
 
 In summary, the goal of a scoping review is to:
 
-1. Understand the extent and type of research available on a topic.
-2. Determine the relevance of a topic by evaluating the volume and diversity of existing evidence.
-3. Identify trends, gaps, and areas for further study.
+1.  Understand the extent and type of research available on a topic.
+2.  Determine the relevance of a topic by evaluating the volume and diversity of existing evidence.
+3.  Identify trends, gaps, and areas for further study.
 
 Scoping reviews must be conducted early in your research, before finalizing your research question. Doing so is useful in identifying underexplored fields, where mapping the range and type of studies can clarify concepts, identify gaps, and guide future research directions.
 
 To ensure a transparent and reliable process, the following steps are critical when conducting a scoping review:
 
-1. **Identify the Research Question** The research question is the cornerstone of a scoping review. It should be broad enough to capture the diversity of literature on the topic, yet clearly defined to maintain focus and direction. Using sub-questions can help balance the breadth of inquiry while ensuring the depth of analysis [@sharmaHowWriteScoping2023].
-2. **Identify Relevant Studies** Develop a comprehensive search strategy that specifies databases, search terms, and other sources—such as organizational websites and key references. This step ensures that the review includes diverse and interdisciplinary perspectives, drawing from published and unpublished literature [@sharmaHowWriteScoping2023].
-3. **Select Studies** Screen studies based on predefined inclusion and exclusion criteria. This process typically involves reviewing titles, abstracts, and full texts to determine relevance, where necessary. Employing multiple reviewers and using a flow diagram, as recommended by the PRISMA-ScR (Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) guidelines, enhances transparency and reproducibility [@sharmaHowWriteScoping2023].
-4. **Chart the Data** Extract and organize key information from each study in a systematic format, such as a spreadsheet or database. Categories often include the author, publication year, study location, population, methodology, main findings, and limitations. This structured approach facilitates a clear overview of the evidence [@sharmaHowWriteScoping2023].
-5. **Collate, Summarize, and Report Results** Synthesize findings into a narrative or descriptive summary that highlights the relationships between the evidence and the review objectives. Visual representations, such as tables, charts, or diagrams, can further illustrate the distribution and characteristics of the included studies [@sharmaHowWriteScoping2023].
-6. **Consult Stakeholders (Optional)** Engage with stakeholders, such as experts or practitioners, to refine the research question, validate findings, or provide feedback. This step enhances the relevance and practical application of the review, particularly for interdisciplinary or applied topics [@sharmaHowWriteScoping2023].
+1.  **Identify the Research Question** The research question is the cornerstone of a scoping review. It should be broad enough to capture the diversity of literature on the topic, yet clearly defined to maintain focus and direction. Using sub-questions can help balance the breadth of inquiry while ensuring the depth of analysis [@sharmaHowWriteScoping2023].
+2.  **Identify Relevant Studies** Develop a comprehensive search strategy that specifies databases, search terms, and other sources—such as organizational websites and key references. This step ensures that the review includes diverse and interdisciplinary perspectives, drawing from published and unpublished literature [@sharmaHowWriteScoping2023].
+3.  **Select Studies** Screen studies based on predefined inclusion and exclusion criteria. This process typically involves reviewing titles, abstracts, and full texts to determine relevance, where necessary. Employing multiple reviewers and using a flow diagram, as recommended by the PRISMA-ScR (Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews) guidelines, enhances transparency and reproducibility [@sharmaHowWriteScoping2023].
+4.  **Chart the Data** Extract and organize key information from each study in a systematic format, such as a spreadsheet or database. Categories often include the author, publication year, study location, population, methodology, main findings, and limitations. This structured approach facilitates a clear overview of the evidence [@sharmaHowWriteScoping2023].
+5.  **Collate, Summarize, and Report Results** Synthesize findings into a narrative or descriptive summary that highlights the relationships between the evidence and the review objectives. Visual representations, such as tables, charts, or diagrams, can further illustrate the distribution and characteristics of the included studies [@sharmaHowWriteScoping2023].
+6.  **Consult Stakeholders (Optional)** Engage with stakeholders, such as experts or practitioners, to refine the research question, validate findings, or provide feedback. This step enhances the relevance and practical application of the review, particularly for interdisciplinary or applied topics [@sharmaHowWriteScoping2023].
 
 Scoping reviews provide a comprehensive and flexible method for understanding the scope and characteristics of available evidence, particularly in areas where research is heterogeneous or evolving. By following these structured steps, researchers ensure their findings are robust, transparent, and useful for informing future studies. [Click here for a sample scoping review.](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/TESOL%20Journal%20-%202025%20-%20Reinders%20-%20Conceptualizations%20of%20and%20Research%20on%20Language%20Teacher%20Leadership%20%20A%20Scoping%20Review.pdf){target="_blank"}
 
 This aligns with servant leadership principles by fostering informed decision-making that serves the greater good and prioritizes others’ needs. From a Christian perspective, the diligence and intentionality required in scoping reviews reflect the biblical call to seek truth and apply knowledge in ways that glorify God and benefit the community (Proverbs 3:13-14).
 
-### Activity: Learning Activity
+### Activity: Scoping vs. Systematic Review
 
-📺 **Watch** the following video "[Systematic vs. Scoping Review: What’s the Difference?](https://www.youtube.com/watch?app=desktop&si=jyp8a-827EYUC2HA&v=YVckIl8_ZCg&feature=youtu.be){target="_blank"}" by [Carrie Prices](https://www.youtube.com/@carrieprice78){target="_blank"} [-@priceSystematicVsScoping2021].
+:::: learning-activity
+📺 **Watch** the following video "Systematic vs. Scoping Review: What’s the Difference?" by Carrie Prices [-@priceSystematicVsScoping2021].
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/YVckIl8_ZCg >}}
+:::
 
 📖 **Read** Chapters 5-10 and 12 in Introduction to Research in Leadership [@roschIntroductionResearchLeadership2023].
 
 ✏️**Respond** to the following in your Reflective Journal:
 
-- Discuss the differences between literature reviews, scoping reviews, and systematic literature reviews.
+-   Discuss the differences between literature reviews, scoping reviews, and systematic literature reviews.
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
+::::
 
 ## Summary {.unnumbered}
 
 In conclusion, the exploration of quantitative, qualitative, and mixed methods research methodologies demonstrates the diverse approaches researchers can take to address complex questions. Quantitative research, with its emphasis on numerical analysis and structured methods, provides a systematic framework for uncovering patterns, validating theories, and explaining relationships [@leedyPracticalResearchPlanning2010; @roschIntroductionResearchLeadership2023]. This approach aligns with the Christian value of stewardship, emphasizing diligence and integrity in managing and interpreting data to serve the greater good.
 
-Conversely, qualitative research offers rich insights into human experiences and complex phenomena through methods like interviews and observations. This approach captures the nuances of leadership and group dynamics, resonating with Indigenous perspectives that value relationality, storytelling, and the interconnectedness of knowledge [@menziesReflectionsResearchIndigenous2001;@roschIntroductionResearchLeadership2023]. By prioritizing relationships and context, qualitative research fosters deeper understanding and reciprocity, ensuring that inquiry benefits both researchers and communities.
+Conversely, qualitative research offers rich insights into human experiences and complex phenomena through methods like interviews and observations. This approach captures the nuances of leadership and group dynamics, resonating with Indigenous perspectives that value relationality, storytelling, and the interconnectedness of knowledge [@menziesReflectionsResearchIndigenous2001; @roschIntroductionResearchLeadership2023]. By prioritizing relationships and context, qualitative research fosters deeper understanding and reciprocity, ensuring that inquiry benefits both researchers and communities.
 
 Mixed methods research integrates the strengths of both quantitative and qualitative approaches, offering a holistic view of multifaceted issues. This methodology reflects the Christian principle of seeking wisdom through multiple sources—Proverbs 15:22: "Plans fail for lack of counsel, but with many advisers, they succeed." By combining diverse perspectives, mixed methods research enhances the validity of findings and supports comprehensive decision-making in leadership contexts [@roschIntroductionResearchLeadership2023].
 
@@ -267,18 +323,18 @@ The unit also highlighted the essential roles of literature reviews, systematic 
 
 As you develop as a consumer of research, understanding these methodologies equips you to critically evaluate scholarly work, apply evidence-based practices, and contribute to informed leadership. By incorporating the principles of servant leadership, relational ethics, and the pursuit of truth, researchers can ensure their work serves the needs of their communities while advancing knowledge in meaningful and impactful ways.
 
-## Checking Your Learning {.unnumbered}
-
+::: check
 Now that you have completed the learning activities and assignments for this unit, check the list below to ensure you can do the following:
 
-1. Can you describe the differences between a quantitative, qualitative, and mixed methods research report?
-2. How can scoping reviews help researchers refine their research questions?
-3. What are the main characteristics that differentiate a traditional literature review from a systematic literature review?
-4. How does the methodological rigor of systematic literature reviews contribute to research transparency?
-5. How can the principles of servant leadership guide researchers in applying the findings of a scoping or systematic review to serve the needs of their communities?
-6. From a Christian or Indigenous perspective, how can respect for relationality and stewardship influence the way researchers approach literature reviews and evidence synthesis?
+1.  Can you describe the differences between a quantitative, qualitative, and mixed methods research report?
+2.  How can scoping reviews help researchers refine their research questions?
+3.  What are the main characteristics that differentiate a traditional literature review from a systematic literature review?
+4.  How does the methodological rigor of systematic literature reviews contribute to research transparency?
+5.  How can the principles of servant leadership guide researchers in applying the findings of a scoping or systematic review to serve the needs of their communities?
+6.  From a Christian or Indigenous perspective, how can respect for relationality and stewardship influence the way researchers approach literature reviews and evidence synthesis?
 
-**Review the unit topics more in depth as needed or continue to the next unit.**
+Review the unit topics more in depth as needed or continue to the next unit.
+:::
 
 ## References {.unnumbered}
 

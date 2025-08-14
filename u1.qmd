@@ -1,53 +1,45 @@
+# Introduction to Scholarly Inquiry 
+
 ## Overview {.unnumbered}
 
 Unit 1 will provide you with a general introduction to inquiry, familiarizing you with foundational concepts related to scholarly inquiry. This unit will focus on the philosophical foundations of research, the connection between leadership and scholarly inquiry, and what evidence-based leadership looks like. By the end of the unit, you will understand the importance of research and begin to evaluate the decision-making processes that you utilize in your professional life.
 
 ### Topics {.unnumbered}
 
-Unit 1 is divided into four topics. See the [**Unit 1 Topics**](https://learn.twu.ca/mod/book/view.php?id=1171448){target="_blank"} link at the bottom of this page for the course notes on the following topics:
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[**Unit 1 Topics**](https://learn.twu.ca/mod/book/view.php?id=1171448)
--->
 1. What is Scholarly Inquiry?
 2. Leadership and Scholarly Inquiry
 3. Philosophical Foundations of Research
-4. Unit Summary
 
-## Unit Outcomes
+### Unit Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 1. Distinguish between informal research and scholarly inquiry.
 2. Reflect on why evidence-based decision making is important for leadership.
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
 Here is a list of learning activities you will benefit from in completing this unit. You may find it useful for planning your work:
 
-1. Read Chapters 1 and 2 in *Introduction to Research in Leadership* (Rosch et al., 2023).
-2. Reflective Journalling activities.
+::: {.learning-activity}
+
+- Read Chapters 1 and 2 in *Introduction to Research in Leadership* (Rosch et al., 2023).
+- Reflective Journalling activities.
+
+:::
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete the unit:
 
-### Text {.unnumbered}
-
-- Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
-
-### E-Resources {.unnumbered}
-
-The following articles can be found through the [TWU library](https://www.twu.ca/academics/library){target="_blank"}:
-
+- **Textbook:** Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
 - Brown, M. E., & Dueñas, A. N. [-@brownMedicalScienceEducators2020]. A medical science educator’s guide to selecting a research paradigm: Building a basis for better research. *Medical Science Educator, 30*, 545–53. [https://doi.org/10.1007/s40670-019-00898-9](https://doi.org/10.1007/s40670-019-00898-9){target="_blank"}
 - Wallace, J. R. [-@wallaceServantLeadershipWorldview2007]. Servant leadership: A worldview perspective. *International Journal of Leadership Studies*, *2*(2), 114-32. [https://www.psychodramaaustralia.edu.au/sites/default/files/serveant_leadership\_-\_worldview.pdf](https://www.psychodramaaustralia.edu.au/sites/default/files/serveant_leadership_-_worldview.pdf){target="_blank"}
+- Other resources will be provided online throughout this unit.
 
-**Note:** All other resources will be provided online.
-
-# What is Scholarly Inquiry?
+## What is Scholarly Inquiry?
 
 Inquiry is "the process of developing skills to arrive at understandings of a problem, an issue, or a phenomenon, through the process of asking good questions, searching out good evidence, and arriving at well-reasoned conclusions" [@pennerINQUIRY1SS3Inquiry2017].
 
@@ -57,13 +49,17 @@ Indigenous (Canada’s First Peoples) knowledge systems offer a complementary pe
 
 For example, when Indigenous scholars ask questions, they often consider their impact on future generations and the environment. This approach enriches traditional inquiry by integrating ethical considerations into the process of evidence-gathering and analysis.
 
-### Activity: Learning Activity
+### Activity: Exploring Research as Inquiry
+
+::: {.learning-activity}
 
 According to Plano-Clark and Creswell [-@clarkUnderstandingResearchConsumers2014], "research is a process of steps used to collect and analyze information in order to increase our knowledge about a topic or an issue" (p.4) and it is different than informal research.
 
-📺 **Watch** the following video "Research as Inquiry" from [Bertrand Library at Bucknell University](https://www.youtube.com/@BertrandLibrary){target="_blank"} [-@bertrandlibraryatbucknelluniversityResearchInquiry2023] that gives an overview of research as inquiry:
+📺 **Watch** the following video "Research as Inquiry" from Bertrand Library at Bucknell University [-@bertrandlibraryatbucknelluniversityResearchInquiry2023] that gives an overview of research as inquiry:
 
-![https://img.youtube.com/vi/ufAJV76HW6g/0.jpg](assets/u1/image1.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/ufAJV76HW6g >}}
+:::
 
 📖 **Read** Chapters 1 and 2 in in *Introduction to Research in Leadership* [@roschIntroductionResearchLeadership2023].
 
@@ -79,11 +75,11 @@ Next, write about the following in your Reflective Journal:
 - How might relational approaches to inquiry change the way you frame research questions?
 - How can integrating ethical considerations into research contribute to leadership practices?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
 
-###
+:::
 
-# Leadership and Scholarly Inquiry {.unnumbered}
+## Leadership and Scholarly Inquiry
 
 On what basis are sound decisions made? What evidence do leaders rely upon for best outcomes? The need to evaluate evidence for best practices in leadership decision-making is widely acknowledged. Patton [-@pattonQualitativeResearchEvaluation2002] observes that "the emphasis on knowledge generation disseminated in the form of best practices has swept like wildfire through all sectors of society" (p. 329).
 
@@ -99,7 +95,7 @@ Consider the following passage from Luke, a physician trained in empirical metho
 
 How does the research process differ from managerial activities such as decision-making and problem solving? Research shares with decision-making and problem-solving the systematic and disciplined procedure of identifying an issue or problem, deciding on an approach, formulating a plan, collecting and analyzing data, drawing conclusions, and implementing decisions based on this rigorous process. What distinguishes research from generic or everyday problem solving is its commitment to advance or generate knowledge that typically will be communicated to the larger academic or scientific community. Since the beginning of the 21st century, there has been remarkable growth in the foundations of research and research methodologies across the natural, applied, and social sciences, as well as the humanities.
 
-## Boyer’s Model of Scholarship
+### Boyer’s Model of Scholarship {.unnumbered}
 
 The MA in Leadership program is focused on applied scholarship. In defining this, Boyer’s four-part Model of Scholarship (1997, as cited in @nibertBoyersModelScholarship) is useful. Boyer’s typology identifies four domains of scholarship: discovery, integration, application, and teaching. Marta Nibert [-@nibertBoyersModelScholarship] discusses the model in her paper titled "Boyer’s Model of Scholarship."
 
@@ -129,23 +125,27 @@ Finally, the Scholarship of Teaching is "the scholarship of sharing knowledge" [
 
 Boshier contends that Boyer’s four domains were conceived holistically as elements that overlap and interact, not as discrete elements, appearing in any predictable order, and are better viewed as an operating system than a list of discrete elements [@boshierWhyScholarshipTeaching2009, pp. 4-5]. As such, it is helpful to view the model as a Venn diagram where each scholarship domain overlaps (see Figure 1).
 
-**Figure 1**
+::: {#fig-image}
+![](assets/u1/figure1.png){#fig-u1_1 .lightbox fig-alt="This figure demonstrates how the four domains of Boyer’s Model of Scholarship overlap and interact to create a holistic system of scholarship." width="500"}
 
 Boyer’s Model of Scholarship
-
-*Note:* This figure demonstrates how the four domains of Boyer’s Model of Scholarship overlap and interact to create a holistic system of scholarship.
+:::
 
 LDRS 591 is designed to help you understand types of research, identify a research topic, develop a research question, and decide whether you will pursue a thesis track in your MA Leadership studies. Should you choose the thesis track, you will engage in Scholarship of Discovery, meaning you will conduct primary research.
 
-**Note:** Choosing the thesis track requires approval from the Department of Leadership Program Director.
+*Note:* Choosing the thesis track requires approval from the Department of Leadership Program Director.
 
 Most program students choose the capstone track, in which they conduct secondary research.
 
-### Activity: Learning Activity
+### Activity: Applying Research to Leadership Decisions
 
-📺 **Watch** the following video "Introduction to Research Design" from [Research & Doctoral Services at Walden University](https://www.youtube.com/@researchdoctoralse4565){target="_blank"} [-@waldenuniversityIntroductionResearchDesign2015] where Dr. Patton introduces the concept of research as a scholar-practitioner:
+::: {.learning-activity}
 
-![https://img.youtube.com/vi/GYywR7SA03E/maxresdefault.jpg](assets/u1/image2.jpeg)
+📺 **Watch** the following video "Introduction to Research Design" from Research & Doctoral Services at Walden University [-@waldenuniversityIntroductionResearchDesign2015] where Dr. Patton introduces the concept of research as a scholar-practitioner:
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/GYywR7SA03E >}}
+:::
 
 ✏️ **Respond** to the following in your Reflective Journal:
 
@@ -154,9 +154,11 @@ Most program students choose the capstone track, in which they conduct secondary
 - What do you consider as "evidence" in your decision making?
 - In your own words, why is evidence-based decision-making important in leadership?
 
-**Note:** your Journal is not graded but will help you in your assessment for this unit.
+*Note:* your Journal is not graded but will help you in your assessment for this unit.
 
-# Philosophical Foundations of Research
+:::
+
+## Philosophical Foundations of Research
 
 A professor once observed that a fundamental attribute of being human is the tendency to ask questions. Humanity is especially interested in three fundamental questions:
 
@@ -168,9 +170,11 @@ The philosophical category of metaphysics is concerned with what is real, and wh
 
 Every person bases their own thoughts, decisions, and actions on what is called a worldview. A worldview is "an interpretive framework through which one makes sense of themselves, other people, and the world around them" [@geislerWorldsApartHandbook2003]. It is like a pair of glasses that you wear when you are observing things about yourself, other people, and the world in which you live.
 
-📺 **Watch** the following short video "What’s Your Worldview? (Quiz)" by the [Impact 360 Institute](https://www.youtube.com/@Impact360instituteOrg){target="_blank"} [-@impact360instituteWhatsYourWorldview2014] that explains the concept of worldview:
+📺 **Watch** the following short video "What’s Your Worldview? (Quiz)" by the Impact 360 Institute [-@impact360instituteWhatsYourWorldview2014] that explains the concept of worldview:
 
-![https://img.youtube.com/vi/VXnSE0uvwzM/maxresdefault.jpg](assets/u1/image3.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/VXnSE0uvwzM >}}
+:::
 
 A discussion about worldview, or your perspective, is foundational to what you want to accomplish in this course.
 
@@ -181,15 +185,21 @@ Throughout this course you will continuously consider:
 
 Each person has a preference for obtaining truth or a framework for understanding ourselves, others, and the world, and personal preferences abound. Researchers and consumers of research approach knowledge, learning, and life with a particular perspective. Understanding that perspective is essential before beginning the research journey and is especially important in leadership roles.
 
-Figure 1. Research Paradigms [@brownMedicalScienceEducators2020]
+::: {#fig-image}
+![](assets/u1/image4.gif){.lightbox}
 
-![](assets/u1/image4.gif)
+Research Paradigms
+:::
 
-**Source**: [https://link.springer.com/article/10.1007/s40670-019-00898-9](https://link.springer.com/article/10.1007/s40670-019-00898-9){target="_blank"}
+::: text-source
+*Source*: [https://link.springer.com/article/10.1007/s40670-019-00898-9](https://link.springer.com/article/10.1007/s40670-019-00898-9){target="_blank"} [@brownMedicalScienceEducators2020]
+:::
 
-📺 **Watch** the following helpful video "Ontology, Epistemology, Methodology and Methods in Research Simplified!" by [Laura Killam](https://www.youtube.com/@NurseKillam){target="_blank"} [-@nursekillamOntologyEpistemologyMethodology2015] that explains Paradigms, Ontology and Epistemology:
+📺 **Watch** the following helpful video "Ontology, Epistemology, Methodology and Methods in Research Simplified!" by Laura Killam [-@nursekillamOntologyEpistemologyMethodology2015] that explains Paradigms, Ontology and Epistemology:
 
-![https://img.youtube.com/vi/hCOsY5rkRs8/maxresdefault.jpg](assets/u1/image5.jpeg)
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/hCOsY5rkRs8 >}}
+:::
 
 It is important to be aware of your worldview before you enter the research journey because it will inform the types of questions that you ask and the processes that you use to find the answers to your questions.
 
@@ -207,13 +217,17 @@ Another example of a worldview is an Indigenous worldview, which grounds reality
 
 As Menzies [-@menziesReflectionsResearchIndigenous2001] explains, incorporating Indigenous perspectives into research requires rethinking the researcher’s role, emphasizing reciprocity, mutual respect, and the co-creation of knowledge with the communities involved.
 
-**Note:** It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around you—your worldview—influences how you approach all of life, including how you approach research and how you use research to inform your decision-making process.
+*Note:* It is beyond the purpose of this course to go deeper into this topic other than to make the point that our way of knowing and understanding the world around you—your worldview—influences how you approach all of life, including how you approach research and how you use research to inform your decision-making process.
 
-### Activity: Learning Activity
+### Activity: Exploring Your Worldview
 
-📺 **Watch** the following video where [Gary Gramenz](https://www.youtube.com/@garygramenz){target="_blank"} [-@gramenzPhilosophicalFoundationsResearch2013] explains "Philosophical Foundations for Research Methodology":
+::: {.learning-activity}
 
-![https://img.youtube.com/vi/j758XBXD4r4/maxresdefault.jpg](assets/u1/image6.jpeg)
+📺 **Watch** the following video where Gary Gramenz [-@gramenzPhilosophicalFoundationsResearch2013] explains "Philosophical Foundations for Research Methodology":
+
+::: video-container
+{{< video https://www.youtube-nocookie.com/embed/j758XBXD4r4 >}}
+:::
 
 📖 **Read** "[Servant Leadership: A Worldview Perspective](https://www.regent.edu/acad/global/publications/ijls/new/vol2iss2/Wallace/WallaceV2Is2.pdf){target="_blank"}" [@wallaceServantLeadershipWorldview2007].
 
@@ -228,13 +242,15 @@ As Menzies [-@menziesReflectionsResearchIndigenous2001] explains, incorporating 
 - How do you think knowledge is acquired?
 - Based on the Brown and Duenas article, what research paradigm resonates with you the most? (i.e., positivist, post-positivist, social constructivist, critical theory). Why does it resonate with you?
 
-**Note:** your Journal is not graded but will help you in your assessment for this unit.
+*Note:* your Journal is not graded but will help you in your assessment for this unit.
+
+:::
 
 ## Summary {.unnumbered}
 
 In this unit you learned about what scholarly inquiry is, how to become a scholarship practitioner, and what a worldview is. You also learned about the importance of scholarly inquiry for leadership, the implications of evidence-based decision making for leaders. In Unit 2, you will learn about types of scholarly research.
 
-## Checking Your Learning {.unnumbered}
+::: check
 
 Now that you completed the learning activities and assignments for this unit, check the list below to ensure you can do the following:
 
@@ -243,6 +259,8 @@ Now that you completed the learning activities and assignments for this unit, ch
 3. Reflect on why evidence-based decision making is important for leadership?
 
 Review the unit topics more in depth as needed or continue to the next unit.
+
+:::
 
 ## References {.unnumbered}
 <!-- 

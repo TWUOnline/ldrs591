@@ -1,3 +1,5 @@
+# Bringing It All Together
+
 ## Overview {.unnumbered}
 
 So, I turned my mind to understand, to investigate and to search out wisdom… (Ecclesiastes 7:25).
@@ -10,20 +12,15 @@ Now, as you conclude LDRS 591, you will synthesize what you have learned and app
 
 ### Topics {.unnumbered}
 
-This unit is divided into three topics. See the [**Unit 6 Topics**](https://learn.twu.ca/mod/book/view.php?id=1171452){target="_blank"} link at the bottom of this page for the course notes on these topics.
+This unit is divided into the following topics:
 
-<!-- !!!
-The Moodle link above needs to be replaced.
-
-[**Unit 6 Topics**](https://learn.twu.ca/mod/book/view.php?id=1171452)
--->
 1. Understanding the Ethical Responsibilities of Leadership Research
 2. Connecting Research Questions to Leadership Practice
 3. Writing a Letter of Intent to Propose a Capstone or Thesis Project
 
-## Unit Outcomes
+### Unit Learning Outcomes {.unnumbered}
 
-When you have completed this unit, you should be able to:
+When you have completed this unit, you will be able to:
 
 1. Explain the ethical responsibilities of conducting leadership research, including Christian and Indigenous perspectives on knowledge, accountability, and stewardship.
 2. Connect a research question to real-world leadership practice, identifying its relevance to your professional context and leadership goals.
@@ -31,20 +28,25 @@ When you have completed this unit, you should be able to:
 4. Reflect on how evidence-based research informs ethical leadership decision-making and contributes to positive organizational and societal change.
 5. Synthesize your research journey by articulating how your question, literature review, and leadership context inform your proposed study direction.
 
-## Learning Activities
+### Learning Activities {.unnumbered}
 
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-1. Reflecting on your Scholarly Inquiry Journey
-2. Drafting Your Letter of Intent
+::: {.learning-activity}
+
+- Reflecting on your Scholarly Inquiry Journey
+- Drafting Your Letter of Intent
+
+:::
 
 ### Resources {.unnumbered}
 
 Here are the resources you will need to complete the unit:
 
-Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
+- **Textbook:** Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. [-@roschIntroductionResearchLeadership2023]. *Introduction to research in leadership*. Information Age Publishing.
+- Other resources will be provided online throughout this unit.
 
-# Understanding the Ethical Responsibilities of Leadership Research
+## Understanding the Ethical Responsibilities of Leadership Research
 
 Leadership research is not conducted in a vacuum; it occurs within real communities, organizations, and systems, and it often influences policies, practices, and people. For this reason, ethical responsibility is central to scholarly inquiry in leadership studies. Researchers are not only accountable for methodological rigor but also for the social, cultural, and relational impacts of their work.
 
@@ -56,7 +58,7 @@ Indigenous perspectives also enrich our understanding of research ethics. Indige
 
 In the context of the MA in Leadership, understanding these ethical responsibilities will guide your decisions as you design your research question, choose your sources, and determine how to represent and apply knowledge. Whether you pursue a capstone or thesis track, your research should demonstrate integrity, cultural awareness, and a commitment to the common good.
 
-# Connecting Research Questions to Leadership Practice
+## Connecting Research Questions to Leadership Practice
 
 In earlier units, you explored how research questions emerge from real-world leadership challenges and are shaped by the needs of organizations, communities, and broader systems. You learned how to refine your topic by conducting a scoping review, ensuring your question is grounded in both the literature and relevant leadership contexts.
 
@@ -78,20 +80,26 @@ In addition to connecting your research question to leadership practice, your LO
 
 A well-crafted LOI demonstrates that you are ready to engage in graduate-level inquiry with purpose, focus, and ethical responsibility. It should be clear, concise, and grounded in both scholarly literature and practical relevance.
 
-### Activity: Learning Activity: Reflecting on your Scholarly Inquiry Journey
+### Activity: Reflecting on your Scholarly Inquiry Journey
+
+::: learning-activity
 
 ✏️ **Reflect.** As a final entry in your Reflective Journal, complete the following:
 
 1. As you prepare to write your Letter of Intent, consider what you have learned in this course and write a reflection explaining why you think evidence-based decision making is important for the servant leader.
 2. How will you use scholarly evidence in your leadership practice moving forward?
 
-**Note:** Your Journal is not graded but will help you in your assessment for this unit.
+*Note:* Your Journal is not graded but will help you in your assessment for this unit.
+
+:::
 
 ### Activity: Learning Activity: Drafting Your Letter of Intent
 
+::: learning-activity
+
 This activity is designed to guide you in preparing a thoughtful and well-structured Letter of Intent for your capstone (Systematic Literature Review) or thesis project in the MA in Leadership program.
 
-## Step 1: Reflect on Your Research Journey
+**Step 1: Reflect on Your Research Journey**
 
 In your journal or notes, respond to the following reflection prompts:
 
@@ -100,7 +108,7 @@ In your journal or notes, respond to the following reflection prompts:
 - What did you learn about the existing literature, and what gaps still remain?
 - Why does this topic matter to you personally or professionally?
 
-#### Step 2: Connect Your Research to Leadership Practice {.unnumbered}
+**Step 2: Connect Your Research to Leadership Practice**
 
 Write a brief paragraph (5–7 sentences) explaining how your research question connects to a real leadership issue in your context (e.g., workplace, sector, or community). Consider how your research could:
 
@@ -109,7 +117,7 @@ Write a brief paragraph (5–7 sentences) explaining how your research question 
 - Address a challenge in policy or practice
 - Advance equity, ethics, or servant leadership
 
-#### Step 3: Identify Your Future Goals {.unnumbered}
+**Step 3: Identify Your Future Goals**
 
 Write a short paragraph describing how your proposed capstone or thesis aligns with your future leadership goals. Reflect on:
 
@@ -117,7 +125,7 @@ Write a short paragraph describing how your proposed capstone or thesis aligns w
 - How your research will contribute to your professional growth
 - What outcomes or impact you hope your work will have
 
-#### Step 4: Outline Your Letter of Intent {.unnumbered}
+**Step 4: Outline Your Letter of Intent**
 
 A LOI is a one page document, so it is important your writing is clear, direct, and concise. Using the following structure, create a one-page outline or draft:
 
@@ -127,11 +135,13 @@ A LOI is a one page document, so it is important your writing is clear, direct, 
 4. **Research Track and Rationale** Indicate whether you plan to pursue a capstone or thesis and why this track is best suited to your learning goals.
 5. **Leadership and Career Goals** Connect your research to your personal development as a leader and future aspirations.
 
-**Remember to always include in-text citations following APA 7.**
+*Note:* Remember to always include in-text citations following APA 7.
 
-#### Optional {.unnumbered}
+**Optional**
 
 Exchange drafts with a peer and give each other constructive feedback based on the outline above. Focus on clarity, relevance to leadership, and alignment with graduate-level writing expectations.
+
+:::
 
 ## Summary {.unnumbered}
 
@@ -141,7 +151,7 @@ By completing this unit, you have demonstrated that you are ready to begin your 
 
 As you move forward, may your research journey be marked by wisdom, humility, and a commitment to the flourishing of others. Remember, research is not simply an academic exercise, but a form of leadership practice that can shape lives, communities, and systems. You are ready. Step forward with confidence.
 
-## Checking Your Learning {.unnumbered}
+::: check
 
 Before completing this unit, ask yourself the following questions:
 
@@ -153,6 +163,8 @@ Before completing this unit, ask yourself the following questions:
 6. Do I understand how evidence-based research contributes to ethical decision-making and servant leadership in practice?
 
 If you answered "no" or are unsure about any of these, revisit the unit resources, activities, or your journal reflections before finalizing your Letter of Intent.
+
+:::
 
 ## References {.unnumbered}
 
@@ -167,4 +179,4 @@ Rosch, D. M., Kniffin, L. E., & Guthrie, K. L. (2023). *Introduction to research
 Wilson, S. (2008). *Research is ceremony: Indigenous research methods*. Fernwood Publishing.
 
 The Bible. (2011). *New International Version*. Zondervan. (Original work published ca. 600 BCE).
-**Note:** For Ecclesiastes 7:25 and Proverbs 2:9–10. -->
+*Note:* For Ecclesiastes 7:25 and Proverbs 2:9–10. -->

@@ -61,7 +61,7 @@ This paragraph gives readers a sense of what’s coming. For example,
 
 The question this review of literature addressed was, [XXXX]. This review of literature highlighted XX distinct themes including, a) XX, b) XX, and c) XX.
 
-**Note:** *Remind your reader about your research question. Then give them an introduction to the themes you will be exploring.*
+*Note:* *Remind your reader about your research question. Then give them an introduction to the themes you will be exploring.*
 
 **Writing a Concluding Paragraph**
 
