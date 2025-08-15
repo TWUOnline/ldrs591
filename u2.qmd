@@ -156,7 +156,7 @@ In summary, mixed methods research is a powerful approach in leadership studies,
 {{< video https://www.youtube-nocookie.com/embed/RYmLE8UqCXU >}}
 :::
 
-- "What is Mixed Methods Research?" by Michigan Medicine.
+- "What is Mixed Methods Research?" by Michigan Medicine [-@michiganmedicineWhatMixedMethods2023].
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/II_OoioL0-E >}}
@@ -176,9 +176,9 @@ In summary, mixed methods research is a powerful approach in leadership studies,
 
 ::: learning-activity
 1.  Read the following three articles:
-    -   **Qualitative Article:** Canavesi & Martini (2021) – [Spirituality and leader–follower relationships](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Canavesi%20SL%20Qualitative.pdf){target="_blank"}
-    -   **Quantitative Article:** Murari & Gupta (2012) – [Impact of Servant Leadership on Employee Empowerment](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Gupta%20Quant.pdf){target="_blank"}
-    -   **Mixed-Methods Article:** Kendall (2025) [– Exploring gameplay to support leadership skills in nursing](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Kendall%20mixed%20methods%20nursing.pdf){target="_blank"}
+    -   **Qualitative Article:** Canavesi & Martini [-@canavesiSpiritualityLeaderfollowerRelationships2021] – [Spirituality and leader–follower relationships](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Canavesi%20SL%20Qualitative.pdf){target="_blank"}
+    -   **Quantitative Article:** Murari & Gupta [-@murariImpactServantLeadership2012] – [Impact of Servant Leadership on Employee Empowerment](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Gupta%20Quant.pdf){target="_blank"}
+    -   **Mixed-Methods Article:** Kendall [-@kendallExploringGameplaySupport2025] [– Exploring gameplay to support leadership skills in nursing](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/Articles/Kendall%20mixed%20methods%20nursing.pdf){target="_blank"}
 2.  Complete the chart below for each article. Be ready to explain how you determined the methodology used. [Click here for a Word template of the chart](https://mytwu-my.sharepoint.com/personal/jodi_mcbride_twu_ca/Documents/Documents/591%20Curriculum%20Revision/New%20Support%20Documents/Unit%202%20ID%20types%20of%20research%20learning%20actvity%20chart.docx){target="_blank"}.
 
 **Comparison Chart**

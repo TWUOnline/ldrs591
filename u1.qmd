@@ -132,7 +132,7 @@ Boyer’s Model of Scholarship
 :::
 
 ::: text-source
-*Source:* Adapted from Nibert, M. (n.d.). *Boyer’s model of scholarship.* Expectations of Faculty in Higher Education.
+*Source:* Adapted from Nibert, M. [-@nibertBoyersModelScholarship]. *Boyer’s model of scholarship.* Expectations of Faculty in Higher Education.
 :::
 
 LDRS 591 is designed to help you understand types of research, identify a research topic, develop a research question, and decide whether you will pursue a thesis track in your MA Leadership studies. Should you choose the thesis track, you will engage in Scholarship of Discovery, meaning you will conduct primary research.

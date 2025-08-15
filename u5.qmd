@@ -126,7 +126,7 @@ Respond to following questions in your Reflective Journal to help you assess the
 
 ::: learning-activity
 
-**Watch** "How to Write a Research Question for Your Literature Review" (Hall, 2019):
+**Watch** "How to Write a Research Question for Your Literature Review" [@hallHowWriteResearch2019]:
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/65L-kq6jVjc >}}

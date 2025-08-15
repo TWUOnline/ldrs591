@@ -53,19 +53,19 @@ Once you begin locating research it is important to organize your files. For exa
 
 Indigenous knowledge systems offer valuable perspectives on leadership, community building, and relational ways of knowing. Accessing literature from an Indigenous perspective involves recognizing oral histories, community storytelling, and collective wisdom as valid and respected sources of knowledge. These forms of knowledge may not always appear in traditional scholarly journals or academic databases.
 
-In many cases, Indigenous research may be classified as *grey literature*. Grey literature refers to materials produced outside of traditional academic publishing and commercial distribution channels (Cherry et al., 2024). It includes sources such as reports, policy documents, government publications, white papers, working papers, conference presentations, newsletters, and community plans. Grey literature is often created by organizations that work directly with communities, such as Indigenous organizations, non-governmental organizations, and government agencies, to document programs, share findings, and preserve knowledge for practical use or wider distribution. Because it is not subject to the lengthy processes of academic publishing, grey literature is often more current and directly connected to community priorities and emerging issues.
+In many cases, Indigenous research may be classified as *grey literature*. Grey literature refers to materials produced outside of traditional academic publishing and commercial distribution channels [@cherryDoingSystematicReview2023]. It includes sources such as reports, policy documents, government publications, white papers, working papers, conference presentations, newsletters, and community plans. Grey literature is often created by organizations that work directly with communities, such as Indigenous organizations, non-governmental organizations, and government agencies, to document programs, share findings, and preserve knowledge for practical use or wider distribution. Because it is not subject to the lengthy processes of academic publishing, grey literature is often more current and directly connected to community priorities and emerging issues.
 
 When conducting research from an Indigenous perspective, it is important to include these types of sources. Consider exploring materials authored by Indigenous scholars, Elders, or organizations, and reflect on how traditional knowledge and community-based wisdom align with your research goals.
 
 ### Genres of Scholarly Literature {.unnumbered}
 
-Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent in each. There are three distinct categories of documents where you can find research reports: books, journal articles, and grey literature as described above (Cherry et al., 2024).
+Part of your planning and organizing is to recognize various genres of scholarly literature and to be aware of the limitations inherent in each. There are three distinct categories of documents where you can find research reports: books, journal articles, and grey literature as described above [@cherryDoingSystematicReview2023].
 
 You will often see this sequence followed: A research project is completed, and the research is first published in a Master’s thesis, PhD dissertation, or as a paper in a symposium or conference.
 
 The research report is then submitted to a professional journal for publication and eventually it is incorporated into a book. By the time a dissertation is successfully defended, the actual research may have been conducted two to three years prior. It could easily take another three years for a journal article to make it through the peer-review process and be published. Therefore, the research referenced in the final published journal article could be at least five years old. It could easily take another five years for high quality publishers to work through their review processes and publish something in a book, taking away from the currency of the information.
 
-Table 4.1 below summarizes the relative advantages and disadvantages of each genre of scholarly literature. See Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024) for more details about types of evidence available to you:
+Table 4.1 below summarizes the relative advantages and disadvantages of each genre of scholarly literature. See Chapter 5 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023] for more details about types of evidence available to you:
 
 **Table 4.1 Advantages and Disadvantages of Scholarly Literature Genres**
 
@@ -188,7 +188,7 @@ If you are having difficulty finding research articles and books on your topic, 
 
 ::: learning-activity
 
-**Read** Chapter 5 in *Doing a Systematic Review: A Student’s Guide* (Cherry et al., 2024).
+**Read** Chapter 5 in *Doing a Systematic Review: A Student’s Guide* [@cherryDoingSystematicReview2023].
 
 Go to the [TWU Library](https://libguides.twu.ca/library_research/home){target="_blank"} and click "How to Develop Research Skills." Begin by watching all the video tutorials under the section "Upgrading Your Research Skills." There are several short videos in this section on Boolean searches, search history, and other search techniques.
 
@@ -212,7 +212,7 @@ As an MA Leadership student and a professional, it is imperative that you critic
 
 However, not all research is equally trustworthy. If that study was based on a small group from a single department, while a broader study involving several organizations found that structure and routine were more beneficial for engagement, then relying on the smaller study could lead to poor outcomes. This is why the ability to assess the reliability, context, and methodology of research is essential; it ensures you are making informed, ethical, and effective leadership decisions grounded in credible evidence.
 
-This critical lens not only helps leaders evaluate the quality of individual studies, but also encourages them to consider the broader implications of how knowledge is produced and applied. Rosch et al. (2023) define a "critical scholar" as someone who approaches research with a reflective, questioning mindset. Critical scholars challenge conventional wisdom, dominant power structures, and widely accepted norms within their field, often focusing on issues related to justice, equity, and the broader societal impacts of research. They do not take data or theories at face value but analyze how they are constructed, who benefits from them, and who might be marginalized by them.
+This critical lens not only helps leaders evaluate the quality of individual studies, but also encourages them to consider the broader implications of how knowledge is produced and applied. Rosch et al. [-@roschIntroductionResearchLeadership2023] define a "critical scholar" as someone who approaches research with a reflective, questioning mindset. Critical scholars challenge conventional wisdom, dominant power structures, and widely accepted norms within their field, often focusing on issues related to justice, equity, and the broader societal impacts of research. They do not take data or theories at face value but analyze how they are constructed, who benefits from them, and who might be marginalized by them.
 
 A critical scholar applies a high level of intellectual rigor to their work by asking deep questions and interrogating the assumptions, power dynamics, and social structures underpinning research. Rigor in this context refers to the critical scholar’s commitment to challenging the status quo and conducting research that holds up to scrutiny, methodologically and ethically. A critical scholar applies a high level of intellectual rigor to their work by asking deep questions and interrogating the assumptions, power dynamics, and social structures underpinning research. Rigor, in this context, means more than following proper methodology. It involves evaluating who is represented in a study and how its conclusions may impact different groups.
 
@@ -244,7 +244,7 @@ To critically evaluate a source for quality and credibility, consider the follow
 **Watch** the following videos:
 
 -   "Assessing Online Resources" from the [TWU Library](https://www.twu.ca/academics/library){target="_blank"} 
--   "Evaluating a Journal Article" from the [JCU Library](https://www.youtube.com/@jculibrary1){target="_blank"} (2017)
+-   "Evaluating a Journal Article" from the [JCU Library](https://www.youtube.com/@jculibrary1){target="_blank"} [-@jculibraryEvaluatingJournalArticle2016]
 
 ::: video-container
 {{< video https://www.youtube-nocookie.com/embed/z6dOGkpI6H4 >}}
