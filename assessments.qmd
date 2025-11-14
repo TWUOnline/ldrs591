@@ -27,7 +27,7 @@ The Moodle link above needs to be replaced.
 -->
 
 
-### Weekly Discussion Forums (20%) {.unnumbered}
+## Weekly Discussion Forums (20%) {.unnumbered}
 
 Submit your Discussion Forum posts and replies below.
 
@@ -41,7 +41,7 @@ Submit your Discussion Forum posts and replies below.
 | Posted on time       | 0.5                 |
 | **Total**            | **4.0**             |
 
-#### Week 1 Discussion Forum {.unnumbered}
+## Week 1 Discussion Forum {.unnumbered}
 
 **Instructions**
 
@@ -56,8 +56,18 @@ After completing the learning activities in this unit, respond to the prompt(s) 
 3.  Next, review the Wallace, J. R. (2007). *Servant leadership: A worldview perspective* and then respond to the following questions:
     -   What is your worldview (perspective)?
     -   How do you base decisions on this worldview?
+  
+**Discussion Grading Rubric**
 
-#### Week 2 Discussion Forum {.unnumbered}
+| **Description**      | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post         | 1.5                 |
+| 2 response posts     | 1.5                 |
+| At least 1 reference | 0.5                 |
+| Posted on time       | 0.5                 |
+| **Total**            | **4.0**             |
+
+## Week 2 Discussion Forum {.unnumbered}
 
 **Instructions**
 
@@ -67,8 +77,18 @@ After completing the learning activities in this unit, respond to the prompt(s) 
 
 1.  **Reflect on Methodologies**: Based on your understanding of the three research methodologies (quantitative, qualitative, and mixed methods), discuss which methodology you believe is most effective for studying leadership practices. Provide reasons for your choice, citing specific examples from the readings.
 2.  **Literature Reviews**: Compare and contrast traditional literature reviews with systematic literature reviews. What are the key differences in their purposes and methodologies, and why do you think these differences matter in leadership research?
+  
+**Discussion Grading Rubric**
 
-#### Week 3 Discussion Forum {.unnumbered}
+| **Description**      | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post         | 1.5                 |
+| 2 response posts     | 1.5                 |
+| At least 1 reference | 0.5                 |
+| Posted on time       | 0.5                 |
+| **Total**            | **4.0**             |
+
+## Week 3 Discussion Forum {.unnumbered}
 
 **Instructions**
 
@@ -81,8 +101,18 @@ In Unit 3, we focused on the critical steps involved in developing a research qu
 1.  **Establishing Purpose**: Reflect on the importance of establishing a clear purpose in your research. How does understanding your personal and professional leadership goals shape the way you approach your research topic? Provide specific examples of how your values or experiences have influenced your research interests.
 2.  **Servant Leadership Connection**: Discuss how servant leadership characteristics resonate with your research interests. Which specific servant leadership characteristics do you believe are most relevant to your research topic, and why? Explain how these characteristics align with your purpose and can enhance your inquiry.
 3.  **Drafting a Research Question**: Based on your reflections, draft a potential research question that you would like to pursue for your capstone project. Ensure that your question is clear, relevant, and researchable. Briefly share the rationale behind your choice and discuss why this topic is significant to you.
+  
+**Discussion Grading Rubric**
 
-#### Week 4 Discussion Forum {.unnumbered}
+| **Description**      | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post         | 1.5                 |
+| 2 response posts     | 1.5                 |
+| At least 1 reference | 0.5                 |
+| Posted on time       | 0.5                 |
+| **Total**            | **4.0**             |
+
+## Week 4 Discussion Forum {.unnumbered}
 
 **Instructions**
 
@@ -94,14 +124,34 @@ In Unit 4, we explored the process of accessing and evaluating scholarly literat
 
 1.  Use search strategies to locate a **qualitative** article based on your topic of research interest. Share what key search terms, library, and databases you used to locate the article.
 2.  Evaluate the credibility and reliability of the article you found based on authority, currency, purpose, content, publication type/process, and bias/special interests.
+  
+**Discussion Grading Rubric**
 
-#### Week 5 Discussion Forum {.unnumbered}
+| **Description**      | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post         | 1.5                 |
+| 2 response posts     | 1.5                 |
+| At least 1 reference | 0.5                 |
+| Posted on time       | 0.5                 |
+| **Total**            | **4.0**             |
+
+## Week 5 Discussion Forum {.unnumbered}
 
 For this week’s Discussion, post a rough draft of your scoping review. Even if your draft is not complete, post what you have.
 
 Give at least 2 classmates constructive feedback to help them improve their work.
 
 Post your initial draft by Saturday at Midnight, and your follow up posts by Monday at Midnight.
+  
+**Discussion Grading Rubric**
+
+| **Description**      | **Possible Points** |
+|----------------------|---------------------|
+| Initial Post         | 1.5                 |
+| 2 response posts     | 1.5                 |
+| At least 1 reference | 0.5                 |
+| Posted on time       | 0.5                 |
+| **Total**            | **4.0**             |
 
 ## Assignments (80%)
 
